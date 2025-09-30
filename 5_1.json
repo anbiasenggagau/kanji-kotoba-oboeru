@@ -1,0 +1,427 @@
+[
+    {
+        "kanji": "先生",
+        "hiragana": "せんせい",
+        "meaning": "Guru"
+    },
+    {
+        "kanji": "学生",
+        "hiragana": "がくせい",
+        "meaning": "Pelajar"
+    },
+    {
+        "kanji": "生徒",
+        "hiragana": "せいと",
+        "meaning": "Siswa"
+    },
+    {
+        "kanji": "酒",
+        "hiragana": "さけ",
+        "meaning": "Miras"
+    },
+    {
+        "kanji": "会社員",
+        "hiragana": "かいしゃいん",
+        "meaning": "Karyawan"
+    },
+    {
+        "kanji": "銀行",
+        "hiragana": "ぎんこう",
+        "meaning": "Bank"
+    },
+    {
+        "kanji": "医者",
+        "hiragana": "いしゃ",
+        "meaning": "Dokter"
+    },
+    {
+        "kanji": "大学",
+        "hiragana": "だいがく",
+        "meaning": "Universitas"
+    },
+    {
+        "kanji": "昼休み",
+        "hiragana": "ひるやすみ",
+        "meaning": "Istirahat siang"
+    },
+    {
+        "kanji": "辞書",
+        "hiragana": "じしょ",
+        "meaning": "Kamus"
+    },
+    {
+        "kanji": "雑誌",
+        "hiragana": "ざっし",
+        "meaning": "Majalah"
+    },
+    {
+        "kanji": "新聞",
+        "hiragana": "しんぶん",
+        "meaning": "Koran"
+    },
+    {
+        "kanji": "手帳",
+        "hiragana": "てちょう",
+        "meaning": "Buku catatan"
+    },
+    {
+        "kanji": "名刺",
+        "hiragana": "めいし",
+        "meaning": "Kartu Nama"
+    },
+    {
+        "kanji": "鉛筆",
+        "hiragana": "えんぴつ",
+        "meaning": "Pensil"
+    },
+    {
+        "kanji": "時計",
+        "hiragana": "とけい",
+        "meaning": "Jam"
+    },
+    {
+        "kanji": "傘",
+        "hiragana": "かさ",
+        "meaning": "Payung"
+    },
+    {
+        "kanji": "机",
+        "hiragana": "つくえ",
+        "meaning": "Meja"
+    },
+    {
+        "kanji": "英語",
+        "hiragana": "えいご",
+        "meaning": "Bahasa Inggris"
+    },
+    {
+        "kanji": "日本語",
+        "hiragana": "にほんご",
+        "meaning": "Bahasa Jepang"
+    },
+    {
+        "kanji": "教室",
+        "hiragana": "きょうしつ",
+        "meaning": "Ruang kelas"
+    },
+    {
+        "kanji": "食堂",
+        "hiragana": "しょくどう",
+        "meaning": "Ruang makan"
+    },
+    {
+        "kanji": "事務所",
+        "hiragana": "じむしょ",
+        "meaning": "Kantor"
+    },
+    {
+        "kanji": "電話",
+        "hiragana": "でんわ",
+        "meaning": "Telepon"
+    },
+    {
+        "kanji": "靴",
+        "hiragana": "くつ",
+        "meaning": "Sepatu"
+    },
+    {
+        "kanji": "起きる",
+        "hiragana": "おきる",
+        "meaning": "Bangun"
+    },
+    {
+        "kanji": "宿題",
+        "hiragana": "しゅくだい",
+        "meaning": "Pekerjaan rumah"
+    },
+    {
+        "kanji": "月曜日",
+        "hiragana": "げつようび",
+        "meaning": "Senin"
+    },
+    {
+        "kanji": "火曜日",
+        "hiragana": "かようび",
+        "meaning": "Selasa"
+    },
+    {
+        "kanji": "水曜日",
+        "hiragana": "すいようび",
+        "meaning": "Rabu"
+    },
+    {
+        "kanji": "木曜日",
+        "hiragana": "もくようび",
+        "meaning": "Kamis"
+    },
+    {
+        "kanji": "金曜日",
+        "hiragana": "きんようび",
+        "meaning": "Jumat"
+    },
+    {
+        "kanji": "土曜日",
+        "hiragana": "どようび",
+        "meaning": "Sabtu"
+    },
+    {
+        "kanji": "日曜日",
+        "hiragana": "にちようび",
+        "meaning": "Minggu"
+    },
+    {
+        "kanji": "午前",
+        "hiragana": "ごぜん",
+        "meaning": "Pagi (AM)"
+    },
+    {
+        "kanji": "働く",
+        "hiragana": "はたらく",
+        "meaning": "Bekerja"
+    },
+    {
+        "kanji": "寝る",
+        "hiragana": "ねる",
+        "meaning": "Tidur"
+    },
+    {
+        "kanji": "勉強する",
+        "hiragana": "べんきょうする",
+        "meaning": "Belajar"
+    },
+    {
+        "kanji": "終わる",
+        "hiragana": "おわる",
+        "meaning": "Selesai"
+    },
+    {
+        "kanji": "分",
+        "hiragana": "ふん",
+        "meaning": "Menit"
+    },
+    {
+        "kanji": "朝",
+        "hiragana": "あさ",
+        "meaning": "Pagi"
+    },
+    {
+        "kanji": "昼",
+        "hiragana": "ひる",
+        "meaning": "Siang"
+    },
+    {
+        "kanji": "夜",
+        "hiragana": "よる",
+        "meaning": "Malam"
+    },
+    {
+        "kanji": "晩",
+        "hiragana": "ばん",
+        "meaning": "Malam (larut)"
+    },
+    {
+        "kanji": "試験",
+        "hiragana": "しけん",
+        "meaning": "Ujian"
+    },
+    {
+        "kanji": "帰る",
+        "hiragana": "かえる",
+        "meaning": "Pulang"
+    },
+    {
+        "kanji": "映画",
+        "hiragana": "えいが",
+        "meaning": "Film"
+    },
+    {
+        "kanji": "写真",
+        "hiragana": "しゃしん",
+        "meaning": "Foto"
+    },
+    {
+        "kanji": "船",
+        "hiragana": "ふね",
+        "meaning": "Kapal"
+    },
+    {
+        "kanji": "電車",
+        "hiragana": "でんしゃ",
+        "meaning": "Kereta"
+    },
+    {
+        "kanji": "自転車",
+        "hiragana": "じてんしゃ",
+        "meaning": "Sepeda"
+    },
+    {
+        "kanji": "歩く",
+        "hiragana": "あるく",
+        "meaning": "Berjalan"
+    },
+    {
+        "kanji": "彼",
+        "hiragana": "かれ",
+        "meaning": "Dia (laki-laki)"
+    },
+    {
+        "kanji": "彼女",
+        "hiragana": "かのじょ",
+        "meaning": "Dia (perempuan)"
+    },
+    {
+        "kanji": "家族",
+        "hiragana": "かぞく",
+        "meaning": "Keluarga"
+    },
+    {
+        "kanji": "去年",
+        "hiragana": "きょねん",
+        "meaning": "Tahun lalu"
+    },
+    {
+        "kanji": "今年",
+        "hiragana": "ことし",
+        "meaning": "Tahun ini"
+    },
+    {
+        "kanji": "来年",
+        "hiragana": "らいねん",
+        "meaning": "Tahun depan"
+    },
+    {
+        "kanji": "毎年",
+        "hiragana": "まいとし",
+        "meaning": "Setiap tahun"
+    },
+    {
+        "kanji": "先月",
+        "hiragana": "せんげつ",
+        "meaning": "Bulan lalu"
+    },
+    {
+        "kanji": "今月",
+        "hiragana": "こんげつ",
+        "meaning": "Bulan ini"
+    },
+    {
+        "kanji": "来月",
+        "hiragana": "らいげつ",
+        "meaning": "Bulan depan"
+    },
+    {
+        "kanji": "毎月",
+        "hiragana": "まいつき",
+        "meaning": "Setiap bulan"
+    },
+    {
+        "kanji": "先週",
+        "hiragana": "せんしゅう",
+        "meaning": "Minggu lalu"
+    },
+    {
+        "kanji": "今週",
+        "hiragana": "こんしゅう",
+        "meaning": "Minggu ini"
+    },
+    {
+        "kanji": "来週",
+        "hiragana": "らいしゅう",
+        "meaning": "Minggu depan"
+    },
+    {
+        "kanji": "毎週",
+        "hiragana": "まいしゅう",
+        "meaning": "Setiap minggu"
+    },
+    {
+        "kanji": "誕生日",
+        "hiragana": "たんじょうび",
+        "meaning": "Hari ulang tahun"
+    },
+    {
+        "kanji": "吸う",
+        "hiragana": "すう",
+        "meaning": "Menghisap / Merokok"
+    },
+    {
+        "kanji": "撮る",
+        "hiragana": "とる",
+        "meaning": "Mengambil (foto)"
+    },
+    {
+        "kanji": "卵",
+        "hiragana": "たまご",
+        "meaning": "Telur"
+    },
+    {
+        "kanji": "牛乳",
+        "hiragana": "ぎゅうにゅう",
+        "meaning": "Susu sapi"
+    },
+    {
+        "kanji": "紅茶",
+        "hiragana": "こうちゃ",
+        "meaning": "Teh hitam"
+    },
+    {
+        "kanji": "お茶",
+        "hiragana": "おちゃ",
+        "meaning": "Teh (hijau)"
+    },
+    {
+        "kanji": "果物",
+        "hiragana": "くだもの",
+        "meaning": "Buah-buahan"
+    },
+    {
+        "kanji": "野菜",
+        "hiragana": "やさい",
+        "meaning": "Sayuran"
+    },
+    {
+        "kanji": "肉",
+        "hiragana": "にく",
+        "meaning": "Daging"
+    },
+    {
+        "kanji": "捨てる",
+        "hiragana": "すてる",
+        "meaning": "Membuang"
+    },
+    {
+        "kanji": "集める",
+        "hiragana": "あつめる",
+        "meaning": "Mengumpulkan"
+    },
+    {
+        "kanji": "歌う",
+        "hiragana": "うたう",
+        "meaning": "Bernyanyi"
+    },
+    {
+        "kanji": "弾く",
+        "hiragana": "ひく",
+        "meaning": "Memainkan (alat musik)"
+    },
+    {
+        "kanji": "洗う",
+        "hiragana": "あらう",
+        "meaning": "Mencuci"
+    },
+    {
+        "kanji": "下着",
+        "hiragana": "したぎ",
+        "meaning": "Pakaian dalam"
+    },
+    {
+        "kanji": "友達",
+        "hiragana": "ともだち",
+        "meaning": "Teman"
+    },
+    {
+        "kanji": "目",
+        "hiragana": "め",
+        "meaning": "Mata"
+    }
+]
