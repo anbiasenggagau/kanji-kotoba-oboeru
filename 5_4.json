@@ -1,0 +1,397 @@
+[
+    {
+        "kanji": "意味",
+        "hiragana": "いみ",
+        "meaning": "Arti / Makna"
+    },
+    {
+        "kanji": "億",
+        "hiragana": "おく",
+        "meaning": "100 juta"
+    },
+    {
+        "kanji": "田舎",
+        "hiragana": "いなか",
+        "meaning": "Kampung / Desa"
+    },
+    {
+        "kanji": "足りる",
+        "hiragana": "たりる",
+        "meaning": "Cukup"
+    },
+    {
+        "kanji": "着く",
+        "hiragana": "つく",
+        "meaning": "Tiba / Sampai"
+    },
+    {
+        "kanji": "考える",
+        "hiragana": "かんがえる",
+        "meaning": "Berpikir / Mempertimbangkan"
+    },
+    {
+        "kanji": "自分で",
+        "hiragana": "じぶんで",
+        "meaning": "Sendiri"
+    },
+    {
+        "kanji": "準備",
+        "hiragana": "じゅんび",
+        "meaning": "Persiapan"
+    },
+    {
+        "kanji": "説明する",
+        "hiragana": "せつめいする",
+        "meaning": "Menjelaskan"
+    },
+    {
+        "kanji": "送る",
+        "hiragana": "おくる",
+        "meaning": "Mengirim / Mengantar"
+    },
+    {
+        "kanji": "連れて来る",
+        "hiragana": "つれてくる",
+        "meaning": "Membawa datang"
+    },
+    {
+        "kanji": "連れて行く",
+        "hiragana": "つれていく",
+        "meaning": "Mengajak pergi"
+    },
+    {
+        "kanji": "直す",
+        "hiragana": "なおす",
+        "meaning": "Memperbaiki"
+    },
+    {
+        "kanji": "～目",
+        "hiragana": "～め",
+        "meaning": "Yang ke- (urutan)"
+    },
+    {
+        "kanji": "何回も",
+        "hiragana": "なんかいも",
+        "meaning": "Berkali-kali"
+    },
+    {
+        "kanji": "駐車場",
+        "hiragana": "ちゅうしゃじょう",
+        "meaning": "Tempat parkir"
+    },
+    {
+        "kanji": "建物",
+        "hiragana": "たてもの",
+        "meaning": "Gedung / Bangunan"
+    },
+    {
+        "kanji": "橋",
+        "hiragana": "はし",
+        "meaning": "Jembatan"
+    },
+    {
+        "kanji": "角",
+        "hiragana": "かど",
+        "meaning": "Pojok / Sudut"
+    },
+    {
+        "kanji": "信号",
+        "hiragana": "しんごう",
+        "meaning": "Lampu lalu lintas"
+    },
+    {
+        "kanji": "交差点",
+        "hiragana": "こうさてん",
+        "meaning": "Perempatan"
+    },
+    {
+        "kanji": "故障",
+        "hiragana": "こしょう",
+        "meaning": "Kerusakan"
+    },
+    {
+        "kanji": "音",
+        "hiragana": "おと",
+        "meaning": "Suara / Bunyi"
+    },
+    {
+        "kanji": "お湯",
+        "hiragana": "おゆ",
+        "meaning": "Air panas"
+    },
+    {
+        "kanji": "寂しい",
+        "hiragana": "さびしい",
+        "meaning": "Kesepian"
+    },
+    {
+        "kanji": "曲がる",
+        "hiragana": "まがる",
+        "meaning": "Belok"
+    },
+    {
+        "kanji": "渡る",
+        "hiragana": "わたる",
+        "meaning": "Menyebrang"
+    },
+    {
+        "kanji": "触る",
+        "hiragana": "さわる",
+        "meaning": "Menyentuh"
+    },
+    {
+        "kanji": "換える",
+        "hiragana": "かえる",
+        "meaning": "Menukar / Mengganti"
+    },
+    {
+        "kanji": "引く",
+        "hiragana": "ひく",
+        "meaning": "Menarik / Mengurangi"
+    },
+    {
+        "kanji": "回る",
+        "hiragana": "まわる",
+        "meaning": "Berkeliling / Berputar"
+    },
+    {
+        "kanji": "費用",
+        "hiragana": "ひよう",
+        "meaning": "Biaya"
+    },
+    {
+        "kanji": "都合",
+        "hiragana": "つごう",
+        "meaning": "Keadaan / Kesempatan"
+    },
+    {
+        "kanji": "弁当",
+        "hiragana": "べんとう",
+        "meaning": "Bekal makan"
+    },
+    {
+        "kanji": "眼鏡",
+        "hiragana": "めがね",
+        "meaning": "Kacamata"
+    },
+    {
+        "kanji": "帽子",
+        "hiragana": "ぼうし",
+        "meaning": "Topi"
+    },
+    {
+        "kanji": "着る",
+        "hiragana": "きる",
+        "meaning": "Memakai (baju)"
+    },
+    {
+        "kanji": "最近",
+        "hiragana": "さいきん",
+        "meaning": "Akhir-akhir ini"
+    },
+    {
+        "kanji": "意見",
+        "hiragana": "いけん",
+        "meaning": "Pendapat"
+    },
+    {
+        "kanji": "試合",
+        "hiragana": "しあい",
+        "meaning": "Pertandingan"
+    },
+    {
+        "kanji": "天才",
+        "hiragana": "てんさい",
+        "meaning": "Jenius"
+    },
+    {
+        "kanji": "夢",
+        "hiragana": "ゆめ",
+        "meaning": "Mimpi"
+    },
+    {
+        "kanji": "物価",
+        "hiragana": "ぶっか",
+        "meaning": "Harga-harga (biaya hidup)"
+    },
+    {
+        "kanji": "交通",
+        "hiragana": "こうつう",
+        "meaning": "Lalu lintas"
+    },
+    {
+        "kanji": "自動車",
+        "hiragana": "じどうしゃ",
+        "meaning": "Mobil"
+    },
+    {
+        "kanji": "不便",
+        "hiragana": "ふべん",
+        "meaning": "Tidak praktis / Merepotkan"
+    },
+    {
+        "kanji": "気を付ける",
+        "hiragana": "きをつける",
+        "meaning": "Berhati-hati"
+    },
+    {
+        "kanji": "動く",
+        "hiragana": "うごく",
+        "meaning": "Bergerak"
+    },
+    {
+        "kanji": "役に立つ",
+        "hiragana": "やくにたつ",
+        "meaning": "Bermanfaat"
+    },
+    {
+        "kanji": "負ける",
+        "hiragana": "まける",
+        "meaning": "Kalah"
+    },
+    {
+        "kanji": "勝つ",
+        "hiragana": "かつ",
+        "meaning": "Menang"
+    },
+    {
+        "kanji": "思う",
+        "hiragana": "おもう",
+        "meaning": "Berpikir / Mengira"
+    },
+    {
+        "kanji": "着物",
+        "hiragana": "きもの",
+        "meaning": "Kimono"
+    },
+    {
+        "kanji": "君",
+        "hiragana": "きみ",
+        "meaning": "Kamu (akrab)"
+    },
+    {
+        "kanji": "僕",
+        "hiragana": "ぼく",
+        "meaning": "Saya (pria, santai)"
+    },
+    {
+        "kanji": "修理する",
+        "hiragana": "しゅうりする",
+        "meaning": "Memperbaiki"
+    },
+    {
+        "kanji": "調べる",
+        "hiragana": "しらべる",
+        "meaning": "Menyelidiki / Mencari tahu"
+    },
+    {
+        "kanji": "要る",
+        "hiragana": "いる",
+        "meaning": "Perlu / Membutuhkan"
+    },
+    {
+        "kanji": "調子",
+        "hiragana": "ちょうし",
+        "meaning": "Kondisi / Suasana"
+    },
+    {
+        "kanji": "練習",
+        "hiragana": "れんしゅう",
+        "meaning": "Latihan"
+    },
+    {
+        "kanji": "弱い",
+        "hiragana": "よわい",
+        "meaning": "Lemah"
+    },
+    {
+        "kanji": "強い",
+        "hiragana": "つよい",
+        "meaning": "Kuat"
+    },
+    {
+        "kanji": "眠い",
+        "hiragana": "ねむい",
+        "meaning": "Mengantuk"
+    },
+    {
+        "kanji": "洗濯する",
+        "hiragana": "せんたくする",
+        "meaning": "Mencuci (pakaian)"
+    },
+    {
+        "kanji": "掃除する",
+        "hiragana": "そうじする",
+        "meaning": "Membersihkan"
+    },
+    {
+        "kanji": "泊まる",
+        "hiragana": "とまる",
+        "meaning": "Menginap"
+    },
+    {
+        "kanji": "登る",
+        "hiragana": "のぼる",
+        "meaning": "Mendaki / Naik"
+    },
+    {
+        "kanji": "馬",
+        "hiragana": "うま",
+        "meaning": "Kuda"
+    },
+    {
+        "kanji": "動物",
+        "hiragana": "どうぶつ",
+        "meaning": "Hewan"
+    },
+    {
+        "kanji": "社長",
+        "hiragana": "しゃちょう",
+        "meaning": "Direktur utama"
+    },
+    {
+        "kanji": "部長",
+        "hiragana": "ぶちょう",
+        "meaning": "Kepala divisi"
+    },
+    {
+        "kanji": "象",
+        "hiragana": "ぞう",
+        "meaning": "Gajah"
+    },
+    {
+        "kanji": "払う",
+        "hiragana": "はらう",
+        "meaning": "Membayar"
+    },
+    {
+        "kanji": "忘れる",
+        "hiragana": "わすれる",
+        "meaning": "Lupa"
+    },
+    {
+        "kanji": "覚える",
+        "hiragana": "おぼえる",
+        "meaning": "Menghafal / Mengingat"
+    },
+    {
+        "kanji": "曇り",
+        "hiragana": "くもり",
+        "meaning": "Mendung"
+    },
+    {
+        "kanji": "海",
+        "hiragana": "うみ",
+        "meaning": "Laut"
+    },
+    {
+        "kanji": "名前",
+        "hiragana": "なまえ",
+        "meaning": "Nama"
+    },
+    {
+        "kanji": "万",
+        "hiragana": "まん",
+        "meaning": "Sepuluh ribu"
+    }
+]
