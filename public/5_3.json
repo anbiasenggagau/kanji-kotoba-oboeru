@@ -1,0 +1,402 @@
+[
+    {
+        "kanji": "遊ぶ",
+        "hiragana": "あそぶ",
+        "meaning": "Bermain"
+    },
+    {
+        "kanji": "泳ぐ",
+        "hiragana": "およぐ",
+        "meaning": "Berenang"
+    },
+    {
+        "kanji": "迎える",
+        "hiragana": "むかえる",
+        "meaning": "Menyambut"
+    },
+    {
+        "kanji": "結婚する",
+        "hiragana": "けっこんする",
+        "meaning": "Menikah"
+    },
+    {
+        "kanji": "買い物する",
+        "hiragana": "かいものする",
+        "meaning": "Berbelanja"
+    },
+    {
+        "kanji": "疲れる",
+        "hiragana": "つかれる",
+        "meaning": "Lelah"
+    },
+    {
+        "kanji": "食事する",
+        "hiragana": "しょくじする",
+        "meaning": "Makan"
+    },
+    {
+        "kanji": "散歩する",
+        "hiragana": "さんぽする",
+        "meaning": "Berjalan-jalan"
+    },
+    {
+        "kanji": "大変",
+        "hiragana": "たいへん",
+        "meaning": "Sulit / Berat"
+    },
+    {
+        "kanji": "欲しい",
+        "hiragana": "ほしい",
+        "meaning": "Ingin / Menginginkan"
+    },
+    {
+        "kanji": "広い",
+        "hiragana": "ひろい",
+        "meaning": "Luas"
+    },
+    {
+        "kanji": "狭い",
+        "hiragana": "せまい",
+        "meaning": "Sempit"
+    },
+    {
+        "kanji": "釣り",
+        "hiragana": "つり",
+        "meaning": "Memancing"
+    },
+    {
+        "kanji": "消す",
+        "hiragana": "けす",
+        "meaning": "Memadamkan / Mematikan"
+    },
+    {
+        "kanji": "開ける",
+        "hiragana": "あける",
+        "meaning": "Membuka"
+    },
+    {
+        "kanji": "閉める",
+        "hiragana": "しめる",
+        "meaning": "Menutup"
+    },
+    {
+        "kanji": "急ぐ",
+        "hiragana": "いそぐ",
+        "meaning": "Bergegas"
+    },
+    {
+        "kanji": "待つ",
+        "hiragana": "まつ",
+        "meaning": "Menunggu"
+    },
+    {
+        "kanji": "持つ",
+        "hiragana": "もつ",
+        "meaning": "Memegang / Membawa"
+    },
+    {
+        "kanji": "取る",
+        "hiragana": "とる",
+        "meaning": "Mengambil"
+    },
+    {
+        "kanji": "手伝う",
+        "hiragana": "てつだう",
+        "meaning": "Membantu"
+    },
+    {
+        "kanji": "呼ぶ",
+        "hiragana": "よぶ",
+        "meaning": "Memanggil"
+    },
+    {
+        "kanji": "使う",
+        "hiragana": "つかう",
+        "meaning": "Menggunakan"
+    },
+    {
+        "kanji": "止まる",
+        "hiragana": "とまる",
+        "meaning": "Berhenti"
+    },
+    {
+        "kanji": "高校",
+        "hiragana": "こうこう",
+        "meaning": "SMA (Sekolah Menengah Atas)"
+    },
+    {
+        "kanji": "歯医者",
+        "hiragana": "はいしゃ",
+        "meaning": "Dokter gigi"
+    },
+    {
+        "kanji": "独身",
+        "hiragana": "どくしん",
+        "meaning": "Lajang / Belum menikah"
+    },
+    {
+        "kanji": "製品",
+        "hiragana": "せいひん",
+        "meaning": "Produk / Barang jadi"
+    },
+    {
+        "kanji": "乗る",
+        "hiragana": "のる",
+        "meaning": "Naik (kendaraan)"
+    },
+    {
+        "kanji": "降りる",
+        "hiragana": "おりる",
+        "meaning": "Turun (kendaraan)"
+    },
+    {
+        "kanji": "知る",
+        "hiragana": "しる",
+        "meaning": "Mengetahui"
+    },
+    {
+        "kanji": "住む",
+        "hiragana": "すむ",
+        "meaning": "Tinggal / Bermukim"
+    },
+    {
+        "kanji": "研究する",
+        "hiragana": "けんきゅうする",
+        "meaning": "Meneliti"
+    },
+    {
+        "kanji": "資料",
+        "hiragana": "しりょう",
+        "meaning": "Data / Bahan / Dokumen"
+    },
+    {
+        "kanji": "時刻表",
+        "hiragana": "じこくひょう",
+        "meaning": "Jadwal (kereta/bus)"
+    },
+    {
+        "kanji": "服",
+        "hiragana": "ふく",
+        "meaning": "Pakaian"
+    },
+    {
+        "kanji": "問題",
+        "hiragana": "もんだい",
+        "meaning": "Masalah / Soal"
+    },
+    {
+        "kanji": "答え",
+        "hiragana": "こたえ",
+        "meaning": "Jawaban"
+    },
+    {
+        "kanji": "方",
+        "hiragana": "かた",
+        "meaning": "Orang (bentuk sopan) / Arah"
+    },
+    {
+        "kanji": "置く",
+        "hiragana": "おく",
+        "meaning": "Meletakkan"
+    },
+    {
+        "kanji": "作る",
+        "hiragana": "つくる",
+        "meaning": "Membuat"
+    },
+    {
+        "kanji": "売る",
+        "hiragana": "うる",
+        "meaning": "Menjual"
+    },
+    {
+        "kanji": "見せる",
+        "hiragana": "みせる",
+        "meaning": "Memperlihatkan"
+    },
+    {
+        "kanji": "座る",
+        "hiragana": "すわる",
+        "meaning": "Duduk"
+    },
+    {
+        "kanji": "住所",
+        "hiragana": "じゅうしょ",
+        "meaning": "Alamat"
+    },
+    {
+        "kanji": "地図",
+        "hiragana": "ちず",
+        "meaning": "Peta"
+    },
+    {
+        "kanji": "塩",
+        "hiragana": "しお",
+        "meaning": "Garam"
+    },
+    {
+        "kanji": "砂糖",
+        "hiragana": "さとう",
+        "meaning": "Gula"
+    },
+    {
+        "kanji": "乗り換える",
+        "hiragana": "のりかえる",
+        "meaning": "Transit / Pindah kendaraan"
+    },
+    {
+        "kanji": "浴びる",
+        "hiragana": "あびる",
+        "meaning": "Mandi / Terkena (cahaya, air)"
+    },
+    {
+        "kanji": "入れる",
+        "hiragana": "いれる",
+        "meaning": "Memasukkan"
+    },
+    {
+        "kanji": "出す",
+        "hiragana": "だす",
+        "meaning": "Mengeluarkan / Mengirim"
+    },
+    {
+        "kanji": "押す",
+        "hiragana": "おす",
+        "meaning": "Menekan / Mendorong"
+    },
+    {
+        "kanji": "始める",
+        "hiragana": "はじめる",
+        "meaning": "Memulai"
+    },
+    {
+        "kanji": "見学する",
+        "hiragana": "けんがくする",
+        "meaning": "Studi kunjungan / Observasi"
+    },
+    {
+        "kanji": "若い",
+        "hiragana": "わかい",
+        "meaning": "Muda"
+    },
+    {
+        "kanji": "短い",
+        "hiragana": "みじかい",
+        "meaning": "Pendek"
+    },
+    {
+        "kanji": "暗い",
+        "hiragana": "くらい",
+        "meaning": "Gelap"
+    },
+    {
+        "kanji": "体",
+        "hiragana": "からだ",
+        "meaning": "Badan / Tubuh"
+    },
+    {
+        "kanji": "頭",
+        "hiragana": "あたま",
+        "meaning": "Kepala"
+    },
+    {
+        "kanji": "髪",
+        "hiragana": "かみ",
+        "meaning": "Rambut"
+    },
+    {
+        "kanji": "顔",
+        "hiragana": "かお",
+        "meaning": "Wajah"
+    },
+    {
+        "kanji": "鼻",
+        "hiragana": "はな",
+        "meaning": "Hidung"
+    },
+    {
+        "kanji": "背",
+        "hiragana": "せ",
+        "meaning": "Punggung / Tinggi badan"
+    },
+    {
+        "kanji": "歯",
+        "hiragana": "は",
+        "meaning": "Gigi"
+    },
+    {
+        "kanji": "課長",
+        "hiragana": "かちょう",
+        "meaning": "Kepala seksi / Kepala bagian"
+    },
+    {
+        "kanji": "お祈り",
+        "hiragana": "おいのり",
+        "meaning": "Doa"
+    },
+    {
+        "kanji": "日記",
+        "hiragana": "にっき",
+        "meaning": "Buku harian"
+    },
+    {
+        "kanji": "趣味",
+        "hiragana": "しゅみ",
+        "meaning": "Hobi"
+    },
+    {
+        "kanji": "現金",
+        "hiragana": "げんきん",
+        "meaning": "Uang tunai"
+    },
+    {
+        "kanji": "予約する",
+        "hiragana": "よやくする",
+        "meaning": "Memesan / Reservasi"
+    },
+    {
+        "kanji": "運転する",
+        "hiragana": "うんてんする",
+        "meaning": "Menyetir"
+    },
+    {
+        "kanji": "大切",
+        "hiragana": "たいせつ",
+        "meaning": "Penting / Berharga"
+    },
+    {
+        "kanji": "世界",
+        "hiragana": "せかい",
+        "meaning": "Dunia"
+    },
+    {
+        "kanji": "手紙",
+        "hiragana": "てがみ",
+        "meaning": "Surat"
+    },
+    {
+        "kanji": "心配する",
+        "hiragana": "しんぱいする",
+        "meaning": "Khawatir"
+    },
+    {
+        "kanji": "脱ぐ",
+        "hiragana": "ぬぐ",
+        "meaning": "Melepas (pakaian, sepatu)"
+    },
+    {
+        "kanji": "出かける",
+        "hiragana": "でかける",
+        "meaning": "Pergi keluar"
+    },
+    {
+        "kanji": "話す",
+        "hiragana": "はなす",
+        "meaning": "Berbicara"
+    },
+    {
+        "kanji": "来る",
+        "hiragana": "くる",
+        "meaning": "Datang"
+    }
+]
