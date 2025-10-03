@@ -1,13 +1,14 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
-import { resultStore } from '../stores/result';
+import { kanjiStore, resultStore } from '../stores/result';
 import type { KanjiType } from '../type';
 import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
 
 const resultData = resultStore()
+const kanjiJsonData = kanjiStore()
 const routeOpt = useRouter()
 
 const loading = ref(true)
@@ -83,11 +84,7 @@ function revealAnswerEvent(e: KeyboardEvent) {
 
 async function initData() {
     const files = [
-        "/5_1.json",
-        "/5_2.json",
-        "/5_3.json",
-        "/5_4.json",
-        "/5_5.json",
+        ...kanjiJsonData.data
     ]
     const results = await Promise.all(
         files.map(file => fetch(file).then(r => r.json()))

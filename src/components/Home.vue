@@ -1,0 +1,131 @@
+<script setup lang="ts">
+import { ref } from "vue";
+import { useRouter } from "vue-router";
+import { kanjiStore } from "../stores/result";
+import Button from '../volt/Button.vue';
+import Card from '../volt/Card.vue';
+import SecondaryButton from '../volt/SecondaryButton.vue';
+import Alert from "./Alert.vue";
+
+const kanjiData = kanjiStore()
+const routerOpt = useRouter()
+kanjiData.clearData()
+
+const alertRef = ref<InstanceType<typeof Alert> | null>(null)
+const selectedLevel = ref<string>("N5")
+const selectedAll = ref(false)
+const selectedVolumes = ref<Record<string, number[]>>({
+    N5: [],
+    N4: [],
+    N3: [],
+})
+
+// available volumes for each level (example)
+const volumes: Record<string, number[]> = {
+    N5: [1, 2, 3, 4, 5],
+    N4: [1, 2, 3, 4, 5],
+    N3: [1, 2, 3, 4, 5, 6, 7]
+}
+
+// Helper to check if all levels have all volumes selected
+function isAllLevelsSelected() {
+    if (Object.keys(volumes).every(level =>
+        volumes[level]!.every(num => selectedVolumes.value[level]!.includes(num))
+    )) {
+        selectedAll.value = true
+    } else {
+        selectedAll.value = false
+    }
+}
+
+function chooseLevel(level: string) {
+    selectedLevel.value = level
+}
+
+function toggleVolume(vol: number) {
+    if (selectedVolumes.value[selectedLevel.value]!.includes(vol)) {
+        // Remove if selected
+        (selectedVolumes.value[selectedLevel.value]!) = selectedVolumes.value[selectedLevel.value]!.filter(v => v !== vol)
+    } else {
+        // Add if not selected
+        (selectedVolumes.value[selectedLevel.value]!).push(vol)
+    }
+    isAllLevelsSelected()
+}
+
+function arraysEqual(a: number[], b: number[]) {
+    return a.length === b.length && a.every((val, idx) => val === b[idx]);
+}
+
+function selectAllVolumes() {
+    if (arraysEqual(selectedVolumes.value[selectedLevel.value]!, volumes[selectedLevel.value]!)) {
+        selectedVolumes.value[selectedLevel.value] = [];
+    } else {
+        selectedVolumes.value[selectedLevel.value] = [...volumes[selectedLevel.value]!];
+    }
+    isAllLevelsSelected()
+}
+
+function selectAllVolumesLevel() {
+    if (selectedAll.value) {
+        selectedVolumes.value["N5"] = []
+        selectedVolumes.value["N4"] = []
+        selectedVolumes.value["N3"] = []
+        selectedAll.value = false
+    } else {
+        selectedVolumes.value["N5"] = [...volumes["N5"]!]
+        selectedVolumes.value["N4"] = [...volumes["N4"]!]
+        selectedVolumes.value["N3"] = [...volumes["N3"]!]
+        selectedAll.value = true
+    }
+}
+
+function startKanjiTest() {
+    const selectedKanjiVolumes = Object.entries(selectedVolumes.value)
+        .flatMap(([level, vols]) => vols.map(vol => `/${level[1]}_${vol}.json`))
+    kanjiData.setData(selectedKanjiVolumes)
+    if (selectedKanjiVolumes.length != 0)
+        routerOpt.push({ name: "test" })
+    else
+        alertRef.value?.show()
+}
+</script>
+
+<template>
+    <Alert ref="alertRef" message="Minimal pilih satu volume"></Alert>
+    <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4">
+        <img src="/logo.png" class="mb-12" alt="logo" style="transform: scale(1.5);" />
+        <SecondaryButton @click="selectAllVolumesLevel" class="text-sm md:text-lg"
+            :label="selectedAll ? 'Tidak Pilih Semua' : 'Pilih Semua'" variant="link" />
+
+        <!-- Levels -->
+        <div class="flex justify-center space-x-6">
+            <Button v-for="level in ['N5', 'N4', 'N3']" :key="level" class="text-sm md:text-lg" :label="level"
+                :variant="selectedLevel === level ? 'outlined' : 'link'" @click="chooseLevel(level)" />
+        </div>
+
+        <!-- Volumes (multi-select) -->
+        <Card v-if="selectedLevel">
+            <template #title>
+                <div class="text-base md:text-lg font-bold">
+                    Pilih Volume ({{ selectedLevel }})
+                </div>
+            </template>
+            <template #content>
+                <div class="flex flex-col justify-center items-center space-y-4">
+                    <SecondaryButton class="text-xs md:text-base"
+                        :label="arraysEqual(selectedVolumes[selectedLevel]!, volumes[selectedLevel]!) ? 'Tidak Pilih Semua' : 'Pilih Semua'"
+                        variant="link" @click="selectAllVolumes" />
+                    <div class="flex justify-center space-x-4 flex-wrap">
+                        <Button v-for="vol in volumes[selectedLevel]" :key="vol" class="text-sm md:text-base"
+                            :label="String(vol)"
+                            :variant="selectedVolumes[selectedLevel]!.includes(vol) ? 'link' : 'outlined'"
+                            @click="toggleVolume(vol)" />
+                    </div>
+                </div>
+            </template>
+        </Card>
+
+        <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
+    </div>
+</template>

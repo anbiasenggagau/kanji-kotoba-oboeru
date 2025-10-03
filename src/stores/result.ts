@@ -21,3 +21,17 @@ export const resultStore = defineStore("resultStore", {
         }
     }
 })
+
+export const kanjiStore = defineStore("kanjiList", {
+    state: () => ({
+        data: [] as string[]
+    }),
+    actions: {
+        setData(data: string[]) {
+            this.data = data
+        },
+        clearData() {
+            this.data = []
+        }
+    }
+})
