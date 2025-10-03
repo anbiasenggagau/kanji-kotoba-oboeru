@@ -1,0 +1,432 @@
+[
+    {
+        "kanji": "探す",
+        "hiragana": "さがす",
+        "meaning": "Mencari"
+    },
+    {
+        "kanji": "間に合う",
+        "hiragana": "まにあう",
+        "meaning": "Tepat waktu / sempat"
+    },
+    {
+        "kanji": "拾う",
+        "hiragana": "ひろう",
+        "meaning": "Memungut / mengambil"
+    },
+    {
+        "kanji": "連絡する",
+        "hiragana": "れんらくする",
+        "meaning": "Menghubungi"
+    },
+    {
+        "kanji": "気分がいい",
+        "hiragana": "きぶんがいい",
+        "meaning": "Perasaan baik"
+    },
+    {
+        "kanji": "気分が悪い",
+        "hiragana": "きぶんがわるい",
+        "meaning": "Perasaan buruk"
+    },
+    {
+        "kanji": "運動会",
+        "hiragana": "うんどうかい",
+        "meaning": "Lomba olahraga"
+    },
+    {
+        "kanji": "盆踊り",
+        "hiragana": "ぼんおどり",
+        "meaning": "Tarian Bon (festival Obon)"
+    },
+    {
+        "kanji": "場所",
+        "hiragana": "ばしょ",
+        "meaning": "Tempat"
+    },
+    {
+        "kanji": "財布",
+        "hiragana": "さいふ",
+        "meaning": "Dompet"
+    },
+    {
+        "kanji": "学会議事堂",
+        "hiragana": "がっかいぎじどう",
+        "meaning": "Gedung parlemen"
+    },
+    {
+        "kanji": "平日",
+        "hiragana": "へいじつ",
+        "meaning": "Hari kerja"
+    },
+    {
+        "kanji": "～弁",
+        "hiragana": "～べん",
+        "meaning": "Dialek ~"
+    },
+    {
+        "kanji": "今度",
+        "hiragana": "こんど",
+        "meaning": "Kali ini"
+    },
+    {
+        "kanji": "直接",
+        "hiragana": "ちょくせつ",
+        "meaning": "Langsung"
+    },
+    {
+        "kanji": "出す",
+        "hiragana": "だす",
+        "meaning": "Mengeluarkan"
+    },
+    {
+        "kanji": "置き場",
+        "hiragana": "おきば",
+        "meaning": "Tempat meletakkan"
+    },
+    {
+        "kanji": "横",
+        "hiragana": "よこ",
+        "meaning": "Samping / sisi"
+    },
+    {
+        "kanji": "瓶",
+        "hiragana": "びん",
+        "meaning": "Botol"
+    },
+    {
+        "kanji": "缶",
+        "hiragana": "かん",
+        "meaning": "Kaleng"
+    },
+    {
+        "kanji": "宇宙",
+        "hiragana": "うちゅう",
+        "meaning": "Luar angkasa / alam semesta"
+    },
+    {
+        "kanji": "怖い",
+        "hiragana": "こわい",
+        "meaning": "Menakutkan / takut"
+    },
+    {
+        "kanji": "違う",
+        "hiragana": "ちがう",
+        "meaning": "Berbeda / salah"
+    },
+    {
+        "kanji": "宇宙飛行士",
+        "hiragana": "うちゅうひこうし",
+        "meaning": "Astronot"
+    },
+    {
+        "kanji": "飼う",
+        "hiragana": "かう",
+        "meaning": "Memelihara"
+    },
+    {
+        "kanji": "走る",
+        "hiragana": "はしる",
+        "meaning": "Berlari"
+    },
+    {
+        "kanji": "見える",
+        "hiragana": "みえる",
+        "meaning": "Terlihat"
+    },
+    {
+        "kanji": "聞こえる",
+        "hiragana": "きこえる",
+        "meaning": "Terdengar"
+    },
+    {
+        "kanji": "開く",
+        "hiragana": "ひらく",
+        "meaning": "Membuka"
+    },
+    {
+        "kanji": "鳥",
+        "hiragana": "とり",
+        "meaning": "Burung"
+    },
+    {
+        "kanji": "声",
+        "hiragana": "こえ",
+        "meaning": "Suara"
+    },
+    {
+        "kanji": "波",
+        "hiragana": "なみ",
+        "meaning": "Ombak / gelombang"
+    },
+    {
+        "kanji": "花火",
+        "hiragana": "はなび",
+        "meaning": "Kembang api"
+    },
+    {
+        "kanji": "道具",
+        "hiragana": "どうぐ",
+        "meaning": "Alat"
+    },
+    {
+        "kanji": "家",
+        "hiragana": "いえ",
+        "meaning": "Rumah"
+    },
+    {
+        "kanji": "家具",
+        "hiragana": "かぐ",
+        "meaning": "Perabot Rumah Tangga"
+    },
+    {
+        "kanji": "本棚",
+        "hiragana": "ほんだな",
+        "meaning": "Rak buku"
+    },
+    {
+        "kanji": "建てる",
+        "hiragana": "たてる",
+        "meaning": "Membangun"
+    },
+    {
+        "kanji": "大好き",
+        "hiragana": "だいすき",
+        "meaning": "Sangat suka"
+    },
+    {
+        "kanji": "主人公",
+        "hiragana": "しゅじんこう",
+        "meaning": "Tokoh utama"
+    },
+    {
+        "kanji": "形",
+        "hiragana": "かたち",
+        "meaning": "Sosok"
+    },
+    {
+        "kanji": "不思議",
+        "hiragana": "ふしぎ",
+        "meaning": "Aneh / Misterius / Ajaib"
+    },
+    {
+        "kanji": "例えば",
+        "hiragana": "たとえば",
+        "meaning": "Misalnya"
+    },
+    {
+        "kanji": "付ける",
+        "hiragana": "つける",
+        "meaning": "Memasang"
+    },
+    {
+        "kanji": "自由に",
+        "hiragana": "じゆうに",
+        "meaning": "Dengan bebas"
+    },
+    {
+        "kanji": "自由",
+        "hiragana": "じゆう",
+        "meaning": "Kebebasan"
+    },
+    {
+        "kanji": "飛ぶ",
+        "hiragana": "とぶ",
+        "meaning": "Terbang"
+    },
+    {
+        "kanji": "昔",
+        "hiragana": "むかし",
+        "meaning": "Dahulu / dulu kala"
+    },
+    {
+        "kanji": "将来",
+        "hiragana": "しょうらい",
+        "meaning": "Masa depan"
+    },
+    {
+        "kanji": "売れる",
+        "hiragana": "うれる",
+        "meaning": "Laku terjual"
+    },
+    {
+        "kanji": "踊り",
+        "hiragana": "おどり",
+        "meaning": "Tarian"
+    },
+    {
+        "kanji": "選ぶ",
+        "hiragana": "えらぶ",
+        "meaning": "Memilih"
+    },
+    {
+        "kanji": "通う",
+        "hiragana": "かよう",
+        "meaning": "Pergi"
+    },
+    {
+        "kanji": "熱心",
+        "hiragana": "ねっしん",
+        "meaning": "Tekun"
+    },
+    {
+        "kanji": "偉い",
+        "hiragana": "えらい",
+        "meaning": "Hebat"
+    },
+    {
+        "kanji": "景色",
+        "hiragana": "けしき",
+        "meaning": "Pemandangan"
+    },
+    {
+        "kanji": "美容院",
+        "hiragana": "びよういん",
+        "meaning": "Salon Kecantikan"
+    },
+    {
+        "kanji": "台所",
+        "hiragana": "だいどころ",
+        "meaning": "Dapur"
+    },
+    {
+        "kanji": "経験",
+        "hiragana": "けいけん",
+        "meaning": "Pengalaman"
+    },
+    {
+        "kanji": "力",
+        "hiragana": "ちから",
+        "meaning": "Kekuatan"
+    },
+    {
+        "kanji": "人気",
+        "hiragana": "にんき",
+        "meaning": "Populer"
+    },
+    {
+        "kanji": "色",
+        "hiragana": "いろ",
+        "meaning": "Warna"
+    },
+    {
+        "kanji": "味",
+        "hiragana": "あじ",
+        "meaning": "Rasa"
+    },
+    {
+        "kanji": "品物",
+        "hiragana": "しなもの",
+        "meaning": "Barang"
+    },
+    {
+        "kanji": "値段",
+        "hiragana": "ねだん",
+        "meaning": "Harga"
+    },
+    {
+        "kanji": "給料",
+        "hiragana": "きゅうりょう",
+        "meaning": "Gaji"
+    },
+    {
+        "kanji": "番組",
+        "hiragana": "ばんぐみ",
+        "meaning": "Acara (TV/radio)"
+    },
+    {
+        "kanji": "歌手",
+        "hiragana": "かしゅ",
+        "meaning": "Penyanyi"
+    },
+    {
+        "kanji": "小説",
+        "hiragana": "しょうせつ",
+        "meaning": "Novel"
+    },
+    {
+        "kanji": "息子",
+        "hiragana": "むすこ",
+        "meaning": "Anak laki-laki"
+    },
+    {
+        "kanji": "娘",
+        "hiragana": "むすめ",
+        "meaning": "Anak perempuan"
+    },
+    {
+        "kanji": "会話",
+        "hiragana": "かいわ",
+        "meaning": "Percakapan"
+    },
+    {
+        "kanji": "お知らせ",
+        "hiragana": "おしらせ",
+        "meaning": "Pengumuman"
+    },
+    {
+        "kanji": "参加する",
+        "hiragana": "さんかする",
+        "meaning": "Ikut serta / berpartisipasi"
+    },
+    {
+        "kanji": "体育館",
+        "hiragana": "たいいくかん",
+        "meaning": "Gedung olahraga"
+    },
+    {
+        "kanji": "無料",
+        "hiragana": "むりょう",
+        "meaning": "Gratis"
+    },
+    {
+        "kanji": "誘う",
+        "hiragana": "さそう",
+        "meaning": "Mengajak / mengundang"
+    },
+    {
+        "kanji": "開く",
+        "hiragana": "あく",
+        "meaning": "Terbuka"
+    },
+    {
+        "kanji": "閉まる",
+        "hiragana": "しまる",
+        "meaning": "Tertutup"
+    },
+    {
+        "kanji": "消える",
+        "hiragana": "きえる",
+        "meaning": "Menghilang / padam"
+    },
+    {
+        "kanji": "壊れる",
+        "hiragana": "こわれる",
+        "meaning": "Rusak"
+    },
+    {
+        "kanji": "実は",
+        "hiragana": "じつは",
+        "meaning": "Sebenarnya"
+    },
+    {
+        "kanji": "針",
+        "hiragana": "はり",
+        "meaning": "Jarum"
+    },
+    {
+        "kanji": "指す",
+        "hiragana": "さす",
+        "meaning": "Menunjuk"
+    },
+    {
+        "kanji": "燃える",
+        "hiragana": "もえる",
+        "meaning": "Membakar / terbakar"
+    },
+    {
+        "kanji": "丸い",
+        "hiragana": "まるい",
+        "meaning": "Bulat"
+    }
+]

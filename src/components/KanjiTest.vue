@@ -7,9 +7,17 @@ import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
 
+onMounted(() => window.addEventListener('keydown', wrongAnswerEvent))
+onMounted(() => window.addEventListener('keydown', correctAnswerEvent))
+onMounted(() => window.addEventListener('keydown', revealAnswerEvent))
+onMounted(() => initData())
+onBeforeUnmount(() => window.removeEventListener('keydown', wrongAnswerEvent))
+onBeforeUnmount(() => window.removeEventListener('keydown', correctAnswerEvent))
+onBeforeUnmount(() => window.removeEventListener('keydown', revealAnswerEvent))
+
 const resultData = resultStore()
-const kanjiJsonData = kanjiStore()
-const routeOpt = useRouter()
+const kanjiFile = kanjiStore()
+const routerOpt = useRouter()
 
 const loading = ref(true)
 const kanjiList = ref<KanjiType[]>([])
@@ -43,7 +51,7 @@ function nextKanji(callback: () => void) {
 
 function navigateToResult() {
     resultData.setAnswer(correctAnswer.value, wrongAnswer.value, kanjiList.value)
-    routeOpt.push({ name: 'result' })
+    routerOpt.push({ name: 'result' })
 }
 
 function addCorrectAnswerCallback() {
@@ -83,12 +91,14 @@ function revealAnswerEvent(e: KeyboardEvent) {
 }
 
 async function initData() {
-    const files = [
-        ...kanjiJsonData.data
-    ]
+    if (kanjiFile.data.length == 0) {
+        routerOpt.replace({ name: "home" })
+    }
     const results = await Promise.all(
-        files.map(file => fetch(file).then(r => r.json()))
+        kanjiFile.data.map(file => fetch(file).then(r => r.json()))
     )
+    if (results.length == 0)
+        routerOpt.replace({ name: "home" })
 
     kanjiList.value = results.flat()
     totalKanji.value = kanjiList.value.length
@@ -96,14 +106,6 @@ async function initData() {
     kanjiData.value = kanjiList.value[idx.value]!
     loading.value = false
 }
-
-onMounted(() => window.addEventListener('keydown', wrongAnswerEvent))
-onMounted(() => window.addEventListener('keydown', correctAnswerEvent))
-onMounted(() => window.addEventListener('keydown', revealAnswerEvent))
-onMounted(() => initData())
-onBeforeUnmount(() => window.removeEventListener('keydown', wrongAnswerEvent))
-onBeforeUnmount(() => window.removeEventListener('keydown', correctAnswerEvent))
-onBeforeUnmount(() => window.removeEventListener('keydown', revealAnswerEvent))
 </script>
 
 <template>

@@ -17,14 +17,14 @@ const selectedAll = ref(false)
 const selectedVolumes = ref<Record<string, number[]>>({
     N5: [],
     N4: [],
-    N3: [],
+    // N3: [],
 })
 
 // available volumes for each level (example)
 const volumes: Record<string, number[]> = {
     N5: [1, 2, 3, 4, 5],
     N4: [1, 2, 3, 4, 5],
-    N3: [1, 2, 3, 4, 5, 6, 7]
+    // N3: [1, 2, 3, 4, 5, 6, 7]
 }
 
 // Helper to check if all levels have all volumes selected
@@ -70,12 +70,12 @@ function selectAllVolumesLevel() {
     if (selectedAll.value) {
         selectedVolumes.value["N5"] = []
         selectedVolumes.value["N4"] = []
-        selectedVolumes.value["N3"] = []
+        // selectedVolumes.value["N3"] = []
         selectedAll.value = false
     } else {
         selectedVolumes.value["N5"] = [...volumes["N5"]!]
         selectedVolumes.value["N4"] = [...volumes["N4"]!]
-        selectedVolumes.value["N3"] = [...volumes["N3"]!]
+        // selectedVolumes.value["N3"] = [...volumes["N3"]!]
         selectedAll.value = true
     }
 }
@@ -94,14 +94,14 @@ function startKanjiTest() {
 <template>
     <Alert ref="alertRef" message="Minimal pilih satu volume"></Alert>
     <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4">
-        <img src="/logo.png" class="mb-12" alt="logo" style="transform: scale(1.5);" />
+        <img src="/logo.png" class="mb-12" alt="logo" />
         <SecondaryButton @click="selectAllVolumesLevel" class="text-sm md:text-lg"
             :label="selectedAll ? 'Tidak Pilih Semua' : 'Pilih Semua'" variant="link" />
 
         <!-- Levels -->
         <div class="flex justify-center space-x-6">
-            <Button v-for="level in ['N5', 'N4', 'N3']" :key="level" class="text-sm md:text-lg" :label="level"
-                :variant="selectedLevel === level ? 'outlined' : 'link'" @click="chooseLevel(level)" />
+            <Button v-for="level in Object.keys(selectedVolumes)" :key="level" class="text-sm md:text-lg" :label="level"
+                :variant="selectedLevel === level ? 'link' : 'outlined'" @click="chooseLevel(level)" />
         </div>
 
         <!-- Volumes (multi-select) -->
