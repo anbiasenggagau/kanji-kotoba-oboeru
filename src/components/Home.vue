@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import { useRouter } from "vue-router";
-import { kanjiStore } from "../stores/result";
+import { volumes } from "../const";
+import { kanjiStore } from "../store";
 import Button from '../volt/Button.vue';
 import Card from '../volt/Card.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
@@ -19,13 +20,6 @@ const selectedVolumes = ref<Record<string, number[]>>({
     N4: [],
     // N3: [],
 })
-
-// available volumes for each level (example)
-const volumes: Record<string, number[]> = {
-    N5: [1, 2, 3, 4, 5],
-    N4: [1, 2, 3, 4, 5],
-    // N3: [1, 2, 3, 4, 5, 6, 7]
-}
 
 // Helper to check if all levels have all volumes selected
 function isAllLevelsSelected() {
@@ -89,6 +83,10 @@ function startKanjiTest() {
     else
         alertRef.value?.show()
 }
+
+function studyKanji() {
+    routerOpt.push({ name: "study" })
+}
 </script>
 
 <template>
@@ -125,7 +123,10 @@ function startKanjiTest() {
                 </div>
             </template>
         </Card>
-
-        <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
+        <div class="flex justify-center space-x-4">
+            <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
+            <SecondaryButton @click="studyKanji" class="text-sm md:text-lg mt-8" label="Lihat Daftar Kanji"
+                variant="link" />
+        </div>
     </div>
 </template>

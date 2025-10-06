@@ -1,0 +1,427 @@
+[
+    {
+        "kanji": "折れる",
+        "hiragana": "おれる",
+        "meaning": "Patah"
+    },
+    {
+        "kanji": "破れる",
+        "hiragana": "やぶれる",
+        "meaning": "Robek"
+    },
+    {
+        "kanji": "汚れる",
+        "hiragana": "よごれる",
+        "meaning": "Menjadi kotor"
+    },
+    {
+        "kanji": "付く",
+        "hiragana": "つく",
+        "meaning": "Terpasang"
+    },
+    {
+        "kanji": "外れる",
+        "hiragana": "はずれる",
+        "meaning": "Terlepas"
+    },
+    {
+        "kanji": "止まる",
+        "hiragana": "とまる",
+        "meaning": "Berhenti"
+    },
+    {
+        "kanji": "落とす",
+        "hiragana": "おとす",
+        "meaning": "Menjatuhkan"
+    },
+    {
+        "kanji": "掛かる",
+        "hiragana": "かかる",
+        "meaning": "Terkunci"
+    },
+    {
+        "kanji": "取り替える",
+        "hiragana": "とりかえる",
+        "meaning": "Mengganti"
+    },
+    {
+        "kanji": "片づける",
+        "hiragana": "かたづける",
+        "meaning": "Membereskan"
+    },
+    {
+        "kanji": "皿",
+        "hiragana": "さら",
+        "meaning": "Piring"
+    },
+    {
+        "kanji": "袋",
+        "hiragana": "ふくろ",
+        "meaning": "Kantong"
+    },
+    {
+        "kanji": "書類",
+        "hiragana": "しょるい",
+        "meaning": "Dokumen"
+    },
+    {
+        "kanji": "枝",
+        "hiragana": "えだ",
+        "meaning": "Dahan / cabang pohon"
+    },
+    {
+        "kanji": "駅員",
+        "hiragana": "えきいん",
+        "meaning": "Petugas stasiun"
+    },
+    {
+        "kanji": "交番",
+        "hiragana": "こうばん",
+        "meaning": "Pos polisi"
+    },
+    {
+        "kanji": "返事",
+        "hiragana": "へんじ",
+        "meaning": "Jawaban / balasan"
+    },
+    {
+        "kanji": "掛ける",
+        "hiragana": "かける",
+        "meaning": "Menggantungkan"
+    },
+    {
+        "kanji": "飾る",
+        "hiragana": "かざる",
+        "meaning": "Menghiasi"
+    },
+    {
+        "kanji": "並べる",
+        "hiragana": "ならべる",
+        "meaning": "Menata"
+    },
+    {
+        "kanji": "植える",
+        "hiragana": "うえる",
+        "meaning": "Menanam"
+    },
+    {
+        "kanji": "戻す",
+        "hiragana": "もどす",
+        "meaning": "Mengembalikan"
+    },
+    {
+        "kanji": "決める",
+        "hiragana": "きめる",
+        "meaning": "Menentukan / memutuskan"
+    },
+    {
+        "kanji": "予習する",
+        "hiragana": "よしゅうする",
+        "meaning": "Persiapan belajar"
+    },
+    {
+        "kanji": "復習する",
+        "hiragana": "ふくしゅうする",
+        "meaning": "Mengulang pelajaran"
+    },
+    {
+        "kanji": "授業",
+        "hiragana": "じゅぎょう",
+        "meaning": "Pelajaran / kelas"
+    },
+    {
+        "kanji": "講義",
+        "hiragana": "こうぎ",
+        "meaning": "Kuliah"
+    },
+    {
+        "kanji": "予定",
+        "hiragana": "よてい",
+        "meaning": "Rencana / jadwal"
+    },
+    {
+        "kanji": "人形",
+        "hiragana": "にんぎょう",
+        "meaning": "Boneka"
+    },
+    {
+        "kanji": "花瓶",
+        "hiragana": "かびん",
+        "meaning": "Vas bunga"
+    },
+    {
+        "kanji": "鏡",
+        "hiragana": "かがみ",
+        "meaning": "Cermin"
+    },
+    {
+        "kanji": "引き出し",
+        "hiragana": "ひきだし",
+        "meaning": "Laci"
+    },
+    {
+        "kanji": "玄関",
+        "hiragana": "げんかん",
+        "meaning": "Ruang depan"
+    },
+    {
+        "kanji": "廊下",
+        "hiragana": "ろうか",
+        "meaning": "Lorong / koridor"
+    },
+    {
+        "kanji": "壁",
+        "hiragana": "かべ",
+        "meaning": "Dinding"
+    },
+    {
+        "kanji": "池",
+        "hiragana": "いけ",
+        "meaning": "Kolam"
+    },
+    {
+        "kanji": "周り",
+        "hiragana": "まわり",
+        "meaning": "Sekitar / sekeliling"
+    },
+    {
+        "kanji": "真ん中",
+        "hiragana": "まんなか",
+        "meaning": "Tengah-tengah"
+    },
+    {
+        "kanji": "隅",
+        "hiragana": "すみ",
+        "meaning": "Sudut / pojok"
+    },
+    {
+        "kanji": "続ける",
+        "hiragana": "つづける",
+        "meaning": "Melanjutkan"
+    },
+    {
+        "kanji": "見つける",
+        "hiragana": "みつける",
+        "meaning": "Menemukan"
+    },
+    {
+        "kanji": "取る",
+        "hiragana": "とる",
+        "meaning": "Mengambil"
+    },
+    {
+        "kanji": "受ける",
+        "hiragana": "うける",
+        "meaning": "Mengikuti"
+    },
+    {
+        "kanji": "申し込む",
+        "hiragana": "もうしこむ",
+        "meaning": "Mendaftar"
+    },
+    {
+        "kanji": "休憩する",
+        "hiragana": "きゅうけいする",
+        "meaning": "Istirahat"
+    },
+    {
+        "kanji": "連休",
+        "hiragana": "れんきゅう",
+        "meaning": "Libur beruntun"
+    },
+    {
+        "kanji": "作文",
+        "hiragana": "さくぶん",
+        "meaning": "Karangan / esai"
+    },
+    {
+        "kanji": "発表",
+        "hiragana": "はっぴょう",
+        "meaning": "Presentasi"
+    },
+    {
+        "kanji": "展覧会",
+        "hiragana": "てんらんかい",
+        "meaning": "Pameran"
+    },
+    {
+        "kanji": "結婚式",
+        "hiragana": "けっこんしき",
+        "meaning": "Upacara pernikahan"
+    },
+    {
+        "kanji": "お葬式",
+        "hiragana": "おそうしき",
+        "meaning": "Upacara pemakaman"
+    },
+    {
+        "kanji": "本社",
+        "hiragana": "ほんしゃ",
+        "meaning": "Kantor pusat"
+    },
+    {
+        "kanji": "支店",
+        "hiragana": "してん",
+        "meaning": "Cabang (perusahaan)"
+    },
+    {
+        "kanji": "教会",
+        "hiragana": "きょうかい",
+        "meaning": "Gereja"
+    },
+    {
+        "kanji": "大学院",
+        "hiragana": "だいがくいん",
+        "meaning": "Program pascasarjana"
+    },
+    {
+        "kanji": "動物園",
+        "hiragana": "どうぶつえん",
+        "meaning": "Kebun binatang"
+    },
+    {
+        "kanji": "温泉",
+        "hiragana": "おんせん",
+        "meaning": "Pemandian air panas"
+    },
+    {
+        "kanji": "運動する",
+        "hiragana": "うんどうする",
+        "meaning": "Berolahraga"
+    },
+    {
+        "kanji": "成功する",
+        "hiragana": "せいこうする",
+        "meaning": "Berhasil / sukses"
+    },
+    {
+        "kanji": "失敗する",
+        "hiragana": "しっぱいする",
+        "meaning": "Gagal"
+    },
+    {
+        "kanji": "合格する",
+        "hiragana": "ごうかくする",
+        "meaning": "Lulus (ujian)"
+    },
+    {
+        "kanji": "晴れる",
+        "hiragana": "はれる",
+        "meaning": "Cerah"
+    },
+    {
+        "kanji": "曇る",
+        "hiragana": "くもる",
+        "meaning": "Menjadi mendung"
+    },
+    {
+        "kanji": "続く",
+        "hiragana": "つづく",
+        "meaning": "Bersambung / berlanjut"
+    },
+    {
+        "kanji": "冷やす",
+        "hiragana": "ひやす",
+        "meaning": "Mendinginkan"
+    },
+    {
+        "kanji": "込む",
+        "hiragana": "こむ",
+        "meaning": "Penuh sesak / ramai"
+    },
+    {
+        "kanji": "出る",
+        "hiragana": "でる",
+        "meaning": "Ikutserta"
+    },
+    {
+        "kanji": "無理",
+        "hiragana": "むり",
+        "meaning": "Tidak mungkin"
+    },
+    {
+        "kanji": "十分",
+        "hiragana": "じゅうぶん",
+        "meaning": "Cukup"
+    },
+    {
+        "kanji": "太陽",
+        "hiragana": "たいよう",
+        "meaning": "Matahari"
+    },
+    {
+        "kanji": "星",
+        "hiragana": "ほし",
+        "meaning": "Bintang"
+    },
+    {
+        "kanji": "風",
+        "hiragana": "かぜ",
+        "meaning": "Angin"
+    },
+    {
+        "kanji": "国際",
+        "hiragana": "こくさい",
+        "meaning": "Internasional"
+    },
+    {
+        "kanji": "今夜",
+        "hiragana": "こんや",
+        "meaning": "Malam ini"
+    },
+    {
+        "kanji": "夕方",
+        "hiragana": "ゆうがた",
+        "meaning": "Sore hari"
+    },
+    {
+        "kanji": "遅く",
+        "hiragana": "おそく",
+        "meaning": "Lambat / terlambat"
+    },
+    {
+        "kanji": "逃げる",
+        "hiragana": "にげる",
+        "meaning": "Melarikan diri"
+    },
+    {
+        "kanji": "騒ぐ",
+        "hiragana": "さわぐ",
+        "meaning": "Menghebohkan"
+    },
+    {
+        "kanji": "投げる",
+        "hiragana": "なげる",
+        "meaning": "Melempar"
+    },
+    {
+        "kanji": "守る",
+        "hiragana": "まもる",
+        "meaning": "Melindungi"
+    },
+    {
+        "kanji": "懐中電灯",
+        "hiragana": "かいちゅうでんとう",
+        "meaning": "Senter"
+    },
+    {
+        "kanji": "石",
+        "hiragana": "いし",
+        "meaning": "Batu"
+    },
+    {
+        "kanji": "胃",
+        "hiragana": "い",
+        "meaning": "Lambung / perut"
+    },
+    {
+        "kanji": "恋愛",
+        "hiragana": "れんあい",
+        "meaning": "Asmara"
+    },
+    {
+        "kanji": "相手",
+        "hiragana": "あいて",
+        "meaning": "Pasangan"
+    }
+]

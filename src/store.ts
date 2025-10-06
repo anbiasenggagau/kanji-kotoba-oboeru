@@ -1,6 +1,5 @@
-// stores/quiz.ts
 import { defineStore } from "pinia"
-import type { KanjiType } from "../type"
+import type { KanjiType } from "./type"
 
 export const resultStore = defineStore("resultStore", {
     state: () => ({

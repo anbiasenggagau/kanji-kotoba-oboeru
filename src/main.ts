@@ -4,6 +4,7 @@ import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue';
 import Home from './components/Home.vue';
+import KanjiStudy from './components/KanjiStudy.vue';
 import KanjiTest from './components/KanjiTest.vue';
 import Result from './components/Result.vue';
 import './style.css';
@@ -25,6 +26,11 @@ const router = createRouter({
             path: "/result",
             component: Result,
             name: "result"
+        },
+        {
+            path: "/kanji",
+            component: KanjiStudy,
+            name: "study"
         },
     ],
     history: createWebHistory(),

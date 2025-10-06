@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
-import { resultStore } from '../stores/result';
+import { resultStore } from '../store';
 import type { KanjiType } from '../type';
 import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
