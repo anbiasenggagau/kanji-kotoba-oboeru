@@ -48,7 +48,7 @@ function toggleVolume(vol: number) {
 }
 
 function arraysEqual(a: number[], b: number[]) {
-    return a.length === b.length && a.every((val, idx) => val === b[idx]);
+    return a.length === b.length && b.every(val => b.includes(val));
 }
 
 function selectAllVolumes() {
