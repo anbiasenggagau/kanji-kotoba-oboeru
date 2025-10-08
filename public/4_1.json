@@ -141,8 +141,8 @@
     },
     {
         "kanji": "開く",
-        "hiragana": "ひらく",
-        "meaning": "Membuka"
+        "hiragana": "ひらく / あく",
+        "meaning": "Membuka / terbuka"
     },
     {
         "kanji": "鳥",
@@ -250,8 +250,8 @@
         "meaning": "Laku terjual"
     },
     {
-        "kanji": "踊り",
-        "hiragana": "おどり",
+        "kanji": "踊る",
+        "hiragana": "おどる",
         "meaning": "Tarian"
     },
     {
@@ -383,11 +383,6 @@
         "kanji": "誘う",
         "hiragana": "さそう",
         "meaning": "Mengajak / mengundang"
-    },
-    {
-        "kanji": "開く",
-        "hiragana": "あく",
-        "meaning": "Terbuka"
     },
     {
         "kanji": "閉まる",
