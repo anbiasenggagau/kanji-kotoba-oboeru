@@ -1,0 +1,427 @@
+[
+  {
+    "kanji": "世界中",
+    "hiragana": "せかいじゅう",
+    "meaning": "Seluruh dunia"
+  },
+  {
+    "kanji": "育てる",
+    "hiragana": "そだてる",
+    "meaning": "Memelihara / Membesarkan"
+  },
+  {
+    "kanji": "運ぶ",
+    "hiragana": "はこぶ",
+    "meaning": "Mengangkut / Membawa"
+  },
+  {
+    "kanji": "入院する",
+    "hiragana": "にゅういんする",
+    "meaning": "Opname"
+  },
+  {
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "meaning": "Menghidupkan / Menyalakan (listrik)"
+  },
+  {
+    "kanji": "切る",
+    "hiragana": "きる",
+    "meaning": "Mematikan (listrik)"
+  },
+  {
+    "kanji": "掛ける",
+    "hiragana": "かける",
+    "meaning": "Mengunci"
+  },
+  {
+    "kanji": "気持ちがいい",
+    "hiragana": "きもちがいい",
+    "meaning": "Menyenangkan / Enak rasanya"
+  },
+  {
+    "kanji": "気持ち悪い",
+    "hiragana": "きもちわるい",
+    "meaning": "Tidak enak / Menjijikkan"
+  },
+  {
+    "kanji": "赤ちゃん",
+    "hiragana": "あかちゃん",
+    "meaning": "Bayi"
+  },
+  {
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "meaning": "Sekolah dasar"
+  },
+  {
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "meaning": "Sekolah menengah pertama"
+  },
+  {
+    "kanji": "海岸",
+    "hiragana": "かいがん",
+    "meaning": "Pantai / Pesisir"
+  },
+  {
+    "kanji": "工場",
+    "hiragana": "にゅうじょう",
+    "meaning": "Pabrik"
+  },
+  {
+    "kanji": "村",
+    "hiragana": "むら",
+    "meaning": "Desa"
+  },
+  {
+    "kanji": "指輪",
+    "hiragana": "ゆびわ",
+    "meaning": "Cincin"
+  },
+  {
+    "kanji": "電源",
+    "hiragana": "でんげん",
+    "meaning": "Power Supply"
+  },
+  {
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "meaning": "Kebiasaan"
+  },
+  {
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "meaning": "Kesehatan"
+  },
+  {
+    "kanji": "倒れる",
+    "hiragana": "たおれる",
+    "meaning": "Tumbang / Roboh"
+  },
+  {
+    "kanji": "通る",
+    "hiragana": "とおる",
+    "meaning": "Melalui"
+  },
+  {
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "meaning": "Meninggal / Mati"
+  },
+  {
+    "kanji": "安心する",
+    "hiragana": "あんしんする",
+    "meaning": "Lega / Tenang"
+  },
+  {
+    "kanji": "離婚する",
+    "hiragana": "りこんする",
+    "meaning": "Bercerai"
+  },
+  {
+    "kanji": "太る",
+    "hiragana": "ふとる",
+    "meaning": "Menggemukkan"
+  },
+  {
+    "kanji": "複雑",
+    "hiragana": "ふくざつ",
+    "meaning": "Rumit"
+  },
+  {
+    "kanji": "邪魔",
+    "hiragana": "じゃま",
+    "meaning": "Gangguan"
+  },
+  {
+    "kanji": "硬い",
+    "hiragana": "かたい",
+    "meaning": "Keras"
+  },
+  {
+    "kanji": "軟らかい",
+    "hiragana": "やわらかい",
+    "meaning": "Lunak"
+  },
+  {
+    "kanji": "汚い",
+    "hiragana": "きたない",
+    "meaning": "Kotor"
+  },
+  {
+    "kanji": "悲しい",
+    "hiragana": "かなしい",
+    "meaning": "Sedih"
+  },
+  {
+    "kanji": "恥ずかしい",
+    "hiragana": "はずかしい",
+    "meaning": "Malu"
+  },
+  {
+    "kanji": "首相",
+    "hiragana": "しゅしょう",
+    "meaning": "Perdana menteri"
+  },
+  {
+    "kanji": "津波",
+    "hiragana": "つなみ",
+    "meaning": "Tsunami"
+  },
+  {
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "meaning": "Topan"
+  },
+  {
+    "kanji": "雷",
+    "hiragana": "かみなり",
+    "meaning": "Guntur"
+  },
+  {
+    "kanji": "火事",
+    "hiragana": "かじ",
+    "meaning": "Kebakaran"
+  },
+  {
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "meaning": "Kecelakaan"
+  },
+  {
+    "kanji": "見合い",
+    "hiragana": "みあい",
+    "meaning": "Perjodohan"
+  },
+  {
+    "kanji": "操作",
+    "hiragana": "そうさ",
+    "meaning": "Operasi / Pengoperasian"
+  },
+  {
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "meaning": "Tempat acara"
+  },
+  {
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "meaning": "Banyak orang"
+  },
+  {
+    "kanji": "数える",
+    "hiragana": "かぞえる",
+    "meaning": "Menghitung"
+  },
+  {
+    "kanji": "測る",
+    "hiragana": "はかる",
+    "meaning": "Mengukur"
+  },
+  {
+    "kanji": "確かめる",
+    "hiragana": "たしかめる",
+    "meaning": "Memastikan"
+  },
+  {
+    "kanji": "出発する",
+    "hiragana": "しゅっぱつする",
+    "meaning": "Berangkat"
+  },
+  {
+    "kanji": "到着する",
+    "hiragana": "とうちゃくする",
+    "meaning": "Tiba"
+  },
+  {
+    "kanji": "相談する",
+    "hiragana": "そうだんする",
+    "meaning": "Berkonsultasi"
+  },
+  {
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "meaning": "Perlu / Dibutuhkan"
+  },
+  {
+    "kanji": "天気予報",
+    "hiragana": "てんきよほう",
+    "meaning": "Ramalan cuaca"
+  },
+  {
+    "kanji": "忘年会",
+    "hiragana": "ぼうねんかい",
+    "meaning": "Pesta akhir tahun"
+  },
+  {
+    "kanji": "新年会",
+    "hiragana": "しんねんかい",
+    "meaning": "Pesta tahun baru"
+  },
+  {
+    "kanji": "発表会",
+    "hiragana": "はっぴょうかい",
+    "meaning": "Acara presentasi / pertunjukan"
+  },
+  {
+    "kanji": "大会",
+    "hiragana": "たいかい",
+    "meaning": "Lomba"
+  },
+  {
+    "kanji": "表",
+    "hiragana": "おもて",
+    "meaning": "Bagian depan / muka"
+  },
+  {
+    "kanji": "裏",
+    "hiragana": "うら",
+    "meaning": "Bagian belakang"
+  },
+  {
+    "kanji": "年寄り",
+    "hiragana": "としより",
+    "meaning": "Manula"
+  },
+  {
+    "kanji": "傷",
+    "hiragana": "きず",
+    "meaning": "Luka / cacat"
+  },
+  {
+    "kanji": "上げる",
+    "hiragana": "あげる",
+    "meaning": "Menaikkan"
+  },
+  {
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "meaning": "Menurunkan / mengurangi"
+  },
+  {
+    "kanji": "親切にする",
+    "hiragana": "しんせつにする",
+    "meaning": "Berbaik hati"
+  },
+  {
+    "kanji": "珍しい",
+    "hiragana": "めずらしい",
+    "meaning": "Jarang / unik"
+  },
+  {
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "meaning": "Perayaan / ucapan selamat"
+  },
+  {
+    "kanji": "お年玉",
+    "hiragana": "おとしだま",
+    "meaning": "Angpao"
+  },
+  {
+    "kanji": "見舞い",
+    "hiragana": "みまい",
+    "meaning": "Pembesukkan"
+  },
+  {
+    "kanji": "興味",
+    "hiragana": "きょうみ",
+    "meaning": "Minat"
+  },
+  {
+    "kanji": "情報",
+    "hiragana": "じょうほう",
+    "meaning": "Informasi"
+  },
+  {
+    "kanji": "文法",
+    "hiragana": "ぶんぽう",
+    "meaning": "Tata bahasa"
+  },
+  {
+    "kanji": "発音",
+    "hiragana": "はつおん",
+    "meaning": "Pengucapan"
+  },
+  {
+    "kanji": "猿",
+    "hiragana": "さる",
+    "meaning": "Monyet"
+  },
+  {
+    "kanji": "絵本",
+    "hiragana": "えほん",
+    "meaning": "Buku bergambar"
+  },
+  {
+    "kanji": "絵はがき",
+    "hiragana": "えはがき",
+    "meaning": "Kartu pos bergambar"
+  },
+  {
+    "kanji": "靴下",
+    "hiragana": "くつした",
+    "meaning": "Kaus kaki"
+  },
+  {
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "meaning": "Sarung tangan"
+  },
+  {
+    "kanji": "幼稚園",
+    "hiragana": "ようちえん",
+    "meaning": "Taman kanak-kanak"
+  },
+  {
+    "kanji": "暖房",
+    "hiragana": "だんぼう",
+    "meaning": "Pemanas ruangan"
+  },
+  {
+    "kanji": "冷房",
+    "hiragana": "れいぼう",
+    "meaning": "Pendingin ruangan"
+  },
+  {
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "meaning": "Suhu"
+  },
+  {
+    "kanji": "祖父",
+    "hiragana": "そふ",
+    "meaning": "Kakek"
+  },
+  {
+    "kanji": "祖母",
+    "hiragana": "そぼ",
+    "meaning": "Nenek"
+  },
+  {
+    "kanji": "召し上がる",
+    "hiragana": "めしあがる",
+    "meaning": "Makan, minum (bahasa hormat)"
+  },
+  {
+    "kanji": "ご覧になる",
+    "hiragana": "ごらんになる",
+    "meaning": "Melihat (bahasa hormat)"
+  },
+  {
+    "kanji": "ご存じ",
+    "hiragana": "ごぞんじ",
+    "meaning": "Tahu (bahasa hormat)"
+  },
+  {
+    "kanji": "旅館",
+    "hiragana": "りょかん",
+    "meaning": "Penginapan tradisional Jepang"
+  },
+  {
+    "kanji": "バス停",
+    "hiragana": "バスてい",
+    "meaning": "Halte bus"
+  }
+]
