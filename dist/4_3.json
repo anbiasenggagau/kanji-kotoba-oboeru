@@ -1,0 +1,412 @@
+[
+  {
+    "kanji": "出席する",
+    "hiragana": "しゅっせきする",
+    "meaning": "Hadir"
+  },
+  {
+    "kanji": "伝える",
+    "hiragana": "つたえる",
+    "meaning": "Menyampaikan"
+  },
+  {
+    "kanji": "注意する",
+    "hiragana": "ちゅういする",
+    "meaning": "Memberi peringatan / Berhati-hati"
+  },
+  {
+    "kanji": "外す",
+    "hiragana": "はずす",
+    "meaning": "Melepas / Menghapus"
+  },
+  {
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "meaning": "Kembali"
+  },
+  {
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "meaning": "Sama"
+  },
+  {
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "meaning": "Polisi / Kepolisian"
+  },
+  {
+    "kanji": "席",
+    "hiragana": "せき",
+    "meaning": "Tempat duduk"
+  },
+  {
+    "kanji": "締め切り",
+    "hiragana": "しめきり",
+    "meaning": "Batas waktu"
+  },
+  {
+    "kanji": "規則",
+    "hiragana": "きそく",
+    "meaning": "Peraturan"
+  },
+  {
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "meaning": "Bahaya"
+  },
+  {
+    "kanji": "使用禁止",
+    "hiragana": "しようきんし",
+    "meaning": "Dilarang digunakan"
+  },
+  {
+    "kanji": "立ち入り禁止",
+    "hiragana": "たちいりきんし",
+    "meaning": "Dilarang masuk"
+  },
+  {
+    "kanji": "徐行",
+    "hiragana": "じょこう",
+    "meaning": "Jalan pelan / Perlahan"
+  },
+  {
+    "kanji": "入口",
+    "hiragana": "いりぐち",
+    "meaning": "Pintu masuk"
+  },
+  {
+    "kanji": "出口",
+    "hiragana": "でぐち",
+    "meaning": "Pintu keluar"
+  },
+  {
+    "kanji": "非常口",
+    "hiragana": "ひじょうぐち",
+    "meaning": "Pintu darurat"
+  },
+  {
+    "kanji": "割引",
+    "hiragana": "わりびき",
+    "meaning": "Diskon"
+  },
+  {
+    "kanji": "飲み放題",
+    "hiragana": "のみほうだい",
+    "meaning": "Minum sepuasnya"
+  },
+  {
+    "kanji": "使用中",
+    "hiragana": "しようちゅう",
+    "meaning": "Sedang digunakan"
+  },
+  {
+    "kanji": "募集中",
+    "hiragana": "ぼしゅうちゅう",
+    "meaning": "Sedang merekrut / Dibuka (lowongan)"
+  },
+  {
+    "kanji": "磨く",
+    "hiragana": "みがく",
+    "meaning": "Menggosok"
+  },
+  {
+    "kanji": "組み立てる",
+    "hiragana": "くみたてる",
+    "meaning": "Merakit / Menyusun"
+  },
+  {
+    "kanji": "折る",
+    "hiragana": "おる",
+    "meaning": "Melipat"
+  },
+  {
+    "kanji": "気がつく",
+    "hiragana": "きがつく",
+    "meaning": "Menyadari / Menyadari sesuatu"
+  },
+  {
+    "kanji": "見つける",
+    "hiragana": "みつける",
+    "meaning": "Menemukan"
+  },
+  {
+    "kanji": "質問する",
+    "hiragana": "しつもんする",
+    "meaning": "Bertanya"
+  },
+  {
+    "kanji": "城",
+    "hiragana": "しろ",
+    "meaning": "Istana / Benteng"
+  },
+  {
+    "kanji": "説明書",
+    "hiragana": "せつめいしょ",
+    "meaning": "Buku petunjuk / Manual"
+  },
+  {
+    "kanji": "図",
+    "hiragana": "ず／と",
+    "meaning": "Diagram"
+  },
+  {
+    "kanji": "線",
+    "hiragana": "せん",
+    "meaning": "Garis / Jalur"
+  },
+  {
+    "kanji": "矢印",
+    "hiragana": "やじるし",
+    "meaning": "Panah (penunjuk)"
+  },
+  {
+    "kanji": "咲く",
+    "hiragana": "さく",
+    "meaning": "Mekar (bunga)"
+  },
+  {
+    "kanji": "変わる",
+    "hiragana": "かわる",
+    "meaning": "Berubah"
+  },
+  {
+    "kanji": "困る",
+    "hiragana": "こまる",
+    "meaning": "Bingung"
+  },
+  {
+    "kanji": "治る",
+    "hiragana": "なおる",
+    "meaning": "Sembuh"
+  },
+  {
+    "kanji": "入力する",
+    "hiragana": "にゅうりょくする",
+    "meaning": "Memasukkan data / Input"
+  },
+  {
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "meaning": "Benar / Tepat"
+  },
+  {
+    "kanji": "島",
+    "hiragana": "しま",
+    "meaning": "Pulau"
+  },
+  {
+    "kanji": "港",
+    "hiragana": "みなと",
+    "meaning": "Pelabuhan"
+  },
+  {
+    "kanji": "近所",
+    "hiragana": "きんじょ",
+    "meaning": "Lingkungan sekitar / Tetangga"
+  },
+  {
+    "kanji": "屋上",
+    "hiragana": "おくじょう",
+    "meaning": "Loteng"
+  },
+  {
+    "kanji": "海外",
+    "hiragana": "かいがい",
+    "meaning": "Luar negeri"
+  },
+  {
+    "kanji": "山登り",
+    "hiragana": "やまのぼり",
+    "meaning": "Mendaki gunung"
+  },
+  {
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "meaning": "Sejarah"
+  },
+  {
+    "kanji": "機会",
+    "hiragana": "きかい",
+    "meaning": "Kesempatan"
+  },
+  {
+    "kanji": "許可",
+    "hiragana": "きょか",
+    "meaning": "Izin"
+  },
+  {
+    "kanji": "事件",
+    "hiragana": "じけん",
+    "meaning": "Peristiwa / Kejadian"
+  },
+  {
+    "kanji": "設備",
+    "hiragana": "せつび",
+    "meaning": "Fasilitas"
+  },
+  {
+    "kanji": "炊飯器",
+    "hiragana": "すいはんき",
+    "meaning": "Rice cooker"
+  },
+  {
+    "kanji": "葉",
+    "hiragana": "は",
+    "meaning": "Daun"
+  },
+  {
+    "kanji": "貯金する",
+    "hiragana": "ちょきんする",
+    "meaning": "Menabung"
+  },
+  {
+    "kanji": "過ぎる",
+    "hiragana": "すぎる",
+    "meaning": "Lewat / Melebihi"
+  },
+  {
+    "kanji": "慣れる",
+    "hiragana": "なれる",
+    "meaning": "Terbiasa"
+  },
+  {
+    "kanji": "腐る",
+    "hiragana": "くさる",
+    "meaning": "Busuk / Membusuk"
+  },
+  {
+    "kanji": "剣道",
+    "hiragana": "けんどう",
+    "meaning": "Kendo"
+  },
+  {
+    "kanji": "柔道",
+    "hiragana": "じゅうどう",
+    "meaning": "Judo"
+  },
+  {
+    "kanji": "客",
+    "hiragana": "きゃく",
+    "meaning": "Tamu / Pelanggan"
+  },
+  {
+    "kanji": "曲",
+    "hiragana": "きょく",
+    "meaning": "Melodi"
+  },
+  {
+    "kanji": "必ず",
+    "hiragana": "かならず",
+    "meaning": "Pasti"
+  },
+  {
+    "kanji": "絶対に",
+    "hiragana": "ぜったいに",
+    "meaning": "Mutlak"
+  },
+  {
+    "kanji": "褒める",
+    "hiragana": "ほめる",
+    "meaning": "Memuji"
+  },
+  {
+    "kanji": "招待する",
+    "hiragana": "しょうたいする",
+    "meaning": "Mengundang"
+  },
+  {
+    "kanji": "頼む",
+    "hiragana": "たのむ",
+    "meaning": "Meminta / Menugaskan"
+  },
+  {
+    "kanji": "踏む",
+    "hiragana": "ふむ",
+    "meaning": "Menginjak"
+  },
+  {
+    "kanji": "行う",
+    "hiragana": "おこなう",
+    "meaning": "Menyelenggarakan"
+  },
+  {
+    "kanji": "輸出する",
+    "hiragana": "ゆしゅつする",
+    "meaning": "Mengekspor"
+  },
+  {
+    "kanji": "輸入する",
+    "hiragana": "ゆにゅうする",
+    "meaning": "Mengimpor"
+  },
+  {
+    "kanji": "翻訳する",
+    "hiragana": "ほんやくする",
+    "meaning": "Menerjemahkan (tertulis)"
+  },
+  {
+    "kanji": "発明する",
+    "hiragana": "はつめいする",
+    "meaning": "Menciptakan (invent)"
+  },
+  {
+    "kanji": "発見する",
+    "hiragana": "はっけんする",
+    "meaning": "Menemukan (discover)"
+  },
+  {
+    "kanji": "米",
+    "hiragana": "こめ",
+    "meaning": "Beras"
+  },
+  {
+    "kanji": "麦",
+    "hiragana": "むぎ",
+    "meaning": "Gandum / Biji-bijian"
+  },
+  {
+    "kanji": "石油",
+    "hiragana": "せきゆ",
+    "meaning": "Minyak bumi / Petroleum"
+  },
+  {
+    "kanji": "原料",
+    "hiragana": "げんりょう",
+    "meaning": "Bahan baku"
+  },
+  {
+    "kanji": "泥棒",
+    "hiragana": "どろぼう",
+    "meaning": "Pencuri"
+  },
+  {
+    "kanji": "警官",
+    "hiragana": "けいかん",
+    "meaning": "Petugas polisi"
+  },
+  {
+    "kanji": "奥様",
+    "hiragana": "おくさま",
+    "meaning": "Nyonya"
+  },
+  {
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "meaning": "Perempuan"
+  },
+  {
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "meaning": "Laki-laki"
+  },
+  {
+    "kanji": "関係",
+    "hiragana": "かんけい",
+    "meaning": "Hubungan / Relasi"
+  },
+  {
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "meaning": "Kekasih / Pacar"
+  }
+]
