@@ -1,0 +1,417 @@
+[
+    {
+        "kanji": "孫",
+        "hiragana": "まご",
+        "meaning": "Cucu"
+    },
+    {
+        "kanji": "管理人",
+        "hiragana": "かんりにん",
+        "meaning": "Pengurus / penjaga"
+    },
+    {
+        "kanji": "包む",
+        "hiragana": "つつむ",
+        "meaning": "Membungkus / melilit"
+    },
+    {
+        "kanji": "沸かす",
+        "hiragana": "わかす",
+        "meaning": "Mendidihkan / merebus (air)"
+    },
+    {
+        "kanji": "混ぜる",
+        "hiragana": "まぜる",
+        "meaning": "Mencampur"
+    },
+    {
+        "kanji": "計算する",
+        "hiragana": "けいさんする",
+        "meaning": "Menghitung / kalkulasi"
+    },
+    {
+        "kanji": "並ぶ",
+        "hiragana": "ならぶ",
+        "meaning": "Bahagia"
+    },
+    {
+        "kanji": "丈夫",
+        "hiragana": "じょうぶ",
+        "meaning": "Kuat"
+    },
+    {
+        "kanji": "弁護士",
+        "hiragana": "べんごし",
+        "meaning": "Pengacara"
+    },
+    {
+        "kanji": "音楽家",
+        "hiragana": "おんがくか",
+        "meaning": "Musisi"
+    },
+    {
+        "kanji": "自然",
+        "hiragana": "しぜん",
+        "meaning": "Alam"
+    },
+    {
+        "kanji": "教育",
+        "hiragana": "きょういく",
+        "meaning": "Pendidikan"
+    },
+    {
+        "kanji": "文化",
+        "hiragana": "ぶんか",
+        "meaning": "Budaya"
+    },
+    {
+        "kanji": "社会",
+        "hiragana": "しゃかい",
+        "meaning": "Masyarakat / sosial"
+    },
+    {
+        "kanji": "政治",
+        "hiragana": "せいじ",
+        "meaning": "Politik"
+    },
+    {
+        "kanji": "法律",
+        "hiragana": "ほうりつ",
+        "meaning": "Hukum"
+    },
+    {
+        "kanji": "戦争",
+        "hiragana": "せんそう",
+        "meaning": "Perang"
+    },
+    {
+        "kanji": "平和",
+        "hiragana": "へいわ",
+        "meaning": "Perdamaian"
+    },
+    {
+        "kanji": "目的",
+        "hiragana": "もくてき",
+        "meaning": "Tujuan"
+    },
+    {
+        "kanji": "論文",
+        "hiragana": "ろんぶん",
+        "meaning": "Artikel ilmiah"
+    },
+    {
+        "kanji": "栓抜き",
+        "hiragana": "せんぬき",
+        "meaning": "Pembuka botol"
+    },
+    {
+        "kanji": "缶切り",
+        "hiragana": "かんきり",
+        "meaning": "Pembuka kaleng"
+    },
+    {
+        "kanji": "缶詰",
+        "hiragana": "かんづめ",
+        "meaning": "Makanan kaleng / kalengan"
+    },
+    {
+        "kanji": "体温計",
+        "hiragana": "たいおんけい",
+        "meaning": "Termometer"
+    },
+    {
+        "kanji": "材料",
+        "hiragana": "ざいりょう",
+        "meaning": "Bahan / material"
+    },
+    {
+        "kanji": "増える",
+        "hiragana": "ふえる",
+        "meaning": "Bertambah / meningkat"
+    },
+    {
+        "kanji": "減る",
+        "hiragana": "へる",
+        "meaning": "Berkurang / menurun"
+    },
+    {
+        "kanji": "落ちる",
+        "hiragana": "おちる",
+        "meaning": "Jatuh / turun"
+    },
+    {
+        "kanji": "変",
+        "hiragana": "へん",
+        "meaning": "Aneh / tidak biasa"
+    },
+    {
+        "kanji": "幸せ",
+        "hiragana": "しあわせ",
+        "meaning": "Bahagia"
+    },
+    {
+        "kanji": "楽",
+        "hiragana": "らく",
+        "meaning": "Mudah / nyaman / menyenangkan"
+    },
+    {
+        "kanji": "泣く",
+        "hiragana": "なく",
+        "meaning": "Menangis"
+    },
+    {
+        "kanji": "笑う",
+        "hiragana": "わらう",
+        "meaning": "Tertawa"
+    },
+    {
+        "kanji": "眠る",
+        "hiragana": "ねむる",
+        "meaning": "Tidur"
+    },
+    {
+        "kanji": "乾く",
+        "hiragana": "かわく",
+        "meaning": "Mengering"
+    },
+    {
+        "kanji": "滑る",
+        "hiragana": "すべる",
+        "meaning": "Tergelincir / licin"
+    },
+    {
+        "kanji": "起きる",
+        "hiragana": "おきる",
+        "meaning": "Bangun / terjadi"
+    },
+    {
+        "kanji": "調節する",
+        "hiragana": "ちょうせつする",
+        "meaning": "Mengatur / menyesuaikan"
+    },
+    {
+        "kanji": "安全",
+        "hiragana": "あんぜん",
+        "meaning": "Aman"
+    },
+    {
+        "kanji": "濃い",
+        "hiragana": "こい",
+        "meaning": "Kental"
+    },
+    {
+        "kanji": "薄い",
+        "hiragana": "うすい",
+        "meaning": "Tawar"
+    },
+    {
+        "kanji": "厚い",
+        "hiragana": "あつい",
+        "meaning": "Tebal / hangat (perasaan)"
+    },
+    {
+        "kanji": "細い",
+        "hiragana": "ほそい",
+        "meaning": "Ramping"
+    },
+    {
+        "kanji": "空気",
+        "hiragana": "くうき",
+        "meaning": "Udara"
+    },
+    {
+        "kanji": "涙",
+        "hiragana": "なみだ",
+        "meaning": "Air mata"
+    },
+    {
+        "kanji": "和食",
+        "hiragana": "わしょく",
+        "meaning": "Masakan Jepang"
+    },
+    {
+        "kanji": "洋食",
+        "hiragana": "ようしょく",
+        "meaning": "Masakan Barat"
+    },
+    {
+        "kanji": "信じる",
+        "hiragana": "しんじる",
+        "meaning": "Percaya"
+    },
+    {
+        "kanji": "保証書",
+        "hiragana": "ほしょうしょ",
+        "meaning": "Surat garansi"
+    },
+    {
+        "kanji": "領収書",
+        "hiragana": "りょうしゅうしょ",
+        "meaning": "Kwitansi"
+    },
+    {
+        "kanji": "中止",
+        "hiragana": "ちゅうし",
+        "meaning": "Pembatalan / penghentian"
+    },
+    {
+        "kanji": "点",
+        "hiragana": "てん",
+        "meaning": "Poin"
+    },
+    {
+        "kanji": "急に",
+        "hiragana": "きゅうに",
+        "meaning": "Mendadak"
+    },
+    {
+        "kanji": "渡す",
+        "hiragana": "わたす",
+        "meaning": "Memberikan / menyerahkan"
+    },
+    {
+        "kanji": "届く",
+        "hiragana": "とどく",
+        "meaning": "Menggapai"
+    },
+    {
+        "kanji": "入学する",
+        "hiragana": "にゅうがくする",
+        "meaning": "Masuk sekolah / diterima"
+    },
+    {
+        "kanji": "卒業する",
+        "hiragana": "そつぎょうする",
+        "meaning": "Lulus (sekolah/ universitas)"
+    },
+    {
+        "kanji": "焼ける",
+        "hiragana": "やける",
+        "meaning": "Terbakar / matang (panggang)"
+    },
+    {
+        "kanji": "留守",
+        "hiragana": "るす",
+        "meaning": "Ketiadaan"
+    },
+    {
+        "kanji": "宅配便",
+        "hiragana": "たくはいびん",
+        "meaning": "Layanan kurir / pengiriman paket"
+    },
+    {
+        "kanji": "吹く",
+        "hiragana": "ふく",
+        "meaning": "Meniup"
+    },
+    {
+        "kanji": "亡くなる",
+        "hiragana": "なくなる",
+        "meaning": "Meninggal"
+    },
+    {
+        "kanji": "別れる",
+        "hiragana": "わかれる",
+        "meaning": "Berpisah"
+    },
+    {
+        "kanji": "厳しい",
+        "hiragana": "きびしい",
+        "meaning": "Ketat"
+    },
+    {
+        "kanji": "実験",
+        "hiragana": "じっけん",
+        "meaning": "Eksperimen / percobaan"
+    },
+    {
+        "kanji": "人口",
+        "hiragana": "じんこう",
+        "meaning": "Penduduk"
+    },
+    {
+        "kanji": "科学",
+        "hiragana": "かがく",
+        "meaning": "Ilmu pengetahuan"
+    },
+    {
+        "kanji": "医学",
+        "hiragana": "いがく",
+        "meaning": "Ilmu kedokteran / medis"
+    },
+    {
+        "kanji": "文学",
+        "hiragana": "ぶんがく",
+        "meaning": "Sastra / literatur"
+    },
+    {
+        "kanji": "救急車",
+        "hiragana": "きゅうきゅうしゃ",
+        "meaning": "Ambulans"
+    },
+    {
+        "kanji": "賛成",
+        "hiragana": "さんせい",
+        "meaning": "Setuju / persetujuan"
+    },
+    {
+        "kanji": "反対",
+        "hiragana": "はんたい",
+        "meaning": "Menentang"
+    },
+    {
+        "kanji": "大統領",
+        "hiragana": "だいとうりょう",
+        "meaning": "Presiden"
+    },
+    {
+        "kanji": "降ろす",
+        "hiragana": "おろす",
+        "meaning": "Menurunkan"
+    },
+    {
+        "kanji": "届ける",
+        "hiragana": "とどける",
+        "meaning": "Mengirim / menyampaikan"
+    },
+    {
+        "kanji": "世話をする",
+        "hiragana": "せわをする",
+        "meaning": "Merawat / mengurus"
+    },
+    {
+        "kanji": "録音する",
+        "hiragana": "ろくおんする",
+        "meaning": "Merekam suara"
+    },
+    {
+        "kanji": "嫌",
+        "hiragana": "いや",
+        "meaning": "Tidak suka / menjengkelkan"
+    },
+    {
+        "kanji": "塾",
+        "hiragana": "じゅく",
+        "meaning": "Bimbel / kursus tambahan"
+    },
+    {
+        "kanji": "生徒",
+        "hiragana": "せいと",
+        "meaning": "Siswa / murid"
+    },
+    {
+        "kanji": "利用する",
+        "hiragana": "りようする",
+        "meaning": "Menggunakan / memanfaatkan"
+    },
+    {
+        "kanji": "掛ける",
+        "hiragana": "かける",
+        "meaning": "Duduk"
+    },
+    {
+        "kanji": "明るい",
+        "hiragana": "あかるい",
+        "meaning": "Terang / ceria / optimis"
+    }
+]
