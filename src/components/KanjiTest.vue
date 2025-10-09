@@ -172,8 +172,16 @@ async function initData() {
             </div>
 
             <!-- Bottom Content -->
+            <Transition name="fade" mode="out-in">
+                <div v-if="!revealButton"
+                    class="fixed bottom-10 lg:bottom-12 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
+                    <Button as="a" :href="`https://jisho.org/search/${kanjiData.kanji}`" target="_blank"
+                        class="text-sm md:text-base" label="Lihat Penjelasan" />
+                </div>
+            </Transition>
             <div class="fixed bottom-0 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
-                <SecondaryButton @click="navigateToResult" label="Selesaikan & Lihat Hasil" />
+                <SecondaryButton class="text-sm md:text-base" @click="navigateToResult"
+                    label="Selesaikan & Lihat Hasil" />
             </div>
         </div>
     </div>

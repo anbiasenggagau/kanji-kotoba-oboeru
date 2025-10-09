@@ -155,9 +155,16 @@ function goHome() {
                 </svg>
             </div>
 
+            <div class="mt-4">
+            </div>
+
             <!-- Bottom Content -->
+            <div class="fixed bottom-10 lg:bottom-12 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
+                <SecondaryButton as="a" :href="`https://jisho.org/search/${kanjiData.kanji}`" target="_blank"
+                    class="text-sm md:text-base" label="Lihat Penjelasan" />
+            </div>
             <div class="fixed bottom-0 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
-                <Button @click="goHome" label="Selesaikan & Kembali Ke Beranda" />
+                <Button class="text-sm md:text-base" @click="goHome" label="Selesaikan & Kembali Ke Beranda" />
             </div>
         </div>
     </div>
