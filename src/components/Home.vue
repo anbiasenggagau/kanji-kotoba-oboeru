@@ -83,10 +83,6 @@ function startKanjiTest() {
     else
         alertRef.value?.show()
 }
-
-function studyKanji() {
-    routerOpt.push({ name: "study" })
-}
 </script>
 
 <template>
@@ -125,8 +121,8 @@ function studyKanji() {
         </Card>
         <div class="flex justify-center space-x-4">
             <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
-            <SecondaryButton @click="studyKanji" class="text-sm md:text-lg mt-8" label="Lihat Daftar Kanji"
-                variant="link" />
+            <SecondaryButton as="RouterLink" :to="{ name: 'study' }" class="text-sm md:text-lg mt-8"
+                label="Lihat Daftar Kanji" variant="link" />
         </div>
     </div>
 </template>

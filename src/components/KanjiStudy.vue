@@ -84,10 +84,6 @@ async function initializeKanjiData(level: string) {
     await getKanjiData(`${level[1]}_1.json`)
 }
 
-function goHome() {
-    routerOpt.push({ name: "home" })
-}
-
 </script>
 
 <template>
@@ -119,7 +115,7 @@ function goHome() {
         </div>
 
         <!-- Center Content -->
-        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 mt-8 lg:mt-6">
+        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 pt-8 lg:pt-6">
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}</h1>
             </Transition>
@@ -164,7 +160,8 @@ function goHome() {
                     class="text-sm md:text-base" label="Lihat Penjelasan" />
             </div>
             <div class="fixed bottom-0 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
-                <Button class="text-sm md:text-base" @click="goHome" label="Selesaikan & Kembali Ke Beranda" />
+                <Button as="RouterLink" class="text-sm md:text-base" :to="{ name: 'home' }"
+                    label="Selesaikan & Kembali Ke Beranda" />
             </div>
         </div>
     </div>
