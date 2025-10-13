@@ -35,9 +35,14 @@
         "meaning": "Menjatuhkan"
     },
     {
-        "kanji": "掛かる",
-        "hiragana": "かかる",
-        "meaning": "Terkunci"
+        "kanji": "鍵が掛かる",
+        "hiragana": "かぎがかかる",
+        "meaning": "Pintu terkunci"
+    },
+    {
+        "kanji": "鍵を掛ける",
+        "hiragana": "かぎをかける",
+        "meaning": "Mengunci Pintu"
     },
     {
         "kanji": "取り替える",
