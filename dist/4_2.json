@@ -25,11 +25,6 @@
         "meaning": "Terlepas"
     },
     {
-        "kanji": "止まる",
-        "hiragana": "とまる",
-        "meaning": "Berhenti"
-    },
-    {
         "kanji": "落とす",
         "hiragana": "おとす",
         "meaning": "Menjatuhkan"
@@ -210,11 +205,6 @@
         "meaning": "Menemukan"
     },
     {
-        "kanji": "取る",
-        "hiragana": "とる",
-        "meaning": "Mengambil"
-    },
-    {
         "kanji": "受ける",
         "hiragana": "うける",
         "meaning": "Mengikuti"
@@ -295,13 +285,13 @@
         "meaning": "Berolahraga"
     },
     {
-        "kanji": "成功する",
-        "hiragana": "せいこうする",
+        "kanji": "成功",
+        "hiragana": "せいこう",
         "meaning": "Berhasil / sukses"
     },
     {
-        "kanji": "失敗する",
-        "hiragana": "しっぱいする",
+        "kanji": "失敗",
+        "hiragana": "しっぱい",
         "meaning": "Gagal"
     },
     {
