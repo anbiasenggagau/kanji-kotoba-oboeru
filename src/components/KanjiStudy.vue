@@ -24,18 +24,26 @@ const kanjiData = ref<KanjiType>(kanjiList.value[idx.value]!)
 
 const downloadedKanji: Record<string, KanjiType[]> = {}
 
-function nextKanji() {
-    if (idx.value < (kanjiList.value.length - 1)) {
-        idx.value++
-        kanjiData.value = kanjiList.value[idx.value]!;
+function nextKanji(jump: number | "max" = 1) {
+    if (jump == 'max') {
+        idx.value = kanjiList.value.length - 1
+        kanjiData.value = kanjiList.value[idx.value]!
+    } else {
+        idx.value = Math.min(idx.value + jump, kanjiList.value.length - 1)
+        kanjiData.value = kanjiList.value[idx.value]!
     }
 }
-function previousKanji() {
-    if (idx.value > 0) {
-        idx.value--
-        kanjiData.value = kanjiList.value[idx.value]!;
+
+function previousKanji(jump: number | "min" = 1) {
+    if (jump == "min") {
+        idx.value = 0
+        kanjiData.value = kanjiList.value[idx.value]!
+    } else {
+        idx.value = Math.max(idx.value - jump, 0)
+        kanjiData.value = kanjiList.value[idx.value]!
     }
 }
+
 
 function previousKanjiEvent(e: KeyboardEvent) {
     const key = e.key.toLowerCase()
@@ -132,10 +140,22 @@ async function initializeKanjiData(level: string) {
             </div>
 
             <div class="card flex justify-center">
-                <div key="mark" class="flex space-x-2">
-                    <SecondaryButton class="text-sm md:text-base" @click="previousKanji" label="Kanji Sebelumnya"
+                <div key="mark" class="flex space-x-2 lg:space-x-4">
+                    <SecondaryButton class="text-sm md:text-base" @click="previousKanji(100)" label="<<<"
                         variant="outlined" />
-                    <SecondaryButton class="text-sm md:text-base" @click="nextKanji" label="Kanji Selanjutnya"
+                    <SecondaryButton class="text-sm md:text-base" @click="previousKanji(10)" label="<<"
+                        variant="outlined" />
+                    <SecondaryButton class="text-sm md:text-base lg:hidden" @click="previousKanji()" label="<"
+                        variant="outlined" />
+                    <SecondaryButton class="text-sm md:text-base lg:hidden" @click="nextKanji()" label=">"
+                        variant="outlined" />
+                    <SecondaryButton class="text-sm md:text-base hidden! lg:inline-flex!" @click="previousKanji()"
+                        label="Kanji Sebelumnya" variant="outlined" />
+                    <SecondaryButton class="text-sm md:text-base hidden! lg:inline-flex!" @click="nextKanji()"
+                        label="Kanji Selanjutnya" variant="outlined" />
+                    <SecondaryButton class="text-sm md:text-base" @click="nextKanji(10)" label=">>"
+                        variant="outlined" />
+                    <SecondaryButton class="text-sm md:text-base" @click="nextKanji(100)" label=">>>"
                         variant="outlined" />
                 </div>
             </div>
@@ -149,9 +169,6 @@ async function initializeKanjiData(level: string) {
                     <path
                         d="M128 128C128 110.3 142.3 96 160 96L288 96C411.7 96 512 196.3 512 320C512 443.7 411.7 544 288 544L160 544C142.3 544 128 529.7 128 512L128 128zM192 160L192 480L288 480C376.4 480 448 408.4 448 320C448 231.6 376.4 160 288 160L192 160z" />
                 </svg>
-            </div>
-
-            <div class="mt-4">
             </div>
 
             <!-- Bottom Content -->
@@ -171,7 +188,7 @@ async function initializeKanjiData(level: string) {
 /* we will explain what these classes do next! */
 .fade-enter-active,
 .fade-leave-active {
-    transition: opacity 0.3s ease;
+    transition: opacity 0.15s ease;
 }
 
 .fade-enter-from,

@@ -31,7 +31,7 @@ const answer = ref("text-white")
 const revealButton = ref(true)
 
 function revealAnswer() {
-    answer.value = "text-black transition delay-150 duration-300"
+    answer.value = "text-black transition delay-150 duration-150"
     revealButton.value = false
 }
 
@@ -191,7 +191,7 @@ async function initData() {
 /* we will explain what these classes do next! */
 .fade-enter-active,
 .fade-leave-active {
-    transition: opacity 0.3s ease;
+    transition: opacity 0.15s ease;
 }
 
 .fade-enter-from,
