@@ -392,7 +392,7 @@
     {
         "kanji": "塾",
         "hiragana": "じゅく",
-        "meaning": "Bimbel / kursus tambahan"
+        "meaning": "Bimbel"
     },
     {
         "kanji": "生徒",
@@ -413,5 +413,10 @@
         "kanji": "明るい",
         "hiragana": "あかるい",
         "meaning": "Terang / ceria / optimis"
+    },
+    {
+        "kanji": "親切",
+        "hiragana": "しんせつ",
+        "meaning": "Baik hati"
     }
 ]
