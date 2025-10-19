@@ -1,0 +1,452 @@
+[
+    {
+        "kanji": "病院",
+        "hiragana": "びょういん",
+        "meaning": "Rumah sakit"
+    },
+    {
+        "kanji": "秒",
+        "hiragana": "びょう",
+        "meaning": "Detik"
+    },
+    {
+        "kanji": "飴",
+        "hiragana": "あめ",
+        "meaning": "Permen"
+    },
+    {
+        "kanji": "大人",
+        "hiragana": "おとな",
+        "meaning": "Orang dewasa"
+    },
+    {
+        "kanji": "降る",
+        "hiragana": "ふる",
+        "meaning": "Turun (hujan, salju)"
+    },
+    {
+        "kanji": "多分",
+        "hiragana": "たぶん",
+        "meaning": "Mungkin / barangkali"
+    },
+    {
+        "kanji": "直ぐに",
+        "hiragana": "すぐに",
+        "meaning": "Segera / langsung"
+    },
+    {
+        "kanji": "立派",
+        "hiragana": "りっぱ",
+        "meaning": "Mengagumkan"
+    },
+    {
+        "kanji": "初めて",
+        "hiragana": "はじめて",
+        "meaning": "Pertama kali"
+    },
+    {
+        "kanji": "お菓子",
+        "hiragana": "おかし",
+        "meaning": "Kue / camilan manis"
+    },
+    {
+        "kanji": "下さい",
+        "hiragana": "ください",
+        "meaning": "Tolong berikan / mohon"
+    },
+    {
+        "kanji": "お腹",
+        "hiragana": "おなか",
+        "meaning": "Perut"
+    },
+    {
+        "kanji": "靴下",
+        "hiragana": "くつした",
+        "meaning": "Kaos kaki"
+    },
+    {
+        "kanji": "灰皿",
+        "hiragana": "はいざら",
+        "meaning": "Asbak"
+    },
+    {
+        "kanji": "階段",
+        "hiragana": "かいだん",
+        "meaning": "Tangga"
+    },
+    {
+        "kanji": "履く",
+        "hiragana": "はく",
+        "meaning": "Memakai (celana, sepatu, kaus kaki)"
+    },
+    {
+        "kanji": "朝ご飯",
+        "hiragana": "あさごはん",
+        "meaning": "Sarapan"
+    },
+    {
+        "kanji": "熱い",
+        "hiragana": "あつい",
+        "meaning": "Panas (benda)"
+    },
+    {
+        "kanji": "茶色",
+        "hiragana": "ちゃいろ",
+        "meaning": "Cokelat (warna)"
+    },
+    {
+        "kanji": "切手",
+        "hiragana": "きって",
+        "meaning": "Perangko"
+    },
+    {
+        "kanji": "茶碗",
+        "hiragana": "ちゃわん",
+        "meaning": "Mangkuk nasi"
+    },
+    {
+        "kanji": "面白い",
+        "hiragana": "おもしろい",
+        "meaning": "Menarik / lucu"
+    },
+    {
+        "kanji": "無くす",
+        "hiragana": "なくす",
+        "meaning": "Kehilangan"
+    },
+    {
+        "kanji": "速達",
+        "hiragana": "そくたつ",
+        "meaning": "Pengiriman kilat"
+    },
+    {
+        "kanji": "痛い",
+        "hiragana": "いたい",
+        "meaning": "Sakit / nyeri"
+    },
+    {
+        "kanji": "苦い",
+        "hiragana": "にがい",
+        "meaning": "Pahit"
+    },
+    {
+        "kanji": "酸っぱい",
+        "hiragana": "すっぱい",
+        "meaning": "Asam"
+    },
+    {
+        "kanji": "塩辛い",
+        "hiragana": "しおからい",
+        "meaning": "Asin"
+    },
+    {
+        "kanji": "明るい",
+        "hiragana": "あかるい",
+        "meaning": "Terang / ceria"
+    },
+    {
+        "kanji": "出張する",
+        "hiragana": "しゅっちょうする",
+        "meaning": "Dinas ke luar kota"
+    },
+    {
+        "kanji": "生きる",
+        "hiragana": "いきる",
+        "meaning": "Hidup"
+    },
+    {
+        "kanji": "隣",
+        "hiragana": "となり",
+        "meaning": "Sebelah / tetangga"
+    },
+    {
+        "kanji": "長男",
+        "hiragana": "ちょうなん",
+        "meaning": "Anak laki-laki sulung"
+    },
+    {
+        "kanji": "椅子",
+        "hiragana": "いす",
+        "meaning": "Kursi"
+    },
+    {
+        "kanji": "返す",
+        "hiragana": "かえす",
+        "meaning": "Mengembalikan"
+    },
+    {
+        "kanji": "公園",
+        "hiragana": "こうえん",
+        "meaning": "Taman"
+    },
+    {
+        "kanji": "ご飯",
+        "hiragana": "ごはん",
+        "meaning": "Nasi / makan"
+    },
+    {
+        "kanji": "生まれる",
+        "hiragana": "うまれる",
+        "meaning": "Lahir"
+    },
+    {
+        "kanji": "新鮮",
+        "hiragana": "しんせん",
+        "meaning": "Segar"
+    },
+    {
+        "kanji": "分かる",
+        "hiragana": "わかる",
+        "meaning": "Mengerti / paham"
+    },
+    {
+        "kanji": "貸す",
+        "hiragana": "かす",
+        "meaning": "Meminjamkan"
+    },
+    {
+        "kanji": "青い",
+        "hiragana": "あおい",
+        "meaning": "Biru"
+    },
+    {
+        "kanji": "賑やか",
+        "hiragana": "にぎやか",
+        "meaning": "Ramai / meriah"
+    },
+    {
+        "kanji": "太い",
+        "hiragana": "ふとい",
+        "meaning": "Tebal / gemuk (untuk benda)"
+    },
+    {
+        "kanji": "一緒",
+        "hiragana": "いっしょ",
+        "meaning": "Bersama"
+    },
+    {
+        "kanji": "会議室",
+        "hiragana": "かいぎしつ",
+        "meaning": "Ruang rapat"
+    },
+    {
+        "kanji": "知事",
+        "hiragana": "ちじ",
+        "meaning": "Gubernur"
+    },
+    {
+        "kanji": "色々",
+        "hiragana": "いろいろ",
+        "meaning": "Berbagai macam"
+    },
+    {
+        "kanji": "出身",
+        "hiragana": "しゅっしん",
+        "meaning": "Asal (kota/negara)"
+    },
+    {
+        "kanji": "電話番号",
+        "hiragana": "でんわばんごう",
+        "meaning": "Nomor telepon"
+    },
+    {
+        "kanji": "二十歳",
+        "hiragana": "はたち",
+        "meaning": "Dua puluh tahun (umur)"
+    },
+    {
+        "kanji": "速い",
+        "hiragana": "はやい",
+        "meaning": "Cepat"
+    },
+    {
+        "kanji": "図書館",
+        "hiragana": "としょかん",
+        "meaning": "Perpustakaan"
+    },
+    {
+        "kanji": "妻",
+        "hiragana": "つま",
+        "meaning": "Istri"
+    },
+    {
+        "kanji": "映画館",
+        "hiragana": "えいがかん",
+        "meaning": "Bioskop"
+    },
+    {
+        "kanji": "週末",
+        "hiragana": "しゅうまつ",
+        "meaning": "Akhir pekan"
+    },
+    {
+        "kanji": "一日",
+        "hiragana": "ついたち",
+        "meaning": "Tanggal 1"
+    },
+    {
+        "kanji": "二日",
+        "hiragana": "ふつか",
+        "meaning": "Tanggal 2"
+    },
+    {
+        "kanji": "三日",
+        "hiragana": "みっか",
+        "meaning": "Tanggal 3"
+    },
+    {
+        "kanji": "四日",
+        "hiragana": "よっか",
+        "meaning": "Tanggal 4"
+    },
+    {
+        "kanji": "五日",
+        "hiragana": "いつか",
+        "meaning": "Tanggal 5"
+    },
+    {
+        "kanji": "六日",
+        "hiragana": "むいか",
+        "meaning": "Tanggal 6"
+    },
+    {
+        "kanji": "七日",
+        "hiragana": "なのか",
+        "meaning": "Tanggal 7"
+    },
+    {
+        "kanji": "八日",
+        "hiragana": "ようか",
+        "meaning": "Tanggal 8"
+    },
+    {
+        "kanji": "九日",
+        "hiragana": "ここのか",
+        "meaning": "Tanggal 9"
+    },
+    {
+        "kanji": "十日",
+        "hiragana": "とおか",
+        "meaning": "Tanggal 10"
+    },
+    {
+        "kanji": "十四日",
+        "hiragana": "じゅうよっか",
+        "meaning": "Tanggal 14"
+    },
+    {
+        "kanji": "二十日",
+        "hiragana": "はつか",
+        "meaning": "Tanggal 20"
+    },
+    {
+        "kanji": "二十四日",
+        "hiragana": "にじゅうよっか",
+        "meaning": "Tanggal 24"
+    },
+    {
+        "kanji": "～本",
+        "hiragana": "～ほん",
+        "meaning": "~ Batang"
+    },
+    {
+        "kanji": "～枚",
+        "hiragana": "～まい",
+        "meaning": "~ Lembar"
+    },
+    {
+        "kanji": "～台",
+        "hiragana": "～だい",
+        "meaning": "~ Buah (mesin / kendaraan)"
+    },
+    {
+        "kanji": "～階",
+        "hiragana": "～かい",
+        "meaning": "~ Lantai (tingkat bangunan)"
+    },
+    {
+        "kanji": "～冊",
+        "hiragana": "～さつ",
+        "meaning": "~ Jilid"
+    },
+    {
+        "kanji": "～匹",
+        "hiragana": "～ひき",
+        "meaning": "~ Ekor (hewan kecil)"
+    },
+    {
+        "kanji": "～頭",
+        "hiragana": "～とう",
+        "meaning": "~ Ekor (hewan besar)"
+    },
+    {
+        "kanji": "～個",
+        "hiragana": "～こ",
+        "meaning": "~ Buah (benda kecil)"
+    },
+    {
+        "kanji": "～回",
+        "hiragana": "～かい",
+        "meaning": "~ Kali"
+    },
+    {
+        "kanji": "北東",
+        "hiragana": "ほくとう",
+        "meaning": "Timur laut"
+    },
+    {
+        "kanji": "東南",
+        "hiragana": "とうなん",
+        "meaning": "Tenggara"
+    },
+    {
+        "kanji": "西南",
+        "hiragana": "せいなん",
+        "meaning": "Barat daya"
+    },
+    {
+        "kanji": "西北",
+        "hiragana": "せいほく",
+        "meaning": "Barat laut"
+    },
+    {
+        "kanji": "昨日",
+        "hiragana": "きのう",
+        "meaning": "Kemarin"
+    },
+    {
+        "kanji": "一昨日",
+        "hiragana": "おととい",
+        "meaning": "Kemarin lusa"
+    },
+    {
+        "kanji": "今日",
+        "hiragana": "きょう",
+        "meaning": "Hari ini"
+    },
+    {
+        "kanji": "明日",
+        "hiragana": "あした",
+        "meaning": "Besok"
+    },
+    {
+        "kanji": "明後日",
+        "hiragana": "あさって",
+        "meaning": "Lusa"
+    },
+    {
+        "kanji": "毎日",
+        "hiragana": "まいにち",
+        "meaning": "Setiap hari"
+    },
+    {
+        "kanji": "毎朝",
+        "hiragana": "まいあさ",
+        "meaning": "Setiap pagi"
+    },
+    {
+        "kanji": "毎晩",
+        "hiragana": "まいばん",
+        "meaning": "Setiap malam"
+    }
+]
