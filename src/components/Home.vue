@@ -91,21 +91,21 @@ function startKanjiTest() {
 
 <template>
     <Alert ref="alertRef" message="Minimal pilih satu volume"></Alert>
-    <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4">
+    <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-2.5 lg:space-y-4">
         <img src="/logo.png" class="mb-0 lg:mb-12" alt="logo" />
-        <SecondaryButton @click="selectAllVolumesLevel" class="text-sm md:text-lg"
+        <SecondaryButton @click="selectAllVolumesLevel" class="text-xs md:text-lg"
             :label="selectedAll ? 'Tidak Pilih Semua' : 'Pilih Semua'" variant="link" />
 
         <!-- Levels -->
-        <div class="flex justify-center space-x-6">
-            <Button v-for="level in Object.keys(selectedVolumes)" :key="level" class="text-sm md:text-lg" :label="level"
+        <div class="flex justify-center space-x-3 lg:space-x-6">
+            <Button v-for="level in Object.keys(selectedVolumes)" :key="level" class="text-xs md:text-lg" :label="level"
                 :variant="selectedLevel === level ? 'link' : 'outlined'" @click="chooseLevel(level)" />
         </div>
 
         <!-- Volumes (multi-select) -->
         <Card v-if="selectedLevel">
             <template #title>
-                <div class="text-base md:text-lg font-bold">
+                <div class="text-sm md:text-lg font-bold">
                     Pilih Volume ({{ selectedLevel }})
                 </div>
             </template>
@@ -115,7 +115,7 @@ function startKanjiTest() {
                         :label="arraysEqual(selectedVolumes[selectedLevel]!, volumes[selectedLevel]!) ? 'Tidak Pilih Semua' : 'Pilih Semua'"
                         variant="link" @click="selectAllVolumes" />
                     <div class="flex justify-center space-x-4 flex-wrap">
-                        <Button v-for="vol in volumes[selectedLevel]" :key="vol" class="text-sm md:text-base"
+                        <Button v-for="vol in volumes[selectedLevel]" :key="vol" class="text-xs md:text-base"
                             :label="String(vol)"
                             :variant="selectedVolumes[selectedLevel]!.includes(vol) ? 'link' : 'outlined'"
                             @click="toggleVolume(vol)" />
@@ -123,12 +123,13 @@ function startKanjiTest() {
                 </div>
             </template>
         </Card>
-        <div class="card flex flex-wrap items-center justify-center gap-2">
+        <div class="card flex flex-wrap items-center justify-center gap-2 mt-1">
             <Checkbox v-model="capData" binary @click="maxKanji = undefined" />
-            <span>Batasi Jumlah Soal</span>
+            <span class="text-sm lg:text-base">Batasi Jumlah Soal</span>
         </div>
         <div class="flex justify-center">
-            <InputNumber v-model="maxKanji" class="input-small" :disabled="!capData" :use-grouping="false" :min="1" />
+            <InputNumber v-model="maxKanji" class="input-small text-xs lg:text-base" :disabled="!capData"
+                :use-grouping="false" :min="1" />
         </div>
         <div class="flex justify-center space-x-4">
             <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
