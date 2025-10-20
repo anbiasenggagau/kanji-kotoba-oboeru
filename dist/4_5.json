@@ -180,11 +180,6 @@
         "meaning": "Tergelincir / licin"
     },
     {
-        "kanji": "起きる",
-        "hiragana": "おきる",
-        "meaning": "Bangun / terjadi"
-    },
-    {
         "kanji": "調節する",
         "hiragana": "ちょうせつする",
         "meaning": "Mengatur / menyesuaikan"
@@ -405,9 +400,9 @@
         "meaning": "Menggunakan / memanfaatkan"
     },
     {
-        "kanji": "掛ける",
-        "hiragana": "かける",
-        "meaning": "Duduk"
+        "kanji": "利用",
+        "hiragana": "りよう",
+        "meaning": "Penggunaan"
     },
     {
         "kanji": "明るい",
