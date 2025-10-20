@@ -23,14 +23,17 @@ export const resultStore = defineStore("resultStore", {
 
 export const kanjiStore = defineStore("kanjiList", {
     state: () => ({
-        data: [] as string[]
+        data: [] as string[],
+        max: 0 as number
     }),
     actions: {
-        setData(data: string[]) {
+        setData(data: string[], max: number = 0) {
             this.data = data
+            this.max = max
         },
         clearData() {
             this.data = []
+            this.max = 0
         }
     }
 })

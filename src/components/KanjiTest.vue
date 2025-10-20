@@ -7,13 +7,13 @@ import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
 
-onMounted(() => window.addEventListener('keydown', wrongAnswerEvent))
-onMounted(() => window.addEventListener('keydown', correctAnswerEvent))
-onMounted(() => window.addEventListener('keydown', revealAnswerEvent))
+onMounted(() => globalThis.addEventListener('keydown', wrongAnswerEvent))
+onMounted(() => globalThis.addEventListener('keydown', correctAnswerEvent))
+onMounted(() => globalThis.addEventListener('keydown', revealAnswerEvent))
 onMounted(() => initData())
-onBeforeUnmount(() => window.removeEventListener('keydown', wrongAnswerEvent))
-onBeforeUnmount(() => window.removeEventListener('keydown', correctAnswerEvent))
-onBeforeUnmount(() => window.removeEventListener('keydown', revealAnswerEvent))
+onBeforeUnmount(() => globalThis.removeEventListener('keydown', wrongAnswerEvent))
+onBeforeUnmount(() => globalThis.removeEventListener('keydown', correctAnswerEvent))
+onBeforeUnmount(() => globalThis.removeEventListener('keydown', revealAnswerEvent))
 
 const resultData = resultStore()
 const kanjiFile = kanjiStore()
@@ -100,7 +100,16 @@ async function initData() {
     if (results.length == 0)
         routerOpt.replace({ name: "home" })
 
-    kanjiList.value = results.flat()
+    let finalResults: any
+    if (kanjiFile.max > 0) {
+        finalResults = results.flat()
+            .sort(() => Math.random() - 0.5) // shuffle
+            .slice(0, kanjiFile.max)
+    } else {
+        finalResults = results.flat()
+    }
+
+    kanjiList.value = finalResults
     totalKanji.value = kanjiList.value.length
     idx.value = Math.floor(Math.random() * kanjiList.value.length)
     kanjiData.value = kanjiList.value[idx.value]!

@@ -5,6 +5,8 @@ import { volumes } from "../const";
 import { kanjiStore } from "../store";
 import Button from '../volt/Button.vue';
 import Card from '../volt/Card.vue';
+import Checkbox from "../volt/Checkbox.vue";
+import InputNumber from "../volt/InputNumber.vue";
 import SecondaryButton from '../volt/SecondaryButton.vue';
 import Alert from "./Alert.vue";
 
@@ -12,6 +14,8 @@ const kanjiData = kanjiStore()
 const routerOpt = useRouter()
 kanjiData.clearData()
 
+const capData = ref(false)
+const maxKanji = ref<undefined | number>(undefined)
 const alertRef = ref<InstanceType<typeof Alert> | null>(null)
 const selectedLevel = ref<string>("N5")
 const selectedAll = ref(false)
@@ -77,7 +81,7 @@ function selectAllVolumesLevel() {
 function startKanjiTest() {
     const selectedKanjiVolumes = Object.entries(selectedVolumes.value)
         .flatMap(([level, vols]) => vols.map(vol => `/${level[1]}_${vol}.json`))
-    kanjiData.setData(selectedKanjiVolumes)
+    kanjiData.setData(selectedKanjiVolumes, maxKanji.value)
     if (selectedKanjiVolumes.length != 0)
         routerOpt.push({ name: "test" })
     else
@@ -88,7 +92,7 @@ function startKanjiTest() {
 <template>
     <Alert ref="alertRef" message="Minimal pilih satu volume"></Alert>
     <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4">
-        <img src="/logo.png" class="mb-12" alt="logo" />
+        <img src="/logo.png" class="mb-0 lg:mb-12" alt="logo" />
         <SecondaryButton @click="selectAllVolumesLevel" class="text-sm md:text-lg"
             :label="selectedAll ? 'Tidak Pilih Semua' : 'Pilih Semua'" variant="link" />
 
@@ -119,6 +123,13 @@ function startKanjiTest() {
                 </div>
             </template>
         </Card>
+        <div class="card flex flex-wrap items-center justify-center gap-2">
+            <Checkbox v-model="capData" binary @click="maxKanji = undefined" />
+            <span>Batasi Jumlah Soal</span>
+        </div>
+        <div class="flex justify-center">
+            <InputNumber v-model="maxKanji" class="input-small" :disabled="!capData" :use-grouping="false" :min="1" />
+        </div>
         <div class="flex justify-center space-x-4">
             <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
             <SecondaryButton as="RouterLink" :to="{ name: 'study' }" class="text-sm md:text-lg mt-8"
@@ -126,3 +137,10 @@ function startKanjiTest() {
         </div>
     </div>
 </template>
+
+<style scoped>
+.input-small ::v-deep(input) {
+    width: 60px;
+    max-width: 80px;
+}
+</style>
