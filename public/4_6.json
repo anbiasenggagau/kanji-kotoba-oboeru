@@ -1,0 +1,427 @@
+[
+    {
+        "kanji": "学者",
+        "hiragana": "がくしゃ",
+        "meaning": "Ilmuwan"
+    },
+    {
+        "kanji": "特急",
+        "hiragana": "とっきゅう",
+        "meaning": "Kereta ekspres khusus"
+    },
+    {
+        "kanji": "室内",
+        "hiragana": "しつない",
+        "meaning": "Di dalam ruangan"
+    },
+    {
+        "kanji": "家内",
+        "hiragana": "かない",
+        "meaning": "Istri (sendiri)"
+    },
+    {
+        "kanji": "本屋",
+        "hiragana": "ほんや",
+        "meaning": "Toko buku"
+    },
+    {
+        "kanji": "代わりに",
+        "hiragana": "かわりに",
+        "meaning": "Sebagai pengganti"
+    },
+    {
+        "kanji": "工事",
+        "hiragana": "こうじ",
+        "meaning": "Konstruksi / pekerjaan pembangunan"
+    },
+    {
+        "kanji": "誰",
+        "hiragana": "だれ",
+        "meaning": "Siapa"
+    },
+    {
+        "kanji": "煩い",
+        "hiragana": "うるさい",
+        "meaning": "Berisik / cerewet"
+    },
+    {
+        "kanji": "窓",
+        "hiragana": "まど",
+        "meaning": "Jendela"
+    },
+    {
+        "kanji": "バス代",
+        "hiragana": "ばすだい",
+        "meaning": "Biaya bus"
+    },
+    {
+        "kanji": "水族館",
+        "hiragana": "すいぞくかん",
+        "meaning": "Akuarium (tempat wisata)"
+    },
+    {
+        "kanji": "字引",
+        "hiragana": "じびき",
+        "meaning": "Kamus"
+    },
+    {
+        "kanji": "進む",
+        "hiragana": "すすむ",
+        "meaning": "Maju"
+    },
+    {
+        "kanji": "主婦",
+        "hiragana": "しゅふ",
+        "meaning": "Ibu rumah tangga"
+    },
+    {
+        "kanji": "進める",
+        "hiragana": "すすめる",
+        "meaning": "Memajukan"
+    },
+    {
+        "kanji": "夕飯",
+        "hiragana": "ゆうはん",
+        "meaning": "Makan malam"
+    },
+    {
+        "kanji": "三十番室",
+        "hiragana": "さんじゅうばんしつ",
+        "meaning": "Kamar nomor 30"
+    },
+    {
+        "kanji": "写す",
+        "hiragana": "うつす",
+        "meaning": "Menyalin"
+    },
+    {
+        "kanji": "風邪",
+        "hiragana": "かぜ",
+        "meaning": "Masuk angin / pilek"
+    },
+    {
+        "kanji": "お巡り",
+        "hiragana": "おまわり",
+        "meaning": "Polisi (petugas patroli)"
+    },
+    {
+        "kanji": "年上",
+        "hiragana": "としうえ",
+        "meaning": "Lebih tua (usia)"
+    },
+    {
+        "kanji": "止める",
+        "hiragana": "とめる",
+        "meaning": "Menghentikan / mematikan"
+    },
+    {
+        "kanji": "電池",
+        "hiragana": "でんち",
+        "meaning": "Baterai"
+    },
+    {
+        "kanji": "詰まらない",
+        "hiragana": "つまらない",
+        "meaning": "Membosankan / tidak menarik"
+    },
+    {
+        "kanji": "美術館",
+        "hiragana": "びじゅつかん",
+        "meaning": "Museum seni"
+    },
+    {
+        "kanji": "普通",
+        "hiragana": "ふつう",
+        "meaning": "Biasa / umum"
+    },
+    {
+        "kanji": "お手洗い",
+        "hiragana": "おてあらい",
+        "meaning": "Toilet / kamar kecil"
+    },
+    {
+        "kanji": "撮影者",
+        "hiragana": "さつえいしゃ",
+        "meaning": "Fotografer"
+    },
+    {
+        "kanji": "簡単",
+        "hiragana": "かんたん",
+        "meaning": "Mudah / sederhana"
+    },
+    {
+        "kanji": "工業",
+        "hiragana": "こうぎょう",
+        "meaning": "Industri"
+    },
+    {
+        "kanji": "光る",
+        "hiragana": "ひかる",
+        "meaning": "Bersinar / berkilau"
+    },
+    {
+        "kanji": "寝坊",
+        "hiragana": "ねぼう",
+        "meaning": "Bangun kesiangan"
+    },
+    {
+        "kanji": "前回",
+        "hiragana": "ぜんかい",
+        "meaning": "Terakhir kali"
+    },
+    {
+        "kanji": "金持ち",
+        "hiragana": "かねもち",
+        "meaning": "Orang kaya"
+    },
+    {
+        "kanji": "八百屋",
+        "hiragana": "やおや",
+        "meaning": "Toko sayur dan buah"
+    },
+    {
+        "kanji": "鳥肉",
+        "hiragana": "とりにく",
+        "meaning": "Daging ayam"
+    },
+    {
+        "kanji": "祝う",
+        "hiragana": "いわう",
+        "meaning": "Merayakan / memberi selamat"
+    },
+    {
+        "kanji": "支度",
+        "hiragana": "したく",
+        "meaning": "Persiapan"
+    },
+    {
+        "kanji": "学部",
+        "hiragana": "がくぶ",
+        "meaning": "Fakultas (universitas)"
+    },
+    {
+        "kanji": "水泳",
+        "hiragana": "すいえい",
+        "meaning": "Renang"
+    },
+    {
+        "kanji": "丁寧",
+        "hiragana": "ていねい",
+        "meaning": "Sopan / hati-hati"
+    },
+    {
+        "kanji": "起こす",
+        "hiragana": "おこす",
+        "meaning": "Membangunkan / menyebabkan"
+    },
+    {
+        "kanji": "習う",
+        "hiragana": "ならう",
+        "meaning": "Belajar (dari seseorang)"
+    },
+    {
+        "kanji": "新聞記者",
+        "hiragana": "しんぶんきしゃ",
+        "meaning": "Wartawan koran"
+    },
+    {
+        "kanji": "知らせる",
+        "hiragana": "しらせる",
+        "meaning": "Memberi tahu / menginformasikan"
+    },
+    {
+        "kanji": "答える",
+        "hiragana": "こたえる",
+        "meaning": "Menjawab"
+    },
+    {
+        "kanji": "乗り場",
+        "hiragana": "のりば",
+        "meaning": "Tempat naik (bus/taksi/kereta)"
+    },
+    {
+        "kanji": "内側",
+        "hiragana": "うちがわ",
+        "meaning": "Bagian dalam"
+    },
+    {
+        "kanji": "森",
+        "hiragana": "もり",
+        "meaning": "Hutan"
+    },
+    {
+        "kanji": "建築家",
+        "hiragana": "けんちくか",
+        "meaning": "Arsitek"
+    },
+    {
+        "kanji": "残業",
+        "hiragana": "ざんぎょう",
+        "meaning": "Lembur"
+    },
+    {
+        "kanji": "文字",
+        "hiragana": "もじ",
+        "meaning": "Huruf / karakter"
+    },
+    {
+        "kanji": "宇宙船",
+        "hiragana": "うちゅうせん",
+        "meaning": "Pesawat luar angkasa"
+    },
+    {
+        "kanji": "小鳥",
+        "hiragana": "ことり",
+        "meaning": "Burung kecil"
+    },
+    {
+        "kanji": "猫",
+        "hiragana": "ねこ",
+        "meaning": "Kucing"
+    },
+    {
+        "kanji": "博物館",
+        "hiragana": "はくぶつかん",
+        "meaning": "Museum"
+    },
+    {
+        "kanji": "学力",
+        "hiragana": "がくりょく",
+        "meaning": "Kemampuan akademik"
+    },
+    {
+        "kanji": "美味しい",
+        "hiragana": "おいしい",
+        "meaning": "Enak / lezat"
+    },
+    {
+        "kanji": "思い出す",
+        "hiragana": "おもいだす",
+        "meaning": "Mengingat / teringat"
+    },
+    {
+        "kanji": "三番線",
+        "hiragana": "さんばんせん",
+        "meaning": "Peron nomor 3"
+    },
+    {
+        "kanji": "別の",
+        "hiragana": "べつの",
+        "meaning": "Lain / berbeda"
+    },
+    {
+        "kanji": "花屋",
+        "hiragana": "はなや",
+        "meaning": "Toko bunga"
+    },
+    {
+        "kanji": "合う",
+        "hiragana": "あう",
+        "meaning": "Cocok / sesuai / bertemu"
+    },
+    {
+        "kanji": "乗り物",
+        "hiragana": "のりもの",
+        "meaning": "Kendaraan"
+    },
+    {
+        "kanji": "結構",
+        "hiragana": "けっこう",
+        "meaning": "Cukup / lumayan / baik"
+    },
+    {
+        "kanji": "野球",
+        "hiragana": "やきゅう",
+        "meaning": "Baseball"
+    },
+    {
+        "kanji": "林",
+        "hiragana": "はやし",
+        "meaning": "Rimba / hutan kecil"
+    },
+    {
+        "kanji": "動かす",
+        "hiragana": "うごかす",
+        "meaning": "Menggerakkan / memindahkan"
+    },
+    {
+        "kanji": "携帯電話",
+        "hiragana": "けいたいでんわ",
+        "meaning": "Telepon genggam"
+    },
+    {
+        "kanji": "区",
+        "hiragana": "く",
+        "meaning": "Distrik"
+    },
+    {
+        "kanji": "食料品",
+        "hiragana": "しょくりょうひん",
+        "meaning": "Makanan (selain makanan pokok)"
+    },
+    {
+        "kanji": "首",
+        "hiragana": "くび",
+        "meaning": "Leher"
+    },
+    {
+        "kanji": "地下鉄",
+        "hiragana": "ちかてつ",
+        "meaning": "Kereta bawah tanah / subway"
+    },
+    {
+        "kanji": "醬油",
+        "hiragana": "しょうゆ",
+        "meaning": "Kecap asin Jepang"
+    },
+    {
+        "kanji": "弁護",
+        "hiragana": "べんご",
+        "meaning": "Pembelaan (hukum)"
+    },
+    {
+        "kanji": "蒸し暑",
+        "hiragana": "むしあつい",
+        "meaning": "Panas lembap"
+    },
+    {
+        "kanji": "物語",
+        "hiragana": "ものがたり",
+        "meaning": "Cerita / kisah"
+    },
+    {
+        "kanji": "以下",
+        "hiragana": "いか",
+        "meaning": "Di bawah / kurang dari"
+    },
+    {
+        "kanji": "始まる",
+        "hiragana": "はじまる",
+        "meaning": "Mulai / dimulai"
+    },
+    {
+        "kanji": "通り",
+        "hiragana": "とおり",
+        "meaning": "Jalan"
+    },
+    {
+        "kanji": "読書",
+        "hiragana": "どくしょ",
+        "meaning": "Membaca buku"
+    },
+    {
+        "kanji": "回す",
+        "hiragana": "まわす",
+        "meaning": "Memutar"
+    },
+    {
+        "kanji": "売り場",
+        "hiragana": "うりば",
+        "meaning": "Tempat berjualan"
+    },
+    {
+        "kanji": "郵便局",
+        "hiragana": "ゆうびんきょく",
+        "meaning": "Kantor pos"
+    }
+]

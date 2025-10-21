@@ -102,7 +102,7 @@
   {
     "kanji": "募集中",
     "hiragana": "ぼしゅうちゅう",
-    "meaning": "Sedang merekrut / Dibuka (lowongan)"
+    "meaning": "Sedang merekrut / buka lowongan"
   },
   {
     "kanji": "磨く",
@@ -398,6 +398,26 @@
     "kanji": "関係",
     "hiragana": "かんけい",
     "meaning": "Hubungan / Relasi"
+  },
+  {
+    "kanji": "漫画",
+    "hiragana": "まんが",
+    "meaning": "Komik"
+  },
+  {
+    "kanji": "可愛い",
+    "hiragana": "かわいい",
+    "meaning": "Lucu / imut"
+  },
+  {
+    "kanji": "専攻",
+    "hiragana": "せんこう",
+    "meaning": "Jurusan (akademik)"
+  },
+  {
+    "kanji": "押し入れ",
+    "hiragana": "おしいれ",
+    "meaning": "Lemari oshiire"
   },
   {
     "kanji": "恋人",

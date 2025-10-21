@@ -393,5 +393,35 @@
         "kanji": "万",
         "hiragana": "まん",
         "meaning": "Sepuluh ribu"
+    },
+    {
+        "kanji": "朝食",
+        "hiragana": "ちょうしょく",
+        "meaning": "Sarapan"
+    },
+    {
+        "kanji": "国民",
+        "hiragana": "こくみん",
+        "meaning": "Rakyat / warga negara"
+    },
+    {
+        "kanji": "黄色い",
+        "hiragana": "きいろい",
+        "meaning": "Kuning"
+    },
+    {
+        "kanji": "不味い",
+        "hiragana": "まずい",
+        "meaning": "Tidak enak (rasa makanan)"
+    },
+    {
+        "kanji": "切れる",
+        "hiragana": "きれる",
+        "meaning": "Terputus / tajam / habis"
+    },
+    {
+        "kanji": "飛行機",
+        "hiragana": "ひこうき",
+        "meaning": "Pesawat terbang"
     }
 ]
