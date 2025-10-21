@@ -7,11 +7,11 @@ import Button from '../volt/Button.vue';
 import Card from '../volt/Card.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
 
-onMounted(() => window.addEventListener('keydown', previousKanjiEvent))
-onMounted(() => window.addEventListener('keydown', nextKanjiEvent))
+onMounted(() => globalThis.addEventListener('keydown', previousKanjiEvent))
+onMounted(() => globalThis.addEventListener('keydown', nextKanjiEvent))
 onMounted(() => getKanjiData("5_1.json"))
-onBeforeUnmount(() => window.removeEventListener('keydown', previousKanjiEvent))
-onBeforeUnmount(() => window.removeEventListener('keydown', nextKanjiEvent))
+onBeforeUnmount(() => globalThis.removeEventListener('keydown', previousKanjiEvent))
+onBeforeUnmount(() => globalThis.removeEventListener('keydown', nextKanjiEvent))
 
 const routerOpt = useRouter()
 
@@ -140,7 +140,7 @@ async function initializeKanjiData(level: string) {
             </div>
 
             <div class="card flex justify-center">
-                <div key="mark" class="flex space-x-2 lg:space-x-4">
+                <div key="mark" class="flex space-x-2.5 lg:space-x-4">
                     <SecondaryButton class="text-sm md:text-base" @click="previousKanji(100)" label="<<<"
                         variant="outlined" />
                     <SecondaryButton class="text-sm md:text-base" @click="previousKanji(10)" label="<<"
