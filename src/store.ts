@@ -37,3 +37,39 @@ export const kanjiStore = defineStore("kanjiList", {
         }
     }
 })
+
+export const flagStore = defineStore("flagStore", {
+    state: () => ({
+        flag: [] as KanjiType[]
+    }),
+    actions: {
+        initialize() {
+            const flag = localStorage.getItem("flagStore")
+            if (flag) {
+                this.flag = JSON.parse(flag)
+            }
+        },
+        pushData(data: KanjiType) {
+            this.flag.push(data)
+            setLocalStorage(this.flag)
+        },
+        removeData(index: number) {
+            if (index >= 0 && this.flag.length > 0) {
+                this.flag.splice(index, 1)
+                setLocalStorage(this.flag)
+            }
+        },
+        clearData() {
+            this.flag = []
+            clearLocalStorage()
+        }
+    }
+})
+
+async function setLocalStorage(data: KanjiType[]) {
+    localStorage.setItem("flagStore", JSON.stringify(data))
+}
+
+async function clearLocalStorage() {
+    localStorage.removeItem("flagStore")
+}
