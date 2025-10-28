@@ -128,7 +128,7 @@ async function initializeKanjiData(level: string) {
                 <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}</h1>
             </Transition>
             <Transition name="fade" mode="out-in">
-                <h1 class="text-6xl lg:text-7xl font-bold" :key="kanjiData.kanji">{{ kanjiData.kanji }}</h1>
+                <h1 lang="ja" class="text-6xl lg:text-7xl font-bold" :key="kanjiData.kanji">{{ kanjiData.kanji }}</h1>
             </Transition>
             <div key="meaning" class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
                 <Transition name="fade" mode="out-in">

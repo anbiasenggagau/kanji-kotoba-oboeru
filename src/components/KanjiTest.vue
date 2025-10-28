@@ -130,7 +130,7 @@ async function initData() {
                 <h1 class="text-lg lg:text-3xl font-bold" :key="questNum"> Soal Ke {{ questNum }}</h1>
             </Transition>
             <Transition name="fade" mode="out-in">
-                <h1 class="text-6xl lg:text-7xl font-bold" :key="kanjiData.kanji">{{ kanjiData.kanji }}</h1>
+                <h1 lang="ja" class="text-6xl lg:text-7xl font-bold" :key="kanjiData.kanji">{{ kanjiData.kanji }}</h1>
             </Transition>
             <Transition name="fade" mode="out-in">
                 <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
