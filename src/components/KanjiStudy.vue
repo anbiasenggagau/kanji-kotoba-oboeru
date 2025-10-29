@@ -115,7 +115,7 @@ async function initializeKanjiData(level: string) {
 </script>
 
 <template>
-    <div v-if="!loading">
+    <div v-if="!loading" class="overflow-hidden">
         <div class="fixed top-2 lg:top-4 left-1/2 -translate-x-1/2 z-50">
             <div class="flex justify-center space-x-2 lg:space-x-6 lg:mb-4">
                 <Button v-for="level in Object.keys(volumes)" :key="level" class="text-xs md:text-lg" :label="level"

@@ -119,7 +119,7 @@ async function initData() {
 </script>
 
 <template>
-    <div v-if="!loading">
+    <div v-if="!loading" class="overflow-hidden">
         <!-- Floating text -->
         <div class="fixed top-4 left-4 z-50 text-2xl font-bold">
             Jawaban Benar {{ correctAnswer.length }}/{{ totalKanji }}
@@ -133,7 +133,7 @@ async function initData() {
             <div class="relative">
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                        }}
+                    }}
                     </h1>
                 </Transition>
                 <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
