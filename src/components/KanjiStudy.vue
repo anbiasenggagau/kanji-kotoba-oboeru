@@ -79,10 +79,12 @@ function chooseVolume(volume: number) {
 
 function removeFlaggedKanji(kanji: string) {
     flagData.removeData(kanji)
-    kanjiList.value = flagData.getKanji()
-    previousKanji()
-    if (Object.keys(flagData.flag).length == 0) {
-        chooseLevel('N5')
+    if (selectedLevel.value == "Flagged") {
+        kanjiList.value = flagData.getKanji()
+        previousKanji()
+        if (Object.keys(flagData.flag).length == 0) {
+            chooseLevel('N5')
+        }
     }
 }
 
@@ -156,7 +158,7 @@ async function initializeKanjiData(level: string) {
             <div class="relative">
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                        }}
+                    }}
                     </h1>
                 </Transition>
                 <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? removeFlaggedKanji(kanjiData.kanji) : flagData.pushData(kanjiData)"
