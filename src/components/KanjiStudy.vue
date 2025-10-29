@@ -2,9 +2,11 @@
 import { onBeforeUnmount, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
 import { volumes } from '../const';
+import { flagStore } from '../store';
 import type { KanjiType } from '../type';
 import Button from '../volt/Button.vue';
 import Card from '../volt/Card.vue';
+import DangerButton from '../volt/DangerButton.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
 
 onMounted(() => globalThis.addEventListener('keydown', previousKanjiEvent))
@@ -12,6 +14,8 @@ onMounted(() => globalThis.addEventListener('keydown', nextKanjiEvent))
 onMounted(() => getKanjiData("5_1.json"))
 onBeforeUnmount(() => globalThis.removeEventListener('keydown', previousKanjiEvent))
 onBeforeUnmount(() => globalThis.removeEventListener('keydown', nextKanjiEvent))
+
+const flagData = flagStore()
 
 const routerOpt = useRouter()
 
@@ -62,7 +66,10 @@ function nextKanjiEvent(e: KeyboardEvent) {
 function chooseLevel(level: string) {
     selectedLevel.value = level
     selectedVolume.value = 1
-    initializeKanjiData(level)
+    if (level == "Flagged")
+        getKanjiData("Flagged")
+    else
+        initializeKanjiData(level)
 }
 
 function chooseVolume(volume: number) {
@@ -70,10 +77,21 @@ function chooseVolume(volume: number) {
     getKanjiData(`${selectedLevel.value[1]}_${volume}.json`)
 }
 
+function removeFlaggedKanji(kanji: string) {
+    flagData.removeData(kanji)
+    kanjiList.value = flagData.getKanji()
+    previousKanji()
+    if (Object.keys(flagData.flag).length == 0) {
+        chooseLevel('N5')
+    }
+}
+
 async function getKanjiData(file: string) {
     let jsonData: KanjiType[] = []
     if (downloadedKanji[file] != undefined) {
         jsonData = downloadedKanji[file]
+    } else if (file == "Flagged") {
+        jsonData = flagData.getKanji()
     } else {
         const resp = await fetch(file)
         jsonData = await resp.json()
@@ -101,8 +119,12 @@ async function initializeKanjiData(level: string) {
                 <Button v-for="level in Object.keys(volumes)" :key="level" class="text-xs md:text-lg" :label="level"
                     :variant="selectedLevel === level ? 'link' : 'outlined'" @click="chooseLevel(level)" />
             </div>
+            <div class="flex justify-center mt-2">
+                <Button class="text-xs md:text-lg" label="Flagged" :disabled="Object.keys(flagData.flag).length == 0"
+                    :variant="selectedLevel === 'Flagged' ? 'link' : 'outlined'" @click="chooseLevel('Flagged')" />
+            </div>
 
-            <div class="flex justify-center">
+            <div v-if="volumes[selectedLevel]" class="flex justify-center">
                 <Card>
                     <template #title>
                         <div class="text-xs md:text-lg font-bold">
@@ -120,6 +142,10 @@ async function initializeKanjiData(level: string) {
                     </template>
                 </Card>
             </div>
+            <div v-else class="flex justify-center mt-10 md:mt-13 lg:mt-16">
+                <DangerButton class="text-xs md:text-lg" variant="link" label="Bersihkan Daftar Kanji"
+                    @click="flagData.clearData(); chooseLevel('N5')" />
+            </div>
         </div>
 
         <!-- Center Content -->
@@ -127,9 +153,25 @@ async function initializeKanjiData(level: string) {
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}</h1>
             </Transition>
-            <Transition name="fade" mode="out-in">
-                <h1 lang="ja" class="text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji }}</h1>
-            </Transition>
+            <div class="relative">
+                <Transition name="fade" mode="out-in">
+                    <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
+                        }}
+                    </h1>
+                </Transition>
+                <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? removeFlaggedKanji(kanjiData.kanji) : flagData.pushData(kanjiData)"
+                    class="absolute justify-center items-center top-0 -right-7 md:-right-9 text-gray-500 hover:text-gray-700 cursor-pointer">
+                    <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
+                        fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+                        class="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-gray-400">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3m0 0v12" />
+                    </svg>
+                    <svg v-else xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"
+                        stroke="currentColor" class="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-red-500">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3z" />
+                    </svg>
+                </div>
+            </div>
             <div key="meaning" class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
                 <Transition name="fade" mode="out-in">
                     <h2 :key="kanjiData.hiragana">{{ kanjiData.hiragana }}</h2>

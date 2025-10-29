@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
-import { kanjiStore, resultStore } from '../store';
+import { flagStore, kanjiStore, resultStore } from '../store';
 import type { KanjiType } from '../type';
 import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
@@ -18,6 +18,7 @@ onBeforeUnmount(() => globalThis.removeEventListener('keydown', revealAnswerEven
 const resultData = resultStore()
 const kanjiFile = kanjiStore()
 const routerOpt = useRouter()
+const flagData = flagStore()
 
 const loading = ref(true)
 const kanjiList = ref<KanjiType[]>([])
@@ -125,13 +126,29 @@ async function initData() {
         </div>
 
         <!-- Center Content -->
-        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4">
+        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 select-none">
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="questNum"> Soal Ke {{ questNum }}</h1>
             </Transition>
-            <Transition name="fade" mode="out-in">
-                <h1 lang="ja" class="text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji }}</h1>
-            </Transition>
+            <div class="relative">
+                <Transition name="fade" mode="out-in">
+                    <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
+                        }}
+                    </h1>
+                </Transition>
+                <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
+                    class="absolute justify-center items-center top-0 -right-7 text-gray-500 hover:text-gray-700 cursor-pointer">
+                    <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
+                        fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+                        class="w-6 h-6 text-gray-400">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3m0 0v12" />
+                    </svg>
+                    <svg v-else xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"
+                        stroke="currentColor" class="w-6 h-6 text-red-500">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3z" />
+                    </svg>
+                </div>
+            </div>
             <Transition name="fade" mode="out-in">
                 <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
                     <h2 v-bind:class="answer">{{ kanjiData.hiragana }}</h2>
