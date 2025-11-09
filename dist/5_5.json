@@ -1,452 +1,542 @@
 [
-    {
-        "kanji": "安い",
-        "hiragana": "やすい",
-        "meaning": "Murah"
-    },
-    {
-        "kanji": "一",
-        "hiragana": "いち",
-        "meaning": "Satu"
-    },
-    {
-        "kanji": "飲む",
-        "hiragana": "のむ",
-        "meaning": "Minum"
-    },
-    {
-        "kanji": "右",
-        "hiragana": "みぎ",
-        "meaning": "Kanan"
-    },
-    {
-        "kanji": "雨",
-        "hiragana": "あめ",
-        "meaning": "Hujan"
-    },
-    {
-        "kanji": "駅",
-        "hiragana": "えき",
-        "meaning": "Stasiun"
-    },
-    {
-        "kanji": "円",
-        "hiragana": "えん",
-        "meaning": "Yen"
-    },
-    {
-        "kanji": "火",
-        "hiragana": "ひ",
-        "meaning": "Api"
-    },
-    {
-        "kanji": "花",
-        "hiragana": "はな",
-        "meaning": "Bunga"
-    },
-    {
-        "kanji": "下",
-        "hiragana": "した",
-        "meaning": "Bawah"
-    },
-    {
-        "kanji": "何",
-        "hiragana": "なに / なん",
-        "meaning": "Apa"
-    },
-    {
-        "kanji": "会う",
-        "hiragana": "あう",
-        "meaning": "Bertemu"
-    },
-    {
-        "kanji": "外",
-        "hiragana": "そと",
-        "meaning": "Luar"
-    },
-    {
-        "kanji": "学ぶ",
-        "hiragana": "まなぶ",
-        "meaning": "Belajar"
-    },
-    {
-        "kanji": "間",
-        "hiragana": "あいだ / ま",
-        "meaning": "Antara"
-    },
-    {
-        "kanji": "気",
-        "hiragana": "き",
-        "meaning": "Perasaan / Suasana hati"
-    },
-    {
-        "kanji": "九",
-        "hiragana": "きゅう / く",
-        "meaning": "Sembilan"
-    },
-    {
-        "kanji": "休む",
-        "hiragana": "やすむ",
-        "meaning": "Istirahat / Libur"
-    },
-    {
-        "kanji": "魚",
-        "hiragana": "さかな",
-        "meaning": "Ikan"
-    },
-    {
-        "kanji": "お金",
-        "hiragana": "おかね",
-        "meaning": "Uang"
-    },
-    {
-        "kanji": "空",
-        "hiragana": "そら / から",
-        "meaning": "Langit / Kosong"
-    },
-    {
-        "kanji": "七",
-        "hiragana": "しち / なな",
-        "meaning": "Tujuh"
-    },
-    {
-        "kanji": "月",
-        "hiragana": "つき / がつ / げつ",
-        "meaning": "Bulan"
-    },
-    {
-        "kanji": "見る",
-        "hiragana": "みる",
-        "meaning": "Melihat"
-    },
-    {
-        "kanji": "言う",
-        "hiragana": "いう",
-        "meaning": "Mengatakan"
-    },
-    {
-        "kanji": "五",
-        "hiragana": "ご",
-        "meaning": "Lima"
-    },
-    {
-        "kanji": "後ろ",
-        "hiragana": "うしろ",
-        "meaning": "Belakang"
-    },
-    {
-        "kanji": "午後",
-        "hiragana": "ごご",
-        "meaning": "Sore (PM)"
-    },
-    {
-        "kanji": "語",
-        "hiragana": "ご",
-        "meaning": "Bahasa / Kata"
-    },
-    {
-        "kanji": "学校",
-        "hiragana": "がっこう",
-        "meaning": "Sekolah"
-    },
-    {
-        "kanji": "口",
-        "hiragana": "くち",
-        "meaning": "Mulut"
-    },
-    {
-        "kanji": "古い",
-        "hiragana": "ふるい",
-        "meaning": "Tua / Lama"
-    },
-    {
-        "kanji": "行く",
-        "hiragana": "いく",
-        "meaning": "Pergi"
-    },
-    {
-        "kanji": "高い",
-        "hiragana": "たかい",
-        "meaning": "Tinggi / Mahal"
-    },
-    {
-        "kanji": "国",
-        "hiragana": "くに",
-        "meaning": "Negara"
-    },
-    {
-        "kanji": "今",
-        "hiragana": "いま",
-        "meaning": "Sekarang"
-    },
-    {
-        "kanji": "左",
-        "hiragana": "ひだり",
-        "meaning": "Kiri"
-    },
-    {
-        "kanji": "三",
-        "hiragana": "さん",
-        "meaning": "Tiga"
-    },
-    {
-        "kanji": "山",
-        "hiragana": "やま",
-        "meaning": "Gunung"
-    },
-    {
-        "kanji": "四",
-        "hiragana": "し / よん",
-        "meaning": "Empat"
-    },
-    {
-        "kanji": "男",
-        "hiragana": "おとこ",
-        "meaning": "Laki-laki"
-    },
-    {
-        "kanji": "耳",
-        "hiragana": "みみ",
-        "meaning": "Telinga"
-    },
-    {
-        "kanji": "時",
-        "hiragana": "とき / じ",
-        "meaning": "Waktu / Jam"
-    },
-    {
-        "kanji": "前",
-        "hiragana": "まえ",
-        "meaning": "Depan"
-    },
-    {
-        "kanji": "車",
-        "hiragana": "くるま",
-        "meaning": "Mobil"
-    },
-    {
-        "kanji": "会社",
-        "hiragana": "かいしゃ",
-        "meaning": "Perusahaan"
-    },
-    {
-        "kanji": "手",
-        "hiragana": "て",
-        "meaning": "Tangan"
-    },
-    {
-        "kanji": "週",
-        "hiragana": "しゅう",
-        "meaning": "Minggu (pekan)"
-    },
-    {
-        "kanji": "十",
-        "hiragana": "じゅう",
-        "meaning": "Sepuluh"
-    },
-    {
-        "kanji": "出る",
-        "hiragana": "でる",
-        "meaning": "Keluar"
-    },
-    {
-        "kanji": "書く",
-        "hiragana": "かく",
-        "meaning": "Menulis"
-    },
-    {
-        "kanji": "女",
-        "hiragana": "おんな",
-        "meaning": "Perempuan"
-    },
-    {
-        "kanji": "小さい",
-        "hiragana": "ちいさい",
-        "meaning": "Kecil"
-    },
-    {
-        "kanji": "少し",
-        "hiragana": "すこし",
-        "meaning": "Sedikit"
-    },
-    {
-        "kanji": "上",
-        "hiragana": "うえ",
-        "meaning": "Atas"
-    },
-    {
-        "kanji": "食べる",
-        "hiragana": "たべる",
-        "meaning": "Makan"
-    },
-    {
-        "kanji": "新しい",
-        "hiragana": "あたらしい",
-        "meaning": "Baru"
-    },
-    {
-        "kanji": "人",
-        "hiragana": "ひと",
-        "meaning": "Orang"
-    },
-    {
-        "kanji": "水",
-        "hiragana": "みず",
-        "meaning": "Air"
-    },
-    {
-        "kanji": "千",
-        "hiragana": "せん",
-        "meaning": "Seribu"
-    },
-    {
-        "kanji": "八",
-        "hiragana": "はち",
-        "meaning": "Delapan"
-    },
-    {
-        "kanji": "半",
-        "hiragana": "はん",
-        "meaning": "Setengah"
-    },
-    {
-        "kanji": "足",
-        "hiragana": "あし",
-        "meaning": "Kaki"
-    },
-    {
-        "kanji": "多い",
-        "hiragana": "おおい",
-        "meaning": "Banyak"
-    },
-    {
-        "kanji": "大きい",
-        "hiragana": "おおきい",
-        "meaning": "Besar"
-    },
-    {
-        "kanji": "中",
-        "hiragana": "なか",
-        "meaning": "Dalam / Tengah"
-    },
-    {
-        "kanji": "長い",
-        "hiragana": "ながい",
-        "meaning": "Panjang"
-    },
-    {
-        "kanji": "店",
-        "hiragana": "みせ",
-        "meaning": "Toko"
-    },
-    {
-        "kanji": "電気",
-        "hiragana": "でんき",
-        "meaning": "Listrik / Lampu"
-    },
-    {
-        "kanji": "土",
-        "hiragana": "つち",
-        "meaning": "Tanah"
-    },
-    {
-        "kanji": "東",
-        "hiragana": "ひがし",
-        "meaning": "Timur"
-    },
-    {
-        "kanji": "道",
-        "hiragana": "みち",
-        "meaning": "Jalan"
-    },
-    {
-        "kanji": "読む",
-        "hiragana": "よむ",
-        "meaning": "Membaca"
-    },
-    {
-        "kanji": "南",
-        "hiragana": "みなみ",
-        "meaning": "Selatan"
-    },
-    {
-        "kanji": "二",
-        "hiragana": "に",
-        "meaning": "Dua"
-    },
-    {
-        "kanji": "日",
-        "hiragana": "ひ / にち",
-        "meaning": "Matahari / Hari"
-    },
-    {
-        "kanji": "入る",
-        "hiragana": "はいる",
-        "meaning": "Masuk"
-    },
-    {
-        "kanji": "年",
-        "hiragana": "とし / ねん",
-        "meaning": "Tahun"
-    },
-    {
-        "kanji": "買う",
-        "hiragana": "かう",
-        "meaning": "Membeli"
-    },
-    {
-        "kanji": "白い",
-        "hiragana": "しろい",
-        "meaning": "Putih"
-    },
-    {
-        "kanji": "立つ",
-        "hiragana": "たつ",
-        "meaning": "Berdiri"
-    },
-    {
-        "kanji": "六",
-        "hiragana": "ろく",
-        "meaning": "Enam"
-    },
-    {
-        "kanji": "百",
-        "hiragana": "ひゃく",
-        "meaning": "Seratus"
-    },
-    {
-        "kanji": "父",
-        "hiragana": "ちち",
-        "meaning": "Ayah"
-    },
-    {
-        "kanji": "聞く",
-        "hiragana": "きく",
-        "meaning": "Mendengar / Bertanya"
-    },
-    {
-        "kanji": "北",
-        "hiragana": "きた",
-        "meaning": "Utara"
-    },
-    {
-        "kanji": "木",
-        "hiragana": "き",
-        "meaning": "Pohon / Kayu"
-    },
-    {
-        "kanji": "本",
-        "hiragana": "ほん",
-        "meaning": "Buku / Asal / Utama"
-    },
-    {
-        "kanji": "毎",
-        "hiragana": "まい",
-        "meaning": "Setiap"
-    },
-    {
-        "kanji": "母",
-        "hiragana": "はは",
-        "meaning": "Ibu"
-    }
+  {
+    "id": "N5.5.1",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "meaning": "Murah"
+  },
+  {
+    "id": "N5.5.2",
+    "kanji": "一",
+    "hiragana": "いち",
+    "meaning": "Satu"
+  },
+  {
+    "id": "N5.5.3",
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "meaning": "Minum"
+  },
+  {
+    "id": "N5.5.4",
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "meaning": "Kanan"
+  },
+  {
+    "id": "N5.5.5",
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "meaning": "Hujan"
+  },
+  {
+    "id": "N5.5.6",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "meaning": "Stasiun"
+  },
+  {
+    "id": "N5.5.7",
+    "kanji": "円",
+    "hiragana": "えん",
+    "meaning": "Yen"
+  },
+  {
+    "id": "N5.5.8",
+    "kanji": "火",
+    "hiragana": "ひ",
+    "meaning": "Api"
+  },
+  {
+    "id": "N5.5.9",
+    "kanji": "花",
+    "hiragana": "はな",
+    "meaning": "Bunga"
+  },
+  {
+    "id": "N5.5.10",
+    "kanji": "下",
+    "hiragana": "した",
+    "meaning": "Bawah"
+  },
+  {
+    "id": "N5.5.11",
+    "kanji": "何",
+    "hiragana": "なに / なん",
+    "meaning": "Apa"
+  },
+  {
+    "id": "N5.5.12",
+    "kanji": "会う",
+    "hiragana": "あう",
+    "meaning": "Bertemu"
+  },
+  {
+    "id": "N5.5.13",
+    "kanji": "外",
+    "hiragana": "そと",
+    "meaning": "Luar"
+  },
+  {
+    "id": "N5.5.14",
+    "kanji": "学ぶ",
+    "hiragana": "まなぶ",
+    "meaning": "Belajar"
+  },
+  {
+    "id": "N5.5.15",
+    "kanji": "間",
+    "hiragana": "あいだ / ま",
+    "meaning": "Antara"
+  },
+  {
+    "id": "N5.5.16",
+    "kanji": "気",
+    "hiragana": "き",
+    "meaning": "Perasaan / Suasana hati"
+  },
+  {
+    "id": "N5.5.17",
+    "kanji": "九",
+    "hiragana": "きゅう / く",
+    "meaning": "Sembilan"
+  },
+  {
+    "id": "N5.5.18",
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "meaning": "Istirahat / Libur"
+  },
+  {
+    "id": "N5.5.19",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "meaning": "Ikan"
+  },
+  {
+    "id": "N5.5.20",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "meaning": "Uang"
+  },
+  {
+    "id": "N5.5.21",
+    "kanji": "空",
+    "hiragana": "そら / から",
+    "meaning": "Langit / Kosong"
+  },
+  {
+    "id": "N5.5.22",
+    "kanji": "七",
+    "hiragana": "しち / なな",
+    "meaning": "Tujuh"
+  },
+  {
+    "id": "N5.5.23",
+    "kanji": "月",
+    "hiragana": "つき / がつ / げつ",
+    "meaning": "Bulan"
+  },
+  {
+    "id": "N5.5.24",
+    "kanji": "見る",
+    "hiragana": "みる",
+    "meaning": "Melihat"
+  },
+  {
+    "id": "N5.5.25",
+    "kanji": "言う",
+    "hiragana": "いう",
+    "meaning": "Mengatakan"
+  },
+  {
+    "id": "N5.5.26",
+    "kanji": "五",
+    "hiragana": "ご",
+    "meaning": "Lima"
+  },
+  {
+    "id": "N5.5.27",
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "meaning": "Belakang"
+  },
+  {
+    "id": "N5.5.28",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "meaning": "Sore (PM)"
+  },
+  {
+    "id": "N5.5.29",
+    "kanji": "語",
+    "hiragana": "ご",
+    "meaning": "Bahasa / Kata"
+  },
+  {
+    "id": "N5.5.30",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "meaning": "Sekolah"
+  },
+  {
+    "id": "N5.5.31",
+    "kanji": "口",
+    "hiragana": "くち",
+    "meaning": "Mulut"
+  },
+  {
+    "id": "N5.5.32",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "meaning": "Tua / Lama"
+  },
+  {
+    "id": "N5.5.33",
+    "kanji": "行く",
+    "hiragana": "いく",
+    "meaning": "Pergi"
+  },
+  {
+    "id": "N5.5.34",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "meaning": "Tinggi / Mahal"
+  },
+  {
+    "id": "N5.5.35",
+    "kanji": "国",
+    "hiragana": "くに",
+    "meaning": "Negara"
+  },
+  {
+    "id": "N5.5.36",
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "Sekarang"
+  },
+  {
+    "id": "N5.5.37",
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "meaning": "Kiri"
+  },
+  {
+    "id": "N5.5.38",
+    "kanji": "三",
+    "hiragana": "さん",
+    "meaning": "Tiga"
+  },
+  {
+    "id": "N5.5.39",
+    "kanji": "山",
+    "hiragana": "やま",
+    "meaning": "Gunung"
+  },
+  {
+    "id": "N5.5.40",
+    "kanji": "四",
+    "hiragana": "し / よん",
+    "meaning": "Empat"
+  },
+  {
+    "id": "N5.5.41",
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "meaning": "Laki-laki"
+  },
+  {
+    "id": "N5.5.42",
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "meaning": "Telinga"
+  },
+  {
+    "id": "N5.5.43",
+    "kanji": "時",
+    "hiragana": "とき / じ",
+    "meaning": "Waktu / Jam"
+  },
+  {
+    "id": "N5.5.44",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "Depan"
+  },
+  {
+    "id": "N5.5.45",
+    "kanji": "車",
+    "hiragana": "くるま",
+    "meaning": "Mobil"
+  },
+  {
+    "id": "N5.5.46",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "meaning": "Perusahaan"
+  },
+  {
+    "id": "N5.5.47",
+    "kanji": "手",
+    "hiragana": "て",
+    "meaning": "Tangan"
+  },
+  {
+    "id": "N5.5.48",
+    "kanji": "週",
+    "hiragana": "しゅう",
+    "meaning": "Minggu (pekan)"
+  },
+  {
+    "id": "N5.5.49",
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "meaning": "Sepuluh"
+  },
+  {
+    "id": "N5.5.50",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "meaning": "Keluar"
+  },
+  {
+    "id": "N5.5.51",
+    "kanji": "書く",
+    "hiragana": "かく",
+    "meaning": "Menulis"
+  },
+  {
+    "id": "N5.5.52",
+    "kanji": "女",
+    "hiragana": "おんな",
+    "meaning": "Perempuan"
+  },
+  {
+    "id": "N5.5.53",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "meaning": "Kecil"
+  },
+  {
+    "id": "N5.5.54",
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "meaning": "Sedikit"
+  },
+  {
+    "id": "N5.5.55",
+    "kanji": "上",
+    "hiragana": "うえ",
+    "meaning": "Atas"
+  },
+  {
+    "id": "N5.5.56",
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "meaning": "Makan"
+  },
+  {
+    "id": "N5.5.57",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "meaning": "Baru"
+  },
+  {
+    "id": "N5.5.58",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "meaning": "Orang"
+  },
+  {
+    "id": "N5.5.59",
+    "kanji": "水",
+    "hiragana": "みず",
+    "meaning": "Air"
+  },
+  {
+    "id": "N5.5.60",
+    "kanji": "千",
+    "hiragana": "せん",
+    "meaning": "Seribu"
+  },
+  {
+    "id": "N5.5.61",
+    "kanji": "八",
+    "hiragana": "はち",
+    "meaning": "Delapan"
+  },
+  {
+    "id": "N5.5.62",
+    "kanji": "半",
+    "hiragana": "はん",
+    "meaning": "Setengah"
+  },
+  {
+    "id": "N5.5.63",
+    "kanji": "足",
+    "hiragana": "あし",
+    "meaning": "Kaki"
+  },
+  {
+    "id": "N5.5.64",
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "meaning": "Banyak"
+  },
+  {
+    "id": "N5.5.65",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "meaning": "Besar"
+  },
+  {
+    "id": "N5.5.66",
+    "kanji": "中",
+    "hiragana": "なか",
+    "meaning": "Dalam / Tengah"
+  },
+  {
+    "id": "N5.5.67",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "meaning": "Panjang"
+  },
+  {
+    "id": "N5.5.68",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "meaning": "Toko"
+  },
+  {
+    "id": "N5.5.69",
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "meaning": "Listrik / Lampu"
+  },
+  {
+    "id": "N5.5.70",
+    "kanji": "土",
+    "hiragana": "つち",
+    "meaning": "Tanah"
+  },
+  {
+    "id": "N5.5.71",
+    "kanji": "東",
+    "hiragana": "ひがし",
+    "meaning": "Timur"
+  },
+  {
+    "id": "N5.5.72",
+    "kanji": "道",
+    "hiragana": "みち",
+    "meaning": "Jalan"
+  },
+  {
+    "id": "N5.5.73",
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "meaning": "Membaca"
+  },
+  {
+    "id": "N5.5.74",
+    "kanji": "南",
+    "hiragana": "みなみ",
+    "meaning": "Selatan"
+  },
+  {
+    "id": "N5.5.75",
+    "kanji": "二",
+    "hiragana": "に",
+    "meaning": "Dua"
+  },
+  {
+    "id": "N5.5.76",
+    "kanji": "日",
+    "hiragana": "ひ / にち",
+    "meaning": "Matahari / Hari"
+  },
+  {
+    "id": "N5.5.77",
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "meaning": "Masuk"
+  },
+  {
+    "id": "N5.5.78",
+    "kanji": "年",
+    "hiragana": "とし / ねん",
+    "meaning": "Tahun"
+  },
+  {
+    "id": "N5.5.79",
+    "kanji": "買う",
+    "hiragana": "かう",
+    "meaning": "Membeli"
+  },
+  {
+    "id": "N5.5.80",
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "meaning": "Putih"
+  },
+  {
+    "id": "N5.5.81",
+    "kanji": "立つ",
+    "hiragana": "たつ",
+    "meaning": "Berdiri"
+  },
+  {
+    "id": "N5.5.82",
+    "kanji": "六",
+    "hiragana": "ろく",
+    "meaning": "Enam"
+  },
+  {
+    "id": "N5.5.83",
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "meaning": "Seratus"
+  },
+  {
+    "id": "N5.5.84",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meaning": "Ayah"
+  },
+  {
+    "id": "N5.5.85",
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "meaning": "Mendengar / Bertanya"
+  },
+  {
+    "id": "N5.5.86",
+    "kanji": "北",
+    "hiragana": "きた",
+    "meaning": "Utara"
+  },
+  {
+    "id": "N5.5.87",
+    "kanji": "木",
+    "hiragana": "き",
+    "meaning": "Pohon / Kayu"
+  },
+  {
+    "id": "N5.5.88",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "meaning": "Buku / Asal / Utama"
+  },
+  {
+    "id": "N5.5.89",
+    "kanji": "毎",
+    "hiragana": "まい",
+    "meaning": "Setiap"
+  },
+  {
+    "id": "N5.5.90",
+    "kanji": "母",
+    "hiragana": "はは",
+    "meaning": "Ibu"
+  }
 ]

@@ -1,402 +1,482 @@
 [
-    {
-        "kanji": "切る",
-        "hiragana": "きる",
-        "meaning": "Memotong"
-    },
-    {
-        "kanji": "遅れる",
-        "hiragana": "おくれる",
-        "meaning": "Terlambat"
-    },
-    {
-        "kanji": "教える",
-        "hiragana": "おしえる",
-        "meaning": "Mengajar / Memberitahu"
-    },
-    {
-        "kanji": "借りる",
-        "hiragana": "かりる",
-        "meaning": "Meminjam"
-    },
-    {
-        "kanji": "冬",
-        "hiragana": "ふゆ",
-        "meaning": "Musim dingin"
-    },
-    {
-        "kanji": "紙",
-        "hiragana": "かみ",
-        "meaning": "Kertas"
-    },
-    {
-        "kanji": "荷物",
-        "hiragana": "にもつ",
-        "meaning": "Barang / Bagasi"
-    },
-    {
-        "kanji": "切符",
-        "hiragana": "きっぷ",
-        "meaning": "Tiket"
-    },
-    {
-        "kanji": "お父さん",
-        "hiragana": "おとうさん",
-        "meaning": "Ayah"
-    },
-    {
-        "kanji": "静か",
-        "hiragana": "しずか",
-        "meaning": "Tenang"
-    },
-    {
-        "kanji": "元気",
-        "hiragana": "げんき",
-        "meaning": "Sehat / Bersemangat"
-    },
-    {
-        "kanji": "暇",
-        "hiragana": "ひま",
-        "meaning": "Waktu luang"
-    },
-    {
-        "kanji": "便利",
-        "hiragana": "べんり",
-        "meaning": "Praktis / Nyaman"
-    },
-    {
-        "kanji": "悪い",
-        "hiragana": "わるい",
-        "meaning": "Buruk / Jahat"
-    },
-    {
-        "kanji": "暑い",
-        "hiragana": "あつい",
-        "meaning": "Panas (udara)"
-    },
-    {
-        "kanji": "寒い",
-        "hiragana": "さむい",
-        "meaning": "Dingin (udara)"
-    },
-    {
-        "kanji": "冷たい",
-        "hiragana": "つめたい",
-        "meaning": "Dingin (benda)"
-    },
-    {
-        "kanji": "難しい",
-        "hiragana": "むずかしい",
-        "meaning": "Sulit"
-    },
-    {
-        "kanji": "易しい",
-        "hiragana": "やさしい",
-        "meaning": "Mudah"
-    },
-    {
-        "kanji": "低い",
-        "hiragana": "ひくい",
-        "meaning": "Rendah / Pendek"
-    },
-    {
-        "kanji": "忙しい",
-        "hiragana": "いそがしい",
-        "meaning": "Sibuk"
-    },
-    {
-        "kanji": "楽しい",
-        "hiragana": "たのしい",
-        "meaning": "Menyenangkan"
-    },
-    {
-        "kanji": "黒い",
-        "hiragana": "くろい",
-        "meaning": "Hitam"
-    },
-    {
-        "kanji": "赤い",
-        "hiragana": "あかい",
-        "meaning": "Merah"
-    },
-    {
-        "kanji": "桜",
-        "hiragana": "さくら",
-        "meaning": "Bunga sakura"
-    },
-    {
-        "kanji": "町",
-        "hiragana": "まち",
-        "meaning": "Kota / Kota kecil"
-    },
-    {
-        "kanji": "食べ物",
-        "hiragana": "たべもの",
-        "meaning": "Makanan"
-    },
-    {
-        "kanji": "所",
-        "hiragana": "ところ",
-        "meaning": "Tempat"
-    },
-    {
-        "kanji": "生活",
-        "hiragana": "せいかつ",
-        "meaning": "Kehidupan"
-    },
-    {
-        "kanji": "好き",
-        "hiragana": "すき",
-        "meaning": "Suka"
-    },
-    {
-        "kanji": "嫌い",
-        "hiragana": "きらい",
-        "meaning": "Tidak suka / Benci"
-    },
-    {
-        "kanji": "上手",
-        "hiragana": "じょうず",
-        "meaning": "Pandai / Mahir"
-    },
-    {
-        "kanji": "下手",
-        "hiragana": "へた",
-        "meaning": "Tidak pandai / Lemah"
-    },
-    {
-        "kanji": "夏",
-        "hiragana": "なつ",
-        "meaning": "Musim panas"
-    },
-    {
-        "kanji": "旅行",
-        "hiragana": "りょこう",
-        "meaning": "Perjalanan / Wisata"
-    },
-    {
-        "kanji": "音楽",
-        "hiragana": "おんがく",
-        "meaning": "Musik"
-    },
-    {
-        "kanji": "絵",
-        "hiragana": "え",
-        "meaning": "Gambar / Lukisan"
-    },
-    {
-        "kanji": "漢字",
-        "hiragana": "かんじ",
-        "meaning": "Huruf Kanji"
-    },
-    {
-        "kanji": "字",
-        "hiragana": "じ",
-        "meaning": "Huruf / Tulisan"
-    },
-    {
-        "kanji": "時間",
-        "hiragana": "じかん",
-        "meaning": "Waktu / Jam"
-    },
-    {
-        "kanji": "用事",
-        "hiragana": "ようじ",
-        "meaning": "Urusan"
-    },
-    {
-        "kanji": "約束",
-        "hiragana": "やくそく",
-        "meaning": "Janji"
-    },
-    {
-        "kanji": "秋",
-        "hiragana": "あき",
-        "meaning": "Musim gugur"
-    },
-    {
-        "kanji": "奥さん",
-        "hiragana": "おくさん",
-        "meaning": "Istri (orang lain)"
-    },
-    {
-        "kanji": "雪",
-        "hiragana": "ゆき",
-        "meaning": "Salju"
-    },
-    {
-        "kanji": "子供",
-        "hiragana": "こども",
-        "meaning": "Anak"
-    },
-    {
-        "kanji": "早く",
-        "hiragana": "はやく",
-        "meaning": "Cepat / Lebih awal"
-    },
-    {
-        "kanji": "犬",
-        "hiragana": "いぬ",
-        "meaning": "Anjing"
-    },
-    {
-        "kanji": "物",
-        "hiragana": "もの",
-        "meaning": "Benda / Barang"
-    },
-    {
-        "kanji": "箱",
-        "hiragana": "はこ",
-        "meaning": "Kotak"
-    },
-    {
-        "kanji": "春",
-        "hiragana": "はる",
-        "meaning": "Musim semi"
-    },
-    {
-        "kanji": "軽い",
-        "hiragana": "かるい",
-        "meaning": "Ringan"
-    },
-    {
-        "kanji": "両親",
-        "hiragana": "りょうしん",
-        "meaning": "Orang tua (ayah & ibu)"
-    },
-    {
-        "kanji": "兄弟",
-        "hiragana": "きょうだい",
-        "meaning": "Saudara kandung"
-    },
-    {
-        "kanji": "兄",
-        "hiragana": "あに",
-        "meaning": "Kakak laki-laki"
-    },
-    {
-        "kanji": "姉",
-        "hiragana": "あね",
-        "meaning": "Kakak perempuan"
-    },
-    {
-        "kanji": "弟",
-        "hiragana": "おとうと",
-        "meaning": "Adik laki-laki"
-    },
-    {
-        "kanji": "妹",
-        "hiragana": "いもうと",
-        "meaning": "Adik perempuan"
-    },
-    {
-        "kanji": "外国",
-        "hiragana": "がいこく",
-        "meaning": "Negara asing"
-    },
-    {
-        "kanji": "留学生",
-        "hiragana": "りゅうがくせい",
-        "meaning": "Mahasiswa asing"
-    },
-    {
-        "kanji": "遅い",
-        "hiragana": "おそい",
-        "meaning": "Lambat / Terlambat"
-    },
-    {
-        "kanji": "遠い",
-        "hiragana": "とおい",
-        "meaning": "Jauh"
-    },
-    {
-        "kanji": "近い",
-        "hiragana": "ちかい",
-        "meaning": "Dekat"
-    },
-    {
-        "kanji": "全部",
-        "hiragana": "ぜんぶ",
-        "meaning": "Semua"
-    },
-    {
-        "kanji": "週間",
-        "hiragana": "しゅうかん",
-        "meaning": "Minggu (durasi)"
-    },
-    {
-        "kanji": "天気",
-        "hiragana": "てんき",
-        "meaning": "Cuaca"
-    },
-    {
-        "kanji": "夫",
-        "hiragana": "おっと",
-        "meaning": "Suami"
-    },
-    {
-        "kanji": "温かい",
-        "hiragana": "あたたかい",
-        "meaning": "Hangat"
-    },
-    {
-        "kanji": "涼しい",
-        "hiragana": "すずしい",
-        "meaning": "Sejuk"
-    },
-    {
-        "kanji": "甘い",
-        "hiragana": "あまい",
-        "meaning": "Manis"
-    },
-    {
-        "kanji": "辛い",
-        "hiragana": "からい",
-        "meaning": "Pedas"
-    },
-    {
-        "kanji": "重い",
-        "hiragana": "おもい",
-        "meaning": "Berat"
-    },
-    {
-        "kanji": "上着",
-        "hiragana": "うわぎ",
-        "meaning": "Jaket / Pakaian luar"
-    },
-    {
-        "kanji": "薬",
-        "hiragana": "くすり",
-        "meaning": "Obat"
-    },
-    {
-        "kanji": "病気",
-        "hiragana": "びょうき",
-        "meaning": "Sakit / Penyakit"
-    },
-    {
-        "kanji": "熱",
-        "hiragana": "ねつ",
-        "meaning": "Demam / Panas tubuh"
-    },
-    {
-        "kanji": "危ない",
-        "hiragana": "あぶない",
-        "meaning": "Berbahaya"
-    },
-    {
-        "kanji": "大丈夫",
-        "hiragana": "だいじょうぶ",
-        "meaning": "Baik-baik saja / Tidak apa-apa"
-    },
-    {
-        "kanji": "東京",
-        "hiragana": "とうきょう",
-        "meaning": "Tokyo"
-    },
-    {
-        "kanji": "部屋",
-        "hiragana": "へや",
-        "meaning": "Kamar / Ruangan"
-    }
+  {
+    "id": "N5.2.1",
+    "kanji": "切る",
+    "hiragana": "きる",
+    "meaning": "Memotong"
+  },
+  {
+    "id": "N5.2.2",
+    "kanji": "遅れる",
+    "hiragana": "おくれる",
+    "meaning": "Terlambat"
+  },
+  {
+    "id": "N5.2.3",
+    "kanji": "教える",
+    "hiragana": "おしえる",
+    "meaning": "Mengajar / Memberitahu"
+  },
+  {
+    "id": "N5.2.4",
+    "kanji": "借りる",
+    "hiragana": "かりる",
+    "meaning": "Meminjam"
+  },
+  {
+    "id": "N5.2.5",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "meaning": "Musim dingin"
+  },
+  {
+    "id": "N5.2.6",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "meaning": "Kertas"
+  },
+  {
+    "id": "N5.2.7",
+    "kanji": "荷物",
+    "hiragana": "にもつ",
+    "meaning": "Barang / Bagasi"
+  },
+  {
+    "id": "N5.2.8",
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "meaning": "Tiket"
+  },
+  {
+    "id": "N5.2.9",
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "meaning": "Ayah"
+  },
+  {
+    "id": "N5.2.10",
+    "kanji": "静か",
+    "hiragana": "しずか",
+    "meaning": "Tenang"
+  },
+  {
+    "id": "N5.2.11",
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "meaning": "Sehat / Bersemangat"
+  },
+  {
+    "id": "N5.2.12",
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "meaning": "Waktu luang"
+  },
+  {
+    "id": "N5.2.13",
+    "kanji": "便利",
+    "hiragana": "べんり",
+    "meaning": "Praktis / Nyaman"
+  },
+  {
+    "id": "N5.2.14",
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "meaning": "Buruk / Jahat"
+  },
+  {
+    "id": "N5.2.15",
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "meaning": "Panas (udara)"
+  },
+  {
+    "id": "N5.2.16",
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "meaning": "Dingin (udara)"
+  },
+  {
+    "id": "N5.2.17",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "meaning": "Dingin (benda)"
+  },
+  {
+    "id": "N5.2.18",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "meaning": "Sulit"
+  },
+  {
+    "id": "N5.2.19",
+    "kanji": "易しい",
+    "hiragana": "やさしい",
+    "meaning": "Mudah"
+  },
+  {
+    "id": "N5.2.20",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "meaning": "Rendah / Pendek"
+  },
+  {
+    "id": "N5.2.21",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "meaning": "Sibuk"
+  },
+  {
+    "id": "N5.2.22",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "meaning": "Menyenangkan"
+  },
+  {
+    "id": "N5.2.23",
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "meaning": "Hitam"
+  },
+  {
+    "id": "N5.2.24",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "meaning": "Merah"
+  },
+  {
+    "id": "N5.2.25",
+    "kanji": "桜",
+    "hiragana": "さくら",
+    "meaning": "Bunga sakura"
+  },
+  {
+    "id": "N5.2.26",
+    "kanji": "町",
+    "hiragana": "まち",
+    "meaning": "Kota / Kota kecil"
+  },
+  {
+    "id": "N5.2.27",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "meaning": "Makanan"
+  },
+  {
+    "id": "N5.2.28",
+    "kanji": "所",
+    "hiragana": "ところ",
+    "meaning": "Tempat"
+  },
+  {
+    "id": "N5.2.29",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "meaning": "Kehidupan"
+  },
+  {
+    "id": "N5.2.30",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "meaning": "Suka"
+  },
+  {
+    "id": "N5.2.31",
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "meaning": "Tidak suka / Benci"
+  },
+  {
+    "id": "N5.2.32",
+    "kanji": "上手",
+    "hiragana": "じょうず",
+    "meaning": "Pandai / Mahir"
+  },
+  {
+    "id": "N5.2.33",
+    "kanji": "下手",
+    "hiragana": "へた",
+    "meaning": "Tidak pandai / Lemah"
+  },
+  {
+    "id": "N5.2.34",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "meaning": "Musim panas"
+  },
+  {
+    "id": "N5.2.35",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "meaning": "Perjalanan / Wisata"
+  },
+  {
+    "id": "N5.2.36",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "meaning": "Musik"
+  },
+  {
+    "id": "N5.2.37",
+    "kanji": "絵",
+    "hiragana": "え",
+    "meaning": "Gambar / Lukisan"
+  },
+  {
+    "id": "N5.2.38",
+    "kanji": "漢字",
+    "hiragana": "かんじ",
+    "meaning": "Huruf Kanji"
+  },
+  {
+    "id": "N5.2.39",
+    "kanji": "字",
+    "hiragana": "じ",
+    "meaning": "Huruf / Tulisan"
+  },
+  {
+    "id": "N5.2.40",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "meaning": "Waktu / Jam"
+  },
+  {
+    "id": "N5.2.41",
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "meaning": "Urusan"
+  },
+  {
+    "id": "N5.2.42",
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "meaning": "Janji"
+  },
+  {
+    "id": "N5.2.43",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "meaning": "Musim gugur"
+  },
+  {
+    "id": "N5.2.44",
+    "kanji": "奥さん",
+    "hiragana": "おくさん",
+    "meaning": "Istri (orang lain)"
+  },
+  {
+    "id": "N5.2.45",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "meaning": "Salju"
+  },
+  {
+    "id": "N5.2.46",
+    "kanji": "子供",
+    "hiragana": "こども",
+    "meaning": "Anak"
+  },
+  {
+    "id": "N5.2.47",
+    "kanji": "早く",
+    "hiragana": "はやく",
+    "meaning": "Cepat / Lebih awal"
+  },
+  {
+    "id": "N5.2.48",
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "meaning": "Anjing"
+  },
+  {
+    "id": "N5.2.49",
+    "kanji": "物",
+    "hiragana": "もの",
+    "meaning": "Benda / Barang"
+  },
+  {
+    "id": "N5.2.50",
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "meaning": "Kotak"
+  },
+  {
+    "id": "N5.2.51",
+    "kanji": "春",
+    "hiragana": "はる",
+    "meaning": "Musim semi"
+  },
+  {
+    "id": "N5.2.52",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "meaning": "Ringan"
+  },
+  {
+    "id": "N5.2.53",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "meaning": "Orang tua (ayah & ibu)"
+  },
+  {
+    "id": "N5.2.54",
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "meaning": "Saudara kandung"
+  },
+  {
+    "id": "N5.2.55",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "meaning": "Kakak laki-laki"
+  },
+  {
+    "id": "N5.2.56",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "meaning": "Kakak perempuan"
+  },
+  {
+    "id": "N5.2.57",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "meaning": "Adik laki-laki"
+  },
+  {
+    "id": "N5.2.58",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "meaning": "Adik perempuan"
+  },
+  {
+    "id": "N5.2.59",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "meaning": "Negara asing"
+  },
+  {
+    "id": "N5.2.60",
+    "kanji": "留学生",
+    "hiragana": "りゅうがくせい",
+    "meaning": "Mahasiswa asing"
+  },
+  {
+    "id": "N5.2.61",
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "meaning": "Lambat / Terlambat"
+  },
+  {
+    "id": "N5.2.62",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "meaning": "Jauh"
+  },
+  {
+    "id": "N5.2.63",
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "meaning": "Dekat"
+  },
+  {
+    "id": "N5.2.64",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "meaning": "Semua"
+  },
+  {
+    "id": "N5.2.65",
+    "kanji": "週間",
+    "hiragana": "しゅうかん",
+    "meaning": "Minggu (durasi)"
+  },
+  {
+    "id": "N5.2.66",
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "meaning": "Cuaca"
+  },
+  {
+    "id": "N5.2.67",
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "meaning": "Suami"
+  },
+  {
+    "id": "N5.2.68",
+    "kanji": "温かい",
+    "hiragana": "あたたかい",
+    "meaning": "Hangat"
+  },
+  {
+    "id": "N5.2.69",
+    "kanji": "涼しい",
+    "hiragana": "すずしい",
+    "meaning": "Sejuk"
+  },
+  {
+    "id": "N5.2.70",
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "meaning": "Manis"
+  },
+  {
+    "id": "N5.2.71",
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "meaning": "Pedas"
+  },
+  {
+    "id": "N5.2.72",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "meaning": "Berat"
+  },
+  {
+    "id": "N5.2.73",
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "meaning": "Jaket / Pakaian luar"
+  },
+  {
+    "id": "N5.2.74",
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "meaning": "Obat"
+  },
+  {
+    "id": "N5.2.75",
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "meaning": "Sakit / Penyakit"
+  },
+  {
+    "id": "N5.2.76",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "meaning": "Demam / Panas tubuh"
+  },
+  {
+    "id": "N5.2.77",
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "meaning": "Berbahaya"
+  },
+  {
+    "id": "N5.2.78",
+    "kanji": "大丈夫",
+    "hiragana": "だいじょうぶ",
+    "meaning": "Baik-baik saja / Tidak apa-apa"
+  },
+  {
+    "id": "N5.2.79",
+    "kanji": "東京",
+    "hiragana": "とうきょう",
+    "meaning": "Tokyo"
+  },
+  {
+    "id": "N5.2.80",
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "meaning": "Kamar / Ruangan"
+  }
 ]

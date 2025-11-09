@@ -1,427 +1,512 @@
 [
-    {
-        "kanji": "集まる",
-        "hiragana": "あつまる",
-        "meaning": "Berkumpul"
-    },
-    {
-        "kanji": "産業",
-        "hiragana": "さんぎょう",
-        "meaning": "Industri / sektor industri"
-    },
-    {
-        "kanji": "運転手",
-        "hiragana": "うんてんしゅ",
-        "meaning": "Pengemudi"
-    },
-    {
-        "kanji": "保険証",
-        "hiragana": "ほけんしょう",
-        "meaning": "Kartu asuransi kesehatan"
-    },
-    {
-        "kanji": "引っ越しする",
-        "hiragana": "ひっこしする",
-        "meaning": "Pindah rumah"
-    },
-    {
-        "kanji": "晴れ",
-        "hiragana": "はれ",
-        "meaning": "Cerah (cuaca)"
-    },
-    {
-        "kanji": "案内する",
-        "hiragana": "あんないする",
-        "meaning": "Memandu"
-    },
-    {
-        "kanji": "用意",
-        "hiragana": "ようい",
-        "meaning": "Persiapan"
-    },
-    {
-        "kanji": "仕方",
-        "hiragana": "しかた",
-        "meaning": "Cara / metode"
-    },
-    {
-        "kanji": "夏休み",
-        "hiragana": "なつやすみ",
-        "meaning": "Liburan musim panas"
-    },
-    {
-        "kanji": "西洋",
-        "hiragana": "せいよう",
-        "meaning": "Barat (negara-negara Barat)"
-    },
-    {
-        "kanji": "家庭",
-        "hiragana": "かてい",
-        "meaning": "Rumah tangga"
-    },
-    {
-        "kanji": "文章",
-        "hiragana": "ぶんしょう",
-        "meaning": "Kalimat"
-    },
-    {
-        "kanji": "専門",
-        "hiragana": "せんもん",
-        "meaning": "Bidang keahlian / spesialisasi"
-    },
-    {
-        "kanji": "女優",
-        "hiragana": "じょゆう",
-        "meaning": "Aktris"
-    },
-    {
-        "kanji": "今朝",
-        "hiragana": "けさ",
-        "meaning": "Pagi ini"
-    },
-    {
-        "kanji": "特別",
-        "hiragana": "とくべつ",
-        "meaning": "Khusus / istimewa"
-    },
-    {
-        "kanji": "お土産",
-        "hiragana": "おみやげ",
-        "meaning": "Oleh-oleh / suvenir"
-    },
-    {
-        "kanji": "新幹線",
-        "hiragana": "しんかんせん",
-        "meaning": "Kereta peluru"
-    },
-    {
-        "kanji": "勤める",
-        "hiragana": "つとめる",
-        "meaning": "Melayani"
-    },
-    {
-        "kanji": "理由",
-        "hiragana": "りゆう",
-        "meaning": "Alasan"
-    },
-    {
-        "kanji": "お正月",
-        "hiragana": "おしょうがつ",
-        "meaning": "Tahun baru (perayaan Jepang)"
-    },
-    {
-        "kanji": "牛肉",
-        "hiragana": "ぎゅうにく",
-        "meaning": "Daging sapi"
-    },
-    {
-        "kanji": "緑",
-        "hiragana": "みどり",
-        "meaning": "Hijau / pepohonan"
-    },
-    {
-        "kanji": "特に",
-        "hiragana": "とくに",
-        "meaning": "Terutama / khususnya"
-    },
-    {
-        "kanji": "地震",
-        "hiragana": "じしん",
-        "meaning": "Gempa bumi"
-    },
-    {
-        "kanji": "楽しむ",
-        "hiragana": "たのしむ",
-        "meaning": "Menikmati"
-    },
-    {
-        "kanji": "毛布",
-        "hiragana": "もうふ",
-        "meaning": "Selimut"
-    },
-    {
-        "kanji": "皆",
-        "hiragana": "みな / みんな",
-        "meaning": "Semua orang"
-    },
-    {
-        "kanji": "遠足",
-        "hiragana": "えんそく",
-        "meaning": "Piknik"
-    },
-    {
-        "kanji": "洋服",
-        "hiragana": "ようふく",
-        "meaning": "Pakaian Barat"
-    },
-    {
-        "kanji": "大使館",
-        "hiragana": "たいしかん",
-        "meaning": "Kedutaan besar"
-    },
-    {
-        "kanji": "昼間",
-        "hiragana": "ひるま",
-        "meaning": "Siang hari"
-    },
-    {
-        "kanji": "春休み",
-        "hiragana": "はるやすみ",
-        "meaning": "Liburan musim semi"
-    },
-    {
-        "kanji": "今回",
-        "hiragana": "こんかい",
-        "meaning": "Kali ini"
-    },
-    {
-        "kanji": "晩ご飯",
-        "hiragana": "ばんごはん",
-        "meaning": "Makan malam"
-    },
-    {
-        "kanji": "愛する",
-        "hiragana": "あいする",
-        "meaning": "Mencintai"
-    },
-    {
-        "kanji": "例文",
-        "hiragana": "れいぶん",
-        "meaning": "Contoh kalimat"
-    },
-    {
-        "kanji": "喫茶店",
-        "hiragana": "きっさてん",
-        "meaning": "Kedai kopi"
-    },
-    {
-        "kanji": "時代",
-        "hiragana": "じだい",
-        "meaning": "Zaman / era"
-    },
-    {
-        "kanji": "真っ直ぐ",
-        "hiragana": "まっすぐ",
-        "meaning": "Lurus / langsung"
-    },
-    {
-        "kanji": "大臣",
-        "hiragana": "だいじん",
-        "meaning": "Menteri"
-    },
-    {
-        "kanji": "返す",
-        "hiragana": "かえす",
-        "meaning": "Mengembalikan (barang)"
-    },
-    {
-        "kanji": "急行",
-        "hiragana": "きゅうこう",
-        "meaning": "Kereta ekspres"
-    },
-    {
-        "kanji": "研究室",
-        "hiragana": "けんきゅうしつ",
-        "meaning": "Laboratorium"
-    },
-    {
-        "kanji": "市民",
-        "hiragana": "しみん",
-        "meaning": "Warga kota / penduduk"
-    },
-    {
-        "kanji": "放送する",
-        "hiragana": "ほうそうする",
-        "meaning": "Menyiarkan (TV/radio)"
-    },
-    {
-        "kanji": "以内",
-        "hiragana": "いない",
-        "meaning": "Dalam (jangka waktu / batas)"
-    },
-    {
-        "kanji": "季節",
-        "hiragana": "きせつ",
-        "meaning": "Musim"
-    },
-    {
-        "kanji": "地理",
-        "hiragana": "ちり",
-        "meaning": "Geografi"
-    },
-    {
-        "kanji": "光",
-        "hiragana": "ひかり",
-        "meaning": "Cahaya"
-    },
-    {
-        "kanji": "工場",
-        "hiragana": "こうじょう",
-        "meaning": "Pabrik"
-    },
-    {
-        "kanji": "講堂",
-        "hiragana": "こうどう",
-        "meaning": "Auditorium"
-    },
-    {
-        "kanji": "飛行士",
-        "hiragana": "ひこうし",
-        "meaning": "Pilot"
-    },
-    {
-        "kanji": "心",
-        "hiragana": "こころ",
-        "meaning": "Hati / perasaan / pikiran"
-    },
-    {
-        "kanji": "貯める",
-        "hiragana": "ためる",
-        "meaning": "Menabung / mengumpulkan"
-    },
-    {
-        "kanji": "以上",
-        "hiragana": "いじょう",
-        "meaning": "Lebih dari / di atas"
-    },
-    {
-        "kanji": "昼食",
-        "hiragana": "ちゅうしょく",
-        "meaning": "Makan siang"
-    },
-    {
-        "kanji": "次回",
-        "hiragana": "じかい",
-        "meaning": "Lain kali"
-    },
-    {
-        "kanji": "封筒",
-        "hiragana": "ふうとう",
-        "meaning": "Amplop"
-    },
-    {
-        "kanji": "昼ご飯",
-        "hiragana": "ひるごはん",
-        "meaning": "Makan siang"
-    },
-    {
-        "kanji": "計画",
-        "hiragana": "けいかく",
-        "meaning": "Rencana / perencanaan"
-    },
-    {
-        "kanji": "石鹼",
-        "hiragana": "せっけん",
-        "meaning": "Sabun"
-    },
-    {
-        "kanji": "研究生",
-        "hiragana": "けんきゅうせい",
-        "meaning": "Mahasiswa peneliti"
-    },
-    {
-        "kanji": "背広",
-        "hiragana": "せびろ",
-        "meaning": "Setelan jas (laki-laki)"
-    },
-    {
-        "kanji": "国籍",
-        "hiragana": "こくせき",
-        "meaning": "Kewarganegaraan"
-    },
-    {
-        "kanji": "注文",
-        "hiragana": "ちゅうもん",
-        "meaning": "Pesanan / memesan"
-    },
-    {
-        "kanji": "俳優",
-        "hiragana": "はいゆう",
-        "meaning": "Aktor"
-    },
-    {
-        "kanji": "遠慮する",
-        "hiragana": "えんりょする",
-        "meaning": "Sungkan"
-    },
-    {
-        "kanji": "喉",
-        "hiragana": "のど",
-        "meaning": "Tenggorokan"
-    },
-    {
-        "kanji": "小説家",
-        "hiragana": "しょうせつか",
-        "meaning": "Penulis novel"
-    },
-    {
-        "kanji": "主人",
-        "hiragana": "しゅじん",
-        "meaning": "Suami / majikan"
-    },
-    {
-        "kanji": "受付",
-        "hiragana": "うけつけ",
-        "meaning": "Resepsionis"
-    },
-    {
-        "kanji": "銀行員",
-        "hiragana": "ぎんこういん",
-        "meaning": "Pegawai bank"
-    },
-    {
-        "kanji": "次",
-        "hiragana": "つぎ",
-        "meaning": "Berikutnya"
-    },
-    {
-        "kanji": "二階建て",
-        "hiragana": "にかいだて",
-        "meaning": "Bangunan dua lantai"
-    },
-    {
-        "kanji": "教師",
-        "hiragana": "きょうし",
-        "meaning": "Guru / pengajar"
-    },
-    {
-        "kanji": "以外",
-        "hiragana": "いがい",
-        "meaning": "Selain / kecuali"
-    },
-    {
-        "kanji": "洗濯機",
-        "hiragana": "せんたくき",
-        "meaning": "Mesin cuci"
-    },
-    {
-        "kanji": "両方",
-        "hiragana": "りょうほう",
-        "meaning": "Keduanya"
-    },
-    {
-        "kanji": "冷蔵庫",
-        "hiragana": "れいぞうこ",
-        "meaning": "Kulkas"
-    },
-    {
-        "kanji": "豚肉",
-        "hiragana": "ぶたにく",
-        "meaning": "Daging babi"
-    },
-    {
-        "kanji": "庭",
-        "hiragana": "にわ",
-        "meaning": "Taman / halaman"
-    },
-    {
-        "kanji": "冬休み",
-        "hiragana": "ふゆやすみ",
-        "meaning": "Liburan musim dingin"
-    },
-    {
-        "kanji": "綺麗",
-        "hiragana": "きれい",
-        "meaning": "Cantik / indah"
-    }
+  {
+    "id": "N4.7.1",
+    "kanji": "集まる",
+    "hiragana": "あつまる",
+    "meaning": "Berkumpul"
+  },
+  {
+    "id": "N4.7.2",
+    "kanji": "産業",
+    "hiragana": "さんぎょう",
+    "meaning": "Industri / sektor industri"
+  },
+  {
+    "id": "N4.7.3",
+    "kanji": "運転手",
+    "hiragana": "うんてんしゅ",
+    "meaning": "Pengemudi"
+  },
+  {
+    "id": "N4.7.4",
+    "kanji": "保険証",
+    "hiragana": "ほけんしょう",
+    "meaning": "Kartu asuransi kesehatan"
+  },
+  {
+    "id": "N4.7.5",
+    "kanji": "引っ越しする",
+    "hiragana": "ひっこしする",
+    "meaning": "Pindah rumah"
+  },
+  {
+    "id": "N4.7.6",
+    "kanji": "晴れ",
+    "hiragana": "はれ",
+    "meaning": "Cerah (cuaca)"
+  },
+  {
+    "id": "N4.7.7",
+    "kanji": "案内する",
+    "hiragana": "あんないする",
+    "meaning": "Memandu"
+  },
+  {
+    "id": "N4.7.8",
+    "kanji": "用意",
+    "hiragana": "ようい",
+    "meaning": "Persiapan"
+  },
+  {
+    "id": "N4.7.9",
+    "kanji": "仕方",
+    "hiragana": "しかた",
+    "meaning": "Cara / metode"
+  },
+  {
+    "id": "N4.7.10",
+    "kanji": "夏休み",
+    "hiragana": "なつやすみ",
+    "meaning": "Liburan musim panas"
+  },
+  {
+    "id": "N4.7.11",
+    "kanji": "西洋",
+    "hiragana": "せいよう",
+    "meaning": "Barat (negara-negara Barat)"
+  },
+  {
+    "id": "N4.7.12",
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "meaning": "Rumah tangga"
+  },
+  {
+    "id": "N4.7.13",
+    "kanji": "文章",
+    "hiragana": "ぶんしょう",
+    "meaning": "Kalimat"
+  },
+  {
+    "id": "N4.7.14",
+    "kanji": "専門",
+    "hiragana": "せんもん",
+    "meaning": "Bidang keahlian / spesialisasi"
+  },
+  {
+    "id": "N4.7.15",
+    "kanji": "女優",
+    "hiragana": "じょゆう",
+    "meaning": "Aktris"
+  },
+  {
+    "id": "N4.7.16",
+    "kanji": "今朝",
+    "hiragana": "けさ",
+    "meaning": "Pagi ini"
+  },
+  {
+    "id": "N4.7.17",
+    "kanji": "特別",
+    "hiragana": "とくべつ",
+    "meaning": "Khusus / istimewa"
+  },
+  {
+    "id": "N4.7.18",
+    "kanji": "お土産",
+    "hiragana": "おみやげ",
+    "meaning": "Oleh-oleh / suvenir"
+  },
+  {
+    "id": "N4.7.19",
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "meaning": "Kereta peluru"
+  },
+  {
+    "id": "N4.7.20",
+    "kanji": "勤める",
+    "hiragana": "つとめる",
+    "meaning": "Melayani"
+  },
+  {
+    "id": "N4.7.21",
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "meaning": "Alasan"
+  },
+  {
+    "id": "N4.7.22",
+    "kanji": "お正月",
+    "hiragana": "おしょうがつ",
+    "meaning": "Tahun baru (perayaan Jepang)"
+  },
+  {
+    "id": "N4.7.23",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "meaning": "Daging sapi"
+  },
+  {
+    "id": "N4.7.24",
+    "kanji": "緑",
+    "hiragana": "みどり",
+    "meaning": "Hijau / pepohonan"
+  },
+  {
+    "id": "N4.7.25",
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "meaning": "Terutama / khususnya"
+  },
+  {
+    "id": "N4.7.26",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "meaning": "Gempa bumi"
+  },
+  {
+    "id": "N4.7.27",
+    "kanji": "楽しむ",
+    "hiragana": "たのしむ",
+    "meaning": "Menikmati"
+  },
+  {
+    "id": "N4.7.28",
+    "kanji": "毛布",
+    "hiragana": "もうふ",
+    "meaning": "Selimut"
+  },
+  {
+    "id": "N4.7.29",
+    "kanji": "皆",
+    "hiragana": "みな / みんな",
+    "meaning": "Semua orang"
+  },
+  {
+    "id": "N4.7.30",
+    "kanji": "遠足",
+    "hiragana": "えんそく",
+    "meaning": "Piknik"
+  },
+  {
+    "id": "N4.7.31",
+    "kanji": "洋服",
+    "hiragana": "ようふく",
+    "meaning": "Pakaian Barat"
+  },
+  {
+    "id": "N4.7.32",
+    "kanji": "大使館",
+    "hiragana": "たいしかん",
+    "meaning": "Kedutaan besar"
+  },
+  {
+    "id": "N4.7.33",
+    "kanji": "昼間",
+    "hiragana": "ひるま",
+    "meaning": "Siang hari"
+  },
+  {
+    "id": "N4.7.34",
+    "kanji": "春休み",
+    "hiragana": "はるやすみ",
+    "meaning": "Liburan musim semi"
+  },
+  {
+    "id": "N4.7.35",
+    "kanji": "今回",
+    "hiragana": "こんかい",
+    "meaning": "Kali ini"
+  },
+  {
+    "id": "N4.7.36",
+    "kanji": "晩ご飯",
+    "hiragana": "ばんごはん",
+    "meaning": "Makan malam"
+  },
+  {
+    "id": "N4.7.37",
+    "kanji": "愛する",
+    "hiragana": "あいする",
+    "meaning": "Mencintai"
+  },
+  {
+    "id": "N4.7.38",
+    "kanji": "例文",
+    "hiragana": "れいぶん",
+    "meaning": "Contoh kalimat"
+  },
+  {
+    "id": "N4.7.39",
+    "kanji": "喫茶店",
+    "hiragana": "きっさてん",
+    "meaning": "Kedai kopi"
+  },
+  {
+    "id": "N4.7.40",
+    "kanji": "時代",
+    "hiragana": "じだい",
+    "meaning": "Zaman / era"
+  },
+  {
+    "id": "N4.7.41",
+    "kanji": "真っ直ぐ",
+    "hiragana": "まっすぐ",
+    "meaning": "Lurus / langsung"
+  },
+  {
+    "id": "N4.7.42",
+    "kanji": "大臣",
+    "hiragana": "だいじん",
+    "meaning": "Menteri"
+  },
+  {
+    "id": "N4.7.43",
+    "kanji": "返す",
+    "hiragana": "かえす",
+    "meaning": "Mengembalikan (barang)"
+  },
+  {
+    "id": "N4.7.44",
+    "kanji": "急行",
+    "hiragana": "きゅうこう",
+    "meaning": "Kereta ekspres"
+  },
+  {
+    "id": "N4.7.45",
+    "kanji": "研究室",
+    "hiragana": "けんきゅうしつ",
+    "meaning": "Laboratorium"
+  },
+  {
+    "id": "N4.7.46",
+    "kanji": "市民",
+    "hiragana": "しみん",
+    "meaning": "Warga kota / penduduk"
+  },
+  {
+    "id": "N4.7.47",
+    "kanji": "放送する",
+    "hiragana": "ほうそうする",
+    "meaning": "Menyiarkan (TV/radio)"
+  },
+  {
+    "id": "N4.7.48",
+    "kanji": "以内",
+    "hiragana": "いない",
+    "meaning": "Dalam (jangka waktu / batas)"
+  },
+  {
+    "id": "N4.7.49",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "meaning": "Musim"
+  },
+  {
+    "id": "N4.7.50",
+    "kanji": "地理",
+    "hiragana": "ちり",
+    "meaning": "Geografi"
+  },
+  {
+    "id": "N4.7.51",
+    "kanji": "光",
+    "hiragana": "ひかり",
+    "meaning": "Cahaya"
+  },
+  {
+    "id": "N4.7.52",
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "meaning": "Pabrik"
+  },
+  {
+    "id": "N4.7.53",
+    "kanji": "講堂",
+    "hiragana": "こうどう",
+    "meaning": "Auditorium"
+  },
+  {
+    "id": "N4.7.54",
+    "kanji": "飛行士",
+    "hiragana": "ひこうし",
+    "meaning": "Pilot"
+  },
+  {
+    "id": "N4.7.55",
+    "kanji": "心",
+    "hiragana": "こころ",
+    "meaning": "Hati / perasaan / pikiran"
+  },
+  {
+    "id": "N4.7.56",
+    "kanji": "貯める",
+    "hiragana": "ためる",
+    "meaning": "Menabung / mengumpulkan"
+  },
+  {
+    "id": "N4.7.57",
+    "kanji": "以上",
+    "hiragana": "いじょう",
+    "meaning": "Lebih dari / di atas"
+  },
+  {
+    "id": "N4.7.58",
+    "kanji": "昼食",
+    "hiragana": "ちゅうしょく",
+    "meaning": "Makan siang"
+  },
+  {
+    "id": "N4.7.59",
+    "kanji": "次回",
+    "hiragana": "じかい",
+    "meaning": "Lain kali"
+  },
+  {
+    "id": "N4.7.60",
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "meaning": "Amplop"
+  },
+  {
+    "id": "N4.7.61",
+    "kanji": "昼ご飯",
+    "hiragana": "ひるごはん",
+    "meaning": "Makan siang"
+  },
+  {
+    "id": "N4.7.62",
+    "kanji": "計画",
+    "hiragana": "けいかく",
+    "meaning": "Rencana / perencanaan"
+  },
+  {
+    "id": "N4.7.63",
+    "kanji": "石鹼",
+    "hiragana": "せっけん",
+    "meaning": "Sabun"
+  },
+  {
+    "id": "N4.7.64",
+    "kanji": "研究生",
+    "hiragana": "けんきゅうせい",
+    "meaning": "Mahasiswa peneliti"
+  },
+  {
+    "id": "N4.7.65",
+    "kanji": "背広",
+    "hiragana": "せびろ",
+    "meaning": "Setelan jas (laki-laki)"
+  },
+  {
+    "id": "N4.7.66",
+    "kanji": "国籍",
+    "hiragana": "こくせき",
+    "meaning": "Kewarganegaraan"
+  },
+  {
+    "id": "N4.7.67",
+    "kanji": "注文",
+    "hiragana": "ちゅうもん",
+    "meaning": "Pesanan / memesan"
+  },
+  {
+    "id": "N4.7.68",
+    "kanji": "俳優",
+    "hiragana": "はいゆう",
+    "meaning": "Aktor"
+  },
+  {
+    "id": "N4.7.69",
+    "kanji": "遠慮する",
+    "hiragana": "えんりょする",
+    "meaning": "Sungkan"
+  },
+  {
+    "id": "N4.7.70",
+    "kanji": "喉",
+    "hiragana": "のど",
+    "meaning": "Tenggorokan"
+  },
+  {
+    "id": "N4.7.71",
+    "kanji": "小説家",
+    "hiragana": "しょうせつか",
+    "meaning": "Penulis novel"
+  },
+  {
+    "id": "N4.7.72",
+    "kanji": "主人",
+    "hiragana": "しゅじん",
+    "meaning": "Suami / majikan"
+  },
+  {
+    "id": "N4.7.73",
+    "kanji": "受付",
+    "hiragana": "うけつけ",
+    "meaning": "Resepsionis"
+  },
+  {
+    "id": "N4.7.74",
+    "kanji": "銀行員",
+    "hiragana": "ぎんこういん",
+    "meaning": "Pegawai bank"
+  },
+  {
+    "id": "N4.7.75",
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "meaning": "Berikutnya"
+  },
+  {
+    "id": "N4.7.76",
+    "kanji": "二階建て",
+    "hiragana": "にかいだて",
+    "meaning": "Bangunan dua lantai"
+  },
+  {
+    "id": "N4.7.77",
+    "kanji": "教師",
+    "hiragana": "きょうし",
+    "meaning": "Guru / pengajar"
+  },
+  {
+    "id": "N4.7.78",
+    "kanji": "以外",
+    "hiragana": "いがい",
+    "meaning": "Selain / kecuali"
+  },
+  {
+    "id": "N4.7.79",
+    "kanji": "洗濯機",
+    "hiragana": "せんたくき",
+    "meaning": "Mesin cuci"
+  },
+  {
+    "id": "N4.7.80",
+    "kanji": "両方",
+    "hiragana": "りょうほう",
+    "meaning": "Keduanya"
+  },
+  {
+    "id": "N4.7.81",
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "meaning": "Kulkas"
+  },
+  {
+    "id": "N4.7.82",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "meaning": "Daging babi"
+  },
+  {
+    "id": "N4.7.83",
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "meaning": "Taman / halaman"
+  },
+  {
+    "id": "N4.7.84",
+    "kanji": "冬休み",
+    "hiragana": "ふゆやすみ",
+    "meaning": "Liburan musim dingin"
+  },
+  {
+    "id": "N4.7.85",
+    "kanji": "綺麗",
+    "hiragana": "きれい",
+    "meaning": "Cantik / indah"
+  }
 ]

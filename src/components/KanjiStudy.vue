@@ -153,7 +153,7 @@ async function initializeKanjiData(level: string) {
         <!-- Center Content -->
         <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 pt-8 lg:pt-6">
             <Transition name="fade" mode="out-in">
-                <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}</h1>
+                <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> {{ selectedLevel != "Flagged" ? `Kanji Ke ${idx + 1}` : kanjiData.id }}</h1>
             </Transition>
             <div class="relative">
                 <Transition name="fade" mode="out-in">

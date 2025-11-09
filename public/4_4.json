@@ -1,425 +1,510 @@
 [
   {
+    "id": "N4.4.1",
     "kanji": "世界中",
     "hiragana": "せかいじゅう",
     "meaning": "Seluruh dunia"
   },
   {
+    "id": "N4.4.2",
     "kanji": "育てる",
     "hiragana": "そだてる",
     "meaning": "Memelihara / Membesarkan"
   },
   {
+    "id": "N4.4.3",
     "kanji": "運ぶ",
     "hiragana": "はこぶ",
     "meaning": "Mengangkut / Membawa"
   },
   {
+    "id": "N4.4.4",
     "kanji": "入院する",
     "hiragana": "にゅういんする",
     "meaning": "Opname"
   },
   {
+    "id": "N4.4.5",
     "kanji": "入れる",
     "hiragana": "いれる",
     "meaning": "Menghidupkan / Menyalakan (listrik)"
   },
   {
+    "id": "N4.4.6",
     "kanji": "切る",
     "hiragana": "きる",
     "meaning": "Mematikan (listrik)"
   },
   {
+    "id": "N4.4.7",
     "kanji": "気持ちがいい",
     "hiragana": "きもちがいい",
     "meaning": "Menyenangkan / Enak rasanya"
   },
   {
+    "id": "N4.4.8",
     "kanji": "気持ち悪い",
     "hiragana": "きもちわるい",
     "meaning": "Tidak enak / Menjijikkan"
   },
   {
+    "id": "N4.4.9",
     "kanji": "赤ちゃん",
     "hiragana": "あかちゃん",
     "meaning": "Bayi"
   },
   {
+    "id": "N4.4.10",
     "kanji": "小学校",
     "hiragana": "しょうがっこう",
     "meaning": "Sekolah dasar"
   },
   {
+    "id": "N4.4.11",
     "kanji": "中学校",
     "hiragana": "ちゅうがっこう",
     "meaning": "Sekolah menengah pertama"
   },
   {
+    "id": "N4.4.12",
     "kanji": "海岸",
     "hiragana": "かいがん",
     "meaning": "Pantai / Pesisir"
   },
   {
+    "id": "N4.4.13",
     "kanji": "工場",
     "hiragana": "こうじょう",
     "meaning": "Pabrik"
   },
   {
+    "id": "N4.4.14",
     "kanji": "村",
     "hiragana": "むら",
     "meaning": "Desa"
   },
   {
+    "id": "N4.4.15",
     "kanji": "指輪",
     "hiragana": "ゆびわ",
     "meaning": "Cincin"
   },
   {
+    "id": "N4.4.16",
     "kanji": "電源",
     "hiragana": "でんげん",
     "meaning": "Power Supply"
   },
   {
+    "id": "N4.4.17",
     "kanji": "習慣",
     "hiragana": "しゅうかん",
     "meaning": "Kebiasaan"
   },
   {
+    "id": "N4.4.18",
     "kanji": "健康",
     "hiragana": "けんこう",
     "meaning": "Kesehatan"
   },
   {
+    "id": "N4.4.19",
     "kanji": "倒れる",
     "hiragana": "たおれる",
     "meaning": "Tumbang / Roboh"
   },
   {
+    "id": "N4.4.20",
     "kanji": "通る",
     "hiragana": "とおる",
     "meaning": "Melalui"
   },
   {
+    "id": "N4.4.21",
     "kanji": "死ぬ",
     "hiragana": "しぬ",
     "meaning": "Meninggal / Mati"
   },
   {
+    "id": "N4.4.22",
     "kanji": "安心する",
     "hiragana": "あんしんする",
     "meaning": "Lega / Tenang"
   },
   {
+    "id": "N4.4.23",
     "kanji": "離婚する",
     "hiragana": "りこんする",
     "meaning": "Bercerai"
   },
   {
+    "id": "N4.4.24",
     "kanji": "太る",
     "hiragana": "ふとる",
     "meaning": "Menggemukkan"
   },
   {
+    "id": "N4.4.25",
     "kanji": "複雑",
     "hiragana": "ふくざつ",
     "meaning": "Rumit"
   },
   {
+    "id": "N4.4.26",
     "kanji": "邪魔",
     "hiragana": "じゃま",
     "meaning": "Gangguan"
   },
   {
+    "id": "N4.4.27",
     "kanji": "硬い",
     "hiragana": "かたい",
     "meaning": "Keras"
   },
   {
+    "id": "N4.4.28",
     "kanji": "軟らかい",
     "hiragana": "やわらかい",
     "meaning": "Lunak"
   },
   {
+    "id": "N4.4.29",
     "kanji": "汚い",
     "hiragana": "きたない",
     "meaning": "Kotor"
   },
   {
+    "id": "N4.4.30",
     "kanji": "悲しい",
     "hiragana": "かなしい",
     "meaning": "Sedih"
   },
   {
+    "id": "N4.4.31",
     "kanji": "恥ずかしい",
     "hiragana": "はずかしい",
     "meaning": "Malu"
   },
   {
+    "id": "N4.4.32",
     "kanji": "首相",
     "hiragana": "しゅしょう",
     "meaning": "Perdana menteri"
   },
   {
+    "id": "N4.4.33",
     "kanji": "津波",
     "hiragana": "つなみ",
     "meaning": "Tsunami"
   },
   {
+    "id": "N4.4.34",
     "kanji": "台風",
     "hiragana": "たいふう",
     "meaning": "Topan"
   },
   {
+    "id": "N4.4.35",
     "kanji": "雷",
     "hiragana": "かみなり",
     "meaning": "Guntur"
   },
   {
+    "id": "N4.4.36",
     "kanji": "火事",
     "hiragana": "かじ",
     "meaning": "Kebakaran"
   },
   {
+    "id": "N4.4.37",
     "kanji": "事故",
     "hiragana": "じこ",
     "meaning": "Kecelakaan"
   },
   {
+    "id": "N4.4.38",
     "kanji": "見合い",
     "hiragana": "みあい",
     "meaning": "Perjodohan"
   },
   {
+    "id": "N4.4.39",
     "kanji": "操作",
     "hiragana": "そうさ",
     "meaning": "Operasi / Pengoperasian"
   },
   {
+    "id": "N4.4.40",
     "kanji": "会場",
     "hiragana": "かいじょう",
     "meaning": "Tempat acara"
   },
   {
+    "id": "N4.4.41",
     "kanji": "大勢",
     "hiragana": "おおぜい",
     "meaning": "Banyak orang"
   },
   {
+    "id": "N4.4.42",
     "kanji": "数える",
     "hiragana": "かぞえる",
     "meaning": "Menghitung"
   },
   {
+    "id": "N4.4.43",
     "kanji": "測る",
     "hiragana": "はかる",
     "meaning": "Mengukur"
   },
   {
+    "id": "N4.4.44",
     "kanji": "確かめる",
     "hiragana": "たしかめる",
     "meaning": "Memastikan"
   },
   {
+    "id": "N4.4.45",
     "kanji": "出発する",
     "hiragana": "しゅっぱつする",
     "meaning": "Berangkat"
   },
   {
+    "id": "N4.4.46",
     "kanji": "到着する",
     "hiragana": "とうちゃくする",
     "meaning": "Tiba"
   },
   {
+    "id": "N4.4.47",
     "kanji": "相談する",
     "hiragana": "そうだんする",
     "meaning": "Berkonsultasi"
   },
   {
+    "id": "N4.4.48",
     "kanji": "必要",
     "hiragana": "ひつよう",
     "meaning": "Perlu / Dibutuhkan"
   },
   {
+    "id": "N4.4.49",
     "kanji": "天気予報",
     "hiragana": "てんきよほう",
     "meaning": "Ramalan cuaca"
   },
   {
+    "id": "N4.4.50",
     "kanji": "忘年会",
     "hiragana": "ぼうねんかい",
     "meaning": "Pesta akhir tahun"
   },
   {
+    "id": "N4.4.51",
     "kanji": "新年会",
     "hiragana": "しんねんかい",
     "meaning": "Pesta tahun baru"
   },
   {
+    "id": "N4.4.52",
     "kanji": "発表会",
     "hiragana": "はっぴょうかい",
     "meaning": "Acara presentasi / pertunjukan"
   },
   {
+    "id": "N4.4.53",
     "kanji": "大会",
     "hiragana": "たいかい",
     "meaning": "Lomba"
   },
   {
+    "id": "N4.4.54",
     "kanji": "表",
     "hiragana": "おもて",
     "meaning": "Bagian depan / muka"
   },
   {
+    "id": "N4.4.55",
     "kanji": "裏",
     "hiragana": "うら",
     "meaning": "Bagian belakang"
   },
   {
+    "id": "N4.4.56",
     "kanji": "年寄り",
     "hiragana": "としより",
     "meaning": "Manula"
   },
   {
+    "id": "N4.4.57",
     "kanji": "傷",
     "hiragana": "きず",
     "meaning": "Luka / cacat"
   },
   {
+    "id": "N4.4.58",
     "kanji": "上げる",
     "hiragana": "あげる",
     "meaning": "Menaikkan"
   },
   {
+    "id": "N4.4.59",
     "kanji": "下げる",
     "hiragana": "さげる",
     "meaning": "Menurunkan / mengurangi"
   },
   {
+    "id": "N4.4.60",
     "kanji": "珍しい",
     "hiragana": "めずらしい",
     "meaning": "Jarang / unik"
   },
   {
+    "id": "N4.4.61",
     "kanji": "お祝い",
     "hiragana": "おいわい",
     "meaning": "Perayaan / ucapan selamat"
   },
   {
+    "id": "N4.4.62",
     "kanji": "お年玉",
     "hiragana": "おとしだま",
     "meaning": "Angpao"
   },
   {
+    "id": "N4.4.63",
     "kanji": "見舞い",
     "hiragana": "みまい",
     "meaning": "Pembesukkan"
   },
   {
+    "id": "N4.4.64",
     "kanji": "興味",
     "hiragana": "きょうみ",
     "meaning": "Minat"
   },
   {
+    "id": "N4.4.65",
     "kanji": "情報",
     "hiragana": "じょうほう",
     "meaning": "Informasi"
   },
   {
+    "id": "N4.4.66",
     "kanji": "文法",
     "hiragana": "ぶんぽう",
     "meaning": "Tata bahasa"
   },
   {
+    "id": "N4.4.67",
     "kanji": "発音",
     "hiragana": "はつおん",
     "meaning": "Pengucapan"
   },
   {
+    "id": "N4.4.68",
     "kanji": "猿",
     "hiragana": "さる",
     "meaning": "Monyet"
   },
   {
+    "id": "N4.4.69",
     "kanji": "絵本",
     "hiragana": "えほん",
     "meaning": "Buku bergambar"
   },
   {
+    "id": "N4.4.70",
     "kanji": "絵はがき",
     "hiragana": "えはがき",
     "meaning": "Kartu pos bergambar"
   },
   {
+    "id": "N4.4.71",
     "kanji": "靴下",
     "hiragana": "くつした",
     "meaning": "Kaus kaki"
   },
   {
+    "id": "N4.4.72",
     "kanji": "手袋",
     "hiragana": "てぶくろ",
     "meaning": "Sarung tangan"
   },
   {
+    "id": "N4.4.73",
     "kanji": "幼稚園",
     "hiragana": "ようちえん",
     "meaning": "Taman kanak-kanak"
   },
   {
+    "id": "N4.4.74",
     "kanji": "暖房",
     "hiragana": "だんぼう",
     "meaning": "Pemanas ruangan"
   },
   {
+    "id": "N4.4.75",
     "kanji": "冷房",
     "hiragana": "れいぼう",
     "meaning": "Pendingin ruangan"
   },
   {
+    "id": "N4.4.76",
     "kanji": "温度",
     "hiragana": "おんど",
     "meaning": "Suhu"
   },
   {
+    "id": "N4.4.77",
     "kanji": "祖父",
     "hiragana": "そふ",
     "meaning": "Kakek"
   },
   {
+    "id": "N4.4.78",
     "kanji": "祖母",
     "hiragana": "そぼ",
     "meaning": "Nenek"
   },
   {
+    "id": "N4.4.79",
     "kanji": "召し上がる",
     "hiragana": "めしあがる",
     "meaning": "Makan, minum (bahasa hormat)"
   },
   {
+    "id": "N4.4.80",
     "kanji": "ご覧になる",
     "hiragana": "ごらんになる",
     "meaning": "Melihat (bahasa hormat)"
   },
   {
+    "id": "N4.4.81",
     "kanji": "ご存じ",
     "hiragana": "ごぞんじ",
     "meaning": "Tahu (bahasa hormat)"
   },
   {
+    "id": "N4.4.82",
     "kanji": "旅館",
     "hiragana": "りょかん",
     "meaning": "Penginapan tradisional Jepang"
   },
   {
+    "id": "N4.4.83",
     "kanji": "お風呂",
     "hiragana": "おふろ",
     "meaning": "Bak mandi"
   },
   {
+    "id": "N4.4.84",
     "kanji": "選択",
     "hiragana": "せんたく",
     "meaning": "Pilihan"
   },
   {
+    "id": "N4.4.85",
     "kanji": "バス停",
     "hiragana": "バスてい",
     "meaning": "Halte bus"

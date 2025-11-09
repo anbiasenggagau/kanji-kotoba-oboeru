@@ -1,0 +1,602 @@
+[
+  {
+    "id": "N3.5.1",
+    "kanji": "砂",
+    "hiragana": "すな",
+    "meaning": "Pasir"
+  },
+  {
+    "id": "N3.5.2",
+    "kanji": "～島",
+    "hiragana": "～とう",
+    "meaning": "Pulau ~"
+  },
+  {
+    "id": "N3.5.3",
+    "kanji": "禁止",
+    "hiragana": "きんし",
+    "meaning": "Dilarang / larangan"
+  },
+  {
+    "id": "N3.5.4",
+    "kanji": "開閉",
+    "hiragana": "かいへい",
+    "meaning": "Buka dan tutup"
+  },
+  {
+    "id": "N3.5.5",
+    "kanji": "美しい",
+    "hiragana": "うつくしい",
+    "meaning": "Indah"
+  },
+  {
+    "id": "N3.5.6",
+    "kanji": "満員",
+    "hiragana": "まんいん",
+    "meaning": "Penuh (kapasitas)"
+  },
+  {
+    "id": "N3.5.7",
+    "kanji": "定価",
+    "hiragana": "ていか",
+    "meaning": "Harga tetap / harga asli"
+  },
+  {
+    "id": "N3.5.8",
+    "kanji": "右折",
+    "hiragana": "うせつ",
+    "meaning": "Belok kanan"
+  },
+  {
+    "id": "N3.5.9",
+    "kanji": "指",
+    "hiragana": "ゆび",
+    "meaning": "Jari"
+  },
+  {
+    "id": "N3.5.10",
+    "kanji": "関心",
+    "hiragana": "かんしん",
+    "meaning": "Ketertarikan"
+  },
+  {
+    "id": "N3.5.11",
+    "kanji": "事情",
+    "hiragana": "じじょう",
+    "meaning": "Keadaan / situasi / alasan"
+  },
+  {
+    "id": "N3.5.12",
+    "kanji": "未来",
+    "hiragana": "みらい",
+    "meaning": "Masa depan"
+  },
+  {
+    "id": "N3.5.13",
+    "kanji": "様子",
+    "hiragana": "ようす",
+    "meaning": "Keadaan / penampilan / kondisi"
+  },
+  {
+    "id": "N3.5.14",
+    "kanji": "格安",
+    "hiragana": "かくやす",
+    "meaning": "Sangat murah"
+  },
+  {
+    "id": "N3.5.15",
+    "kanji": "文化祭",
+    "hiragana": "ぶんかさい",
+    "meaning": "Festival budaya (sekolah/univ)"
+  },
+  {
+    "id": "N3.5.16",
+    "kanji": "宿泊",
+    "hiragana": "しゅくはく",
+    "meaning": "Menginap"
+  },
+  {
+    "id": "N3.5.17",
+    "kanji": "卵焼き",
+    "hiragana": "たまごやき",
+    "meaning": "Telur gulung"
+  },
+  {
+    "id": "N3.5.18",
+    "kanji": "金額",
+    "hiragana": "きんがく",
+    "meaning": "Jumlah uang"
+  },
+  {
+    "id": "N3.5.19",
+    "kanji": "個人的",
+    "hiragana": "こじんてき",
+    "meaning": "Secara pribadi"
+  },
+  {
+    "id": "N3.5.20",
+    "kanji": "一般に",
+    "hiragana": "いっぱんに",
+    "meaning": "Secara umum"
+  },
+  {
+    "id": "N3.5.21",
+    "kanji": "忘れ物",
+    "hiragana": "わすれもの",
+    "meaning": "Barang tertinggal"
+  },
+  {
+    "id": "N3.5.22",
+    "kanji": "歩道橋",
+    "hiragana": "ほどうきょう",
+    "meaning": "Jembatan penyeberangan"
+  },
+  {
+    "id": "N3.5.23",
+    "kanji": "存じる",
+    "hiragana": "ぞんじる",
+    "meaning": "Mengetahui (keigo rendah diri)"
+  },
+  {
+    "id": "N3.5.24",
+    "kanji": "協力",
+    "hiragana": "きょうりょく",
+    "meaning": "Kerja sama"
+  },
+  {
+    "id": "N3.5.25",
+    "kanji": "指定",
+    "hiragana": "してい",
+    "meaning": "Penunjukan / specific / reserved"
+  },
+  {
+    "id": "N3.5.26",
+    "kanji": "割る",
+    "hiragana": "わる",
+    "meaning": "Memecahkan / membagi"
+  },
+  {
+    "id": "N3.5.27",
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "meaning": "Minuman beralkohol"
+  },
+  {
+    "id": "N3.5.28",
+    "kanji": "形式",
+    "hiragana": "けいしき",
+    "meaning": "Bentuk / format / formalitas"
+  },
+  {
+    "id": "N3.5.29",
+    "kanji": "歯並び",
+    "hiragana": "はならび",
+    "meaning": "Susunan gigi"
+  },
+  {
+    "id": "N3.5.30",
+    "kanji": "最初",
+    "hiragana": "さいしょ",
+    "meaning": "Pertama / awal"
+  },
+  {
+    "id": "N3.5.31",
+    "kanji": "値上げ",
+    "hiragana": "ねあげ",
+    "meaning": "Kenaikan harga"
+  },
+  {
+    "id": "N3.5.32",
+    "kanji": "増やす",
+    "hiragana": "ふやす",
+    "meaning": "Menambah / memperbanyak"
+  },
+  {
+    "id": "N3.5.33",
+    "kanji": "割合",
+    "hiragana": "わりあい",
+    "meaning": "Persentase / proporsi"
+  },
+  {
+    "id": "N3.5.34",
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "meaning": "Kata / bahasa"
+  },
+  {
+    "id": "N3.5.35",
+    "kanji": "関する",
+    "hiragana": "かんする",
+    "meaning": "Berkaitan dengan"
+  },
+  {
+    "id": "N3.5.36",
+    "kanji": "涙を流す",
+    "hiragana": "なみだをながす",
+    "meaning": "Meneteskan air mata"
+  },
+  {
+    "id": "N3.5.37",
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "meaning": "Merasakan"
+  },
+  {
+    "id": "N3.5.38",
+    "kanji": "満車",
+    "hiragana": "まんしゃ",
+    "meaning": "Parkiran penuh"
+  },
+  {
+    "id": "N3.5.39",
+    "kanji": "国内",
+    "hiragana": "こくない",
+    "meaning": "Dalam negeri"
+  },
+  {
+    "id": "N3.5.40",
+    "kanji": "婦人",
+    "hiragana": "ふじん",
+    "meaning": "Wanita dewasa"
+  },
+  {
+    "id": "N3.5.41",
+    "kanji": "多忙",
+    "hiragana": "たぼう",
+    "meaning": "Sangat sibuk"
+  },
+  {
+    "id": "N3.5.42",
+    "kanji": "参考書",
+    "hiragana": "さんこうしょ",
+    "meaning": "Buku referensi / buku belajar tambahan"
+  },
+  {
+    "id": "N3.5.43",
+    "kanji": "地球",
+    "hiragana": "ちきゅう",
+    "meaning": "Bumi"
+  },
+  {
+    "id": "N3.5.44",
+    "kanji": "苦手",
+    "hiragana": "にがて",
+    "meaning": "Lemah dalam / tidak suka"
+  },
+  {
+    "id": "N3.5.45",
+    "kanji": "外科",
+    "hiragana": "げか",
+    "meaning": "Bedah (medis)"
+  },
+  {
+    "id": "N3.5.46",
+    "kanji": "記念",
+    "hiragana": "きねん",
+    "meaning": "Peringatan"
+  },
+  {
+    "id": "N3.5.47",
+    "kanji": "冷ます",
+    "hiragana": "さます",
+    "meaning": "Mendinginkan (membuat jadi dingin)"
+  },
+  {
+    "id": "N3.5.48",
+    "kanji": "市役所",
+    "hiragana": "しやくしょ",
+    "meaning": "Kantor pemerintah kota"
+  },
+  {
+    "id": "N3.5.49",
+    "kanji": "氷",
+    "hiragana": "こおり",
+    "meaning": "Es"
+  },
+  {
+    "id": "N3.5.50",
+    "kanji": "本物",
+    "hiragana": "ほんもの",
+    "meaning": "Asli"
+  },
+  {
+    "id": "N3.5.51",
+    "kanji": "自宅",
+    "hiragana": "じたく",
+    "meaning": "Rumah sendiri"
+  },
+  {
+    "id": "N3.5.52",
+    "kanji": "～歳",
+    "hiragana": "～さい",
+    "meaning": "Usia ~ tahun"
+  },
+  {
+    "id": "N3.5.53",
+    "kanji": "向かう",
+    "hiragana": "むかう",
+    "meaning": "Menuju"
+  },
+  {
+    "id": "N3.5.54",
+    "kanji": "息切れ",
+    "hiragana": "いきぎれ",
+    "meaning": "Terengah-engah"
+  },
+  {
+    "id": "N3.5.55",
+    "kanji": "神経質",
+    "hiragana": "しんけいしつ",
+    "meaning": "Sensitif / mudah cemas"
+  },
+  {
+    "id": "N3.5.56",
+    "kanji": "記号",
+    "hiragana": "きごう",
+    "meaning": "Simbol"
+  },
+  {
+    "id": "N3.5.57",
+    "kanji": "整理券",
+    "hiragana": "せいりけん",
+    "meaning": "Nomor antrian"
+  },
+  {
+    "id": "N3.5.58",
+    "kanji": "神社",
+    "hiragana": "じんじゃ",
+    "meaning": "Kuil Shinto"
+  },
+  {
+    "id": "N3.5.59",
+    "kanji": "労働者",
+    "hiragana": "ろうどうしゃ",
+    "meaning": "Pekerja / buruh"
+  },
+  {
+    "id": "N3.5.60",
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "meaning": "Sakit perut"
+  },
+  {
+    "id": "N3.5.61",
+    "kanji": "性別",
+    "hiragana": "せいべつ",
+    "meaning": "Jenis kelamin"
+  },
+  {
+    "id": "N3.5.62",
+    "kanji": "分解",
+    "hiragana": "ぶんかい",
+    "meaning": "Membongkar / memecah (struktur)"
+  },
+  {
+    "id": "N3.5.63",
+    "kanji": "電球",
+    "hiragana": "でんきゅう",
+    "meaning": "Bola lampu"
+  },
+  {
+    "id": "N3.5.64",
+    "kanji": "～港",
+    "hiragana": "～こう",
+    "meaning": "Pelabuhan ~ / bandara ~"
+  },
+  {
+    "id": "N3.5.65",
+    "kanji": "旅費",
+    "hiragana": "りょひ",
+    "meaning": "Biaya perjalanan"
+  },
+  {
+    "id": "N3.5.66",
+    "kanji": "感動",
+    "hiragana": "かんどう",
+    "meaning": "Tersentuh / terharu"
+  },
+  {
+    "id": "N3.5.67",
+    "kanji": "了解",
+    "hiragana": "りょうかい",
+    "meaning": "Mengerti / baik / siap"
+  },
+  {
+    "id": "N3.5.68",
+    "kanji": "望む",
+    "hiragana": "のぞむ",
+    "meaning": "Mengharapkan"
+  },
+  {
+    "id": "N3.5.69",
+    "kanji": "表情",
+    "hiragana": "ひょうじょう",
+    "meaning": "Ekspresi wajah"
+  },
+  {
+    "id": "N3.5.70",
+    "kanji": "間違う",
+    "hiragana": "まちがう",
+    "meaning": "Salah"
+  },
+  {
+    "id": "N3.5.71",
+    "kanji": "混雑",
+    "hiragana": "こんざつ",
+    "meaning": "Ramai / penuh sesak"
+  },
+  {
+    "id": "N3.5.72",
+    "kanji": "消防",
+    "hiragana": "しょうぼう",
+    "meaning": "Pemadam kebakaran"
+  },
+  {
+    "id": "N3.5.73",
+    "kanji": "希望",
+    "hiragana": "きぼう",
+    "meaning": "Harapan"
+  },
+  {
+    "id": "N3.5.74",
+    "kanji": "石けん",
+    "hiragana": "せっけん",
+    "meaning": "Sabun"
+  },
+  {
+    "id": "N3.5.75",
+    "kanji": "当たる",
+    "hiragana": "あたる",
+    "meaning": "Mengenai / menang undian"
+  },
+  {
+    "id": "N3.5.76",
+    "kanji": "募集",
+    "hiragana": "ぼしゅう",
+    "meaning": "Penerimaan peserta / rekrutmen"
+  },
+  {
+    "id": "N3.5.77",
+    "kanji": "直線",
+    "hiragana": "ちょくせん",
+    "meaning": "Garis lurus"
+  },
+  {
+    "id": "N3.5.78",
+    "kanji": "国際的",
+    "hiragana": "こくさいてき",
+    "meaning": "Berskala internasional"
+  },
+  {
+    "id": "N3.5.79",
+    "kanji": "観光地",
+    "hiragana": "かんこうち",
+    "meaning": "Tempat wisata"
+  },
+  {
+    "id": "N3.5.80",
+    "kanji": "記入",
+    "hiragana": "きにゅう",
+    "meaning": "Mengisi (formulir)"
+  },
+  {
+    "id": "N3.5.81",
+    "kanji": "専門家",
+    "hiragana": "せんもんか",
+    "meaning": "Ahli / pakar"
+  },
+  {
+    "id": "N3.5.82",
+    "kanji": "性格",
+    "hiragana": "せいかく",
+    "meaning": "Kepribadian"
+  },
+  {
+    "id": "N3.5.83",
+    "kanji": "戸",
+    "hiragana": "と",
+    "meaning": "Pintu geser (rumah Jepang)"
+  },
+  {
+    "id": "N3.5.84",
+    "kanji": "日本酒",
+    "hiragana": "にほんしゅ",
+    "meaning": "Sake (minuman beras Jepang)"
+  },
+  {
+    "id": "N3.5.85",
+    "kanji": "税務署",
+    "hiragana": "ぜいむしょ",
+    "meaning": "Kantor pajak"
+  },
+  {
+    "id": "N3.5.86",
+    "kanji": "押入れ",
+    "hiragana": "おしいれ",
+    "meaning": "Lemari dinding gaya Jepang"
+  },
+  {
+    "id": "N3.5.87",
+    "kanji": "びわ湖",
+    "hiragana": "びわこ",
+    "meaning": "Danau Biwa"
+  },
+  {
+    "id": "N3.5.88",
+    "kanji": "米国",
+    "hiragana": "べいこく",
+    "meaning": "Amerika Serikat"
+  },
+  {
+    "id": "N3.5.89",
+    "kanji": "本店",
+    "hiragana": "ほんてん",
+    "meaning": "Toko utama / kantor pusat"
+  },
+  {
+    "id": "N3.5.90",
+    "kanji": "求める",
+    "hiragana": "もとめる",
+    "meaning": "Meminta / mencari / menginginkan"
+  },
+  {
+    "id": "N3.5.91",
+    "kanji": "呼吸",
+    "hiragana": "こきゅう",
+    "meaning": "Pernapasan"
+  },
+  {
+    "id": "N3.5.92",
+    "kanji": "単語",
+    "hiragana": "たんご",
+    "meaning": "Kata per kosakata"
+  },
+  {
+    "id": "N3.5.93",
+    "kanji": "乗馬",
+    "hiragana": "じょうば",
+    "meaning": "Berkuda"
+  },
+  {
+    "id": "N3.5.94",
+    "kanji": "移す",
+    "hiragana": "うつす",
+    "meaning": "Memindahkan"
+  },
+  {
+    "id": "N3.5.95",
+    "kanji": "接続",
+    "hiragana": "せつぞく",
+    "meaning": "Koneksi"
+  },
+  {
+    "id": "N3.5.96",
+    "kanji": "宅配",
+    "hiragana": "たくはい",
+    "meaning": "Pengiriman ke rumah (delivery)"
+  },
+  {
+    "id": "N3.5.97",
+    "kanji": "減少",
+    "hiragana": "げんしょう",
+    "meaning": "Penurunan / berkurang"
+  },
+  {
+    "id": "N3.5.98",
+    "kanji": "不満",
+    "hiragana": "ふまん",
+    "meaning": "Ketidakpuasan"
+  },
+  {
+    "id": "N3.5.99",
+    "kanji": "願う",
+    "hiragana": "ねがう",
+    "meaning": "Berharap / memohon"
+  },
+  {
+    "id": "N3.5.100",
+    "kanji": "お祭り",
+    "hiragana": "おまつり",
+    "meaning": "Festival"
+  }
+]

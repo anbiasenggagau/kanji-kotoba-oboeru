@@ -1,0 +1,602 @@
+[
+  {
+    "id": "N3.1.1",
+    "kanji": "代金引換",
+    "hiragana": "だいきんひきかえ",
+    "meaning": "Bayar di tempat / COD"
+  },
+  {
+    "id": "N3.1.2",
+    "kanji": "交際",
+    "hiragana": "こうさい",
+    "meaning": "Berpacaran / bergaul"
+  },
+  {
+    "id": "N3.1.3",
+    "kanji": "申告",
+    "hiragana": "しんこく",
+    "meaning": "deklarasi"
+  },
+  {
+    "id": "N3.1.4",
+    "kanji": "技術",
+    "hiragana": "ぎじゅつ",
+    "meaning": "Teknologi"
+  },
+  {
+    "id": "N3.1.5",
+    "kanji": "支払い",
+    "hiragana": "しはらい",
+    "meaning": "Pembayaran"
+  },
+  {
+    "id": "N3.1.6",
+    "kanji": "決勝",
+    "hiragana": "けっしょう",
+    "meaning": "Final (pertandingan)"
+  },
+  {
+    "id": "N3.1.7",
+    "kanji": "個人",
+    "hiragana": "こじん",
+    "meaning": "Pribadi / individu"
+  },
+  {
+    "id": "N3.1.8",
+    "kanji": "申請",
+    "hiragana": "しんせい",
+    "meaning": "Pengajuan / aplikasi (resmi)"
+  },
+  {
+    "id": "N3.1.9",
+    "kanji": "完成",
+    "hiragana": "かんせい",
+    "meaning": "Selesai / selesai dibangun"
+  },
+  {
+    "id": "N3.1.10",
+    "kanji": "政治家",
+    "hiragana": "せいじか",
+    "meaning": "Politikus"
+  },
+  {
+    "id": "N3.1.11",
+    "kanji": "確か",
+    "hiragana": "たしか",
+    "meaning": "Pasti / kalau tidak salah"
+  },
+  {
+    "id": "N3.1.12",
+    "kanji": "残り",
+    "hiragana": "のこり",
+    "meaning": "Sisa"
+  },
+  {
+    "id": "N3.1.13",
+    "kanji": "息",
+    "hiragana": "いき",
+    "meaning": "Napas"
+  },
+  {
+    "id": "N3.1.14",
+    "kanji": "月末",
+    "hiragana": "げつまつ",
+    "meaning": "Akhir bulan"
+  },
+  {
+    "id": "N3.1.15",
+    "kanji": "案",
+    "hiragana": "あん",
+    "meaning": "Rancangan / ide / usulan"
+  },
+  {
+    "id": "N3.1.16",
+    "kanji": "全面",
+    "hiragana": "ぜんめん",
+    "meaning": "Seluruh bagian / keseluruhan"
+  },
+  {
+    "id": "N3.1.17",
+    "kanji": "広告",
+    "hiragana": "こうこく",
+    "meaning": "Iklan"
+  },
+  {
+    "id": "N3.1.18",
+    "kanji": "正常",
+    "hiragana": "せいじょう",
+    "meaning": "Normal"
+  },
+  {
+    "id": "N3.1.19",
+    "kanji": "婚約",
+    "hiragana": "こんやく",
+    "meaning": "Pertunangan"
+  },
+  {
+    "id": "N3.1.20",
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "meaning": "Malam ini"
+  },
+  {
+    "id": "N3.1.21",
+    "kanji": "～号車",
+    "hiragana": "～ごうしゃ",
+    "meaning": "Gerbong nomor ～"
+  },
+  {
+    "id": "N3.1.22",
+    "kanji": "高速道路",
+    "hiragana": "こうそくどうろ",
+    "meaning": "Jalan tol"
+  },
+  {
+    "id": "N3.1.23",
+    "kanji": "料理酒",
+    "hiragana": "りょうりしゅ",
+    "meaning": "Arak masak"
+  },
+  {
+    "id": "N3.1.24",
+    "kanji": "左折",
+    "hiragana": "させつ",
+    "meaning": "Belok kiri"
+  },
+  {
+    "id": "N3.1.25",
+    "kanji": "優勝",
+    "hiragana": "ゆうしょう",
+    "meaning": "Juara / menang kompetisi"
+  },
+  {
+    "id": "N3.1.26",
+    "kanji": "美術",
+    "hiragana": "びじゅつ",
+    "meaning": "Seni rupa"
+  },
+  {
+    "id": "N3.1.27",
+    "kanji": "笑顔",
+    "hiragana": "えがお",
+    "meaning": "Wajah tersenyum"
+  },
+  {
+    "id": "N3.1.28",
+    "kanji": "他の",
+    "hiragana": "ほかの",
+    "meaning": "Lain"
+  },
+  {
+    "id": "N3.1.29",
+    "kanji": "飛行場",
+    "hiragana": "ひこうじょう",
+    "meaning": "Bandara / lapangan terbang"
+  },
+  {
+    "id": "N3.1.30",
+    "kanji": "冷える",
+    "hiragana": "ひえる",
+    "meaning": "Menjadi dingin"
+  },
+  {
+    "id": "N3.1.31",
+    "kanji": "受信",
+    "hiragana": "じゅしん",
+    "meaning": "Menerima (sinyal / pesan)"
+  },
+  {
+    "id": "N3.1.32",
+    "kanji": "駐車",
+    "hiragana": "ちゅうしゃ",
+    "meaning": "Parkir"
+  },
+  {
+    "id": "N3.1.33",
+    "kanji": "入荷",
+    "hiragana": "にゅうか",
+    "meaning": "Barang masuk / kedatangan stok"
+  },
+  {
+    "id": "N3.1.34",
+    "kanji": "通路",
+    "hiragana": "つうろ",
+    "meaning": "Lorong / jalur lewat"
+  },
+  {
+    "id": "N3.1.35",
+    "kanji": "受取人",
+    "hiragana": "うけとりにん",
+    "meaning": "Penerima"
+  },
+  {
+    "id": "N3.1.36",
+    "kanji": "各駅",
+    "hiragana": "かくえき",
+    "meaning": "Setiap stasiun (kereta lokal)"
+  },
+  {
+    "id": "N3.1.37",
+    "kanji": "値下げ",
+    "hiragana": "ねさげ",
+    "meaning": "Penurunan harga"
+  },
+  {
+    "id": "N3.1.38",
+    "kanji": "～寺",
+    "hiragana": "～てら／～じ",
+    "meaning": "Kuil ～"
+  },
+  {
+    "id": "N3.1.39",
+    "kanji": "冷める",
+    "hiragana": "さめる",
+    "meaning": "Mendingin / hilang minat"
+  },
+  {
+    "id": "N3.1.40",
+    "kanji": "窓側",
+    "hiragana": "まどがわ",
+    "meaning": "Sisi jendela"
+  },
+  {
+    "id": "N3.1.41",
+    "kanji": "～束",
+    "hiragana": "～たば",
+    "meaning": "Sebundel / seikat ~"
+  },
+  {
+    "id": "N3.1.42",
+    "kanji": "戦後",
+    "hiragana": "せんご",
+    "meaning": "Pasca perang"
+  },
+  {
+    "id": "N3.1.43",
+    "kanji": "会費",
+    "hiragana": "かいひ",
+    "meaning": "Iuran keanggotaan"
+  },
+  {
+    "id": "N3.1.44",
+    "kanji": "組む",
+    "hiragana": "くむ",
+    "meaning": "Menyusun / merangkai / berpasangan"
+  },
+  {
+    "id": "N3.1.45",
+    "kanji": "奥",
+    "hiragana": "おく",
+    "meaning": "Bagian dalam / terdalam"
+  },
+  {
+    "id": "N3.1.46",
+    "kanji": "理解",
+    "hiragana": "りかい",
+    "meaning": "Pemahaman"
+  },
+  {
+    "id": "N3.1.47",
+    "kanji": "上達",
+    "hiragana": "じょうたつ",
+    "meaning": "Kemajuan (skill meningkat)"
+  },
+  {
+    "id": "N3.1.48",
+    "kanji": "交換",
+    "hiragana": "こうかん",
+    "meaning": "Pertukaran"
+  },
+  {
+    "id": "N3.1.49",
+    "kanji": "取り替え",
+    "hiragana": "とりかえ",
+    "meaning": "Mengganti (barang dengan yang lain)"
+  },
+  {
+    "id": "N3.1.50",
+    "kanji": "確認",
+    "hiragana": "かくにん",
+    "meaning": "Konfirmasi"
+  },
+  {
+    "id": "N3.1.51",
+    "kanji": "教材",
+    "hiragana": "きょうざい",
+    "meaning": "Bahan ajar"
+  },
+  {
+    "id": "N3.1.52",
+    "kanji": "分類",
+    "hiragana": "ぶんるい",
+    "meaning": "Klasifikasi"
+  },
+  {
+    "id": "N3.1.53",
+    "kanji": "故～",
+    "hiragana": "こ～",
+    "meaning": "Almarhum ~"
+  },
+  {
+    "id": "N3.1.54",
+    "kanji": "大型",
+    "hiragana": "おおがた",
+    "meaning": "Besar / ukuran besar"
+  },
+  {
+    "id": "N3.1.55",
+    "kanji": "失礼する",
+    "hiragana": "しつれいする",
+    "meaning": "Permisi / maaf / meninggalkan (formal)"
+  },
+  {
+    "id": "N3.1.56",
+    "kanji": "表面",
+    "hiragana": "ひょうめん",
+    "meaning": "Permukaan"
+  },
+  {
+    "id": "N3.1.57",
+    "kanji": "虫歯",
+    "hiragana": "むしば",
+    "meaning": "Gigi berlubang"
+  },
+  {
+    "id": "N3.1.58",
+    "kanji": "治療",
+    "hiragana": "ちりょう",
+    "meaning": "Perawatan / pengobatan"
+  },
+  {
+    "id": "N3.1.59",
+    "kanji": "鉄道",
+    "hiragana": "てつどう",
+    "meaning": "Kereta api (sistem)"
+  },
+  {
+    "id": "N3.1.60",
+    "kanji": "登山",
+    "hiragana": "とざん",
+    "meaning": "Mendaki gunung"
+  },
+  {
+    "id": "N3.1.61",
+    "kanji": "定休日",
+    "hiragana": "ていきゅうび",
+    "meaning": "Hari libur toko (rutin)"
+  },
+  {
+    "id": "N3.1.62",
+    "kanji": "１対２",
+    "hiragana": "いちたいに",
+    "meaning": "Skor 1 lawan 2"
+  },
+  {
+    "id": "N3.1.63",
+    "kanji": "安定",
+    "hiragana": "あんてい",
+    "meaning": "Stabil"
+  },
+  {
+    "id": "N3.1.64",
+    "kanji": "強調",
+    "hiragana": "きょうちょう",
+    "meaning": "Penekanan"
+  },
+  {
+    "id": "N3.1.65",
+    "kanji": "信用",
+    "hiragana": "しんよう",
+    "meaning": "Kepercayaan"
+  },
+  {
+    "id": "N3.1.66",
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "meaning": "Selesai / beres"
+  },
+  {
+    "id": "N3.1.67",
+    "kanji": "正確",
+    "hiragana": "せいかく",
+    "meaning": "Akurat / tepat"
+  },
+  {
+    "id": "N3.1.68",
+    "kanji": "不在",
+    "hiragana": "ふざい",
+    "meaning": "Tidak ada di tempat"
+  },
+  {
+    "id": "N3.1.69",
+    "kanji": "価格",
+    "hiragana": "かかく",
+    "meaning": "Harga"
+  },
+  {
+    "id": "N3.1.70",
+    "kanji": "預ける",
+    "hiragana": "あずける",
+    "meaning": "Titipkan"
+  },
+  {
+    "id": "N3.1.71",
+    "kanji": "不安定",
+    "hiragana": "ふあんてい",
+    "meaning": "Tidak stabil"
+  },
+  {
+    "id": "N3.1.72",
+    "kanji": "改める",
+    "hiragana": "あらためる",
+    "meaning": "Mengubah / memperbarui"
+  },
+  {
+    "id": "N3.1.73",
+    "kanji": "流す",
+    "hiragana": "ながす",
+    "meaning": "Mengalirkan / menjatuhkan (air/darah/lagu)"
+  },
+  {
+    "id": "N3.1.74",
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "meaning": "Rapat / meeting"
+  },
+  {
+    "id": "N3.1.75",
+    "kanji": "記録",
+    "hiragana": "きろく",
+    "meaning": "Catatan / rekor"
+  },
+  {
+    "id": "N3.1.76",
+    "kanji": "政府",
+    "hiragana": "せいふ",
+    "meaning": "Pemerintah"
+  },
+  {
+    "id": "N3.1.77",
+    "kanji": "数式",
+    "hiragana": "すうしき",
+    "meaning": "Rumus matematika"
+  },
+  {
+    "id": "N3.1.78",
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "meaning": "Metode / cara"
+  },
+  {
+    "id": "N3.1.79",
+    "kanji": "整理",
+    "hiragana": "せいり",
+    "meaning": "Merapi / menata / membereskan"
+  },
+  {
+    "id": "N3.1.80",
+    "kanji": "非常に",
+    "hiragana": "ひじょうに",
+    "meaning": "Sangat"
+  },
+  {
+    "id": "N3.1.81",
+    "kanji": "虫",
+    "hiragana": "むし",
+    "meaning": "Serangga"
+  },
+  {
+    "id": "N3.1.82",
+    "kanji": "断る",
+    "hiragana": "ことわる",
+    "meaning": "Menolak"
+  },
+  {
+    "id": "N3.1.83",
+    "kanji": "備える",
+    "hiragana": "そなえる",
+    "meaning": "Mempersiapkan / melengkapi"
+  },
+  {
+    "id": "N3.1.84",
+    "kanji": "種",
+    "hiragana": "たね / しゅ",
+    "meaning": "Biji / jenis / spesies"
+  },
+  {
+    "id": "N3.1.85",
+    "kanji": "曲線",
+    "hiragana": "きょくせん",
+    "meaning": "Garis lengkung"
+  },
+  {
+    "id": "N3.1.86",
+    "kanji": "申込書",
+    "hiragana": "もうしこみしょ",
+    "meaning": "Formulir pendaftaran"
+  },
+  {
+    "id": "N3.1.87",
+    "kanji": "化学",
+    "hiragana": "かがく",
+    "meaning": "Kimia"
+  },
+  {
+    "id": "N3.1.88",
+    "kanji": "感想",
+    "hiragana": "かんそう",
+    "meaning": "Kesan / pendapat setelah mencoba"
+  },
+  {
+    "id": "N3.1.89",
+    "kanji": "正座",
+    "hiragana": "せいざ",
+    "meaning": "Duduk formal Jepang"
+  },
+  {
+    "id": "N3.1.90",
+    "kanji": "灯油",
+    "hiragana": "とうゆ",
+    "meaning": "Minyak tanah / kerosin"
+  },
+  {
+    "id": "N3.1.91",
+    "kanji": "部分",
+    "hiragana": "ぶぶん",
+    "meaning": "Bagian"
+  },
+  {
+    "id": "N3.1.92",
+    "kanji": "しょう油",
+    "hiragana": "しょうゆ",
+    "meaning": "Kecap asin Jepang"
+  },
+  {
+    "id": "N3.1.93",
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "meaning": "Tersisa"
+  },
+  {
+    "id": "N3.1.94",
+    "kanji": "予報",
+    "hiragana": "よほう",
+    "meaning": "Prakiraan (cuaca, dll)"
+  },
+  {
+    "id": "N3.1.95",
+    "kanji": "美人",
+    "hiragana": "びじん",
+    "meaning": "Wanita cantik"
+  },
+  {
+    "id": "N3.1.96",
+    "kanji": "変える",
+    "hiragana": "かえる",
+    "meaning": "Mengubah"
+  },
+  {
+    "id": "N3.1.97",
+    "kanji": "預金",
+    "hiragana": "よきん",
+    "meaning": "Tabungan bank"
+  },
+  {
+    "id": "N3.1.98",
+    "kanji": "適当",
+    "hiragana": "てきとう",
+    "meaning": "Sesuai / pas / kadang: asal-asalan"
+  },
+  {
+    "id": "N3.1.99",
+    "kanji": "流れる",
+    "hiragana": "ながれる",
+    "meaning": "Mengalir"
+  },
+  {
+    "id": "N3.1.100",
+    "kanji": "船長",
+    "hiragana": "せんちょう",
+    "meaning": "Kapten kapal"
+  }
+]

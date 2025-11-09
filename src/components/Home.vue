@@ -22,7 +22,7 @@ const selectedAll = ref(false)
 const selectedVolumes = ref<Record<string, number[]>>({
     N5: [],
     N4: [],
-    // N3: [],
+    N3: [],
 })
 
 // Helper to check if all levels have all volumes selected
@@ -68,12 +68,12 @@ function selectAllVolumesLevel() {
     if (selectedAll.value) {
         selectedVolumes.value["N5"] = []
         selectedVolumes.value["N4"] = []
-        // selectedVolumes.value["N3"] = []
+        selectedVolumes.value["N3"] = []
         selectedAll.value = false
     } else {
         selectedVolumes.value["N5"] = [...volumes["N5"]!]
         selectedVolumes.value["N4"] = [...volumes["N4"]!]
-        // selectedVolumes.value["N3"] = [...volumes["N3"]!]
+        selectedVolumes.value["N3"] = [...volumes["N3"]!]
         selectedAll.value = true
     }
 }
