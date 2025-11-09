@@ -45,13 +45,13 @@
     "id": "N3.1.8",
     "kanji": "申請",
     "hiragana": "しんせい",
-    "meaning": "Pengajuan / aplikasi (resmi)"
+    "meaning": "Mendaftar"
   },
   {
     "id": "N3.1.9",
     "kanji": "完成",
     "hiragana": "かんせい",
-    "meaning": "Selesai / selesai dibangun"
+    "meaning": "Selesai (membuat)"
   },
   {
     "id": "N3.1.10",
@@ -87,13 +87,13 @@
     "id": "N3.1.15",
     "kanji": "案",
     "hiragana": "あん",
-    "meaning": "Rancangan / ide / usulan"
+    "meaning": "Usulan"
   },
   {
     "id": "N3.1.16",
     "kanji": "全面",
     "hiragana": "ぜんめん",
-    "meaning": "Seluruh bagian / keseluruhan"
+    "meaning": "Keseluruhan"
   },
   {
     "id": "N3.1.17",
@@ -123,7 +123,7 @@
     "id": "N3.1.21",
     "kanji": "～号車",
     "hiragana": "～ごうしゃ",
-    "meaning": "Gerbong nomor ～"
+    "meaning": "Gerbong nomor ~"
   },
   {
     "id": "N3.1.22",
@@ -147,7 +147,7 @@
     "id": "N3.1.25",
     "kanji": "優勝",
     "hiragana": "ゆうしょう",
-    "meaning": "Juara / menang kompetisi"
+    "meaning": "Juara"
   },
   {
     "id": "N3.1.26",
@@ -225,13 +225,13 @@
     "id": "N3.1.38",
     "kanji": "～寺",
     "hiragana": "～てら／～じ",
-    "meaning": "Kuil ～"
+    "meaning": "Kuil ~"
   },
   {
     "id": "N3.1.39",
     "kanji": "冷める",
     "hiragana": "さめる",
-    "meaning": "Mendingin / hilang minat"
+    "meaning": "Mendingin (suhu seperti semula)"
   },
   {
     "id": "N3.1.40",
@@ -261,13 +261,13 @@
     "id": "N3.1.44",
     "kanji": "組む",
     "hiragana": "くむ",
-    "meaning": "Menyusun / merangkai / berpasangan"
+    "meaning": "Menyusun / menyatukan"
   },
   {
     "id": "N3.1.45",
     "kanji": "奥",
     "hiragana": "おく",
-    "meaning": "Bagian dalam / terdalam"
+    "meaning": "Bagian dalam"
   },
   {
     "id": "N3.1.46",
@@ -291,7 +291,7 @@
     "id": "N3.1.49",
     "kanji": "取り替え",
     "hiragana": "とりかえ",
-    "meaning": "Mengganti (barang dengan yang lain)"
+    "meaning": "Mengganti (dengan yang lain)"
   },
   {
     "id": "N3.1.50",
@@ -321,13 +321,13 @@
     "id": "N3.1.54",
     "kanji": "大型",
     "hiragana": "おおがた",
-    "meaning": "Besar / ukuran besar"
+    "meaning": "Ukuran besar"
   },
   {
     "id": "N3.1.55",
     "kanji": "失礼する",
     "hiragana": "しつれいする",
-    "meaning": "Permisi / maaf / meninggalkan (formal)"
+    "meaning": "Permisi (formal)"
   },
   {
     "id": "N3.1.56",
@@ -345,13 +345,13 @@
     "id": "N3.1.58",
     "kanji": "治療",
     "hiragana": "ちりょう",
-    "meaning": "Perawatan / pengobatan"
+    "meaning": "Pengobatan"
   },
   {
     "id": "N3.1.59",
     "kanji": "鉄道",
     "hiragana": "てつどう",
-    "meaning": "Kereta api (sistem)"
+    "meaning": "Rel kereta"
   },
   {
     "id": "N3.1.60",
@@ -363,7 +363,7 @@
     "id": "N3.1.61",
     "kanji": "定休日",
     "hiragana": "ていきゅうび",
-    "meaning": "Hari libur toko (rutin)"
+    "meaning": "Hari libur tetap"
   },
   {
     "id": "N3.1.62",
@@ -435,7 +435,7 @@
     "id": "N3.1.73",
     "kanji": "流す",
     "hiragana": "ながす",
-    "meaning": "Mengalirkan / menjatuhkan (air/darah/lagu)"
+    "meaning": "Mengalirkan"
   },
   {
     "id": "N3.1.74",
@@ -447,7 +447,7 @@
     "id": "N3.1.75",
     "kanji": "記録",
     "hiragana": "きろく",
-    "meaning": "Catatan / rekor"
+    "meaning": "Rekor"
   },
   {
     "id": "N3.1.76",
@@ -471,7 +471,7 @@
     "id": "N3.1.79",
     "kanji": "整理",
     "hiragana": "せいり",
-    "meaning": "Merapi / menata / membereskan"
+    "meaning": "Menata"
   },
   {
     "id": "N3.1.80",
@@ -495,13 +495,13 @@
     "id": "N3.1.83",
     "kanji": "備える",
     "hiragana": "そなえる",
-    "meaning": "Mempersiapkan / melengkapi"
+    "meaning": "Mempersiapkan"
   },
   {
     "id": "N3.1.84",
     "kanji": "種",
-    "hiragana": "たね / しゅ",
-    "meaning": "Biji / jenis / spesies"
+    "hiragana": "たね",
+    "meaning": "Benih"
   },
   {
     "id": "N3.1.85",
@@ -525,7 +525,7 @@
     "id": "N3.1.88",
     "kanji": "感想",
     "hiragana": "かんそう",
-    "meaning": "Kesan / pendapat setelah mencoba"
+    "meaning": "Kesan"
   },
   {
     "id": "N3.1.89",
@@ -537,7 +537,7 @@
     "id": "N3.1.90",
     "kanji": "灯油",
     "hiragana": "とうゆ",
-    "meaning": "Minyak tanah / kerosin"
+    "meaning": "Minyak tanah"
   },
   {
     "id": "N3.1.91",
@@ -585,7 +585,7 @@
     "id": "N3.1.98",
     "kanji": "適当",
     "hiragana": "てきとう",
-    "meaning": "Sesuai / pas / kadang: asal-asalan"
+    "meaning": "Sesuai / asal-asalan"
   },
   {
     "id": "N3.1.99",
