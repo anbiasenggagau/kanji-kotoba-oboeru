@@ -9,19 +9,19 @@
     "id": "N3.3.2",
     "kanji": "差出人",
     "hiragana": "さしだしにん",
-    "meaning": "Pengirim"
+    "meaning": "Pengirim (email)"
   },
   {
     "id": "N3.3.3",
     "kanji": "留守番",
     "hiragana": "るすばん",
-    "meaning": "Menjaga rumah saat orang tidak ada"
+    "meaning": "Menjaga rumah"
   },
   {
     "id": "N3.3.4",
     "kanji": "細かい",
     "hiragana": "こまかい",
-    "meaning": "Rinci / kecil (detail)"
+    "meaning": "Detail / kecil"
   },
   {
     "id": "N3.3.5",
@@ -33,7 +33,7 @@
     "id": "N3.3.6",
     "kanji": "～化",
     "hiragana": "～か",
-    "meaning": "Menjadi ~ / perubahan ke ~"
+    "meaning": "Berubah menjadi ~"
   },
   {
     "id": "N3.3.7",
@@ -45,7 +45,7 @@
     "id": "N3.3.8",
     "kanji": "衣類",
     "hiragana": "いるい",
-    "meaning": "Pakaian (kategori umum)"
+    "meaning": "Pakaian"
   },
   {
     "id": "N3.3.9",
@@ -69,13 +69,13 @@
     "id": "N3.3.12",
     "kanji": "鳴く",
     "hiragana": "なく",
-    "meaning": "Bersuara (hewan/serangga)"
+    "meaning": "Bersuara / berkicau (hewan)"
   },
   {
     "id": "N3.3.13",
     "kanji": "個数",
     "hiragana": "こすう",
-    "meaning": "Jumlah unit / kuantitas benda"
+    "meaning": "Jumlah unit"
   },
   {
     "id": "N3.3.14",
@@ -91,9 +91,9 @@
   },
   {
     "id": "N3.3.16",
-    "kanji": "片付ける",
-    "hiragana": "かたづける",
-    "meaning": "Merapi / membereskan"
+    "kanji": "苦しい",
+    "hiragana": "くるしい",
+    "meaning": "Menyakitkan"
   },
   {
     "id": "N3.3.17",
@@ -111,13 +111,13 @@
     "id": "N3.3.19",
     "kanji": "期間",
     "hiragana": "きかん",
-    "meaning": "Periode / jangka waktu"
+    "meaning": "Jangka waktu"
   },
   {
     "id": "N3.3.20",
     "kanji": "お寺",
     "hiragana": "おてら",
-    "meaning": "Kuil Buddha"
+    "meaning": "Wihara"
   },
   {
     "id": "N3.3.21",
@@ -129,7 +129,7 @@
     "id": "N3.3.22",
     "kanji": "示す",
     "hiragana": "しめす",
-    "meaning": "Menunjukkan / memperlihatkan"
+    "meaning": "Menunjukkan"
   },
   {
     "id": "N3.3.23",
@@ -153,7 +153,7 @@
     "id": "N3.3.26",
     "kanji": "直る",
     "hiragana": "なおる",
-    "meaning": "Sembuh / kembali normal / diperbaiki"
+    "meaning": "Sembuh"
   },
   {
     "id": "N3.3.27",
@@ -171,7 +171,7 @@
     "id": "N3.3.29",
     "kanji": "四角い",
     "hiragana": "しかくい",
-    "meaning": "Bentuk persegi / kotak"
+    "meaning": "Segi empat"
   },
   {
     "id": "N3.3.30",
@@ -183,7 +183,7 @@
     "id": "N3.3.31",
     "kanji": "賞味期限",
     "hiragana": "しょうみきげん",
-    "meaning": "Tanggal kadaluwarsa makanan"
+    "meaning": "Tanggal kadaluwarsa"
   },
   {
     "id": "N3.3.32",
@@ -195,7 +195,7 @@
     "id": "N3.3.33",
     "kanji": "請求書",
     "hiragana": "せいきゅうしょ",
-    "meaning": "Tagihan / invoice"
+    "meaning": "Tagihan"
   },
   {
     "id": "N3.3.34",
@@ -207,7 +207,7 @@
     "id": "N3.3.35",
     "kanji": "再来週",
     "hiragana": "さらいしゅう",
-    "meaning": "Dua minggu lagi"
+    "meaning": "2 minggu lagi"
   },
   {
     "id": "N3.3.36",
@@ -225,7 +225,7 @@
     "id": "N3.3.38",
     "kanji": "改正",
     "hiragana": "かいせい",
-    "meaning": "Revisi (aturan/sistem)"
+    "meaning": "Revisi"
   },
   {
     "id": "N3.3.39",
@@ -249,7 +249,7 @@
     "id": "N3.3.42",
     "kanji": "調査",
     "hiragana": "ちょうさ",
-    "meaning": "Penelitian / survei / investigasi"
+    "meaning": "Investigasi"
   },
   {
     "id": "N3.3.43",
@@ -279,7 +279,7 @@
     "id": "N3.3.47",
     "kanji": "雨戸",
     "hiragana": "あまど",
-    "meaning": "Pintu geser luar rumah (penahan hujan/angin)"
+    "meaning": "Pintu penahan hujan"
   },
   {
     "id": "N3.3.48",
@@ -303,7 +303,7 @@
     "id": "N3.3.51",
     "kanji": "造る",
     "hiragana": "つくる",
-    "meaning": "Membuat (benda besar/struktur)"
+    "meaning": "Membuat (manufaktur)"
   },
   {
     "id": "N3.3.52",
@@ -315,13 +315,13 @@
     "id": "N3.3.53",
     "kanji": "向こう",
     "hiragana": "むこう",
-    "meaning": "Sebrang / sana / pihak lain"
+    "meaning": "Sebrang / sisi lain"
   },
   {
     "id": "N3.3.54",
     "kanji": "当たり前",
     "hiragana": "あたりまえ",
-    "meaning": "Wajar / sudah sewajarnya"
+    "meaning": "Wajar"
   },
   {
     "id": "N3.3.55",
@@ -351,7 +351,7 @@
     "id": "N3.3.59",
     "kanji": "団体",
     "hiragana": "だんたい",
-    "meaning": "Rombongan / organisasi / grup"
+    "meaning": "Grup"
   },
   {
     "id": "N3.3.60",
@@ -363,7 +363,7 @@
     "id": "N3.3.61",
     "kanji": "事務",
     "hiragana": "じむ",
-    "meaning": "Administrasi / tata usaha"
+    "meaning": "Pekerjaan kantor"
   },
   {
     "id": "N3.3.62",
@@ -387,7 +387,7 @@
     "id": "N3.3.65",
     "kanji": "失礼",
     "hiragana": "しつれい",
-    "meaning": "Tidak sopan / permisi (keigo)"
+    "meaning": "Tidak sopan"
   },
   {
     "id": "N3.3.66",
@@ -399,7 +399,7 @@
     "id": "N3.3.67",
     "kanji": "書留",
     "hiragana": "かきとめ",
-    "meaning": "Surat tercatat (trackable)"
+    "meaning": "Surat tercatat"
   },
   {
     "id": "N3.3.68",
@@ -411,7 +411,7 @@
     "id": "N3.3.69",
     "kanji": "当～",
     "hiragana": "とう～",
-    "meaning": "Yang bersangkutan ~"
+    "meaning": "Ini ~"
   },
   {
     "id": "N3.3.70",
@@ -429,7 +429,7 @@
     "id": "N3.3.72",
     "kanji": "～君",
     "hiragana": "～くん",
-    "meaning": "Panggilan ke teman laki-laki / junior"
+    "meaning": "Panggilan ke teman laki-laki"
   },
   {
     "id": "N3.3.73",
@@ -471,7 +471,7 @@
     "id": "N3.3.79",
     "kanji": "代引き",
     "hiragana": "だいびき",
-    "meaning": "Bayar di tempat / COD (pengiriman)"
+    "meaning": "COD (singkatan)"
   },
   {
     "id": "N3.3.80",
@@ -507,13 +507,13 @@
     "id": "N3.3.85",
     "kanji": "下宿",
     "hiragana": "げしゅく",
-    "meaning": "Kos / tinggal sewa kamar"
+    "meaning": "Kos-kosan"
   },
   {
     "id": "N3.3.86",
     "kanji": "完了",
     "hiragana": "かんりょう",
-    "meaning": "Selesai / complete (system state)"
+    "meaning": "Selesai / complete"
   },
   {
     "id": "N3.3.87",
@@ -585,7 +585,7 @@
     "id": "N3.3.98",
     "kanji": "時間帯",
     "hiragana": "じかんたい",
-    "meaning": "Zona waktu / rentang waktu"
+    "meaning": "Zona waktu"
   },
   {
     "id": "N3.3.99",
@@ -597,6 +597,6 @@
     "id": "N3.3.100",
     "kanji": "困難",
     "hiragana": "こんなん",
-    "meaning": "Kesulitan / sulit"
+    "meaning": "Kesulitan"
   }
 ]
