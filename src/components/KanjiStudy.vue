@@ -151,7 +151,7 @@ async function initializeKanjiData(level: string) {
         </div>
 
         <!-- Center Content -->
-        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 pt-8 lg:pt-6">
+        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 pt-14 md:pt-8 lg:pt-6">
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> {{ selectedLevel != "Flagged" ? `Kanji Ke ${idx + 1}` : kanjiData.id }}</h1>
             </Transition>
@@ -161,6 +161,7 @@ async function initializeKanjiData(level: string) {
                     }}
                     </h1>
                 </Transition>
+                <!-- Flag Symbol -->
                 <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? removeFlaggedKanji(kanjiData.kanji) : flagData.pushData(kanjiData)"
                     class="absolute justify-center items-center top-0 -right-7 md:-right-9 text-gray-500 hover:text-gray-700 cursor-pointer">
                     <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
@@ -174,7 +175,7 @@ async function initializeKanjiData(level: string) {
                     </svg>
                 </div>
             </div>
-            <div key="meaning" class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
+            <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
                 <Transition name="fade" mode="out-in">
                     <h2 :key="kanjiData.hiragana">{{ kanjiData.hiragana }}</h2>
                 </Transition>
@@ -184,14 +185,14 @@ async function initializeKanjiData(level: string) {
             </div>
 
             <div class="card flex justify-center">
-                <div key="mark" class="flex space-x-2.5 lg:space-x-4">
+                <div class="flex space-x-2.5 lg:space-x-4">
                     <SecondaryButton class="text-sm md:text-base" @click="previousKanji(100)" label="<<<"
                         variant="outlined" />
                     <SecondaryButton class="text-sm md:text-base" @click="previousKanji(10)" label="<<"
                         variant="outlined" />
-                    <SecondaryButton class="text-sm md:text-base lg:hidden" @click="previousKanji()" label="<"
+                    <SecondaryButton class="text-sm md:text-base lg:hidden px-3.5" @click="previousKanji()" label=" < "
                         variant="outlined" />
-                    <SecondaryButton class="text-sm md:text-base lg:hidden" @click="nextKanji()" label=">"
+                    <SecondaryButton class="text-sm md:text-base lg:hidden px-3.5" @click="nextKanji()" label=">"
                         variant="outlined" />
                     <SecondaryButton class="text-sm md:text-base hidden! lg:inline-flex!" @click="previousKanji()"
                         label="Kanji Sebelumnya" variant="outlined" />
