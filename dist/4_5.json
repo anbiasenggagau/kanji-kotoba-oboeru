@@ -39,7 +39,7 @@
     "id": "N4.5.7",
     "kanji": "並ぶ",
     "hiragana": "ならぶ",
-    "meaning": "Bahagia"
+    "meaning": "Berbaris"
   },
   {
     "id": "N4.5.8",
@@ -183,7 +183,7 @@
     "id": "N4.5.31",
     "kanji": "楽",
     "hiragana": "らく",
-    "meaning": "Mudah / nyaman / menyenangkan"
+    "meaning": "Mudah / nyaman"
   },
   {
     "id": "N4.5.32",
@@ -301,9 +301,9 @@
   },
   {
     "id": "N4.5.51",
-    "kanji": "点",
-    "hiragana": "てん",
-    "meaning": "Poin"
+    "kanji": "～点",
+    "hiragana": "～てん",
+    "meaning": "~ Poin"
   },
   {
     "id": "N4.5.52",

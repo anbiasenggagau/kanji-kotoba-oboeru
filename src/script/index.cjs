@@ -18,7 +18,11 @@ fs.readdirSync(publicDir)
 const cleanData = newData.map(val => {
     if (
         existingData[val] == undefined &&
-        existingData[val + "する"] == undefined
+        existingData[val + "する"] == undefined &&
+        (
+            val.slice(val.length - 2) == "する" &&
+            existingData[val.slice(0, val.length - 2)]
+        )
     )
         return val
     else {

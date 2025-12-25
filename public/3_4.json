@@ -21,13 +21,13 @@
     "id": "N3.4.4",
     "kanji": "歯科",
     "hiragana": "しか",
-    "meaning": "Dokter gigi / klinik gigi"
+    "meaning": "Klinik gigi"
   },
   {
     "id": "N3.4.5",
     "kanji": "乗り換え",
     "hiragana": "のりかえ",
-    "meaning": "Transit / pindah kendaraan"
+    "meaning": "Transit"
   },
   {
     "id": "N3.4.6",
@@ -51,19 +51,19 @@
     "id": "N3.4.9",
     "kanji": "指定席",
     "hiragana": "していせき",
-    "meaning": "Kursi dengan nomor (reserved seat)"
+    "meaning": "Kursi pesanan"
   },
   {
     "id": "N3.4.10",
     "kanji": "～様",
     "hiragana": "～さま",
-    "meaning": "Tuan/Nyonya (kehormatan tinggi)"
+    "meaning": "Tuan/Nyonya ~"
   },
   {
     "id": "N3.4.11",
     "kanji": "表示",
     "hiragana": "ひょうじ",
-    "meaning": "Tampilan / indikasi / display"
+    "meaning": "Tampilan / indikasi"
   },
   {
     "id": "N3.4.12",
@@ -79,9 +79,9 @@
   },
   {
     "id": "N3.4.14",
-    "kanji": "ご存知です",
-    "hiragana": "ごぞんじです",
-    "meaning": "Tahu (keigo)"
+    "kanji": "小型",
+    "hiragana": "こがた",
+    "meaning": "Berukuran kecil"
   },
   {
     "id": "N3.4.15",
@@ -117,13 +117,13 @@
     "id": "N3.4.20",
     "kanji": "断水",
     "hiragana": "だんすい",
-    "meaning": "Air mati / pemutusan suplai air"
+    "meaning": "Pemutusan suplai air"
   },
   {
     "id": "N3.4.21",
     "kanji": "優しい",
     "hiragana": "やさしい",
-    "meaning": "Ramah / baik hati / lembut"
+    "meaning": "Ramah / baik hati"
   },
   {
     "id": "N3.4.22",
@@ -147,7 +147,7 @@
     "id": "N3.4.25",
     "kanji": "自由席",
     "hiragana": "じゆうせき",
-    "meaning": "Kursi bebas / tidak bernomor"
+    "meaning": "Kursi tidak direservasi"
   },
   {
     "id": "N3.4.26",
@@ -195,7 +195,7 @@
     "id": "N3.4.33",
     "kanji": "受験",
     "hiragana": "じゅけん",
-    "meaning": "Mengikuti ujian (masuk sekolah/perguruan tinggi)"
+    "meaning": "Mengikuti ujian (masuk sekolah)"
   },
   {
     "id": "N3.4.34",
@@ -207,7 +207,7 @@
     "id": "N3.4.35",
     "kanji": "裏返す",
     "hiragana": "うらがえす",
-    "meaning": "Membalik (sisi dalam/luar)"
+    "meaning": "Membalik sisi"
   },
   {
     "id": "N3.4.36",
@@ -219,13 +219,13 @@
     "id": "N3.4.37",
     "kanji": "両",
     "hiragana": "りょう",
-    "meaning": "Kedua / sisi kiri & kanan"
+    "meaning": "Keduanya"
   },
   {
     "id": "N3.4.38",
     "kanji": "伺う",
     "hiragana": "うかがう",
-    "meaning": "Berbicara dengan hormat / bertanya (keigo)"
+    "meaning": "Bertanya (keigo)"
   },
   {
     "id": "N3.4.39",
@@ -243,7 +243,7 @@
     "id": "N3.4.41",
     "kanji": "表す",
     "hiragana": "あらわす",
-    "meaning": "Mengungkapkan / mengekspresikan"
+    "meaning": "Mengungkapkan"
   },
   {
     "id": "N3.4.42",
@@ -267,7 +267,7 @@
     "id": "N3.4.45",
     "kanji": "選挙",
     "hiragana": "せんきょ",
-    "meaning": "Pemilu / pemilihan"
+    "meaning": "Pemilu"
   },
   {
     "id": "N3.4.46",
@@ -303,7 +303,7 @@
     "id": "N3.4.51",
     "kanji": "用件",
     "hiragana": "ようけん",
-    "meaning": "Keperluan / urusan"
+    "meaning": "Keperluan"
   },
   {
     "id": "N3.4.52",
@@ -321,7 +321,7 @@
     "id": "N3.4.54",
     "kanji": "再入国",
     "hiragana": "さいにゅうこく",
-    "meaning": "Masuk kembali suatu negara"
+    "meaning": "Masuk kembali (negara)"
   },
   {
     "id": "N3.4.55",
@@ -339,13 +339,13 @@
     "id": "N3.4.57",
     "kanji": "改札口",
     "hiragana": "かいさつぐち",
-    "meaning": "Gerbang tiket (kereta)"
+    "meaning": "Gerbang tiket"
   },
   {
     "id": "N3.4.58",
     "kanji": "欠ける",
     "hiragana": "かける",
-    "meaning": "Kurang / tidak lengkap / terpotong"
+    "meaning": "Terpotong / tidak lengkap"
   },
   {
     "id": "N3.4.59",
@@ -369,13 +369,13 @@
     "id": "N3.4.62",
     "kanji": "定期券",
     "hiragana": "ていきけん",
-    "meaning": "Kartu langganan transportasi"
+    "meaning": "Kartu transportasi"
   },
   {
     "id": "N3.4.63",
     "kanji": "帯",
     "hiragana": "おび",
-    "meaning": "Sabuk kimono / pita kain"
+    "meaning": "Sabuk kimono"
   },
   {
     "id": "N3.4.64",
@@ -393,7 +393,7 @@
     "id": "N3.4.66",
     "kanji": "回数券",
     "hiragana": "かいすうけん",
-    "meaning": "Kupon tiket beberapa kali"
+    "meaning": "Kupon beberapa kali"
   },
   {
     "id": "N3.4.67",
@@ -429,7 +429,7 @@
     "id": "N3.4.72",
     "kanji": "乗車券",
     "hiragana": "じょうしゃけん",
-    "meaning": "Tiket naik kendaraan"
+    "meaning": "Tiket (kereta / bus)"
   },
   {
     "id": "N3.4.73",
@@ -495,7 +495,7 @@
     "id": "N3.4.83",
     "kanji": "横断",
     "hiragana": "おうだん",
-    "meaning": "Menyebrang"
+    "meaning": "Menyebrangi"
   },
   {
     "id": "N3.4.84",
@@ -513,13 +513,13 @@
     "id": "N3.4.86",
     "kanji": "泊める",
     "hiragana": "とめる",
-    "meaning": "Menampung untuk menginap"
+    "meaning": "Menginapkan"
   },
   {
     "id": "N3.4.87",
     "kanji": "終了",
     "hiragana": "しゅうりょう",
-    "meaning": "Selesai / end"
+    "meaning": "Selesai"
   },
   {
     "id": "N3.4.88",
@@ -531,7 +531,7 @@
     "id": "N3.4.89",
     "kanji": "選手",
     "hiragana": "せんしゅ",
-    "meaning": "Atlet / pemain"
+    "meaning": "Atlet"
   },
   {
     "id": "N3.4.90",
@@ -565,8 +565,8 @@
   },
   {
     "id": "N3.4.95",
-    "kanji": "一般",
-    "hiragana": "いっぱん",
+    "kanji": "般",
+    "hiragana": "ばん",
     "meaning": "Umum"
   },
   {
@@ -595,8 +595,8 @@
   },
   {
     "id": "N3.4.100",
-    "kanji": "～点",
-    "hiragana": "～てん",
-    "meaning": "Titik / nilai / poin"
+    "kanji": "保存する",
+    "hiragana": "ほぞんする",
+    "meaning": "Menyimpan"
   }
 ]
