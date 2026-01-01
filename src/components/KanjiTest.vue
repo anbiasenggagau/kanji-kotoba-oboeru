@@ -126,7 +126,7 @@ async function initData() {
         </div>
 
         <!-- Center Content -->
-        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 select-none">
+        <div class="flex flex-col justify-center items-center min-h-[100dvh] pt-8 lg:pt-0 space-y-2.5 lg:space-y-4 select-none">
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="questNum"> Soal Ke {{ questNum }}</h1>
             </Transition>
@@ -152,7 +152,9 @@ async function initData() {
             <Transition name="fade" mode="out-in">
                 <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
                     <h2 v-bind:class="answer">{{ kanjiData.hiragana }}</h2>
-                    <h2 v-bind:class="answer">{{ kanjiData.meaning }}</h2>
+                    <h2 class="text-xs lg:text-lg font-medium" v-bind:class="answer">{{ kanjiData.type }}</h2>
+                    <h2 v-bind:class="answer">{{ kanjiData.idMeaning }}</h2>
+                    <h2 class="text-sm lg:text-lg font-light" v-bind:class="answer">{{ kanjiData.enMeaning }}</h2>
                 </div>
             </Transition>
 
@@ -200,7 +202,7 @@ async function initData() {
             <!-- Bottom Content -->
             <Transition name="fade" mode="out-in">
                 <div v-if="!revealButton"
-                    class="fixed bottom-10 lg:bottom-12 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
+                    class="fixed bottom-12 lg:bottom-14 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
                     <Button as="a" :href="`https://jisho.org/search/${kanjiData.kanji}`" target="_blank"
                         class="text-sm md:text-base" label="Lihat Penjelasan" />
                 </div>

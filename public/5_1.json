@@ -3,510 +3,680 @@
     "id": "N5.1.1",
     "kanji": "先生",
     "hiragana": "せんせい",
-    "meaning": "Guru"
+    "idMeaning": "Guru",
+    "enMeaning": "Teacher",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.2",
     "kanji": "学生",
     "hiragana": "がくせい",
-    "meaning": "Pelajar"
+    "idMeaning": "Pelajar",
+    "enMeaning": "Student",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.3",
     "kanji": "酒",
     "hiragana": "さけ",
-    "meaning": "Miras"
+    "idMeaning": "Miras",
+    "enMeaning": "Alcohol / sake",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.4",
     "kanji": "会社員",
     "hiragana": "かいしゃいん",
-    "meaning": "Karyawan"
+    "idMeaning": "Karyawan",
+    "enMeaning": "Company employee",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.5",
     "kanji": "銀行",
     "hiragana": "ぎんこう",
-    "meaning": "Bank"
+    "idMeaning": "Bank",
+    "enMeaning": "Bank",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.6",
     "kanji": "医者",
     "hiragana": "いしゃ",
-    "meaning": "Dokter"
+    "idMeaning": "Dokter",
+    "enMeaning": "Doctor",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.7",
     "kanji": "大学",
     "hiragana": "だいがく",
-    "meaning": "Universitas"
+    "idMeaning": "Universitas",
+    "enMeaning": "University",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.8",
     "kanji": "時々",
     "hiragana": "ときどき",
-    "meaning": "Kadang-kadang"
+    "idMeaning": "Kadang-kadang",
+    "enMeaning": "Sometimes",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.9",
     "kanji": "昼休み",
     "hiragana": "ひるやすみ",
-    "meaning": "Istirahat siang"
+    "idMeaning": "Istirahat siang",
+    "enMeaning": "Lunch break",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.10",
     "kanji": "辞書",
     "hiragana": "じしょ",
-    "meaning": "Kamus"
+    "idMeaning": "Kamus",
+    "enMeaning": "Dictionary",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.11",
     "kanji": "雑誌",
     "hiragana": "ざっし",
-    "meaning": "Majalah"
+    "idMeaning": "Majalah",
+    "enMeaning": "Magazine",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.12",
     "kanji": "新聞",
     "hiragana": "しんぶん",
-    "meaning": "Koran"
+    "idMeaning": "Koran",
+    "enMeaning": "Newspaper",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.13",
     "kanji": "手帳",
     "hiragana": "てちょう",
-    "meaning": "Buku catatan"
+    "idMeaning": "Buku catatan",
+    "enMeaning": "Notebook / planner",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.14",
     "kanji": "名刺",
     "hiragana": "めいし",
-    "meaning": "Kartu Nama"
+    "idMeaning": "Kartu Nama",
+    "enMeaning": "Business card",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.15",
     "kanji": "鉛筆",
     "hiragana": "えんぴつ",
-    "meaning": "Pensil"
+    "idMeaning": "Pensil",
+    "enMeaning": "Pencil",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.16",
     "kanji": "時計",
     "hiragana": "とけい",
-    "meaning": "Jam"
+    "idMeaning": "Jam",
+    "enMeaning": "Clock / watch",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.17",
     "kanji": "傘",
     "hiragana": "かさ",
-    "meaning": "Payung"
+    "idMeaning": "Payung",
+    "enMeaning": "Umbrella",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.18",
     "kanji": "机",
     "hiragana": "つくえ",
-    "meaning": "Meja"
+    "idMeaning": "Meja",
+    "enMeaning": "Desk / table",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.19",
     "kanji": "英語",
     "hiragana": "えいご",
-    "meaning": "Bahasa Inggris"
+    "idMeaning": "Bahasa Inggris",
+    "enMeaning": "English language",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.20",
     "kanji": "日本語",
     "hiragana": "にほんご",
-    "meaning": "Bahasa Jepang"
+    "idMeaning": "Bahasa Jepang",
+    "enMeaning": "Japanese language",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.21",
     "kanji": "教室",
     "hiragana": "きょうしつ",
-    "meaning": "Ruang kelas"
+    "idMeaning": "Ruang kelas",
+    "enMeaning": "Classroom",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.22",
     "kanji": "食堂",
     "hiragana": "しょくどう",
-    "meaning": "Ruang makan"
+    "idMeaning": "Ruang makan",
+    "enMeaning": "Cafeteria / dining hall",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.23",
     "kanji": "事務所",
     "hiragana": "じむしょ",
-    "meaning": "Kantor"
+    "idMeaning": "Kantor",
+    "enMeaning": "Office",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.24",
     "kanji": "電話",
     "hiragana": "でんわ",
-    "meaning": "Telepon"
+    "idMeaning": "Telepon",
+    "enMeaning": "Telephone",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.25",
     "kanji": "靴",
     "hiragana": "くつ",
-    "meaning": "Sepatu"
+    "idMeaning": "Sepatu",
+    "enMeaning": "Shoes",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.26",
     "kanji": "起きる",
     "hiragana": "おきる",
-    "meaning": "Bangun / terjadi"
+    "idMeaning": "Bangun / terjadi",
+    "enMeaning": "Wake up / occur",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.27",
     "kanji": "宿題",
     "hiragana": "しゅくだい",
-    "meaning": "Pekerjaan rumah"
+    "idMeaning": "Pekerjaan rumah",
+    "enMeaning": "Homework",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.28",
     "kanji": "月曜日",
     "hiragana": "げつようび",
-    "meaning": "Senin"
+    "idMeaning": "Senin",
+    "enMeaning": "Monday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.29",
     "kanji": "火曜日",
     "hiragana": "かようび",
-    "meaning": "Selasa"
+    "idMeaning": "Selasa",
+    "enMeaning": "Tuesday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.30",
     "kanji": "水曜日",
     "hiragana": "すいようび",
-    "meaning": "Rabu"
+    "idMeaning": "Rabu",
+    "enMeaning": "Wednesday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.31",
     "kanji": "木曜日",
     "hiragana": "もくようび",
-    "meaning": "Kamis"
+    "idMeaning": "Kamis",
+    "enMeaning": "Thursday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.32",
     "kanji": "金曜日",
     "hiragana": "きんようび",
-    "meaning": "Jumat"
+    "idMeaning": "Jumat",
+    "enMeaning": "Friday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.33",
     "kanji": "土曜日",
     "hiragana": "どようび",
-    "meaning": "Sabtu"
+    "idMeaning": "Sabtu",
+    "enMeaning": "Saturday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.34",
     "kanji": "日曜日",
     "hiragana": "にちようび",
-    "meaning": "Minggu"
+    "idMeaning": "Minggu",
+    "enMeaning": "Sunday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.35",
     "kanji": "午前",
     "hiragana": "ごぜん",
-    "meaning": "Pagi (AM)"
+    "idMeaning": "Pagi (AM)",
+    "enMeaning": "Morning / a.m.",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.36",
     "kanji": "働く",
     "hiragana": "はたらく",
-    "meaning": "Bekerja"
+    "idMeaning": "Bekerja",
+    "enMeaning": "Work",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.37",
     "kanji": "寝る",
     "hiragana": "ねる",
-    "meaning": "Tidur"
+    "idMeaning": "Tidur",
+    "enMeaning": "Sleep",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.38",
     "kanji": "勉強する",
     "hiragana": "べんきょうする",
-    "meaning": "Belajar"
+    "idMeaning": "Belajar",
+    "enMeaning": "Study",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.39",
     "kanji": "終わる",
     "hiragana": "おわる",
-    "meaning": "Selesai"
+    "idMeaning": "Selesai",
+    "enMeaning": "Finish / end",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.40",
     "kanji": "分",
     "hiragana": "ふん",
-    "meaning": "Menit"
+    "idMeaning": "Menit",
+    "enMeaning": "Minute",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.41",
     "kanji": "朝",
     "hiragana": "あさ",
-    "meaning": "Pagi"
+    "idMeaning": "Pagi",
+    "enMeaning": "Morning",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.42",
     "kanji": "昼",
     "hiragana": "ひる",
-    "meaning": "Siang"
+    "idMeaning": "Siang",
+    "enMeaning": "Noon / daytime",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.43",
     "kanji": "夜",
     "hiragana": "よる",
-    "meaning": "Malam"
+    "idMeaning": "Malam",
+    "enMeaning": "Night",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.44",
     "kanji": "晩",
     "hiragana": "ばん",
-    "meaning": "Malam (larut)"
+    "idMeaning": "Malam (larut)",
+    "enMeaning": "Evening",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.45",
     "kanji": "試験",
     "hiragana": "しけん",
-    "meaning": "Ujian"
+    "idMeaning": "Ujian",
+    "enMeaning": "Exam / test",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.46",
     "kanji": "帰る",
     "hiragana": "かえる",
-    "meaning": "Pulang"
+    "idMeaning": "Pulang",
+    "enMeaning": "Return / go home",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.47",
     "kanji": "映画",
     "hiragana": "えいが",
-    "meaning": "Film"
+    "idMeaning": "Film",
+    "enMeaning": "Movie",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.48",
     "kanji": "写真",
     "hiragana": "しゃしん",
-    "meaning": "Foto"
+    "idMeaning": "Foto",
+    "enMeaning": "Photo / photograph",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.49",
     "kanji": "船",
     "hiragana": "ふね",
-    "meaning": "Kapal"
+    "idMeaning": "Kapal",
+    "enMeaning": "Ship / boat",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.50",
     "kanji": "電車",
     "hiragana": "でんしゃ",
-    "meaning": "Kereta"
+    "idMeaning": "Kereta",
+    "enMeaning": "Train",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.51",
     "kanji": "自転車",
     "hiragana": "じてんしゃ",
-    "meaning": "Sepeda"
+    "idMeaning": "Sepeda",
+    "enMeaning": "Bicycle",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.52",
     "kanji": "歩く",
     "hiragana": "あるく",
-    "meaning": "Berjalan"
+    "idMeaning": "Berjalan",
+    "enMeaning": "Walk",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.53",
     "kanji": "彼",
     "hiragana": "かれ",
-    "meaning": "Dia (laki-laki)"
+    "idMeaning": "Dia (laki-laki)",
+    "enMeaning": "He",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.54",
     "kanji": "彼女",
     "hiragana": "かのじょ",
-    "meaning": "Dia (perempuan)"
+    "idMeaning": "Dia (perempuan)",
+    "enMeaning": "She",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.55",
     "kanji": "家族",
     "hiragana": "かぞく",
-    "meaning": "Keluarga"
+    "idMeaning": "Keluarga",
+    "enMeaning": "Family",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.56",
     "kanji": "去年",
     "hiragana": "きょねん",
-    "meaning": "Tahun lalu"
+    "idMeaning": "Tahun lalu",
+    "enMeaning": "Last year",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.57",
     "kanji": "今年",
     "hiragana": "ことし",
-    "meaning": "Tahun ini"
+    "idMeaning": "Tahun ini",
+    "enMeaning": "This year",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.58",
     "kanji": "来年",
     "hiragana": "らいねん",
-    "meaning": "Tahun depan"
+    "idMeaning": "Tahun depan",
+    "enMeaning": "Next year",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.59",
     "kanji": "毎年",
     "hiragana": "まいとし",
-    "meaning": "Setiap tahun"
+    "idMeaning": "Setiap tahun",
+    "enMeaning": "Every year",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.60",
     "kanji": "先月",
     "hiragana": "せんげつ",
-    "meaning": "Bulan lalu"
+    "idMeaning": "Bulan lalu",
+    "enMeaning": "Last month",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.61",
     "kanji": "今月",
     "hiragana": "こんげつ",
-    "meaning": "Bulan ini"
+    "idMeaning": "Bulan ini",
+    "enMeaning": "This month",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.62",
     "kanji": "来月",
     "hiragana": "らいげつ",
-    "meaning": "Bulan depan"
+    "idMeaning": "Bulan depan",
+    "enMeaning": "Next month",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.63",
     "kanji": "毎月",
     "hiragana": "まいつき",
-    "meaning": "Setiap bulan"
+    "idMeaning": "Setiap bulan",
+    "enMeaning": "Every month",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.64",
     "kanji": "先週",
     "hiragana": "せんしゅう",
-    "meaning": "Minggu lalu"
+    "idMeaning": "Minggu lalu",
+    "enMeaning": "Last week",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.65",
     "kanji": "今週",
     "hiragana": "こんしゅう",
-    "meaning": "Minggu ini"
+    "idMeaning": "Minggu ini",
+    "enMeaning": "This week",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.66",
     "kanji": "来週",
     "hiragana": "らいしゅう",
-    "meaning": "Minggu depan"
+    "idMeaning": "Minggu depan",
+    "enMeaning": "Next week",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.67",
     "kanji": "毎週",
     "hiragana": "まいしゅう",
-    "meaning": "Setiap minggu"
+    "idMeaning": "Setiap minggu",
+    "enMeaning": "Every week",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.68",
     "kanji": "誕生日",
     "hiragana": "たんじょうび",
-    "meaning": "Hari ulang tahun"
+    "idMeaning": "Hari ulang tahun",
+    "enMeaning": "Birthday",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.69",
     "kanji": "吸う",
     "hiragana": "すう",
-    "meaning": "Menghisap / Merokok"
+    "idMeaning": "Menghisap / merokok",
+    "enMeaning": "Smoke / inhale",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.70",
     "kanji": "撮る",
     "hiragana": "とる",
-    "meaning": "Mengambil (foto)"
+    "idMeaning": "Mengambil (foto)",
+    "enMeaning": "Take (photo)",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.71",
     "kanji": "卵",
     "hiragana": "たまご",
-    "meaning": "Telur"
+    "idMeaning": "Telur",
+    "enMeaning": "Egg",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.72",
     "kanji": "牛乳",
     "hiragana": "ぎゅうにゅう",
-    "meaning": "Susu sapi"
+    "idMeaning": "Susu sapi",
+    "enMeaning": "Milk",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.73",
     "kanji": "紅茶",
     "hiragana": "こうちゃ",
-    "meaning": "Teh hitam"
+    "idMeaning": "Teh hitam",
+    "enMeaning": "Black tea",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.74",
     "kanji": "お茶",
     "hiragana": "おちゃ",
-    "meaning": "Teh (hijau)"
+    "idMeaning": "Teh (hijau)",
+    "enMeaning": "Green tea",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.75",
     "kanji": "果物",
     "hiragana": "くだもの",
-    "meaning": "Buah-buahan"
+    "idMeaning": "Buah-buahan",
+    "enMeaning": "Fruit",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.76",
     "kanji": "野菜",
     "hiragana": "やさい",
-    "meaning": "Sayuran"
+    "idMeaning": "Sayuran",
+    "enMeaning": "Vegetable",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.77",
     "kanji": "肉",
     "hiragana": "にく",
-    "meaning": "Daging"
+    "idMeaning": "Daging",
+    "enMeaning": "Meat",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.78",
     "kanji": "捨てる",
     "hiragana": "すてる",
-    "meaning": "Membuang"
+    "idMeaning": "Membuang",
+    "enMeaning": "Throw away",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.79",
     "kanji": "集める",
     "hiragana": "あつめる",
-    "meaning": "Mengumpulkan"
+    "idMeaning": "Mengumpulkan",
+    "enMeaning": "Collect",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.80",
     "kanji": "歌う",
     "hiragana": "うたう",
-    "meaning": "Bernyanyi"
+    "idMeaning": "Bernyanyi",
+    "enMeaning": "Sing",
+    "type": "KK Intransitif"
   },
   {
     "id": "N5.1.81",
     "kanji": "弾く",
     "hiragana": "ひく",
-    "meaning": "Memainkan (alat musik)"
+    "idMeaning": "Memainkan (alat musik)",
+    "enMeaning": "Play (instrument)",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.82",
     "kanji": "洗う",
     "hiragana": "あらう",
-    "meaning": "Mencuci"
+    "idMeaning": "Mencuci",
+    "enMeaning": "Wash",
+    "type": "KK Transitif"
   },
   {
     "id": "N5.1.83",
     "kanji": "下着",
     "hiragana": "したぎ",
-    "meaning": "Pakaian dalam"
+    "idMeaning": "Pakaian dalam",
+    "enMeaning": "Underwear",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.84",
     "kanji": "友達",
     "hiragana": "ともだち",
-    "meaning": "Teman"
+    "idMeaning": "Teman",
+    "enMeaning": "Friend",
+    "type": "Kata Benda"
   },
   {
     "id": "N5.1.85",
     "kanji": "目",
     "hiragana": "め",
-    "meaning": "Mata"
+    "idMeaning": "Mata",
+    "enMeaning": "Eye",
+    "type": "Kata Benda"
   }
 ]

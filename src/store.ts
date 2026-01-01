@@ -77,12 +77,28 @@ export const flagStore = defineStore('flagStore', () => {
     if (!used.value)
         initialize()
 
-    function getKanji() {
+    async function getKanji() {
+        const kanjiTemp: KanjiType[] = []
         const result: KanjiType[] = []
         for (const data in flag.value) {
+
+            // Auto Migration for EN & ID Translation
+            if (!Object.keys(flag.value[data]!).includes("idMeaning")) {
+                let findKanji = kanjiTemp.find(val => flag.value[data]!.id == val.id)
+                if (findKanji) {
+                    flag.value[data] = findKanji
+                } else {
+                    const file = flag.value[data]!.id[1] + "_" + flag.value[data]!.id[3] + ".json"
+                    const resp = await fetch(file)
+                    kanjiTemp.push(...(await resp.json()))
+                    findKanji = kanjiTemp.find(val => flag.value[data]!.id == val.id)
+                    flag.value[data] = findKanji!
+                }
+                console.info("Migrated")
+            }
+
             result.push(flag.value[data]!)
         }
-        console.info(result)
         return result
     }
 

@@ -77,10 +77,10 @@ function chooseVolume(volume: number) {
     getKanjiData(`${selectedLevel.value[1]}_${volume}.json`)
 }
 
-function removeFlaggedKanji(kanji: string) {
+async function removeFlaggedKanji(kanji: string) {
     flagData.removeData(kanji)
     if (selectedLevel.value == "Flagged") {
-        kanjiList.value = flagData.getKanji()
+        kanjiList.value = await flagData.getKanji()
         previousKanji()
         if (Object.keys(flagData.flag).length == 0) {
             chooseLevel('N5')
@@ -93,7 +93,7 @@ async function getKanjiData(file: string) {
     if (downloadedKanji[file] != undefined) {
         jsonData = downloadedKanji[file]
     } else if (file == "Flagged") {
-        jsonData = flagData.getKanji()
+        jsonData = await flagData.getKanji()
     } else {
         const resp = await fetch(file)
         jsonData = await resp.json()
@@ -151,7 +151,7 @@ async function initializeKanjiData(level: string) {
         </div>
 
         <!-- Center Content -->
-        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 pt-14 md:pt-8 lg:pt-6">
+        <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-4 pt-20 md:pt-8 lg:pt-6">
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="idx + 1"> {{ selectedLevel != "Flagged" ? `Kanji Ke ${idx + 1}` : kanjiData.id }}</h1>
             </Transition>
@@ -180,7 +180,13 @@ async function initializeKanjiData(level: string) {
                     <h2 :key="kanjiData.hiragana">{{ kanjiData.hiragana }}</h2>
                 </Transition>
                 <Transition name="fade" mode="out-in">
-                    <h2 :key="kanjiData.hiragana">{{ kanjiData.meaning }}</h2>
+                    <h2 class="text-xs lg:text-lg font-medium" :key="kanjiData.hiragana">{{ kanjiData.type }}</h2>
+                </Transition>
+                <Transition name="fade" mode="out-in">
+                    <h2 :key="kanjiData.hiragana">{{ kanjiData.idMeaning }}</h2>
+                </Transition>
+                <Transition name="fade" mode="out-in">
+                    <h2 class="text-sm lg:text-lg font-light" :key="kanjiData.hiragana">{{ kanjiData.enMeaning }}</h2>
                 </Transition>
             </div>
 
@@ -190,7 +196,7 @@ async function initializeKanjiData(level: string) {
                         variant="outlined" />
                     <SecondaryButton class="text-sm md:text-base" @click="previousKanji(10)" label="<<"
                         variant="outlined" />
-                    <SecondaryButton class="text-sm md:text-base lg:hidden px-3.5" @click="previousKanji()" label=" < "
+                    <SecondaryButton class="text-sm md:text-base lg:hidden px-3.5" @click="previousKanji()" label="<"
                         variant="outlined" />
                     <SecondaryButton class="text-sm md:text-base lg:hidden px-3.5" @click="nextKanji()" label=">"
                         variant="outlined" />
