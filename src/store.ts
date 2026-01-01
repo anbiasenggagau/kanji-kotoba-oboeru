@@ -94,7 +94,6 @@ export const flagStore = defineStore('flagStore', () => {
                     findKanji = kanjiTemp.find(val => flag.value[data]!.id == val.id)
                     flag.value[data] = findKanji!
                 }
-                console.info("Migrated")
             }
 
             result.push(flag.value[data]!)

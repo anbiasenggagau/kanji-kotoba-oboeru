@@ -3,510 +3,680 @@
     "id": "N4.4.1",
     "kanji": "世界中",
     "hiragana": "せかいじゅう",
-    "meaning": "Seluruh dunia"
+    "enMeaning": "All over the world",
+    "idMeaning": "Seluruh dunia",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.2",
     "kanji": "育てる",
     "hiragana": "そだてる",
-    "meaning": "Memelihara / Membesarkan"
+    "enMeaning": "Raise / grow",
+    "idMeaning": "Memelihara / membesarkan",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.3",
     "kanji": "運ぶ",
     "hiragana": "はこぶ",
-    "meaning": "Mengangkut / Membawa"
+    "enMeaning": "Carry / transport",
+    "idMeaning": "Mengangkut / membawa",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.4",
     "kanji": "入院する",
     "hiragana": "にゅういんする",
-    "meaning": "Opname"
+    "enMeaning": "Be hospitalized",
+    "idMeaning": "Opname",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.5",
     "kanji": "入れる",
     "hiragana": "いれる",
-    "meaning": "Menghidupkan / Menyalakan (listrik)"
+    "enMeaning": "Turn on (electricity)",
+    "idMeaning": "Menghidupkan / menyalakan (listrik)",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.6",
     "kanji": "切る",
     "hiragana": "きる",
-    "meaning": "Mematikan (listrik)"
+    "enMeaning": "Cut",
+    "idMeaning": "Mematikan (listrik)",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.7",
     "kanji": "気持ちがいい",
     "hiragana": "きもちがいい",
-    "meaning": "Menyenangkan / Enak rasanya"
+    "enMeaning": "Feel good / pleasant",
+    "idMeaning": "Menyenangkan / Enak rasanya",
+    "type": "Frasa / Klausa"
   },
   {
     "id": "N4.4.8",
     "kanji": "気持ち悪い",
     "hiragana": "きもちわるい",
-    "meaning": "Tidak enak / Menjijikkan"
+    "enMeaning": "Feel sick / unpleasant",
+    "idMeaning": "Tidak enak / menjijikkan",
+    "type": "Frasa / Klausa"
   },
   {
     "id": "N4.4.9",
     "kanji": "赤ちゃん",
     "hiragana": "あかちゃん",
-    "meaning": "Bayi"
+    "enMeaning": "Baby",
+    "idMeaning": "Bayi",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.10",
     "kanji": "小学校",
     "hiragana": "しょうがっこう",
-    "meaning": "Sekolah dasar"
+    "enMeaning": "Elementary school",
+    "idMeaning": "Sekolah dasar",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.11",
     "kanji": "中学校",
     "hiragana": "ちゅうがっこう",
-    "meaning": "Sekolah menengah pertama"
+    "enMeaning": "Junior high school",
+    "idMeaning": "Sekolah menengah pertama",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.12",
     "kanji": "海岸",
     "hiragana": "かいがん",
-    "meaning": "Pantai / Pesisir"
+    "enMeaning": "Coast / beach",
+    "idMeaning": "Pantai / pesisir",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.13",
     "kanji": "工場",
     "hiragana": "こうじょう",
-    "meaning": "Pabrik"
+    "enMeaning": "Factory",
+    "idMeaning": "Pabrik",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.14",
     "kanji": "村",
     "hiragana": "むら",
-    "meaning": "Desa"
+    "enMeaning": "Village",
+    "idMeaning": "Desa",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.15",
     "kanji": "指輪",
     "hiragana": "ゆびわ",
-    "meaning": "Cincin"
+    "enMeaning": "Ring",
+    "idMeaning": "Cincin",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.16",
     "kanji": "電源",
     "hiragana": "でんげん",
-    "meaning": "Power Supply"
+    "enMeaning": "Power source",
+    "idMeaning": "Power Supply",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.17",
     "kanji": "習慣",
     "hiragana": "しゅうかん",
-    "meaning": "Kebiasaan"
+    "enMeaning": "Habit / custom",
+    "idMeaning": "Kebiasaan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.18",
     "kanji": "健康",
     "hiragana": "けんこう",
-    "meaning": "Kesehatan"
+    "enMeaning": "Health",
+    "idMeaning": "Kesehatan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.19",
     "kanji": "倒れる",
     "hiragana": "たおれる",
-    "meaning": "Tumbang / Roboh"
+    "enMeaning": "Collapse / fall down",
+    "idMeaning": "Tumbang / roboh",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.20",
     "kanji": "通る",
     "hiragana": "とおる",
-    "meaning": "Melalui"
+    "enMeaning": "Pass through",
+    "idMeaning": "Melalui",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.21",
     "kanji": "死ぬ",
     "hiragana": "しぬ",
-    "meaning": "Meninggal / Mati"
+    "enMeaning": "Die",
+    "idMeaning": "Meninggal / mati",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.22",
     "kanji": "安心する",
     "hiragana": "あんしんする",
-    "meaning": "Lega / Tenang"
+    "enMeaning": "Feel relieved",
+    "idMeaning": "Lega / tenang",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.23",
     "kanji": "離婚する",
     "hiragana": "りこんする",
-    "meaning": "Bercerai"
+    "enMeaning": "Divorce",
+    "idMeaning": "Bercerai",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.24",
     "kanji": "太る",
     "hiragana": "ふとる",
-    "meaning": "Menggemukkan"
+    "enMeaning": "Gain weight",
+    "idMeaning": "Menggemukkan",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.25",
     "kanji": "複雑",
     "hiragana": "ふくざつ",
-    "meaning": "Rumit"
+    "enMeaning": "Complicated",
+    "idMeaning": "Rumit",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N4.4.26",
     "kanji": "邪魔",
     "hiragana": "じゃま",
-    "meaning": "Gangguan"
+    "enMeaning": "Obstacle / nuisance",
+    "idMeaning": "Gangguan",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N4.4.27",
     "kanji": "硬い",
     "hiragana": "かたい",
-    "meaning": "Keras"
+    "enMeaning": "Hard / stiff",
+    "idMeaning": "Keras",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N4.4.28",
     "kanji": "軟らかい",
     "hiragana": "やわらかい",
-    "meaning": "Lunak"
+    "enMeaning": "Soft",
+    "idMeaning": "Lunak",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N4.4.29",
     "kanji": "汚い",
     "hiragana": "きたない",
-    "meaning": "Kotor"
+    "enMeaning": "Dirty",
+    "idMeaning": "Kotor",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N4.4.30",
     "kanji": "悲しい",
     "hiragana": "かなしい",
-    "meaning": "Sedih"
+    "enMeaning": "Sad",
+    "idMeaning": "Sedih",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N4.4.31",
     "kanji": "恥ずかしい",
     "hiragana": "はずかしい",
-    "meaning": "Malu"
+    "enMeaning": "Embarrassed / shy",
+    "idMeaning": "Malu",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N4.4.32",
     "kanji": "首相",
     "hiragana": "しゅしょう",
-    "meaning": "Perdana menteri"
+    "enMeaning": "Prime minister",
+    "idMeaning": "Perdana menteri",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.33",
     "kanji": "津波",
     "hiragana": "つなみ",
-    "meaning": "Tsunami"
+    "enMeaning": "Tsunami",
+    "idMeaning": "Tsunami",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.34",
     "kanji": "台風",
     "hiragana": "たいふう",
-    "meaning": "Topan"
+    "enMeaning": "Typhoon",
+    "idMeaning": "Topan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.35",
     "kanji": "雷",
     "hiragana": "かみなり",
-    "meaning": "Guntur"
+    "enMeaning": "Thunder / lightning",
+    "idMeaning": "Guntur",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.36",
     "kanji": "火事",
     "hiragana": "かじ",
-    "meaning": "Kebakaran"
+    "enMeaning": "Fire",
+    "idMeaning": "Kebakaran",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.37",
     "kanji": "事故",
     "hiragana": "じこ",
-    "meaning": "Kecelakaan"
+    "enMeaning": "Accident",
+    "idMeaning": "Kecelakaan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.38",
     "kanji": "見合い",
     "hiragana": "みあい",
-    "meaning": "Perjodohan"
+    "enMeaning": "Arranged meeting",
+    "idMeaning": "Perjodohan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.39",
     "kanji": "操作",
     "hiragana": "そうさ",
-    "meaning": "Operasi / Pengoperasian"
+    "enMeaning": "Operation",
+    "idMeaning": "Operasi / pengoperasian",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.40",
     "kanji": "会場",
     "hiragana": "かいじょう",
-    "meaning": "Tempat acara"
+    "enMeaning": "Venue",
+    "idMeaning": "Tempat acara",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.41",
     "kanji": "大勢",
     "hiragana": "おおぜい",
-    "meaning": "Banyak orang"
+    "enMeaning": "Many people",
+    "idMeaning": "Banyak orang",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.42",
     "kanji": "数える",
     "hiragana": "かぞえる",
-    "meaning": "Menghitung"
+    "enMeaning": "Count",
+    "idMeaning": "Menghitung",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.43",
     "kanji": "測る",
     "hiragana": "はかる",
-    "meaning": "Mengukur"
+    "enMeaning": "Measure",
+    "idMeaning": "Mengukur",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.44",
     "kanji": "確かめる",
     "hiragana": "たしかめる",
-    "meaning": "Memastikan"
+    "enMeaning": "Confirm / check",
+    "idMeaning": "Memastikan",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.45",
     "kanji": "出発する",
     "hiragana": "しゅっぱつする",
-    "meaning": "Berangkat"
+    "enMeaning": "Depart",
+    "idMeaning": "Berangkat",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.46",
     "kanji": "到着する",
     "hiragana": "とうちゃくする",
-    "meaning": "Tiba"
+    "enMeaning": "Arrive",
+    "idMeaning": "Tiba",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.47",
     "kanji": "相談する",
     "hiragana": "そうだんする",
-    "meaning": "Berkonsultasi"
+    "enMeaning": "Consult",
+    "idMeaning": "Berkonsultasi",
+    "type": "KK Intransitif"
   },
   {
     "id": "N4.4.48",
     "kanji": "必要",
     "hiragana": "ひつよう",
-    "meaning": "Perlu / Dibutuhkan"
+    "enMeaning": "Necessary",
+    "idMeaning": "Perlu / dibutuhkan",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N4.4.49",
     "kanji": "天気予報",
     "hiragana": "てんきよほう",
-    "meaning": "Ramalan cuaca"
+    "enMeaning": "Weather forecast",
+    "idMeaning": "Ramalan cuaca",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.50",
     "kanji": "忘年会",
     "hiragana": "ぼうねんかい",
-    "meaning": "Pesta akhir tahun"
+    "enMeaning": "Year end party",
+    "idMeaning": "Pesta akhir tahun",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.51",
     "kanji": "新年会",
     "hiragana": "しんねんかい",
-    "meaning": "Pesta tahun baru"
+    "enMeaning": "New year party",
+    "idMeaning": "Pesta tahun baru",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.52",
     "kanji": "発表会",
     "hiragana": "はっぴょうかい",
-    "meaning": "Acara presentasi / pertunjukan"
+    "enMeaning": "Presentation event",
+    "idMeaning": "Acara presentasi / pertunjukan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.53",
     "kanji": "大会",
     "hiragana": "たいかい",
-    "meaning": "Lomba"
+    "enMeaning": "Tournament",
+    "idMeaning": "Lomba",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.54",
     "kanji": "表",
     "hiragana": "おもて",
-    "meaning": "Bagian depan / muka"
+    "enMeaning": "Front / surface",
+    "idMeaning": "Bagian depan / muka",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.55",
     "kanji": "裏",
     "hiragana": "うら",
-    "meaning": "Bagian belakang"
+    "enMeaning": "Back / reverse side",
+    "idMeaning": "Bagian belakang",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.56",
     "kanji": "年寄り",
     "hiragana": "としより",
-    "meaning": "Manula"
+    "enMeaning": "Elderly person",
+    "idMeaning": "Manula",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.57",
     "kanji": "傷",
     "hiragana": "きず",
-    "meaning": "Luka / cacat"
+    "enMeaning": "Wound",
+    "idMeaning": "Luka / cacat",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.58",
     "kanji": "上げる",
     "hiragana": "あげる",
-    "meaning": "Menaikkan"
+    "enMeaning": "Raise / increase",
+    "idMeaning": "Menaikkan",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.59",
     "kanji": "下げる",
     "hiragana": "さげる",
-    "meaning": "Menurunkan / mengurangi"
+    "enMeaning": "Lower / decrease",
+    "idMeaning": "Menurunkan / mengurangi",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.60",
     "kanji": "珍しい",
     "hiragana": "めずらしい",
-    "meaning": "Jarang / unik"
+    "enMeaning": "Rare",
+    "idMeaning": "Jarang / unik",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N4.4.61",
     "kanji": "お祝い",
     "hiragana": "おいわい",
-    "meaning": "Perayaan / ucapan selamat"
+    "enMeaning": "Celebration",
+    "idMeaning": "Perayaan / ucapan selamat",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.62",
     "kanji": "お年玉",
     "hiragana": "おとしだま",
-    "meaning": "Angpao"
+    "enMeaning": "New year gift money",
+    "idMeaning": "Angpao",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.63",
     "kanji": "見舞い",
     "hiragana": "みまい",
-    "meaning": "Pembesukkan"
+    "enMeaning": "Hospital visit",
+    "idMeaning": "Pembesukkan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.64",
     "kanji": "興味",
     "hiragana": "きょうみ",
-    "meaning": "Minat"
+    "enMeaning": "Interest",
+    "idMeaning": "Minat",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.65",
     "kanji": "情報",
     "hiragana": "じょうほう",
-    "meaning": "Informasi"
+    "enMeaning": "Information",
+    "idMeaning": "Informasi",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.66",
     "kanji": "文法",
     "hiragana": "ぶんぽう",
-    "meaning": "Tata bahasa"
+    "enMeaning": "Grammar",
+    "idMeaning": "Tata bahasa",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.67",
     "kanji": "発音",
     "hiragana": "はつおん",
-    "meaning": "Pengucapan"
+    "enMeaning": "Pronunciation",
+    "idMeaning": "Pengucapan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.68",
     "kanji": "猿",
     "hiragana": "さる",
-    "meaning": "Monyet"
+    "enMeaning": "Monkey",
+    "idMeaning": "Monyet",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.69",
     "kanji": "絵本",
     "hiragana": "えほん",
-    "meaning": "Buku bergambar"
+    "enMeaning": "Picture book",
+    "idMeaning": "Buku bergambar",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.70",
     "kanji": "絵はがき",
     "hiragana": "えはがき",
-    "meaning": "Kartu pos bergambar"
+    "enMeaning": "Postcard",
+    "idMeaning": "Kartu pos bergambar",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.71",
     "kanji": "靴下",
     "hiragana": "くつした",
-    "meaning": "Kaus kaki"
+    "enMeaning": "Socks",
+    "idMeaning": "Kaus kaki",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.72",
     "kanji": "手袋",
     "hiragana": "てぶくろ",
-    "meaning": "Sarung tangan"
+    "enMeaning": "Gloves",
+    "idMeaning": "Sarung tangan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.73",
     "kanji": "幼稚園",
     "hiragana": "ようちえん",
-    "meaning": "Taman kanak-kanak"
+    "enMeaning": "Kindergarten",
+    "idMeaning": "Taman kanak-kanak",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.74",
     "kanji": "暖房",
     "hiragana": "だんぼう",
-    "meaning": "Pemanas ruangan"
+    "enMeaning": "Heating",
+    "idMeaning": "Pemanas ruangan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.75",
     "kanji": "冷房",
     "hiragana": "れいぼう",
-    "meaning": "Pendingin ruangan"
+    "enMeaning": "Air conditioning",
+    "idMeaning": "Pendingin ruangan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.76",
     "kanji": "温度",
     "hiragana": "おんど",
-    "meaning": "Suhu"
+    "enMeaning": "Temperature",
+    "idMeaning": "Suhu",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.77",
     "kanji": "祖父",
     "hiragana": "そふ",
-    "meaning": "Kakek"
+    "enMeaning": "Grandfather",
+    "idMeaning": "Kakek",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.78",
     "kanji": "祖母",
     "hiragana": "そぼ",
-    "meaning": "Nenek"
+    "enMeaning": "Grandmother",
+    "idMeaning": "Nenek",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.79",
     "kanji": "召し上がる",
     "hiragana": "めしあがる",
-    "meaning": "Makan / minum (keigo)"
+    "enMeaning": "Eat / drink (keigo)",
+    "idMeaning": "Makan / minum (keigo)",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.80",
     "kanji": "ご覧になる",
     "hiragana": "ごらんになる",
-    "meaning": "Melihat (keigo)"
+    "enMeaning": "Look / watch (keigo)",
+    "idMeaning": "Melihat (keigo)",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.4.81",
     "kanji": "ご存知",
     "hiragana": "ごぞんじ",
-    "meaning": "Tahu (keigo)"
+    "enMeaning": "Know (keigo)",
+    "idMeaning": "Tahu (keigo)",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N4.4.82",
     "kanji": "旅館",
     "hiragana": "りょかん",
-    "meaning": "Penginapan tradisional Jepang"
+    "enMeaning": "Japanese inn",
+    "idMeaning": "Penginapan tradisional Jepang",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.83",
     "kanji": "お風呂",
     "hiragana": "おふろ",
-    "meaning": "Bak mandi"
+    "enMeaning": "Bath",
+    "idMeaning": "Bak mandi",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.84",
     "kanji": "選択",
     "hiragana": "せんたく",
-    "meaning": "Pilihan"
+    "enMeaning": "Choice / selection",
+    "idMeaning": "Pilihan",
+    "type": "Kata Benda"
   },
   {
     "id": "N4.4.85",
     "kanji": "バス停",
     "hiragana": "バスてい",
-    "meaning": "Halte bus"
+    "enMeaning": "Bus stop",
+    "idMeaning": "Halte bus",
+    "type": "Kata Benda"
   }
 ]
