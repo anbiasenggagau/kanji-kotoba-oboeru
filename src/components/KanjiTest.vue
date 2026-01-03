@@ -126,14 +126,15 @@ async function initData() {
         </div>
 
         <!-- Center Content -->
-        <div class="flex flex-col justify-center items-center min-h-[100dvh] pt-8 lg:pt-0 space-y-2.5 lg:space-y-4 select-none">
+        <div
+            class="flex flex-col justify-center items-center min-h-[100dvh] pt-8 lg:pt-0 space-y-2.5 lg:space-y-4 select-none">
             <Transition name="fade" mode="out-in">
                 <h1 class="text-lg lg:text-3xl font-bold" :key="questNum"> Soal Ke {{ questNum }}</h1>
             </Transition>
             <div class="relative">
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                    }}
+                        }}
                     </h1>
                 </Transition>
                 <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
@@ -216,7 +217,6 @@ async function initData() {
 </template>
 
 <style scoped>
-/* we will explain what these classes do next! */
 .fade-enter-active,
 .fade-leave-active {
     transition: opacity 0.15s ease;

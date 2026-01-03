@@ -1,33 +1,30 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref } from 'vue';
-import { useRouter } from 'vue-router';
-import { volumes } from '../const';
 import { flagStore } from '../store';
 import type { KanjiType } from '../type';
+import { volumes } from '../const';
 import Button from '../volt/Button.vue';
-import Card from '../volt/Card.vue';
-import DangerButton from '../volt/DangerButton.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
+import InputText from '../volt/InputText.vue';
+import Card from '../volt/Card.vue';
+import Message from '../volt/Message.vue';
 
 onMounted(() => globalThis.addEventListener('keydown', previousKanjiEvent))
 onMounted(() => globalThis.addEventListener('keydown', nextKanjiEvent))
-onMounted(() => getKanjiData("5_1.json"))
+onMounted(() => getKanjiData())
 onBeforeUnmount(() => globalThis.removeEventListener('keydown', previousKanjiEvent))
 onBeforeUnmount(() => globalThis.removeEventListener('keydown', nextKanjiEvent))
 
 const flagData = flagStore()
 
-const routerOpt = useRouter()
-
-const selectedLevel = ref("N5")
-const selectedVolume = ref(1)
-const loading = ref(true)
-const kanjiList = ref<KanjiType[]>([])
 const idx = ref(0)
-const kanjiData = ref<KanjiType>(kanjiList.value[idx.value]!)
-const dynamicPadding = ref("")
+const kanjiList = ref<KanjiType[]>([])
+const kanjiData = ref<KanjiType | undefined>(undefined)
+const loading = ref(true)
+const search = ref("")
+const inputFocus = ref(false)
 
-const downloadedKanji: Record<string, KanjiType[]> = {}
+const downloadedKanji: KanjiType[] = []
 
 function nextKanji(jump: number | "max" = 1) {
     if (jump == 'max') {
@@ -49,122 +46,97 @@ function previousKanji(jump: number | "min" = 1) {
     }
 }
 
-
 function previousKanjiEvent(e: KeyboardEvent) {
-    const key = e.key.toLowerCase()
-    if (key === 'a') {
-        previousKanji()
-    }
-}
-
-function nextKanjiEvent(e: KeyboardEvent) {
-    const key = e.key.toLowerCase()
-    if ((key === 'd')) {
-        nextKanji()
-    }
-}
-
-function chooseLevel(level: string) {
-    selectedLevel.value = level
-    selectedVolume.value = 1
-    if (level == "Flagged") {
-        getKanjiData("Flagged")
-        dynamicPadding.value = "pt-11! md:pt-4"
-    }
-    else {
-        getKanjiData(`${level[1]}_1.json`)
-        dynamicPadding.value = ""
-    }
-}
-
-function chooseVolume(volume: number) {
-    selectedVolume.value = volume
-    getKanjiData(`${selectedLevel.value[1]}_${volume}.json`)
-}
-
-async function removeFlaggedKanji(kanji: string) {
-    flagData.removeData(kanji)
-    if (selectedLevel.value == "Flagged") {
-        kanjiList.value = await flagData.getKanji()
-        previousKanji()
-        if (Object.keys(flagData.flag).length == 0) {
-            chooseLevel('N5')
+    if (!inputFocus.value) {
+        const key = e.key.toLowerCase()
+        if (key === 'a') {
+            previousKanji()
         }
     }
 }
 
-async function getKanjiData(file: string) {
-    let jsonData: KanjiType[] = []
-    if (downloadedKanji[file] != undefined) {
-        jsonData = downloadedKanji[file]
-    } else if (file == "Flagged") {
-        jsonData = await flagData.getKanji()
-    } else {
-        const resp = await fetch(file)
-        jsonData = await resp.json()
-        if (jsonData.length == 0)
-            routerOpt.replace({ name: "home" })
-        downloadedKanji[file] = jsonData
+function nextKanjiEvent(e: KeyboardEvent) {
+    if (!inputFocus.value) {
+        const key = e.key.toLowerCase()
+        if ((key === 'd')) {
+            nextKanji()
+        }
     }
-
-    kanjiList.value = jsonData
-    idx.value = 0
-    kanjiData.value = kanjiList.value[idx.value]!
-    loading.value = false
 }
 
+function blurFocus(event: Event) {
+    (event.target as HTMLInputElement).blur()
+}
+
+function filterKanji(event: Event) {
+    kanjiList.value = []
+    kanjiData.value = undefined
+    search.value = (event.target as HTMLInputElement).value
+    if (search.value != "") {
+        kanjiList.value = downloadedKanji.filter(val =>
+            val.id.includes(search.value) ||
+            val.kanji.includes(search.value) ||
+            val.hiragana.includes(search.value) ||
+            val.type.includes(search.value) ||
+            val.enMeaning.includes(search.value) ||
+            val.idMeaning.includes(search.value)
+        )
+    }
+
+    if (kanjiList.value.length != 0) {
+        idx.value = 0
+        kanjiData.value = kanjiList.value[idx.value]!
+        loading.value = false
+    }
+}
+
+async function getKanjiData() {
+    const files: string[] = []
+    for (const level in volumes) {
+        for (const volumeNumb of volumes[level]!) {
+            files.push(`${level[1]}_${volumeNumb}.json`)
+        }
+    }
+    downloadedKanji.push(...(await Promise.all(
+        files.map(file => fetch(file).then(r => r.json()))
+    )).flat()
+    )
+    loading.value = false
+}
 </script>
 
 <template>
     <div v-if="!loading" class="overflow-hidden">
         <div class="fixed top-2 lg:top-4 left-1/2 -translate-x-1/2 z-50">
-            <div class="flex justify-center space-x-2 lg:space-x-6 lg:mb-4">
-                <Button v-for="level in Object.keys(volumes)" :key="level" class="text-xs md:text-lg" :label="level"
-                    :variant="selectedLevel === level ? 'link' : 'outlined'" @click="chooseLevel(level)" />
-            </div>
-            <div class="flex justify-center mt-2">
-                <Button class="text-xs md:text-lg" label="Flagged" :disabled="Object.keys(flagData.flag).length == 0"
-                    :variant="selectedLevel === 'Flagged' ? 'link' : 'outlined'" @click="chooseLevel('Flagged')" />
-            </div>
-
-            <div v-if="volumes[selectedLevel]" class="flex justify-center">
+            <div class="flex flex-col justify-center items-center">
                 <Card>
                     <template #title>
-                        <div class="text-xs md:text-lg font-bold">
-                            Pilih Volume
+                        <div class="flex justify-center items-center text-base md:text-lg font-bold">
+                            Cari Kanji
                         </div>
                     </template>
                     <template #content>
                         <div class="flex flex-col justify-center items-center">
-                            <div class="flex justify-center space-x-2 lg:space-x-4">
-                                <Button v-for="vol in volumes[selectedLevel]" :key="vol" class="text-xs md:text-base"
-                                    :label="String(vol)" :variant="selectedVolume == vol ? 'link' : 'outlined'"
-                                    @click="chooseVolume(vol)" />
-                            </div>
+                            <InputText ref="input-ref" @blur="inputFocus = false" @focus="inputFocus = true"
+                                @keyup.enter="blurFocus" @keyup.esc="blurFocus" @input="filterKanji" variant="filled" />
                         </div>
+                        <h1 class="items-center mt-2 lg:mt-4 text-center text-sm lg:text-base"> Ditemukan {{
+                            kanjiList.length }}
+                            Kanji</h1>
                     </template>
                 </Card>
-            </div>
-            <div v-else class="flex justify-center mt-10 md:mt-13 lg:mt-16">
-                <DangerButton class="text-xs md:text-lg" variant="link" label="Bersihkan Daftar Kanji"
-                    @click="flagData.clearData(); chooseLevel('N5')" />
             </div>
         </div>
 
         <div class="flex flex-col justify-center items-center min-h-[100dvh]">
-            <div class="flex flex-col justify-center items-center space-y-2 lg:space-y-4 pt-20 md:pt-8 lg:pt-6"
-                :class="dynamicPadding">
+            <div v-if="kanjiData"
+                class="flex flex-col justify-center items-center space-y-2 lg:space-y-4 pt-11 md:pt-8 lg:pt-6">
                 <!-- Center Content -->
-                <div v-if="selectedLevel == 'Flagged'">
-                    <Transition name="fade" mode="out-in">
-                        <h1 class="text-lg lg:text-xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}
-                        </h1>
-                    </Transition>
-                </div>
                 <Transition name="fade" mode="out-in">
-                    <h1 class="text-lg lg:text-xl font-bold" :key="idx + 1"> {{ selectedLevel != "Flagged" ? `Kanji Ke
-                        ${idx + 1}`
-                        : kanjiData.id }}</h1>
+                    <h1 class="items-center text-lg lg:text-3xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }} </h1>
+                </Transition>
+                <Transition name="fade" mode="out-in">
+                    <h1 class="items-center text-lg lg:text-3xl font-bold" :key="idx + 1"> {{ kanjiData.id }}</h1>
                 </Transition>
                 <div class="relative">
                     <Transition name="fade" mode="out-in">
@@ -173,7 +145,7 @@ async function getKanjiData(file: string) {
                         </h1>
                     </Transition>
                     <!-- Flag Symbol -->
-                    <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? removeFlaggedKanji(kanjiData.kanji) : flagData.pushData(kanjiData)"
+                    <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
                         class="absolute justify-center items-center top-0 -right-7 md:-right-9 text-gray-500 hover:text-gray-700 cursor-pointer">
                         <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
                             fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
@@ -234,24 +206,31 @@ async function getKanjiData(file: string) {
                     </svg>
                 </div>
             </div>
+            <div v-else-if="search.length != 0 && kanjiList.length == 0">
+                <Message class="text-3xl" severity="error">Data Tidak Ditemukan</Message>
+            </div>
+            <div v-else>
+                <Message class="small-message" severity="info">Masukkan Data</Message>
+            </div>
 
             <!-- Bottom Content -->
-            <div
-                class="fixed bottom-18 lg:bottom-20 inset-x-0 space-x-4 md:space-x-6 lg:space-x-8 flex justify-center bg-white">
-                <SecondaryButton as="RouterLink" class="text-sm md:text-base" :to="{ name: 'search' }"
-                    label="Cari Kanji & Kotoba" />
-                <SecondaryButton as="a" :href="`https://jisho.org/search/${kanjiData.kanji}`" target="_blank"
-                    class="text-sm md:text-base" label="Lihat Penjelasan" />
+            <div class="fixed bottom-18 lg:bottom-20 inset-x-0 flex justify-center bg-white">
+                <SecondaryButton v-if="kanjiData" as="a" :href="`https://jisho.org/search/${kanjiData.kanji}`"
+                    target="_blank" class="text-sm md:text-base" label="Lihat Penjelasan" />
             </div>
             <div class="fixed bottom-0 inset-x-0 flex justify-center bg-white py-4 shadow-lg">
-                <Button as="RouterLink" class="text-sm md:text-base" :to="{ name: 'home' }"
-                    label="Selesaikan & Kembali Ke Beranda" />
+                <Button as="RouterLink" class="text-sm md:text-base" :to="{ name: 'study' }"
+                    label="Kembali Ke Daftar Kanji" />
             </div>
         </div>
     </div>
 </template>
 
 <style scoped>
+.small-message .v-message-text {
+    font-size: 200px;
+}
+
 .fade-enter-active,
 .fade-leave-active {
     transition: opacity 0.15s ease;

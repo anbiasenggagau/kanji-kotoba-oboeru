@@ -8,6 +8,7 @@ import KanjiStudy from './components/KanjiStudy.vue';
 import KanjiTest from './components/KanjiTest.vue';
 import Result from './components/Result.vue';
 import './style.css';
+import KanjiSearch from './components/KanjiSearch.vue';
 
 const pinia = createPinia()
 const router = createRouter({
@@ -31,6 +32,11 @@ const router = createRouter({
             path: "/kanji",
             component: KanjiStudy,
             name: "study"
+        },
+        {
+            path: "/search",
+            component: KanjiSearch,
+            name: "search"
         },
     ],
     history: createWebHistory(),
