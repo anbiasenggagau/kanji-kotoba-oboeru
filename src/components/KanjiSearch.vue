@@ -78,8 +78,8 @@ function filterKanji(event: Event) {
             val.kanji.includes(search.value) ||
             val.hiragana.includes(search.value) ||
             val.type.includes(search.value) ||
-            val.enMeaning.includes(search.value) ||
-            val.idMeaning.includes(search.value)
+            val.enMeaning.toLowerCase().includes(search.value.toLowerCase()) ||
+            val.idMeaning.toLowerCase().includes(search.value.toLowerCase())
         )
     }
 
@@ -141,7 +141,7 @@ async function getKanjiData() {
                 <div class="relative">
                     <Transition name="fade" mode="out-in">
                         <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                            }}
+                        }}
                         </h1>
                     </Transition>
                     <!-- Flag Symbol -->

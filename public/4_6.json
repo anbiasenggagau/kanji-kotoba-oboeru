@@ -27,8 +27,8 @@
     "id": "N4.6.4",
     "kanji": "家内",
     "hiragana": "かない",
-    "enMeaning": "Wife",
-    "idMeaning": "Istri (sendiri)",
+    "enMeaning": "Wife (kenjougo)",
+    "idMeaning": "Istri (kenjougo)",
     "type": "Kata Benda"
   },
   {
@@ -180,7 +180,7 @@
     "kanji": "止める",
     "hiragana": "とめる",
     "enMeaning": "Stop",
-    "idMeaning": "Menghentikan / mematikan",
+    "idMeaning": "Menghentikan",
     "type": "KK Transitif"
   },
   {
