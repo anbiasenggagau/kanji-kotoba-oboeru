@@ -74,6 +74,7 @@ export const flagStore = defineStore('flagStore', () => {
         }
         used.value = true
     }
+
     if (!used.value)
         initialize()
 
@@ -93,6 +94,34 @@ export const flagStore = defineStore('flagStore', () => {
                     kanjiTemp.push(...(await resp.json()))
                     findKanji = kanjiTemp.find(val => flag.value[data]!.id == val.id)
                     flag.value[data] = findKanji!
+                }
+            }
+
+            // Auto Migration changes data
+            let findKanji = kanjiTemp.find(val => val.id == flag.value[data]!.id)
+            if (findKanji) {
+                if (
+                    findKanji.kanji != flag.value[data]!.kanji ||
+                    findKanji.type != flag.value[data]!.type ||
+                    findKanji.hiragana != flag.value[data]!.hiragana ||
+                    findKanji.enMeaning != flag.value[data]!.enMeaning ||
+                    findKanji.idMeaning != flag.value[data]!.idMeaning
+                ) {
+                    flag.value[data] = findKanji
+                }
+            } else {
+                const file = flag.value[data]!.id[1] + "_" + flag.value[data]!.id[3] + ".json"
+                const resp = await fetch(file)
+                kanjiTemp.push(...(await resp.json()))
+                findKanji = kanjiTemp.find(val => val.id == flag.value[data]!.id)!
+                if (
+                    findKanji.kanji != flag.value[data]!.kanji ||
+                    findKanji.type != flag.value[data]!.type ||
+                    findKanji.hiragana != flag.value[data]!.hiragana ||
+                    findKanji.enMeaning != flag.value[data]!.enMeaning ||
+                    findKanji.idMeaning != flag.value[data]!.idMeaning
+                ) {
+                    flag.value[data] = findKanji
                 }
             }
 
