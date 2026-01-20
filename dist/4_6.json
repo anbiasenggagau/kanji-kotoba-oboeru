@@ -52,7 +52,7 @@
     "kanji": "工事",
     "hiragana": "こうじ",
     "enMeaning": "Construction",
-    "idMeaning": "Konstruksi / pekerjaan pembangunan",
+    "idMeaning": "Pekerjaan pembangunan",
     "type": "Kata Benda"
   },
   {
@@ -481,10 +481,10 @@
   },
   {
     "id": "N4.6.61",
-    "kanji": "三番線",
-    "hiragana": "さんばんせん",
-    "enMeaning": "Platform number three",
-    "idMeaning": "Peron nomor 3",
+    "kanji": "～番線",
+    "hiragana": "～ばんせん",
+    "enMeaning": "Platform number",
+    "idMeaning": "Peron nomor ~",
     "type": "Kata Benda"
   },
   {
@@ -508,7 +508,7 @@
     "kanji": "合う",
     "hiragana": "あう",
     "enMeaning": "Fit / match",
-    "idMeaning": "Cocok / sesuai / bertemu",
+    "idMeaning": "Cocok / sesuai",
     "type": "KK Intransitif"
   },
   {
