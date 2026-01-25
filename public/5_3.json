@@ -2,6 +2,7 @@
   {
     "id": "N5.3.1",
     "kanji": "遊ぶ",
+    "component": "",
     "hiragana": "あそぶ",
     "enMeaning": "Play",
     "idMeaning": "Bermain",
@@ -10,6 +11,7 @@
   {
     "id": "N5.3.2",
     "kanji": "泳ぐ",
+    "component": "",
     "hiragana": "およぐ",
     "enMeaning": "Swim",
     "idMeaning": "Berenang",
@@ -18,6 +20,7 @@
   {
     "id": "N5.3.3",
     "kanji": "迎える",
+    "component": "",
     "hiragana": "むかえる",
     "enMeaning": "Welcome / pick up",
     "idMeaning": "Menyambut",
@@ -26,6 +29,7 @@
   {
     "id": "N5.3.4",
     "kanji": "結婚する",
+    "component": "糸",
     "hiragana": "けっこんする",
     "enMeaning": "Marry",
     "idMeaning": "Menikah",
@@ -34,6 +38,7 @@
   {
     "id": "N5.3.5",
     "kanji": "買い物する",
+    "component": "",
     "hiragana": "かいものする",
     "enMeaning": "Shop / do shopping",
     "idMeaning": "Berbelanja",
@@ -42,6 +47,7 @@
   {
     "id": "N5.3.6",
     "kanji": "疲れる",
+    "component": "",
     "hiragana": "つかれる",
     "enMeaning": "Get tired",
     "idMeaning": "Lelah",
@@ -50,6 +56,7 @@
   {
     "id": "N5.3.7",
     "kanji": "食事する",
+    "component": "",
     "hiragana": "しょくじする",
     "enMeaning": "Have a meal",
     "idMeaning": "Makan",
@@ -58,6 +65,7 @@
   {
     "id": "N5.3.8",
     "kanji": "散歩する",
+    "component": "",
     "hiragana": "さんぽする",
     "enMeaning": "Take a walk",
     "idMeaning": "Berjalan-jalan",
@@ -66,6 +74,7 @@
   {
     "id": "N5.3.9",
     "kanji": "大変",
+    "component": "",
     "hiragana": "たいへん",
     "enMeaning": "Hard / difficult",
     "idMeaning": "Sulit / berat",
@@ -74,6 +83,7 @@
   {
     "id": "N5.3.10",
     "kanji": "欲しい",
+    "component": "谷欠",
     "hiragana": "ほしい",
     "enMeaning": "Want",
     "idMeaning": "Ingin / menginginkan",
@@ -82,6 +92,7 @@
   {
     "id": "N5.3.11",
     "kanji": "広い",
+    "component": "",
     "hiragana": "ひろい",
     "enMeaning": "Wide / spacious",
     "idMeaning": "Luas",
@@ -90,6 +101,7 @@
   {
     "id": "N5.3.12",
     "kanji": "狭い",
+    "component": "",
     "hiragana": "せまい",
     "enMeaning": "Narrow / small",
     "idMeaning": "Sempit",
@@ -98,6 +110,7 @@
   {
     "id": "N5.3.13",
     "kanji": "釣り",
+    "component": "",
     "hiragana": "つり",
     "enMeaning": "Fishing",
     "idMeaning": "Memancing",
@@ -106,6 +119,7 @@
   {
     "id": "N5.3.14",
     "kanji": "消す",
+    "component": "",
     "hiragana": "けす",
     "enMeaning": "Erase / turn off",
     "idMeaning": "Memadamkan / mematikan",
@@ -114,6 +128,7 @@
   {
     "id": "N5.3.15",
     "kanji": "開ける",
+    "component": "門",
     "hiragana": "あける",
     "enMeaning": "Open",
     "idMeaning": "Membuka",
@@ -122,6 +137,7 @@
   {
     "id": "N5.3.16",
     "kanji": "閉める",
+    "component": "門オ",
     "hiragana": "しめる",
     "enMeaning": "Close",
     "idMeaning": "Menutup",
@@ -130,6 +146,7 @@
   {
     "id": "N5.3.17",
     "kanji": "急ぐ",
+    "component": "",
     "hiragana": "いそぐ",
     "enMeaning": "Hurry",
     "idMeaning": "Bergegas",
@@ -138,6 +155,7 @@
   {
     "id": "N5.3.18",
     "kanji": "待つ",
+    "component": "",
     "hiragana": "まつ",
     "enMeaning": "Wait",
     "idMeaning": "Menunggu",
@@ -146,6 +164,7 @@
   {
     "id": "N5.3.19",
     "kanji": "持つ",
+    "component": "",
     "hiragana": "もつ",
     "enMeaning": "Hold / have",
     "idMeaning": "Memegang / membawa",
@@ -154,6 +173,7 @@
   {
     "id": "N5.3.20",
     "kanji": "取る",
+    "component": "",
     "hiragana": "とる",
     "enMeaning": "Take",
     "idMeaning": "Mengambil",
@@ -162,6 +182,7 @@
   {
     "id": "N5.3.21",
     "kanji": "手伝う",
+    "component": "",
     "hiragana": "てつだう",
     "enMeaning": "Help",
     "idMeaning": "Membantu",
@@ -170,6 +191,7 @@
   {
     "id": "N5.3.22",
     "kanji": "呼ぶ",
+    "component": "",
     "hiragana": "よぶ",
     "enMeaning": "Call / invite",
     "idMeaning": "Memanggil",
@@ -178,6 +200,7 @@
   {
     "id": "N5.3.23",
     "kanji": "使う",
+    "component": "",
     "hiragana": "つかう",
     "enMeaning": "Use",
     "idMeaning": "Menggunakan",
@@ -186,6 +209,7 @@
   {
     "id": "N5.3.24",
     "kanji": "止まる",
+    "component": "",
     "hiragana": "とまる",
     "enMeaning": "Stop",
     "idMeaning": "Berhenti",
@@ -194,6 +218,7 @@
   {
     "id": "N5.3.25",
     "kanji": "高校",
+    "component": "",
     "hiragana": "こうこう",
     "enMeaning": "High school",
     "idMeaning": "SMA",
@@ -202,6 +227,7 @@
   {
     "id": "N5.3.26",
     "kanji": "歯医者",
+    "component": "",
     "hiragana": "はいしゃ",
     "enMeaning": "Dentist",
     "idMeaning": "Dokter gigi",
@@ -210,6 +236,7 @@
   {
     "id": "N5.3.27",
     "kanji": "独身",
+    "component": "",
     "hiragana": "どくしん",
     "enMeaning": "Single",
     "idMeaning": "Lajang",
@@ -218,6 +245,7 @@
   {
     "id": "N5.3.28",
     "kanji": "製品",
+    "component": "",
     "hiragana": "せいひん",
     "enMeaning": "Product",
     "idMeaning": "Produk / barang jadi",
@@ -226,6 +254,7 @@
   {
     "id": "N5.3.29",
     "kanji": "乗る",
+    "component": "",
     "hiragana": "のる",
     "enMeaning": "Ride / get on",
     "idMeaning": "Naik (kendaraan)",
@@ -234,6 +263,7 @@
   {
     "id": "N5.3.30",
     "kanji": "降りる",
+    "component": "",
     "hiragana": "おりる",
     "enMeaning": "Get off",
     "idMeaning": "Turun (kendaraan)",
@@ -242,6 +272,7 @@
   {
     "id": "N5.3.31",
     "kanji": "知る",
+    "component": "矢口",
     "hiragana": "しる",
     "enMeaning": "Know",
     "idMeaning": "Mengetahui",
@@ -250,6 +281,7 @@
   {
     "id": "N5.3.32",
     "kanji": "住む",
+    "component": "",
     "hiragana": "すむ",
     "enMeaning": "Live / reside",
     "idMeaning": "Tinggal / bermukim",
@@ -258,6 +290,7 @@
   {
     "id": "N5.3.33",
     "kanji": "研究する",
+    "component": "",
     "hiragana": "けんきゅうする",
     "enMeaning": "Research",
     "idMeaning": "Meneliti",
@@ -266,6 +299,7 @@
   {
     "id": "N5.3.34",
     "kanji": "資料",
+    "component": "米",
     "hiragana": "しりょう",
     "enMeaning": "Material / data",
     "idMeaning": "Data / dokumen",
@@ -274,6 +308,7 @@
   {
     "id": "N5.3.35",
     "kanji": "時刻表",
+    "component": "",
     "hiragana": "じこくひょう",
     "enMeaning": "Timetable",
     "idMeaning": "Jadwal (kereta/bus)",
@@ -282,6 +317,7 @@
   {
     "id": "N5.3.36",
     "kanji": "服",
+    "component": "",
     "hiragana": "ふく",
     "enMeaning": "Clothes",
     "idMeaning": "Pakaian",
@@ -290,6 +326,7 @@
   {
     "id": "N5.3.37",
     "kanji": "問題",
+    "component": "",
     "hiragana": "もんだい",
     "enMeaning": "Problem / question",
     "idMeaning": "Masalah / soal",
@@ -298,6 +335,7 @@
   {
     "id": "N5.3.38",
     "kanji": "答え",
+    "component": "",
     "hiragana": "こたえ",
     "enMeaning": "Answer",
     "idMeaning": "Jawaban",
@@ -306,6 +344,7 @@
   {
     "id": "N5.3.39",
     "kanji": "方",
+    "component": "",
     "hiragana": "かた",
     "enMeaning": "Way / person",
     "idMeaning": "Cara",
@@ -314,6 +353,7 @@
   {
     "id": "N5.3.40",
     "kanji": "置く",
+    "component": "",
     "hiragana": "おく",
     "enMeaning": "Put / place",
     "idMeaning": "Meletakkan",
@@ -322,6 +362,7 @@
   {
     "id": "N5.3.41",
     "kanji": "作る",
+    "component": "",
     "hiragana": "つくる",
     "enMeaning": "Make / create",
     "idMeaning": "Membuat",
@@ -330,6 +371,7 @@
   {
     "id": "N5.3.42",
     "kanji": "売る",
+    "component": "",
     "hiragana": "うる",
     "enMeaning": "Sell",
     "idMeaning": "Menjual",
@@ -338,6 +380,7 @@
   {
     "id": "N5.3.43",
     "kanji": "見せる",
+    "component": "",
     "hiragana": "みせる",
     "enMeaning": "Show",
     "idMeaning": "Memperlihatkan",
@@ -346,6 +389,7 @@
   {
     "id": "N5.3.44",
     "kanji": "座る",
+    "component": "",
     "hiragana": "すわる",
     "enMeaning": "Sit",
     "idMeaning": "Duduk",
@@ -354,6 +398,7 @@
   {
     "id": "N5.3.45",
     "kanji": "住所",
+    "component": "主戸斤",
     "hiragana": "じゅうしょ",
     "enMeaning": "Address",
     "idMeaning": "Alamat",
@@ -362,6 +407,7 @@
   {
     "id": "N5.3.46",
     "kanji": "地図",
+    "component": "",
     "hiragana": "ちず",
     "enMeaning": "Map",
     "idMeaning": "Peta",
@@ -370,6 +416,7 @@
   {
     "id": "N5.3.47",
     "kanji": "塩",
+    "component": "",
     "hiragana": "しお",
     "enMeaning": "Salt",
     "idMeaning": "Garam",
@@ -378,6 +425,7 @@
   {
     "id": "N5.3.48",
     "kanji": "砂糖",
+    "component": "",
     "hiragana": "さとう",
     "enMeaning": "Sugar",
     "idMeaning": "Gula",
@@ -386,6 +434,7 @@
   {
     "id": "N5.3.49",
     "kanji": "乗り換える",
+    "component": "",
     "hiragana": "のりかえる",
     "enMeaning": "Transfer / change trains",
     "idMeaning": "Transit",
@@ -394,6 +443,7 @@
   {
     "id": "N5.3.50",
     "kanji": "浴びる",
+    "component": "",
     "hiragana": "あびる",
     "enMeaning": "Bathe / take a shower",
     "idMeaning": "Mandi",
@@ -402,6 +452,7 @@
   {
     "id": "N5.3.51",
     "kanji": "入れる",
+    "component": "",
     "hiragana": "いれる",
     "enMeaning": "Put in / insert",
     "idMeaning": "Memasukkan",
@@ -410,6 +461,7 @@
   {
     "id": "N5.3.52",
     "kanji": "出す",
+    "component": "",
     "hiragana": "だす",
     "enMeaning": "Take out",
     "idMeaning": "Mengeluarkan / mengirim",
@@ -418,6 +470,7 @@
   {
     "id": "N5.3.53",
     "kanji": "押す",
+    "component": "",
     "hiragana": "おす",
     "enMeaning": "Push",
     "idMeaning": "Menekan / mendorong",
@@ -426,6 +479,7 @@
   {
     "id": "N5.3.54",
     "kanji": "始める",
+    "component": "",
     "hiragana": "はじめる",
     "enMeaning": "Start",
     "idMeaning": "Memulai",
@@ -434,6 +488,7 @@
   {
     "id": "N5.3.55",
     "kanji": "見学する",
+    "component": "",
     "hiragana": "けんがくする",
     "enMeaning": "Observe / study visit",
     "idMeaning": "Observasi",
@@ -442,6 +497,7 @@
   {
     "id": "N5.3.56",
     "kanji": "若い",
+    "component": "",
     "hiragana": "わかい",
     "enMeaning": "Young",
     "idMeaning": "Muda",
@@ -450,6 +506,7 @@
   {
     "id": "N5.3.57",
     "kanji": "短い",
+    "component": "",
     "hiragana": "みじかい",
     "enMeaning": "Short",
     "idMeaning": "Pendek",
@@ -458,6 +515,7 @@
   {
     "id": "N5.3.58",
     "kanji": "暗い",
+    "component": "",
     "hiragana": "くらい",
     "enMeaning": "Dark",
     "idMeaning": "Gelap",
@@ -466,6 +524,7 @@
   {
     "id": "N5.3.59",
     "kanji": "体",
+    "component": "",
     "hiragana": "からだ",
     "enMeaning": "Body",
     "idMeaning": "Badan / tubuh",
@@ -474,6 +533,7 @@
   {
     "id": "N5.3.60",
     "kanji": "頭",
+    "component": "",
     "hiragana": "あたま",
     "enMeaning": "Head",
     "idMeaning": "Kepala",
@@ -482,6 +542,7 @@
   {
     "id": "N5.3.61",
     "kanji": "髪",
+    "component": "",
     "hiragana": "かみ",
     "enMeaning": "Hair",
     "idMeaning": "Rambut",
@@ -490,6 +551,7 @@
   {
     "id": "N5.3.62",
     "kanji": "顔",
+    "component": "",
     "hiragana": "かお",
     "enMeaning": "Face",
     "idMeaning": "Wajah",
@@ -498,6 +560,7 @@
   {
     "id": "N5.3.63",
     "kanji": "鼻",
+    "component": "",
     "hiragana": "はな",
     "enMeaning": "Nose",
     "idMeaning": "Hidung",
@@ -506,6 +569,7 @@
   {
     "id": "N5.3.64",
     "kanji": "背",
+    "component": "",
     "hiragana": "せ",
     "enMeaning": "Back / height",
     "idMeaning": "Punggung / tinggi badan",
@@ -514,6 +578,7 @@
   {
     "id": "N5.3.65",
     "kanji": "歯",
+    "component": "",
     "hiragana": "は",
     "enMeaning": "Tooth",
     "idMeaning": "Gigi",
@@ -522,6 +587,7 @@
   {
     "id": "N5.3.66",
     "kanji": "課長",
+    "component": "",
     "hiragana": "かちょう",
     "enMeaning": "Section manager",
     "idMeaning": "Kepala seksi / kepala bagian",
@@ -530,6 +596,7 @@
   {
     "id": "N5.3.67",
     "kanji": "お祈り",
+    "component": "",
     "hiragana": "おいのり",
     "enMeaning": "Prayer",
     "idMeaning": "Doa",
@@ -538,6 +605,7 @@
   {
     "id": "N5.3.68",
     "kanji": "日記",
+    "component": "",
     "hiragana": "にっき",
     "enMeaning": "Diary",
     "idMeaning": "Buku harian",
@@ -546,6 +614,7 @@
   {
     "id": "N5.3.69",
     "kanji": "趣味",
+    "component": "",
     "hiragana": "しゅみ",
     "enMeaning": "Hobby",
     "idMeaning": "Hobi",
@@ -554,6 +623,7 @@
   {
     "id": "N5.3.70",
     "kanji": "現金",
+    "component": "",
     "hiragana": "げんきん",
     "enMeaning": "Cash",
     "idMeaning": "Uang tunai",
@@ -562,6 +632,7 @@
   {
     "id": "N5.3.71",
     "kanji": "予約する",
+    "component": "",
     "hiragana": "よやくする",
     "enMeaning": "Reserve",
     "idMeaning": "Memesan / reservasi",
@@ -570,6 +641,7 @@
   {
     "id": "N5.3.72",
     "kanji": "運転する",
+    "component": "",
     "hiragana": "うんてんする",
     "enMeaning": "Drive",
     "idMeaning": "Menyetir",
@@ -578,6 +650,7 @@
   {
     "id": "N5.3.73",
     "kanji": "大切",
+    "component": "",
     "hiragana": "たいせつ",
     "enMeaning": "Important",
     "idMeaning": "Penting / berharga",
@@ -586,6 +659,7 @@
   {
     "id": "N5.3.74",
     "kanji": "世界",
+    "component": "",
     "hiragana": "せかい",
     "enMeaning": "World",
     "idMeaning": "Dunia",
@@ -594,6 +668,7 @@
   {
     "id": "N5.3.75",
     "kanji": "手紙",
+    "component": "",
     "hiragana": "てがみ",
     "enMeaning": "Letter",
     "idMeaning": "Surat",
@@ -602,6 +677,7 @@
   {
     "id": "N5.3.76",
     "kanji": "心配する",
+    "component": "",
     "hiragana": "しんぱいする",
     "enMeaning": "Worry",
     "idMeaning": "Khawatir",
@@ -610,6 +686,7 @@
   {
     "id": "N5.3.77",
     "kanji": "脱ぐ",
+    "component": "",
     "hiragana": "ぬぐ",
     "enMeaning": "Take off (shoes, clothes)",
     "idMeaning": "Melepas (pakaian, sepatu)",
@@ -618,6 +695,7 @@
   {
     "id": "N5.3.78",
     "kanji": "出かける",
+    "component": "",
     "hiragana": "でかける",
     "enMeaning": "Go out",
     "idMeaning": "Pergi keluar",
@@ -626,6 +704,7 @@
   {
     "id": "N5.3.79",
     "kanji": "話す",
+    "component": "",
     "hiragana": "はなす",
     "enMeaning": "Speak / talk",
     "idMeaning": "Berbicara",
@@ -634,6 +713,7 @@
   {
     "id": "N5.3.80",
     "kanji": "来る",
+    "component": "",
     "hiragana": "くる",
     "enMeaning": "Come",
     "idMeaning": "Datang",

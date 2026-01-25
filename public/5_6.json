@@ -2,6 +2,7 @@
   {
     "id": "N5.6.1",
     "kanji": "病院",
+    "component": "",
     "hiragana": "びょういん",
     "enMeaning": "Hospital",
     "idMeaning": "Rumah sakit",
@@ -10,6 +11,7 @@
   {
     "id": "N5.6.2",
     "kanji": "秒",
+    "component": "",
     "hiragana": "びょう",
     "enMeaning": "Second",
     "idMeaning": "Detik",
@@ -18,6 +20,7 @@
   {
     "id": "N5.6.3",
     "kanji": "飴",
+    "component": "",
     "hiragana": "あめ",
     "enMeaning": "Candy",
     "idMeaning": "Permen",
@@ -26,6 +29,7 @@
   {
     "id": "N5.6.4",
     "kanji": "大人",
+    "component": "",
     "hiragana": "おとな",
     "enMeaning": "Adult",
     "idMeaning": "Orang dewasa",
@@ -34,6 +38,7 @@
   {
     "id": "N5.6.5",
     "kanji": "降る",
+    "component": "",
     "hiragana": "ふる",
     "enMeaning": "Fall",
     "idMeaning": "Turun (hujan, salju)",
@@ -42,6 +47,7 @@
   {
     "id": "N5.6.6",
     "kanji": "多分",
+    "component": "",
     "hiragana": "たぶん",
     "enMeaning": "Probably",
     "idMeaning": "Mungkin",
@@ -50,6 +56,7 @@
   {
     "id": "N5.6.7",
     "kanji": "直ぐに",
+    "component": "",
     "hiragana": "すぐに",
     "enMeaning": "Immediately",
     "idMeaning": "Segera / langsung",
@@ -58,6 +65,7 @@
   {
     "id": "N5.6.8",
     "kanji": "立派",
+    "component": "",
     "hiragana": "りっぱ",
     "enMeaning": "Splendid / fine",
     "idMeaning": "Mengagumkan",
@@ -66,6 +74,7 @@
   {
     "id": "N5.6.9",
     "kanji": "初めて",
+    "component": "",
     "hiragana": "はじめて",
     "enMeaning": "For the first time",
     "idMeaning": "Pertama kali",
@@ -74,6 +83,7 @@
   {
     "id": "N5.6.10",
     "kanji": "お菓子",
+    "component": "",
     "hiragana": "おかし",
     "enMeaning": "Sweets / snack",
     "idMeaning": "Kue / camilan manis",
@@ -82,6 +92,7 @@
   {
     "id": "N5.6.11",
     "kanji": "下さい",
+    "component": "",
     "hiragana": "ください",
     "enMeaning": "Please give me",
     "idMeaning": "Tolong",
@@ -90,6 +101,7 @@
   {
     "id": "N5.6.12",
     "kanji": "お腹",
+    "component": "",
     "hiragana": "おなか",
     "enMeaning": "Stomach / belly",
     "idMeaning": "Perut",
@@ -98,6 +110,7 @@
   {
     "id": "N5.6.13",
     "kanji": "靴下",
+    "component": "",
     "hiragana": "くつした",
     "enMeaning": "Socks",
     "idMeaning": "Kaos kaki",
@@ -106,6 +119,7 @@
   {
     "id": "N5.6.14",
     "kanji": "灰皿",
+    "component": "",
     "hiragana": "はいざら",
     "enMeaning": "Ashtray",
     "idMeaning": "Asbak",
@@ -114,6 +128,7 @@
   {
     "id": "N5.6.15",
     "kanji": "階段",
+    "component": "",
     "hiragana": "かいだん",
     "enMeaning": "Stairs",
     "idMeaning": "Tangga",
@@ -122,6 +137,7 @@
   {
     "id": "N5.6.16",
     "kanji": "履く",
+    "component": "",
     "hiragana": "はく",
     "enMeaning": "Put on / wear",
     "idMeaning": "Memakai (celana, sepatu, kaus kaki)",
@@ -130,6 +146,7 @@
   {
     "id": "N5.6.17",
     "kanji": "朝ご飯",
+    "component": "",
     "hiragana": "あさごはん",
     "enMeaning": "Breakfast",
     "idMeaning": "Sarapan",
@@ -138,6 +155,7 @@
   {
     "id": "N5.6.18",
     "kanji": "熱い",
+    "component": "",
     "hiragana": "あつい",
     "enMeaning": "Hot",
     "idMeaning": "Panas (benda)",
@@ -146,6 +164,7 @@
   {
     "id": "N5.6.19",
     "kanji": "茶色",
+    "component": "",
     "hiragana": "ちゃいろ",
     "enMeaning": "Brown",
     "idMeaning": "Cokelat (warna)",
@@ -154,6 +173,7 @@
   {
     "id": "N5.6.20",
     "kanji": "切手",
+    "component": "",
     "hiragana": "きって",
     "enMeaning": "Stamp",
     "idMeaning": "Perangko",
@@ -162,6 +182,7 @@
   {
     "id": "N5.6.21",
     "kanji": "茶碗",
+    "component": "",
     "hiragana": "ちゃわん",
     "enMeaning": "Rice bowl",
     "idMeaning": "Mangkuk nasi",
@@ -170,6 +191,7 @@
   {
     "id": "N5.6.22",
     "kanji": "面白い",
+    "component": "",
     "hiragana": "おもしろい",
     "enMeaning": "Interesting / funny",
     "idMeaning": "Menarik / lucu",
@@ -178,6 +200,7 @@
   {
     "id": "N5.6.23",
     "kanji": "無くす",
+    "component": "",
     "hiragana": "なくす",
     "enMeaning": "Lose",
     "idMeaning": "Kehilangan",
@@ -186,6 +209,7 @@
   {
     "id": "N5.6.24",
     "kanji": "速達",
+    "component": "束幸",
     "hiragana": "そくたつ",
     "enMeaning": "Express mail",
     "idMeaning": "Pengiriman kilat",
@@ -194,6 +218,7 @@
   {
     "id": "N5.6.25",
     "kanji": "痛い",
+    "component": "",
     "hiragana": "いたい",
     "enMeaning": "Painful / sore",
     "idMeaning": "Sakit / nyeri",
@@ -202,6 +227,7 @@
   {
     "id": "N5.6.26",
     "kanji": "苦い",
+    "component": "",
     "hiragana": "にがい",
     "enMeaning": "Bitter",
     "idMeaning": "Pahit",
@@ -210,6 +236,7 @@
   {
     "id": "N5.6.27",
     "kanji": "酸っぱい",
+    "component": "",
     "hiragana": "すっぱい",
     "enMeaning": "Sour",
     "idMeaning": "Asam",
@@ -218,6 +245,7 @@
   {
     "id": "N5.6.28",
     "kanji": "塩辛い",
+    "component": "",
     "hiragana": "しおからい",
     "enMeaning": "Salty",
     "idMeaning": "Asin",
@@ -226,6 +254,7 @@
   {
     "id": "N5.6.29",
     "kanji": "珍しい",
+    "component": "",
     "hiragana": "めずらしい",
     "enMeaning": "Rare / unusual",
     "idMeaning": "Jarang",
@@ -234,6 +263,7 @@
   {
     "id": "N5.6.30",
     "kanji": "出張する",
+    "component": "",
     "hiragana": "しゅっちょうする",
     "enMeaning": "Business trip",
     "idMeaning": "Dinas ke luar kota",
@@ -242,6 +272,7 @@
   {
     "id": "N5.6.31",
     "kanji": "生きる",
+    "component": "",
     "hiragana": "いきる",
     "enMeaning": "Live",
     "idMeaning": "Hidup",
@@ -250,6 +281,7 @@
   {
     "id": "N5.6.32",
     "kanji": "隣",
+    "component": "",
     "hiragana": "となり",
     "enMeaning": "Next to",
     "idMeaning": "Sebelah",
@@ -258,6 +290,7 @@
   {
     "id": "N5.6.33",
     "kanji": "長男",
+    "component": "",
     "hiragana": "ちょうなん",
     "enMeaning": "Eldest son",
     "idMeaning": "Anak laki-laki sulung",
@@ -266,6 +299,7 @@
   {
     "id": "N5.6.34",
     "kanji": "椅子",
+    "component": "",
     "hiragana": "いす",
     "enMeaning": "Chair",
     "idMeaning": "Kursi",
@@ -274,6 +308,7 @@
   {
     "id": "N5.6.35",
     "kanji": "返す",
+    "component": "反",
     "hiragana": "かえす",
     "enMeaning": "Return",
     "idMeaning": "Mengembalikan",
@@ -282,6 +317,7 @@
   {
     "id": "N5.6.36",
     "kanji": "公園",
+    "component": "",
     "hiragana": "こうえん",
     "enMeaning": "Park",
     "idMeaning": "Taman",
@@ -290,6 +326,7 @@
   {
     "id": "N5.6.37",
     "kanji": "ご飯",
+    "component": "",
     "hiragana": "ごはん",
     "enMeaning": "Rice / meal",
     "idMeaning": "Nasi / makan",
@@ -298,6 +335,7 @@
   {
     "id": "N5.6.38",
     "kanji": "生まれる",
+    "component": "",
     "hiragana": "うまれる",
     "enMeaning": "Be born",
     "idMeaning": "Lahir",
@@ -306,6 +344,7 @@
   {
     "id": "N5.6.39",
     "kanji": "新鮮",
+    "component": "斤魚羊",
     "hiragana": "しんせん",
     "enMeaning": "Fresh",
     "idMeaning": "Segar",
@@ -314,6 +353,7 @@
   {
     "id": "N5.6.40",
     "kanji": "分かる",
+    "component": "",
     "hiragana": "わかる",
     "enMeaning": "Understand",
     "idMeaning": "Mengerti / paham",
@@ -322,6 +362,7 @@
   {
     "id": "N5.6.41",
     "kanji": "貸す",
+    "component": "",
     "hiragana": "かす",
     "enMeaning": "Lend",
     "idMeaning": "Meminjamkan",
@@ -330,6 +371,7 @@
   {
     "id": "N5.6.42",
     "kanji": "青い",
+    "component": "",
     "hiragana": "あおい",
     "enMeaning": "Blue",
     "idMeaning": "Biru",
@@ -338,6 +380,7 @@
   {
     "id": "N5.6.43",
     "kanji": "賑やか",
+    "component": "",
     "hiragana": "にぎやか",
     "enMeaning": "Lively",
     "idMeaning": "Ramai / meriah",
@@ -346,6 +389,7 @@
   {
     "id": "N5.6.44",
     "kanji": "太い",
+    "component": "",
     "hiragana": "ふとい",
     "enMeaning": "Thick",
     "idMeaning": "Tebal",
@@ -354,6 +398,7 @@
   {
     "id": "N5.6.45",
     "kanji": "一緒",
+    "component": "",
     "hiragana": "いっしょ",
     "enMeaning": "Together",
     "idMeaning": "Bersama",
@@ -362,6 +407,7 @@
   {
     "id": "N5.6.46",
     "kanji": "会議室",
+    "component": "",
     "hiragana": "かいぎしつ",
     "enMeaning": "Meeting room",
     "idMeaning": "Ruang rapat",
@@ -370,6 +416,7 @@
   {
     "id": "N5.6.47",
     "kanji": "知事",
+    "component": "矢口",
     "hiragana": "ちじ",
     "enMeaning": "Governor",
     "idMeaning": "Gubernur",
@@ -378,6 +425,7 @@
   {
     "id": "N5.6.48",
     "kanji": "色々",
+    "component": "",
     "hiragana": "いろいろ",
     "enMeaning": "Various",
     "idMeaning": "Berbagai macam",
@@ -386,6 +434,7 @@
   {
     "id": "N5.6.49",
     "kanji": "出身",
+    "component": "",
     "hiragana": "しゅっしん",
     "enMeaning": "Hometown / origin",
     "idMeaning": "Asal",
@@ -394,6 +443,7 @@
   {
     "id": "N5.6.50",
     "kanji": "電話番号",
+    "component": "",
     "hiragana": "でんわばんごう",
     "enMeaning": "Phone number",
     "idMeaning": "Nomor telepon",
@@ -402,6 +452,7 @@
   {
     "id": "N5.6.51",
     "kanji": "二十歳",
+    "component": "",
     "hiragana": "はたち",
     "enMeaning": "Twenty years old",
     "idMeaning": "Dua puluh tahun (umur)",
@@ -410,6 +461,7 @@
   {
     "id": "N5.6.52",
     "kanji": "速い",
+    "component": "束",
     "hiragana": "はやい",
     "enMeaning": "Fast",
     "idMeaning": "Cepat",
@@ -418,6 +470,7 @@
   {
     "id": "N5.6.53",
     "kanji": "図書館",
+    "component": "食官",
     "hiragana": "としょかん",
     "enMeaning": "Library",
     "idMeaning": "Perpustakaan",
@@ -426,6 +479,7 @@
   {
     "id": "N5.6.54",
     "kanji": "妻",
+    "component": "",
     "hiragana": "つま",
     "enMeaning": "Wife",
     "idMeaning": "Istri",
@@ -434,6 +488,7 @@
   {
     "id": "N5.6.55",
     "kanji": "映画館",
+    "component": "食官",
     "hiragana": "えいがかん",
     "enMeaning": "Movie theater",
     "idMeaning": "Bioskop",
@@ -442,6 +497,7 @@
   {
     "id": "N5.6.56",
     "kanji": "週末",
+    "component": "",
     "hiragana": "しゅうまつ",
     "enMeaning": "Weekend",
     "idMeaning": "Akhir pekan",
@@ -450,6 +506,7 @@
   {
     "id": "N5.6.57",
     "kanji": "一日",
+    "component": "",
     "hiragana": "ついたち",
     "enMeaning": "First day of the month",
     "idMeaning": "Tanggal 1",
@@ -458,6 +515,7 @@
   {
     "id": "N5.6.58",
     "kanji": "二日",
+    "component": "",
     "hiragana": "ふつか",
     "enMeaning": "Second day of the month",
     "idMeaning": "Tanggal 2",
@@ -466,6 +524,7 @@
   {
     "id": "N5.6.59",
     "kanji": "三日",
+    "component": "",
     "hiragana": "みっか",
     "enMeaning": "Third day of the month",
     "idMeaning": "Tanggal 3",
@@ -474,6 +533,7 @@
   {
     "id": "N5.6.60",
     "kanji": "四日",
+    "component": "",
     "hiragana": "よっか",
     "enMeaning": "Fourth day of the month",
     "idMeaning": "Tanggal 4",
@@ -482,6 +542,7 @@
   {
     "id": "N5.6.61",
     "kanji": "五日",
+    "component": "",
     "hiragana": "いつか",
     "enMeaning": "Fifth day of the month",
     "idMeaning": "Tanggal 5",
@@ -490,6 +551,7 @@
   {
     "id": "N5.6.62",
     "kanji": "六日",
+    "component": "",
     "hiragana": "むいか",
     "enMeaning": "Sixth day of the month",
     "idMeaning": "Tanggal 6",
@@ -498,6 +560,7 @@
   {
     "id": "N5.6.63",
     "kanji": "七日",
+    "component": "",
     "hiragana": "なのか",
     "enMeaning": "Seventh day of the month",
     "idMeaning": "Tanggal 7",
@@ -506,6 +569,7 @@
   {
     "id": "N5.6.64",
     "kanji": "八日",
+    "component": "",
     "hiragana": "ようか",
     "enMeaning": "Eighth day of the month",
     "idMeaning": "Tanggal 8",
@@ -514,6 +578,7 @@
   {
     "id": "N5.6.65",
     "kanji": "九日",
+    "component": "",
     "hiragana": "ここのか",
     "enMeaning": "Ninth day of the month",
     "idMeaning": "Tanggal 9",
@@ -522,6 +587,7 @@
   {
     "id": "N5.6.66",
     "kanji": "十日",
+    "component": "",
     "hiragana": "とおか",
     "enMeaning": "Tenth day of the month",
     "idMeaning": "Tanggal 10",
@@ -530,6 +596,7 @@
   {
     "id": "N5.6.67",
     "kanji": "十四日",
+    "component": "",
     "hiragana": "じゅうよっか",
     "enMeaning": "Fourteenth day of the month",
     "idMeaning": "Tanggal 14",
@@ -538,6 +605,7 @@
   {
     "id": "N5.6.68",
     "kanji": "二十日",
+    "component": "",
     "hiragana": "はつか",
     "enMeaning": "Twentieth day of the month",
     "idMeaning": "Tanggal 20",
@@ -546,6 +614,7 @@
   {
     "id": "N5.6.69",
     "kanji": "二十四日",
+    "component": "",
     "hiragana": "にじゅうよっか",
     "enMeaning": "Twenty-fourth day of the month",
     "idMeaning": "Tanggal 24",
@@ -554,6 +623,7 @@
   {
     "id": "N5.6.70",
     "kanji": "～本",
+    "component": "",
     "hiragana": "～ほん",
     "enMeaning": "Counter for long objects",
     "idMeaning": "~ Batang",
@@ -562,6 +632,7 @@
   {
     "id": "N5.6.71",
     "kanji": "～枚",
+    "component": "",
     "hiragana": "～まい",
     "enMeaning": "Counter for flat objects",
     "idMeaning": "~ Lembar",
@@ -570,6 +641,7 @@
   {
     "id": "N5.6.72",
     "kanji": "～台",
+    "component": "",
     "hiragana": "～だい",
     "enMeaning": "Counter for machines",
     "idMeaning": "~ Buah (mesin / kendaraan)",
@@ -578,6 +650,7 @@
   {
     "id": "N5.6.73",
     "kanji": "～階",
+    "component": "",
     "hiragana": "～かい",
     "enMeaning": "Counter for floors",
     "idMeaning": "~ Lantai",
@@ -586,6 +659,7 @@
   {
     "id": "N5.6.74",
     "kanji": "～冊",
+    "component": "",
     "hiragana": "～さつ",
     "enMeaning": "Counter for books",
     "idMeaning": "~ Jilid",
@@ -594,6 +668,7 @@
   {
     "id": "N5.6.75",
     "kanji": "～匹",
+    "component": "",
     "hiragana": "～ひき",
     "enMeaning": "Counter for small animals",
     "idMeaning": "~ Ekor (hewan kecil)",
@@ -602,6 +677,7 @@
   {
     "id": "N5.6.76",
     "kanji": "～頭",
+    "component": "",
     "hiragana": "～とう",
     "enMeaning": "Counter for large animals",
     "idMeaning": "~ Ekor (hewan besar)",
@@ -610,6 +686,7 @@
   {
     "id": "N5.6.77",
     "kanji": "～個",
+    "component": "",
     "hiragana": "～こ",
     "enMeaning": "Counter for items",
     "idMeaning": "~ Buah (benda kecil)",
@@ -618,6 +695,7 @@
   {
     "id": "N5.6.78",
     "kanji": "～回",
+    "component": "",
     "hiragana": "～かい",
     "enMeaning": "Counter for times",
     "idMeaning": "~ Kali",
@@ -626,6 +704,7 @@
   {
     "id": "N5.6.79",
     "kanji": "北東",
+    "component": "",
     "hiragana": "ほくとう",
     "enMeaning": "Northeast",
     "idMeaning": "Timur laut",
@@ -634,6 +713,7 @@
   {
     "id": "N5.6.80",
     "kanji": "東南",
+    "component": "",
     "hiragana": "とうなん",
     "enMeaning": "Southeast",
     "idMeaning": "Tenggara",
@@ -642,6 +722,7 @@
   {
     "id": "N5.6.81",
     "kanji": "西南",
+    "component": "",
     "hiragana": "せいなん",
     "enMeaning": "Southwest",
     "idMeaning": "Barat daya",
@@ -650,6 +731,7 @@
   {
     "id": "N5.6.82",
     "kanji": "西北",
+    "component": "",
     "hiragana": "せいほく",
     "enMeaning": "Northwest",
     "idMeaning": "Barat laut",
@@ -658,6 +740,7 @@
   {
     "id": "N5.6.83",
     "kanji": "昨日",
+    "component": "",
     "hiragana": "きのう",
     "enMeaning": "Yesterday",
     "idMeaning": "Kemarin",
@@ -666,6 +749,7 @@
   {
     "id": "N5.6.84",
     "kanji": "一昨日",
+    "component": "",
     "hiragana": "おととい",
     "enMeaning": "The day before yesterday",
     "idMeaning": "Kemarin lusa",
@@ -674,6 +758,7 @@
   {
     "id": "N5.6.85",
     "kanji": "今日",
+    "component": "",
     "hiragana": "きょう",
     "enMeaning": "Today",
     "idMeaning": "Hari ini",
@@ -682,6 +767,7 @@
   {
     "id": "N5.6.86",
     "kanji": "明日",
+    "component": "",
     "hiragana": "あした",
     "enMeaning": "Tomorrow",
     "idMeaning": "Besok",
@@ -690,6 +776,7 @@
   {
     "id": "N5.6.87",
     "kanji": "明後日",
+    "component": "",
     "hiragana": "あさって",
     "enMeaning": "Day after tomorrow",
     "idMeaning": "Lusa",
@@ -698,6 +785,7 @@
   {
     "id": "N5.6.88",
     "kanji": "毎日",
+    "component": "",
     "hiragana": "まいにち",
     "enMeaning": "Every day",
     "idMeaning": "Setiap hari",
@@ -706,6 +794,7 @@
   {
     "id": "N5.6.89",
     "kanji": "毎朝",
+    "component": "",
     "hiragana": "まいあさ",
     "enMeaning": "Every morning",
     "idMeaning": "Setiap pagi",
@@ -714,6 +803,7 @@
   {
     "id": "N5.6.90",
     "kanji": "毎晩",
+    "component": "",
     "hiragana": "まいばん",
     "enMeaning": "Every night",
     "idMeaning": "Setiap malam",

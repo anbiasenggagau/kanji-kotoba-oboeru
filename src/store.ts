@@ -22,7 +22,7 @@ export const resultStore = defineStore("resultStore", {
     }
 })
 
-export const kanjiStore = defineStore("kanjiList", {
+export const kanjiTestStore = defineStore("kanjiTestStore", {
     state: () => ({
         data: [] as string[],
         max: 0 as number

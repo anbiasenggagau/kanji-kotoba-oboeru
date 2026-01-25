@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
-import { flagStore, kanjiStore, resultStore } from '../store';
+import { flagStore, kanjiTestStore, resultStore } from '../store';
 import type { KanjiType } from '../type';
 import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
@@ -16,9 +16,9 @@ onBeforeUnmount(() => globalThis.removeEventListener('keydown', correctAnswerEve
 onBeforeUnmount(() => globalThis.removeEventListener('keydown', revealAnswerEvent))
 
 const resultData = resultStore()
-const kanjiFile = kanjiStore()
-const routerOpt = useRouter()
+const kanjiFile = kanjiTestStore()
 const flagData = flagStore()
+const routerOpt = useRouter()
 
 const loading = ref(true)
 const kanjiList = ref<KanjiType[]>([])

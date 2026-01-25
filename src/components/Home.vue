@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import { useRouter } from "vue-router";
 import { volumes } from "../const";
-import { kanjiStore } from "../store";
+import { kanjiTestStore } from "../store";
 import Button from '../volt/Button.vue';
 import Card from '../volt/Card.vue';
 import Checkbox from "../volt/Checkbox.vue";
@@ -10,7 +10,7 @@ import InputNumber from "../volt/InputNumber.vue";
 import SecondaryButton from '../volt/SecondaryButton.vue';
 import Alert from "./Alert.vue";
 
-const kanjiData = kanjiStore()
+const kanjiData = kanjiTestStore()
 const routerOpt = useRouter()
 kanjiData.clearData()
 

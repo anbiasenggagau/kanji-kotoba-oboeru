@@ -2,6 +2,7 @@
   {
     "id": "N3.4.1",
     "kanji": "消費者",
+    "component": "",
     "hiragana": "しょうひしゃ",
     "enMeaning": "Consumer",
     "idMeaning": "Konsumen",
@@ -10,6 +11,7 @@
   {
     "id": "N3.4.2",
     "kanji": "受け取る",
+    "component": "",
     "hiragana": "うけとる",
     "enMeaning": "Receive",
     "idMeaning": "Menerima",
@@ -18,6 +20,7 @@
   {
     "id": "N3.4.3",
     "kanji": "自動販売機",
+    "component": "",
     "hiragana": "じどうはんばいき",
     "enMeaning": "Vending machine",
     "idMeaning": "Mesin penjual otomatis",
@@ -26,6 +29,7 @@
   {
     "id": "N3.4.4",
     "kanji": "歯科",
+    "component": "",
     "hiragana": "しか",
     "enMeaning": "Dentistry / dental clinic",
     "idMeaning": "Klinik gigi",
@@ -34,6 +38,7 @@
   {
     "id": "N3.4.5",
     "kanji": "割れる",
+    "component": "",
     "hiragana": "われる",
     "enMeaning": "Break / split",
     "idMeaning": "Pecah",
@@ -42,6 +47,7 @@
   {
     "id": "N3.4.6",
     "kanji": "空港",
+    "component": "",
     "hiragana": "くうこう",
     "enMeaning": "Airport",
     "idMeaning": "Bandara",
@@ -50,6 +56,7 @@
   {
     "id": "N3.4.7",
     "kanji": "降車口",
+    "component": "",
     "hiragana": "こうしゃぐち",
     "enMeaning": "Exit (bus/train)",
     "idMeaning": "Pintu turun (bus/kereta)",
@@ -58,6 +65,7 @@
   {
     "id": "N3.4.8",
     "kanji": "看護師",
+    "component": "",
     "hiragana": "かんごし",
     "enMeaning": "Nurse",
     "idMeaning": "Perawat",
@@ -66,6 +74,7 @@
   {
     "id": "N3.4.9",
     "kanji": "指定席",
+    "component": "",
     "hiragana": "していせき",
     "enMeaning": "Reserved seat",
     "idMeaning": "Kursi pesanan",
@@ -74,6 +83,7 @@
   {
     "id": "N3.4.10",
     "kanji": "～様",
+    "component": "",
     "hiragana": "～さま",
     "enMeaning": "Mr. / ms. ~ (keigo)",
     "idMeaning": "Tuan/Nyonya ~ (keigo)",
@@ -82,6 +92,7 @@
   {
     "id": "N3.4.11",
     "kanji": "表示",
+    "component": "",
     "hiragana": "ひょうじ",
     "enMeaning": "Display / indication",
     "idMeaning": "Tampilan / indikasi",
@@ -90,6 +101,7 @@
   {
     "id": "N3.4.12",
     "kanji": "郵便",
+    "component": "",
     "hiragana": "ゆうびん",
     "enMeaning": "Mail / postal service",
     "idMeaning": "Pos",
@@ -98,6 +110,7 @@
   {
     "id": "N3.4.13",
     "kanji": "限定",
+    "component": "",
     "hiragana": "げんてい",
     "enMeaning": "Limited",
     "idMeaning": "Terbatas / eksklusif",
@@ -106,6 +119,7 @@
   {
     "id": "N3.4.14",
     "kanji": "小型",
+    "component": "",
     "hiragana": "こがた",
     "enMeaning": "Small-sized / compact",
     "idMeaning": "Berukuran kecil",
@@ -114,6 +128,7 @@
   {
     "id": "N3.4.15",
     "kanji": "怪しい",
+    "component": "",
     "hiragana": "あやしい",
     "enMeaning": "Suspicious",
     "idMeaning": "Mencurigakan",
@@ -122,6 +137,7 @@
   {
     "id": "N3.4.16",
     "kanji": "中級",
+    "component": "",
     "hiragana": "ちゅうきゅう",
     "enMeaning": "Intermediate level",
     "idMeaning": "Tingkat menengah",
@@ -130,6 +146,7 @@
   {
     "id": "N3.4.17",
     "kanji": "出血",
+    "component": "",
     "hiragana": "しゅっけつ",
     "enMeaning": "Bleeding",
     "idMeaning": "Perdarahan",
@@ -138,6 +155,7 @@
   {
     "id": "N3.4.18",
     "kanji": "税金",
+    "component": "",
     "hiragana": "ぜいきん",
     "enMeaning": "Tax",
     "idMeaning": "Pajak",
@@ -146,6 +164,7 @@
   {
     "id": "N3.4.19",
     "kanji": "化粧",
+    "component": "",
     "hiragana": "けしょう",
     "enMeaning": "Makeup",
     "idMeaning": "Rias",
@@ -154,6 +173,7 @@
   {
     "id": "N3.4.20",
     "kanji": "断水",
+    "component": "斤",
     "hiragana": "だんすい",
     "enMeaning": "Water outage",
     "idMeaning": "Pemutusan suplai air",
@@ -162,6 +182,7 @@
   {
     "id": "N3.4.21",
     "kanji": "優しい",
+    "component": "",
     "hiragana": "やさしい",
     "enMeaning": "Kind / gentle",
     "idMeaning": "Ramah / baik hati",
@@ -170,6 +191,7 @@
   {
     "id": "N3.4.22",
     "kanji": "快適",
+    "component": "",
     "hiragana": "かいてき",
     "enMeaning": "Comfortable",
     "idMeaning": "Nyaman",
@@ -178,6 +200,7 @@
   {
     "id": "N3.4.23",
     "kanji": "移動",
+    "component": "",
     "hiragana": "いどう",
     "enMeaning": "Movement",
     "idMeaning": "Pindah tempat / bergerak",
@@ -186,6 +209,7 @@
   {
     "id": "N3.4.24",
     "kanji": "回復",
+    "component": "",
     "hiragana": "かいふく",
     "enMeaning": "Recovery",
     "idMeaning": "Pemulihan",
@@ -194,6 +218,7 @@
   {
     "id": "N3.4.25",
     "kanji": "自由席",
+    "component": "",
     "hiragana": "じゆうせき",
     "enMeaning": "Non-reserved seat",
     "idMeaning": "Kursi tidak direservasi",
@@ -202,6 +227,7 @@
   {
     "id": "N3.4.26",
     "kanji": "鳴る",
+    "component": "",
     "hiragana": "なる",
     "enMeaning": "Ringing (clock/phone)",
     "idMeaning": "Berbunyi (jam/HP)",
@@ -210,6 +236,7 @@
   {
     "id": "N3.4.27",
     "kanji": "必死",
+    "component": "",
     "hiragana": "ひっし",
     "enMeaning": "Desperate",
     "idMeaning": "Mati-matian / penuh usaha",
@@ -218,6 +245,7 @@
   {
     "id": "N3.4.28",
     "kanji": "骨折",
+    "component": "斤",
     "hiragana": "こっせつ",
     "enMeaning": "Broken bone / fracture",
     "idMeaning": "Patah tulang",
@@ -226,6 +254,7 @@
   {
     "id": "N3.4.29",
     "kanji": "手荷物",
+    "component": "",
     "hiragana": "てにもつ",
     "enMeaning": "Hand luggage / baggage",
     "idMeaning": "Barang bawaan",
@@ -234,6 +263,7 @@
   {
     "id": "N3.4.30",
     "kanji": "結ぶ",
+    "component": "糸",
     "hiragana": "むすぶ",
     "enMeaning": "Tie / connect",
     "idMeaning": "Mengikat / menghubungkan",
@@ -242,6 +272,7 @@
   {
     "id": "N3.4.31",
     "kanji": "紙袋",
+    "component": "",
     "hiragana": "かみぶくろ",
     "enMeaning": "Paper bag",
     "idMeaning": "Kantong kertas",
@@ -250,6 +281,7 @@
   {
     "id": "N3.4.32",
     "kanji": "夫婦",
+    "component": "",
     "hiragana": "ふうふ",
     "enMeaning": "Married couple",
     "idMeaning": "Suami istri",
@@ -258,6 +290,7 @@
   {
     "id": "N3.4.33",
     "kanji": "受験",
+    "component": "馬",
     "hiragana": "じゅけん",
     "enMeaning": "Entrance exam",
     "idMeaning": "Mengikuti ujian (masuk sekolah)",
@@ -266,6 +299,7 @@
   {
     "id": "N3.4.34",
     "kanji": "祝日",
+    "component": "",
     "hiragana": "しゅくじつ",
     "enMeaning": "Public holiday",
     "idMeaning": "Hari libur nasional",
@@ -274,6 +308,7 @@
   {
     "id": "N3.4.35",
     "kanji": "裏返す",
+    "component": "反",
     "hiragana": "うらがえす",
     "enMeaning": "Turn inside out / flip over",
     "idMeaning": "Membalik sisi",
@@ -282,6 +317,7 @@
   {
     "id": "N3.4.36",
     "kanji": "以降",
+    "component": "",
     "hiragana": "いこう",
     "enMeaning": "After / from then on",
     "idMeaning": "Setelah itu",
@@ -290,6 +326,7 @@
   {
     "id": "N3.4.37",
     "kanji": "両",
+    "component": "",
     "hiragana": "りょう",
     "enMeaning": "Both",
     "idMeaning": "Keduanya",
@@ -298,6 +335,7 @@
   {
     "id": "N3.4.38",
     "kanji": "伺う",
+    "component": "",
     "hiragana": "うかがう",
     "enMeaning": "Visit / ask (keigo)",
     "idMeaning": "Bertanya (keigo)",
@@ -306,6 +344,7 @@
   {
     "id": "N3.4.39",
     "kanji": "公務員",
+    "component": "",
     "hiragana": "こうむいん",
     "enMeaning": "Public servant",
     "idMeaning": "Pegawai negeri",
@@ -314,6 +353,7 @@
   {
     "id": "N3.4.40",
     "kanji": "救う",
+    "component": "",
     "hiragana": "すくう",
     "enMeaning": "Save / rescue",
     "idMeaning": "Menyelamatkan",
@@ -322,6 +362,7 @@
   {
     "id": "N3.4.41",
     "kanji": "表す",
+    "component": "",
     "hiragana": "あらわす",
     "enMeaning": "Express / represent",
     "idMeaning": "Mengungkapkan",
@@ -330,6 +371,7 @@
   {
     "id": "N3.4.42",
     "kanji": "年末",
+    "component": "",
     "hiragana": "ねんまつ",
     "enMeaning": "Year end",
     "idMeaning": "Akhir tahun",
@@ -338,6 +380,7 @@
   {
     "id": "N3.4.43",
     "kanji": "右側",
+    "component": "",
     "hiragana": "みぎがわ",
     "enMeaning": "Right side",
     "idMeaning": "Sisi kanan",
@@ -346,6 +389,7 @@
   {
     "id": "N3.4.44",
     "kanji": "差",
+    "component": "",
     "hiragana": "さ",
     "enMeaning": "Difference",
     "idMeaning": "Perbedaan / selisih",
@@ -354,6 +398,7 @@
   {
     "id": "N3.4.45",
     "kanji": "選挙",
+    "component": "",
     "hiragana": "せんきょ",
     "enMeaning": "Election",
     "idMeaning": "Pemilu",
@@ -362,6 +407,7 @@
   {
     "id": "N3.4.46",
     "kanji": "消しゴム",
+    "component": "",
     "hiragana": "けしゴム",
     "enMeaning": "Eraser",
     "idMeaning": "Penghapus",
@@ -370,6 +416,7 @@
   {
     "id": "N3.4.47",
     "kanji": "睡眠",
+    "component": "",
     "hiragana": "すいみん",
     "enMeaning": "Sleep (as activity)",
     "idMeaning": "Tidur (sebagai kegiatan)",
@@ -378,6 +425,7 @@
   {
     "id": "N3.4.48",
     "kanji": "風船",
+    "component": "",
     "hiragana": "ふうせん",
     "enMeaning": "Balloon",
     "idMeaning": "Balon",
@@ -386,6 +434,7 @@
   {
     "id": "N3.4.49",
     "kanji": "加える",
+    "component": "",
     "hiragana": "くわえる",
     "enMeaning": "Add",
     "idMeaning": "Menambahkan",
@@ -394,6 +443,7 @@
   {
     "id": "N3.4.50",
     "kanji": "数学",
+    "component": "",
     "hiragana": "すうがく",
     "enMeaning": "Mathematics",
     "idMeaning": "Matematika",
@@ -402,6 +452,7 @@
   {
     "id": "N3.4.51",
     "kanji": "用件",
+    "component": "",
     "hiragana": "ようけん",
     "enMeaning": "Business / matter",
     "idMeaning": "Keperluan",
@@ -410,6 +461,7 @@
   {
     "id": "N3.4.52",
     "kanji": "職場",
+    "component": "",
     "hiragana": "しょくば",
     "enMeaning": "Workplace",
     "idMeaning": "Tempat kerja",
@@ -418,6 +470,7 @@
   {
     "id": "N3.4.53",
     "kanji": "死亡",
+    "component": "",
     "hiragana": "しぼう",
     "enMeaning": "Death",
     "idMeaning": "Meninggal",
@@ -426,6 +479,7 @@
   {
     "id": "N3.4.54",
     "kanji": "再入国",
+    "component": "玉",
     "hiragana": "さいにゅうこく",
     "enMeaning": "Re-entry (country)",
     "idMeaning": "Masuk kembali (negara)",
@@ -434,6 +488,7 @@
   {
     "id": "N3.4.55",
     "kanji": "最も",
+    "component": "",
     "hiragana": "もっとも",
     "enMeaning": "Most",
     "idMeaning": "Paling",
@@ -442,6 +497,7 @@
   {
     "id": "N3.4.56",
     "kanji": "移る",
+    "component": "",
     "hiragana": "うつる",
     "enMeaning": "Move / transfer",
     "idMeaning": "Pindah (tempat/posisi)",
@@ -450,6 +506,7 @@
   {
     "id": "N3.4.57",
     "kanji": "改札口",
+    "component": "",
     "hiragana": "かいさつぐち",
     "enMeaning": "Ticket gate",
     "idMeaning": "Gerbang tiket",
@@ -458,6 +515,7 @@
   {
     "id": "N3.4.58",
     "kanji": "欠ける",
+    "component": "",
     "hiragana": "かける",
     "enMeaning": "Chip / be missing",
     "idMeaning": "Terpotong / tidak lengkap",
@@ -466,6 +524,7 @@
   {
     "id": "N3.4.59",
     "kanji": "高齢",
+    "component": "",
     "hiragana": "こうれい",
     "enMeaning": "Old age",
     "idMeaning": "Lanjut usia",
@@ -474,6 +533,7 @@
   {
     "id": "N3.4.60",
     "kanji": "商品",
+    "component": "",
     "hiragana": "しょうひん",
     "enMeaning": "Product",
     "idMeaning": "Produk dagangan",
@@ -482,6 +542,7 @@
   {
     "id": "N3.4.61",
     "kanji": "道路",
+    "component": "首",
     "hiragana": "どうろ",
     "enMeaning": "Road",
     "idMeaning": "Jalan raya",
@@ -490,6 +551,7 @@
   {
     "id": "N3.4.62",
     "kanji": "定期券",
+    "component": "",
     "hiragana": "ていきけん",
     "enMeaning": "Commuter pass",
     "idMeaning": "Kartu transportasi",
@@ -498,6 +560,7 @@
   {
     "id": "N3.4.63",
     "kanji": "帯",
+    "component": "",
     "hiragana": "おび",
     "enMeaning": "Belt / sash",
     "idMeaning": "Sabuk",
@@ -506,6 +569,7 @@
   {
     "id": "N3.4.64",
     "kanji": "角度",
+    "component": "",
     "hiragana": "かくど",
     "enMeaning": "Angle",
     "idMeaning": "Sudut (matematika)",
@@ -514,6 +578,7 @@
   {
     "id": "N3.4.65",
     "kanji": "邪魔する",
+    "component": "",
     "hiragana": "じゃまする",
     "enMeaning": "Interrupt / disturb",
     "idMeaning": "Mengganggu / menghalangi",
@@ -522,6 +587,7 @@
   {
     "id": "N3.4.66",
     "kanji": "回数券",
+    "component": "",
     "hiragana": "かいすうけん",
     "enMeaning": "Coupon ticket",
     "idMeaning": "Kupon beberapa kali",
@@ -530,6 +596,7 @@
   {
     "id": "N3.4.67",
     "kanji": "汗",
+    "component": "",
     "hiragana": "あせ",
     "enMeaning": "Sweat",
     "idMeaning": "Keringat",
@@ -538,6 +605,7 @@
   {
     "id": "N3.4.68",
     "kanji": "車庫",
+    "component": "",
     "hiragana": "しゃこ",
     "enMeaning": "Garage",
     "idMeaning": "Garasi",
@@ -546,6 +614,7 @@
   {
     "id": "N3.4.69",
     "kanji": "～両",
+    "component": "",
     "hiragana": "～りょう",
     "enMeaning": "Counter for vehicles",
     "idMeaning": "Gerbong (kereta)",
@@ -554,6 +623,7 @@
   {
     "id": "N3.4.70",
     "kanji": "～番",
+    "component": "",
     "hiragana": "～ばん",
     "enMeaning": "Number / order",
     "idMeaning": "Nomor ~",
@@ -562,6 +632,7 @@
   {
     "id": "N3.4.71",
     "kanji": "差し出す",
+    "component": "",
     "hiragana": "さしだす",
     "enMeaning": "Hand over / submit",
     "idMeaning": "Menyerahkan / memberikan",
@@ -570,6 +641,7 @@
   {
     "id": "N3.4.72",
     "kanji": "乗車券",
+    "component": "",
     "hiragana": "じょうしゃけん",
     "enMeaning": "Commute ticket (train/bus)",
     "idMeaning": "Tiket (kereta/bus)",
@@ -578,6 +650,7 @@
   {
     "id": "N3.4.73",
     "kanji": "電波",
+    "component": "雨皮",
     "hiragana": "でんぱ",
     "enMeaning": "Radio wave",
     "idMeaning": "Sinyal (radio/HP)",
@@ -586,6 +659,7 @@
   {
     "id": "N3.4.74",
     "kanji": "決まる",
+    "component": "",
     "hiragana": "きまる",
     "enMeaning": "Be decided",
     "idMeaning": "Diputuskan / ditentukan",
@@ -594,6 +668,7 @@
   {
     "id": "N3.4.75",
     "kanji": "例",
+    "component": "列",
     "hiragana": "れい",
     "enMeaning": "Example",
     "idMeaning": "Contoh",
@@ -602,6 +677,7 @@
   {
     "id": "N3.4.76",
     "kanji": "昼寝",
+    "component": "",
     "hiragana": "ひるね",
     "enMeaning": "Nap",
     "idMeaning": "Tidur siang",
@@ -610,6 +686,7 @@
   {
     "id": "N3.4.77",
     "kanji": "酒屋",
+    "component": "",
     "hiragana": "さかや",
     "enMeaning": "Liquor store",
     "idMeaning": "Toko minuman beralkohol",
@@ -618,6 +695,7 @@
   {
     "id": "N3.4.78",
     "kanji": "頭痛",
+    "component": "",
     "hiragana": "ずつう",
     "enMeaning": "Headache",
     "idMeaning": "Sakit kepala",
@@ -626,6 +704,7 @@
   {
     "id": "N3.4.79",
     "kanji": "職員",
+    "component": "",
     "hiragana": "しょくいん",
     "enMeaning": "Staff",
     "idMeaning": "Staf / pegawai",
@@ -634,6 +713,7 @@
   {
     "id": "N3.4.80",
     "kanji": "配送料",
+    "component": "",
     "hiragana": "はいそうりょう",
     "enMeaning": "Shipping fee",
     "idMeaning": "Ongkos kirim",
@@ -642,6 +722,7 @@
   {
     "id": "N3.4.81",
     "kanji": "感情",
+    "component": "",
     "hiragana": "かんじょう",
     "enMeaning": "Emotion",
     "idMeaning": "Emosi / perasaan",
@@ -650,6 +731,7 @@
   {
     "id": "N3.4.82",
     "kanji": "ごみ袋",
+    "component": "",
     "hiragana": "ごみぶくろ",
     "enMeaning": "Garbage bag",
     "idMeaning": "Kantong sampah",
@@ -658,6 +740,7 @@
   {
     "id": "N3.4.83",
     "kanji": "横断",
+    "component": "斤",
     "hiragana": "おうだん",
     "enMeaning": "Crossing",
     "idMeaning": "Menyebrangi",
@@ -666,6 +749,7 @@
   {
     "id": "N3.4.84",
     "kanji": "窓口",
+    "component": "",
     "hiragana": "まどぐ口",
     "enMeaning": "Counter",
     "idMeaning": "Loket pelayanan",
@@ -674,6 +758,7 @@
   {
     "id": "N3.4.85",
     "kanji": "苦労",
+    "component": "",
     "hiragana": "くろう",
     "enMeaning": "Hardship",
     "idMeaning": "Kesusahan / perjuangan",
@@ -682,6 +767,7 @@
   {
     "id": "N3.4.86",
     "kanji": "泊める",
+    "component": "",
     "hiragana": "とめる",
     "enMeaning": "Let stay overnight",
     "idMeaning": "Menginapkan",
@@ -690,6 +776,7 @@
   {
     "id": "N3.4.87",
     "kanji": "終了",
+    "component": "",
     "hiragana": "しゅうりょう",
     "enMeaning": "End / finish",
     "idMeaning": "Selesai",
@@ -698,6 +785,7 @@
   {
     "id": "N3.4.88",
     "kanji": "冷凍庫",
+    "component": "",
     "hiragana": "れいとうこ",
     "enMeaning": "Freezer",
     "idMeaning": "Freezer",
@@ -706,6 +794,7 @@
   {
     "id": "N3.4.89",
     "kanji": "選手",
+    "component": "",
     "hiragana": "せんしゅ",
     "enMeaning": "Athlete / player",
     "idMeaning": "Atlet",
@@ -714,6 +803,7 @@
   {
     "id": "N3.4.90",
     "kanji": "三角形",
+    "component": "",
     "hiragana": "さんかくけい",
     "enMeaning": "Triangle",
     "idMeaning": "Segitiga",
@@ -722,6 +812,7 @@
   {
     "id": "N3.4.91",
     "kanji": "実際に",
+    "component": "",
     "hiragana": "じっさいに",
     "enMeaning": "Actually",
     "idMeaning": "Secara nyata / benar-benar",
@@ -730,6 +821,7 @@
   {
     "id": "N3.4.92",
     "kanji": "通勤",
+    "component": "甬",
     "hiragana": "つうきん",
     "enMeaning": "Commuting",
     "idMeaning": "Pulang-pergi kerja",
@@ -738,6 +830,7 @@
   {
     "id": "N3.4.93",
     "kanji": "観客",
+    "component": "見各",
     "hiragana": "かんきゃく",
     "enMeaning": "Audience / spectators",
     "idMeaning": "Penonton",
@@ -746,6 +839,7 @@
   {
     "id": "N3.4.94",
     "kanji": "食欲",
+    "component": "谷欠",
     "hiragana": "しょくよく",
     "enMeaning": "Appetite",
     "idMeaning": "Nafsu makan",
@@ -754,6 +848,7 @@
   {
     "id": "N3.4.95",
     "kanji": "般",
+    "component": "",
     "hiragana": "ばん",
     "enMeaning": "General",
     "idMeaning": "Umum",
@@ -762,6 +857,7 @@
   {
     "id": "N3.4.96",
     "kanji": "減らす",
+    "component": "",
     "hiragana": "へらす",
     "enMeaning": "Reduce / decrease",
     "idMeaning": "Mengurangi",
@@ -770,6 +866,7 @@
   {
     "id": "N3.4.97",
     "kanji": "整形外科",
+    "component": "夕",
     "hiragana": "せいけいげか",
     "enMeaning": "Orthopedics",
     "idMeaning": "Bedah ortopedi",
@@ -778,6 +875,7 @@
   {
     "id": "N3.4.98",
     "kanji": "往復",
+    "component": "",
     "hiragana": "おうふく",
     "enMeaning": "Round trip",
     "idMeaning": "Pulang-pergi (PP)",
@@ -786,6 +884,7 @@
   {
     "id": "N3.4.99",
     "kanji": "新婚旅行",
+    "component": "斤女方",
     "hiragana": "しんこんりょこう",
     "enMeaning": "Honeymoon",
     "idMeaning": "Bulan madu",
@@ -794,6 +893,7 @@
   {
     "id": "N3.4.100",
     "kanji": "保存する",
+    "component": "",
     "hiragana": "ほぞんする",
     "enMeaning": "Save / store",
     "idMeaning": "Menyimpan",
