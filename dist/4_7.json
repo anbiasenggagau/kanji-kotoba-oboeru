@@ -460,12 +460,12 @@
   },
   {
     "id": "N4.7.52",
-    "kanji": "工場",
+    "kanji": "壊す",
     "component": "",
-    "hiragana": "こうじょう",
-    "enMeaning": "Factory",
-    "idMeaning": "Pabrik",
-    "type": "Kata Benda"
+    "hiragana": "こわす",
+    "enMeaning": "To break",
+    "idMeaning": "Merusak",
+    "type": "KK Transitif"
   },
   {
     "id": "N4.7.53",

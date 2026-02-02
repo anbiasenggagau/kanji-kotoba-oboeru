@@ -169,7 +169,7 @@ async function getKanjiData(file: string) {
                 <div class="relative">
                     <Transition name="fade" mode="out-in">
                         <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                            }}
+                        }}
                         </h1>
                     </Transition>
                     <!-- Flag Symbol -->
@@ -239,7 +239,7 @@ async function getKanjiData(file: string) {
             <div
                 class="fixed bottom-18 lg:bottom-20 inset-x-0 space-x-4 md:space-x-6 lg:space-x-8 flex justify-center bg-white">
                 <SecondaryButton as="RouterLink" class="text-sm md:text-base" :to="{ name: 'search' }"
-                    label="Cari Kanji & Kotoba" />
+                    label="Cari Kanji & Kotoba" target="_blank" />
                 <SecondaryButton as="a" :href="`https://jisho.org/search/${kanjiData.kanji}`" target="_blank"
                     class="text-sm md:text-base" label="Lihat Penjelasan" />
             </div>
