@@ -898,5 +898,185 @@
     "enMeaning": "Festival",
     "idMeaning": "Festival",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.101",
+    "kanji": "約～",
+    "component": "",
+    "hiragana": "やく～",
+    "enMeaning": "Approximately",
+    "idMeaning": "Sekitar",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.5.102",
+    "kanji": "留学",
+    "component": "",
+    "hiragana": "りゅうがく",
+    "enMeaning": "Study abroad",
+    "idMeaning": "Belajar di luar negeri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.103",
+    "kanji": "件名",
+    "component": "",
+    "hiragana": "けんめい",
+    "enMeaning": "Subject (email)",
+    "idMeaning": "Judul (email)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.104",
+    "kanji": "否定",
+    "component": "",
+    "hiragana": "ひてい",
+    "enMeaning": "Denial",
+    "idMeaning": "Penolakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.105",
+    "kanji": "肯定",
+    "component": "",
+    "hiragana": "こうてい",
+    "enMeaning": "Affirmation",
+    "idMeaning": "Persetujuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.106",
+    "kanji": "各国",
+    "component": "",
+    "hiragana": "かっこく",
+    "enMeaning": "Each country",
+    "idMeaning": "Setiap negara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.107",
+    "kanji": "纏める",
+    "component": "",
+    "hiragana": "まとめる",
+    "enMeaning": "Summarize",
+    "idMeaning": "Merangkum",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.5.108",
+    "kanji": "残念",
+    "component": "",
+    "hiragana": "ざんねん",
+    "enMeaning": "Regrettable",
+    "idMeaning": "Sayang sekali",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.109",
+    "kanji": "短期",
+    "component": "",
+    "hiragana": "たんき",
+    "enMeaning": "Short-term",
+    "idMeaning": "Jangka pendek",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.110",
+    "kanji": "口紅",
+    "component": "",
+    "hiragana": "くちべに",
+    "enMeaning": "Lipstick",
+    "idMeaning": "Lipstik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.111",
+    "kanji": "～未満",
+    "component": "",
+    "hiragana": "～みまん",
+    "enMeaning": "Less than",
+    "idMeaning": "Kurang dari",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.5.112",
+    "kanji": "両側",
+    "component": "",
+    "hiragana": "りょうがわ",
+    "enMeaning": "Both sides",
+    "idMeaning": "Kedua sisi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.113",
+    "kanji": "登録",
+    "component": "",
+    "hiragana": "とうろく",
+    "enMeaning": "Registration",
+    "idMeaning": "Pendaftaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.114",
+    "kanji": "～向き",
+    "component": "",
+    "hiragana": "～むき",
+    "enMeaning": "Suitable for",
+    "idMeaning": "Cocok untuk",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.5.115",
+    "kanji": "無断",
+    "component": "",
+    "hiragana": "むだん",
+    "enMeaning": "Without permission",
+    "idMeaning": "Tanpa izin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.116",
+    "kanji": "内容",
+    "component": "",
+    "hiragana": "ないよう",
+    "enMeaning": "Content",
+    "idMeaning": "Isi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.117",
+    "kanji": "変化",
+    "component": "",
+    "hiragana": "へんか",
+    "enMeaning": "Change",
+    "idMeaning": "Perubahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.118",
+    "kanji": "最後",
+    "component": "",
+    "hiragana": "さいご",
+    "enMeaning": "Last",
+    "idMeaning": "Terakhir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.119",
+    "kanji": "転職",
+    "component": "",
+    "hiragana": "てんしょく",
+    "enMeaning": "Change jobs",
+    "idMeaning": "Pindah kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.120",
+    "kanji": "食塩",
+    "component": "",
+    "hiragana": "しょくえん",
+    "enMeaning": "Table salt",
+    "idMeaning": "Garam masak",
+    "type": "Kata Benda"
   }
 ]

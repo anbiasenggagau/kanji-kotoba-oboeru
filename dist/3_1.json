@@ -898,5 +898,185 @@
     "enMeaning": "Ship captain",
     "idMeaning": "Kapten kapal",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.101",
+    "kanji": "揚げる",
+    "component": "",
+    "hiragana": "あげる",
+    "enMeaning": "Deep-fry",
+    "idMeaning": "Menggoreng",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.102",
+    "kanji": "対決",
+    "component": "",
+    "hiragana": "たいけつ",
+    "enMeaning": "Showdown",
+    "idMeaning": "Pertarungan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.103",
+    "kanji": "姉妹",
+    "component": "",
+    "hiragana": "しまい",
+    "enMeaning": "Sisters",
+    "idMeaning": "Saudara perempuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.104",
+    "kanji": "接待",
+    "component": "",
+    "hiragana": "せったい",
+    "enMeaning": "Business entertainment",
+    "idMeaning": "Menjamu klien",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.105",
+    "kanji": "確定",
+    "component": "",
+    "hiragana": "かくてい",
+    "enMeaning": "Decision / confirmation",
+    "idMeaning": "Penetapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.106",
+    "kanji": "次女",
+    "component": "",
+    "hiragana": "じじょ",
+    "enMeaning": "Second daughter",
+    "idMeaning": "Anak perempuan kedua",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.107",
+    "kanji": "次男",
+    "component": "",
+    "hiragana": "じなん",
+    "enMeaning": "Second son",
+    "idMeaning": "Anak laki-laki kedua",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.108",
+    "kanji": "態度",
+    "component": "",
+    "hiragana": "たいど",
+    "enMeaning": "Attitude",
+    "idMeaning": "Sikap",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.109",
+    "kanji": "沸く",
+    "component": "",
+    "hiragana": "わく",
+    "enMeaning": "Boil / get excited",
+    "idMeaning": "Mendidih",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.110",
+    "kanji": "積もる",
+    "component": "",
+    "hiragana": "つもる",
+    "enMeaning": "Pile up",
+    "idMeaning": "Menumpuk",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.111",
+    "kanji": "跳ぶ",
+    "component": "",
+    "hiragana": "とぶ",
+    "enMeaning": "Jump",
+    "idMeaning": "Melompat",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.112",
+    "kanji": "待ち合わせる",
+    "component": "",
+    "hiragana": "まちあわせる",
+    "enMeaning": "Meet up",
+    "idMeaning": "Janjian bertemu",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.113",
+    "kanji": "随分",
+    "component": "",
+    "hiragana": "ずいぶん",
+    "enMeaning": "Very / quite",
+    "idMeaning": "Sangat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.114",
+    "kanji": "塗る",
+    "component": "",
+    "hiragana": "ぬる",
+    "enMeaning": "Paint",
+    "idMeaning": "Mengecat",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.115",
+    "kanji": "色を塗る",
+    "component": "",
+    "hiragana": "いろをぬる",
+    "enMeaning": "Color / paint",
+    "idMeaning": "Mewarnai",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.1.116",
+    "kanji": "貼る",
+    "component": "",
+    "hiragana": "はる",
+    "enMeaning": "Stick / paste",
+    "idMeaning": "Menempel",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.117",
+    "kanji": "余る",
+    "component": "",
+    "hiragana": "あまる",
+    "enMeaning": "Remain / be left over",
+    "idMeaning": "Tersisa",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.118",
+    "kanji": "望み",
+    "component": "",
+    "hiragana": "のぞみ",
+    "enMeaning": "Hope",
+    "idMeaning": "Harapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.119",
+    "kanji": "自動",
+    "component": "",
+    "hiragana": "じどう",
+    "enMeaning": "Automatic",
+    "idMeaning": "Otomatis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.120",
+    "kanji": "真面目",
+    "component": "",
+    "hiragana": "まじめ",
+    "enMeaning": "Serious",
+    "idMeaning": "Serius",
+    "type": "Kata Sifat な"
   }
 ]

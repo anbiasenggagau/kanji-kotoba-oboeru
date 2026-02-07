@@ -898,5 +898,185 @@
     "enMeaning": "Regeneration / recycling",
     "idMeaning": "Hidup kembali / daur ulang",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.101",
+    "kanji": "傘を差す",
+    "component": "",
+    "hiragana": "かさをさす",
+    "enMeaning": "Hold an umbrella",
+    "idMeaning": "Memakai payung",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.102",
+    "kanji": "瘦せる",
+    "component": "",
+    "hiragana": "やせる",
+    "enMeaning": "Lose weight",
+    "idMeaning": "Menjadi kurus",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.103",
+    "kanji": "下がる",
+    "component": "",
+    "hiragana": "さがる",
+    "enMeaning": "Go down",
+    "idMeaning": "Turun",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.104",
+    "kanji": "上がる",
+    "component": "",
+    "hiragana": "あがる",
+    "enMeaning": "Go up",
+    "idMeaning": "Naik",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.105",
+    "kanji": "浅い",
+    "component": "",
+    "hiragana": "あさい",
+    "enMeaning": "Shallow",
+    "idMeaning": "Dangkal",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.2.106",
+    "kanji": "深い",
+    "component": "",
+    "hiragana": "ふかい",
+    "enMeaning": "Deep",
+    "idMeaning": "Dalam",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.2.107",
+    "kanji": "掃除機",
+    "component": "",
+    "hiragana": "そうじき",
+    "enMeaning": "Vacuum cleaner",
+    "idMeaning": "Penyedot debu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.108",
+    "kanji": "目が覚める",
+    "component": "",
+    "hiragana": "めがさめる",
+    "enMeaning": "Wake up",
+    "idMeaning": "Terbangun",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.109",
+    "kanji": "送りに行く",
+    "component": "",
+    "hiragana": "おくりにいく",
+    "enMeaning": "Go to send off",
+    "idMeaning": "Mengantar",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.110",
+    "kanji": "迎えに行く",
+    "component": "",
+    "hiragana": "むかえにいく",
+    "enMeaning": "Go to pick up",
+    "idMeaning": "Menjemput",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.111",
+    "kanji": "入れ替える",
+    "component": "",
+    "hiragana": "いれかえる",
+    "enMeaning": "Replace",
+    "idMeaning": "Menukar",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.112",
+    "kanji": "履き替える",
+    "component": "",
+    "hiragana": "はきかえる",
+    "enMeaning": "Change shoes / socks / pants",
+    "idMeaning": "Ganti bawahan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.113",
+    "kanji": "怪我",
+    "component": "",
+    "hiragana": "けが",
+    "enMeaning": "Injury",
+    "idMeaning": "Cedera",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.114",
+    "kanji": "驚く",
+    "component": "",
+    "hiragana": "おどろく",
+    "enMeaning": "Be surprised",
+    "idMeaning": "Terkejut",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.115",
+    "kanji": "仕方がない",
+    "component": "",
+    "hiragana": "しかたがない",
+    "enMeaning": "It can't be helped",
+    "idMeaning": "Tidak ada pilihan",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.116",
+    "kanji": "空く",
+    "component": "",
+    "hiragana": "あく",
+    "enMeaning": "Become empty",
+    "idMeaning": "Kosong",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.117",
+    "kanji": "吐く",
+    "component": "",
+    "hiragana": "はく",
+    "enMeaning": "Spit / vomit",
+    "idMeaning": "Muntah",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.118",
+    "kanji": "掃く",
+    "component": "",
+    "hiragana": "はく",
+    "enMeaning": "Sweep",
+    "idMeaning": "Menyapu",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.119",
+    "kanji": "似る",
+    "component": "以",
+    "hiragana": "にる",
+    "enMeaning": "Resemble",
+    "idMeaning": "Mirip",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.120",
+    "kanji": "皮",
+    "component": "",
+    "hiragana": "かわ",
+    "enMeaning": "Skin / peel",
+    "idMeaning": "Kulit",
+    "type": "Kata Benda"
   }
 ]

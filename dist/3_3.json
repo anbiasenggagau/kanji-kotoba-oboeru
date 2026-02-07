@@ -898,5 +898,185 @@
     "enMeaning": "Difficulty / hardship",
     "idMeaning": "Kesulitan",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.3.101",
+    "kanji": "宜しい",
+    "component": "",
+    "hiragana": "よろしい",
+    "enMeaning": "All right (keigo)",
+    "idMeaning": "Baik (keigo)",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.3.102",
+    "kanji": "新人",
+    "component": "",
+    "hiragana": "しんじん",
+    "enMeaning": "Newcomer",
+    "idMeaning": "Orang baru",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.103",
+    "kanji": "寿命",
+    "component": "",
+    "hiragana": "じゅみょう",
+    "enMeaning": "Lifespan",
+    "idMeaning": "Umur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.104",
+    "kanji": "努力",
+    "component": "",
+    "hiragana": "どりょく",
+    "enMeaning": "Effort",
+    "idMeaning": "Usaha",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.105",
+    "kanji": "逃す",
+    "component": "",
+    "hiragana": "のがす",
+    "enMeaning": "Miss / let escape",
+    "idMeaning": "Melewatkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.3.106",
+    "kanji": "初耳",
+    "component": "",
+    "hiragana": "はつみみ",
+    "enMeaning": "First time hearing",
+    "idMeaning": "Baru dengar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.107",
+    "kanji": "中止する",
+    "component": "",
+    "hiragana": "ちゅうしする",
+    "enMeaning": "Cancel",
+    "idMeaning": "Membatalkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.3.108",
+    "kanji": "全然",
+    "component": "",
+    "hiragana": "ぜんぜん",
+    "enMeaning": "Not at all",
+    "idMeaning": "Sama sekali tidak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.109",
+    "kanji": "～号室",
+    "component": "",
+    "hiragana": "～ごうしつ",
+    "enMeaning": "Room number",
+    "idMeaning": "Kamar nomor ~",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.3.110",
+    "kanji": "～県",
+    "component": "",
+    "hiragana": "～けん",
+    "enMeaning": "Prefecture",
+    "idMeaning": "Prefektur ~",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.3.111",
+    "kanji": "注文する",
+    "component": "",
+    "hiragana": "ちゅうもんする",
+    "enMeaning": "Order",
+    "idMeaning": "Memesan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.3.112",
+    "kanji": "長期",
+    "component": "",
+    "hiragana": "ちょうき",
+    "enMeaning": "Long-term",
+    "idMeaning": "Jangka panjang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.113",
+    "kanji": "和室",
+    "component": "",
+    "hiragana": "わしつ",
+    "enMeaning": "Japanese-style room",
+    "idMeaning": "Kamar model Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.114",
+    "kanji": "切り替える",
+    "component": "",
+    "hiragana": "きりかえる",
+    "enMeaning": "Switching",
+    "idMeaning": "Mengganti",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.3.115",
+    "kanji": "設定",
+    "component": "",
+    "hiragana": "せってい",
+    "enMeaning": "Setting",
+    "idMeaning": "Pengaturan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.116",
+    "kanji": "既読",
+    "component": "",
+    "hiragana": "きどく",
+    "enMeaning": "Read (message)",
+    "idMeaning": "Sudah dibaca",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.117",
+    "kanji": "事業",
+    "component": "",
+    "hiragana": "じぎょう",
+    "enMeaning": "Business project",
+    "idMeaning": "Usaha",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.118",
+    "kanji": "新規",
+    "component": "",
+    "hiragana": "しんき",
+    "enMeaning": "New",
+    "idMeaning": "Baru",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.119",
+    "kanji": "記事",
+    "component": "",
+    "hiragana": "きじ",
+    "enMeaning": "Article",
+    "idMeaning": "Artikel",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.120",
+    "kanji": "録音",
+    "component": "",
+    "hiragana": "ろくおん",
+    "enMeaning": "Recording",
+    "idMeaning": "Rekaman",
+    "type": "Kata Benda"
   }
 ]

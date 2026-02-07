@@ -87,6 +87,10 @@ function startKanjiTest() {
     else
         alertRef.value?.show()
 }
+
+function blurFocus(event: Event) {
+    (event.target as HTMLInputElement).blur()
+}
 </script>
 
 <template>
@@ -128,8 +132,8 @@ function startKanjiTest() {
             <span class="text-sm lg:text-base">Batasi Jumlah Soal</span>
         </div>
         <div class="flex justify-center">
-            <InputNumber v-model="maxKanji" class="input-small text-xs lg:text-base" :disabled="!capData"
-                :use-grouping="false" :min="1" />
+            <InputNumber v-model="maxKanji" class="input-small text-xs lg:text-base" @keyup.enter="blurFocus"
+                @keyup.esc="blurFocus" :disabled="!capData" :use-grouping="false" :min="1" />
         </div>
         <div class="flex justify-center space-x-4">
             <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />

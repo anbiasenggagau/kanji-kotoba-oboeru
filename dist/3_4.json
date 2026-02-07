@@ -898,5 +898,185 @@
     "enMeaning": "Save / store",
     "idMeaning": "Menyimpan",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.4.101",
+    "kanji": "延期",
+    "component": "",
+    "hiragana": "えんき",
+    "enMeaning": "Postponement",
+    "idMeaning": "Penundaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.102",
+    "kanji": "無視",
+    "component": "",
+    "hiragana": "むし",
+    "enMeaning": "Ignore",
+    "idMeaning": "Mengabaikan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.103",
+    "kanji": "未読",
+    "component": "",
+    "hiragana": "みどく",
+    "enMeaning": "Unread",
+    "idMeaning": "Belum dibaca",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.104",
+    "kanji": "終電",
+    "component": "",
+    "hiragana": "しゅうでん",
+    "enMeaning": "Last train",
+    "idMeaning": "Kereta terakhir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.105",
+    "kanji": "契約",
+    "component": "",
+    "hiragana": "けいやく",
+    "enMeaning": "Contract",
+    "idMeaning": "Kontrak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.106",
+    "kanji": "更新",
+    "component": "",
+    "hiragana": "こうしん",
+    "enMeaning": "Renewal / update",
+    "idMeaning": "Pembaruan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.107",
+    "kanji": "嬉しい",
+    "component": "",
+    "hiragana": "うれしい",
+    "enMeaning": "Happy",
+    "idMeaning": "Senang",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.4.108",
+    "kanji": "仕業",
+    "component": "",
+    "hiragana": "しわざ",
+    "enMeaning": "Deed",
+    "idMeaning": "Perbuatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.109",
+    "kanji": "協会",
+    "component": "",
+    "hiragana": "きょうかい",
+    "enMeaning": "Association",
+    "idMeaning": "Asosiasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.110",
+    "kanji": "洗剤",
+    "component": "",
+    "hiragana": "せんざい",
+    "enMeaning": "Detergent",
+    "idMeaning": "Deterjen",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.111",
+    "kanji": "無理をする",
+    "component": "",
+    "hiragana": "むりをする",
+    "enMeaning": "Overdo it",
+    "idMeaning": "Memaksakan diri",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.4.112",
+    "kanji": "振りをする",
+    "component": "",
+    "hiragana": "ふりをする",
+    "enMeaning": "Pretend",
+    "idMeaning": "Berpura-pura",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.4.113",
+    "kanji": "人々",
+    "component": "",
+    "hiragana": "ひとびと",
+    "enMeaning": "People",
+    "idMeaning": "Orang-orang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.114",
+    "kanji": "汚れ",
+    "component": "",
+    "hiragana": "よごれ",
+    "enMeaning": "Dirt / stain",
+    "idMeaning": "Kotoran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.115",
+    "kanji": "朝寝坊",
+    "component": "",
+    "hiragana": "あさねぼう",
+    "enMeaning": "Oversleeping",
+    "idMeaning": "Kesiangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.116",
+    "kanji": "伝統的",
+    "component": "",
+    "hiragana": "でんとうてき",
+    "enMeaning": "Traditional",
+    "idMeaning": "Tradisional",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.4.117",
+    "kanji": "気になる",
+    "component": "",
+    "hiragana": "きになる",
+    "enMeaning": "Be concerned about",
+    "idMeaning": "Penasaran",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.4.118",
+    "kanji": "お客様",
+    "component": "",
+    "hiragana": "おきゃくさま",
+    "enMeaning": "Customer (keigo)",
+    "idMeaning": "Pelanggan (keigo)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.119",
+    "kanji": "限る",
+    "component": "",
+    "hiragana": "かぎる",
+    "enMeaning": "Limit",
+    "idMeaning": "Membatasi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.4.120",
+    "kanji": "増加",
+    "component": "",
+    "hiragana": "ぞうか",
+    "enMeaning": "Increase",
+    "idMeaning": "Peningkatan",
+    "type": "Kata Benda"
   }
 ]
