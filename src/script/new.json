@@ -47,6 +47,7 @@
     {
         "id": "N3.6.6",
         "kanji": "覚める",
+        "component": "",
         "hiragana": "さめる",
         "enMeaning": "Wake up / come to senses",
         "idMeaning": "Terbangun / sadar",
@@ -55,6 +56,7 @@
     {
         "id": "N3.6.7",
         "kanji": "行動",
+        "component": "",
         "hiragana": "こうどう",
         "enMeaning": "Action / behavior",
         "idMeaning": "Tindakan / perilaku",
@@ -63,6 +65,7 @@
     {
         "id": "N3.6.8",
         "kanji": "人間",
+        "component": "",
         "hiragana": "にんげん",
         "enMeaning": "Human / human being",
         "idMeaning": "Manusia",
@@ -71,6 +74,7 @@
     {
         "id": "N3.6.9",
         "kanji": "落ち着く",
+        "component": "",
         "hiragana": "おちつく",
         "enMeaning": "Calm down / settle",
         "idMeaning": "Tenang / menjadi stabil",
@@ -78,10 +82,119 @@
     },
     {
         "id": "N3.6.10",
-        "kanji": "語る",
-        "hiragana": "かたる",
-        "enMeaning": "Tell / talk about",
-        "idMeaning": "Menceritakan",
+        "kanji": "言い訳",
+        "component": "",
+        "hiragana": "いいわけ",
+        "enMeaning": "Excuse",
+        "idMeaning": "Alibi",
+        "type": "KK Benda"
+    },
+    {
+        "id": "N3.6.11",
+        "kanji": "縄",
+        "component": "",
+        "hiragana": "なわ",
+        "enMeaning": "Rope",
+        "idMeaning": "Tali",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.12",
+        "kanji": "状態",
+        "component": "",
+        "hiragana": "じょうたい",
+        "enMeaning": "Condition / state",
+        "idMeaning": "Kondisi",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.13",
+        "kanji": "状況",
+        "component": "",
+        "hiragana": "じょうきょう",
+        "enMeaning": "Situation / circumstances",
+        "idMeaning": "Keadaan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.14",
+        "kanji": "匂い",
+        "component": "",
+        "hiragana": "におい",
+        "enMeaning": "Smell / scent",
+        "idMeaning": "Bau",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.15",
+        "kanji": "捕まる",
+        "component": "",
+        "hiragana": "つかまる",
+        "enMeaning": "Be caught / get arrested",
+        "idMeaning": "Tertangkap",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.16",
+        "kanji": "濡れる",
+        "component": "",
+        "hiragana": "ぬれる",
+        "enMeaning": "Get wet / become wet",
+        "idMeaning": "Menjadi basah",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.17",
+        "kanji": "盗む",
+        "component": "",
+        "hiragana": "ぬすむ",
+        "enMeaning": "Steal",
+        "idMeaning": "Mencuri",
         "type": "KK Transitif"
+    },
+    {
+        "id": "N3.6.18",
+        "kanji": "苛める",
+        "component": "",
+        "hiragana": "いじめる",
+        "enMeaning": "Bully / tease",
+        "idMeaning": "Membully",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.6.19",
+        "kanji": "鳴らす",
+        "component": "",
+        "hiragana": "ならす",
+        "enMeaning": "Ring / sound",
+        "idMeaning": "Membunyikan",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.6.20",
+        "kanji": "～角",
+        "component": "",
+        "hiragana": "～かく",
+        "enMeaning": "Number of edge",
+        "idMeaning": "Segi ~",
+        "type": "Frasa / Klausa"
+    },
+    {
+        "id": "N3.6.21",
+        "kanji": "喜ぶ",
+        "component": "",
+        "hiragana": "よろこぶ",
+        "enMeaning": "Be happy / be pleased",
+        "idMeaning": "Bergembira / merasa senang",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.22",
+        "kanji": "お大事に",
+        "component": "",
+        "hiragana": "おだいじに",
+        "enMeaning": "Get well soon",
+        "idMeaning": "Semoga lekas sembuh",
+        "type": "Frasa / Klausa"
     }
 ]

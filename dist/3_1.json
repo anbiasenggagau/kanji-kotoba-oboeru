@@ -274,7 +274,7 @@
     "kanji": "受信",
     "component": "",
     "hiragana": "じゅしん",
-    "enMeaning": "Reception",
+    "enMeaning": "Receiving (signal / message)",
     "idMeaning": "Menerima (sinyal / pesan)",
     "type": "Kata Benda"
   },
@@ -644,7 +644,7 @@
     "component": "",
     "hiragana": "あらためる",
     "enMeaning": "Change / revise",
-    "idMeaning": "Mengubah / memperbarui",
+    "idMeaning": "Mengubah / merevisi",
     "type": "KK Transitif"
   },
   {
@@ -820,12 +820,12 @@
   },
   {
     "id": "N3.1.92",
-    "kanji": "しょう油",
+    "kanji": "語る",
     "component": "",
-    "hiragana": "しょうゆ",
-    "enMeaning": "Soy sauce",
-    "idMeaning": "Kecap asin Jepang",
-    "type": "Kata Benda"
+    "hiragana": "かたる",
+    "enMeaning": "Tell / talk about",
+    "idMeaning": "Menceritakan",
+    "type": "KK Transitif"
   },
   {
     "id": "N3.1.93",
