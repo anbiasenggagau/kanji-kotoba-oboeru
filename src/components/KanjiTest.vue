@@ -128,17 +128,11 @@ async function initData() {
         <!-- Center Content -->
         <div
             class="flex flex-col justify-center items-center min-h-[100dvh] pt-8 lg:pt-0 space-y-2.5 lg:space-y-4 select-none">
-            <Transition name="fade" mode="out-in">
-                <h1 class="text-lg lg:text-3xl font-bold" :key="questNum"> Soal Ke {{ questNum }}</h1>
-            </Transition>
-            <div class="relative">
-                <Transition name="fade" mode="out-in">
-                    <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                        }}
-                    </h1>
-                </Transition>
+            <!-- Flag Symbol -->
+            <div class="relative flex items-center justify-center">
+
                 <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
-                    class="absolute justify-center items-center top-0 -right-7 text-gray-500 hover:text-gray-700 cursor-pointer">
+                    class="absolute -right-7 md:-right-8 text-gray-500 hover:text-gray-700 cursor-pointer">
                     <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
                         fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
                         class="w-6 h-6 text-gray-400">
@@ -149,6 +143,21 @@ async function initData() {
                         <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3z" />
                     </svg>
                 </div>
+                <Transition name="fade" mode="out-in">
+                    <h1 class="text-lg lg:text-3xl font-bold" :key="questNum"> Soal Ke {{ questNum }}</h1>
+                </Transition>
+            </div>
+            <Transition name="fade" mode="out-in">
+                <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
+                    <h2 v-bind:class="answer">{{ kanjiData.id }}</h2>
+                </div>
+            </Transition>
+            <div class="relative">
+                <Transition name="fade" mode="out-in">
+                    <h1 lang="ja" class="text-center text-5xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
+                    }}
+                    </h1>
+                </Transition>
             </div>
             <Transition name="fade" mode="out-in">
                 <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">

@@ -87,7 +87,7 @@
         "hiragana": "いいわけ",
         "enMeaning": "Excuse",
         "idMeaning": "Alibi",
-        "type": "KK Benda"
+        "type": "Kata Benda"
     },
     {
         "id": "N3.6.11",
@@ -196,5 +196,68 @@
         "enMeaning": "Get well soon",
         "idMeaning": "Semoga lekas sembuh",
         "type": "Frasa / Klausa"
+    },
+    {
+        "id": "N3.6.23",
+        "kanji": "人生",
+        "component": "",
+        "hiragana": "じんせい",
+        "enMeaning": "Human's life",
+        "idMeaning": "Kehidupan manusia",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.24",
+        "kanji": "後悔",
+        "component": "",
+        "hiragana": "こうかい",
+        "enMeaning": "Regret",
+        "idMeaning": "Penyesalan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.25",
+        "kanji": "疑う",
+        "component": "",
+        "hiragana": "うたがう",
+        "enMeaning": "To suspect",
+        "idMeaning": "Mencurigai",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.6.26",
+        "kanji": "頃",
+        "component": "",
+        "hiragana": "ころ",
+        "enMeaning": "Around / about",
+        "idMeaning": "Kurang lebih / sekitar",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.27",
+        "kanji": "解決",
+        "component": "",
+        "hiragana": "かいけつ",
+        "enMeaning": "Settlement / solution",
+        "idMeaning": "Penyelesaian",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.28",
+        "kanji": "握る",
+        "component": "",
+        "hiragana": "にぎる",
+        "enMeaning": "To grasp / hold",
+        "idMeaning": "Pegang",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.6.29",
+        "kanji": "繋ぐ",
+        "component": "",
+        "hiragana": "つなぐ",
+        "enMeaning": "To connect / to link together",
+        "idMeaning": "Menhubungkan",
+        "type": "KK Transitif"
     }
 ]
