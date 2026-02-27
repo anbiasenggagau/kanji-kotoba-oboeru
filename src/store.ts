@@ -45,13 +45,13 @@ export const flagStore = defineStore('flagStore', () => {
 
     function pushData(data: KanjiType) {
         flag.value[data.kanji] = data
-        setLocalStorage(flag.value)
+        setLocalStorage("flagStore", flag.value)
     }
 
     function removeData(kanji: string) {
         if (Object.keys(flag.value).length > 0) {
             delete flag.value[kanji]
-            setLocalStorage(flag.value)
+            setLocalStorage("flagStore", flag.value)
         }
     }
 
@@ -64,7 +64,7 @@ export const flagStore = defineStore('flagStore', () => {
 
     function clearData() {
         flag.value = {}
-        clearLocalStorage()
+        clearLocalStorage("flagStore")
     }
 
     function initialize() {
@@ -133,10 +133,77 @@ export const flagStore = defineStore('flagStore', () => {
     return { flag, getKanji, pushData, removeData, clearData, checkKanjiExist }
 })
 
-async function setLocalStorage(data: Record<string, KanjiType>) {
-    localStorage.setItem("flagStore", JSON.stringify(data))
+export const progressStore = defineStore('progressStore', () => {
+    const progress = ref<Record<string, { amount: number, lastProgress: Date }>>({})
+    const used = ref(false)
+
+    function initialize() {
+        const saved = localStorage.getItem('progressStore')
+        if (saved) {
+            progress.value = JSON.parse(saved)
+            for (const kanjiId in progress.value) {
+                progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
+                if ((new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime() > 86400000) {
+                    if (progress.value[kanjiId]!.amount > 1) {
+                        progress.value[kanjiId]!.amount--
+                    } else {
+                        delete progress.value[kanjiId]
+                    }
+                }
+            }
+        }
+        used.value = true
+    }
+
+    if (!used.value)
+        initialize()
+
+    function progressTrue(kanjiId: string) {
+        if (progress.value[kanjiId]) {
+            if (progress.value[kanjiId].amount < 5) {
+                progress.value[kanjiId].amount++
+            }
+
+            progress.value[kanjiId].lastProgress = new Date()
+        } else {
+            progress.value[kanjiId] = {
+                amount: 1,
+                lastProgress: new Date()
+            }
+        }
+        setLocalStorage("progressStore", progress.value)
+    }
+
+    function progressFalse(kanjiId: string) {
+        if (progress.value[kanjiId] && progress.value[kanjiId].amount != 1) {
+            progress.value[kanjiId].amount--
+            progress.value[kanjiId].lastProgress = new Date()
+        } else {
+            delete progress.value[kanjiId]
+        }
+        setLocalStorage("progressStore", progress.value)
+    }
+
+    function appear(kanjiId: string): boolean {
+        // if progress not found, make it appear
+        if (!progress.value[kanjiId]) {
+            return true
+        }
+        // running odds if progress is tracked
+        else if (Math.random() > progress.value[kanjiId].amount / 5) {
+            return true
+        }
+
+        return false
+    }
+
+    return { progress, progressTrue, progressFalse, appear }
+})
+
+function setLocalStorage(memoryId: string, data: any) {
+    localStorage.setItem(memoryId, JSON.stringify(data))
 }
 
-async function clearLocalStorage() {
-    localStorage.removeItem("flagStore")
+function clearLocalStorage(memoryId: string) {
+    localStorage.removeItem(memoryId)
 }

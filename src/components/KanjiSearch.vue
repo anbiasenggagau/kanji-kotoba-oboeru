@@ -132,18 +132,7 @@ async function getKanjiData() {
             <div v-if="kanjiData"
                 class="flex flex-col justify-center items-center space-y-2 lg:space-y-4 pt-11 md:pt-8 lg:pt-6">
                 <!-- Center Content -->
-                <Transition name="fade" mode="out-in">
-                    <h1 class="items-center text-lg lg:text-3xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }} </h1>
-                </Transition>
-                <Transition name="fade" mode="out-in">
-                    <h1 class="items-center text-lg lg:text-3xl font-bold" :key="idx + 1"> {{ kanjiData.id }}</h1>
-                </Transition>
-                <div class="relative">
-                    <Transition name="fade" mode="out-in">
-                        <h1 lang="ja" class="text-center text-6xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                        }}
-                        </h1>
-                    </Transition>
+                <div class="relative flex items-center justify-center">
                     <!-- Flag Symbol -->
                     <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
                         class="absolute justify-center items-center top-0 -right-7 md:-right-9 text-gray-500 hover:text-gray-700 cursor-pointer">
@@ -157,6 +146,21 @@ async function getKanjiData() {
                             <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3z" />
                         </svg>
                     </div>
+                    <Transition name="fade" mode="out-in">
+                        <h1 class="items-center text-lg lg:text-xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}
+                        </h1>
+                    </Transition>
+                </div>
+                <Transition name="fade" mode="out-in">
+                    <h1 class="items-center text-lg lg:text-xl font-bold" :key="idx + 1"> {{ kanjiData.id }}</h1>
+                </Transition>
+                <div class="relative">
+                    <Transition name="fade" mode="out-in">
+                        <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
+                            kanjiData.kanji
+                            }}
+                        </h1>
+                    </Transition>
                 </div>
                 <div class="flex flex-col justify-center items-center text-lg lg:text-3xl font-bold">
                     <Transition name="fade" mode="out-in">

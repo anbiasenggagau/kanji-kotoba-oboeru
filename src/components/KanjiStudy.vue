@@ -155,13 +155,7 @@ async function getKanjiData(file: string) {
             <div class="flex flex-col justify-center items-center space-y-2 lg:space-y-4 pt-20 md:pt-8 lg:pt-6"
                 :class="dynamicPadding">
                 <!-- Center Content -->
-                <div v-if="selectedLevel == 'Flagged'">
-                    <Transition name="fade" mode="out-in">
-                        <h1 class="text-lg lg:text-xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}
-                        </h1>
-                    </Transition>
-                </div>
-                <div class="relative flex items-center justify-center">
+                <div v-if="selectedLevel == 'Flagged'" class="relative flex items-center justify-center">
                     <!-- Flag Symbol -->
                     <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? removeFlaggedKanji(kanjiData.kanji) : flagData.pushData(kanjiData)"
                         class="absolute -right-7 md:-right-10 text-gray-500 hover:text-gray-700 cursor-pointer">
@@ -175,7 +169,26 @@ async function getKanjiData(file: string) {
                             <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3z" />
                         </svg>
                     </div>
-
+                    <Transition name="fade" mode="out-in">
+                        <h1 class="text-lg lg:text-xl font-bold" :key="idx + 1"> Kanji Ke {{ idx + 1 }}
+                        </h1>
+                    </Transition>
+                </div>
+                <div class="relative flex items-center justify-center">
+                    <!-- Flag Symbol -->
+                    <div v-if="selectedLevel != 'Flagged'"
+                        @click="flagData.checkKanjiExist(kanjiData.kanji) ? removeFlaggedKanji(kanjiData.kanji) : flagData.pushData(kanjiData)"
+                        class="absolute -right-7 md:-right-10 text-gray-500 hover:text-gray-700 cursor-pointer">
+                        <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
+                            fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"
+                            class="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-gray-400">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3m0 0v12" />
+                        </svg>
+                        <svg v-else xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"
+                            stroke="currentColor" class="w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 text-red-500">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M3 3v18m0-16h13l-1.5 4H3z" />
+                        </svg>
+                    </div>
                     <Transition name="fade" mode="out-in">
                         <h1 class="text-lg lg:text-xl font-bold" :key="idx + 1"> {{ selectedLevel != "Flagged" ? `Kanji
                             Ke
@@ -185,8 +198,9 @@ async function getKanjiData(file: string) {
                 </div>
                 <div class="relative">
                     <Transition name="fade" mode="out-in">
-                        <h1 lang="ja" class="text-center text-5xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
-                            }}
+                        <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
+                            kanjiData.kanji
+                        }}
                         </h1>
                     </Transition>
                 </div>

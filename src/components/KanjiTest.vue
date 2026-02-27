@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { onBeforeUnmount, onMounted, ref } from 'vue';
 import { useRouter } from 'vue-router';
-import { flagStore, kanjiTestStore, resultStore } from '../store';
+import { flagStore, kanjiTestStore, progressStore, resultStore } from '../store';
 import type { KanjiType } from '../type';
 import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
@@ -18,6 +18,7 @@ onBeforeUnmount(() => globalThis.removeEventListener('keydown', revealAnswerEven
 const resultData = resultStore()
 const kanjiFile = kanjiTestStore()
 const flagData = flagStore()
+const progressData = progressStore()
 const routerOpt = useRouter()
 
 const loading = ref(true)
@@ -56,6 +57,7 @@ function navigateToResult() {
 }
 
 function addCorrectAnswerCallback() {
+    progressData.progressTrue(kanjiData.value.id)
     correctAnswer.value.push(kanjiData.value)
 }
 
@@ -64,6 +66,7 @@ function addCorrectAnswer() {
 }
 
 function addWrongAnswerCallback() {
+    progressData.progressFalse(kanjiData.value.id)
     wrongAnswer.value.push(kanjiData.value)
 }
 
@@ -103,9 +106,31 @@ async function initData() {
 
     let finalResults: any
     if (kanjiFile.max > 0) {
+        let inserted = 0
         finalResults = results.flat()
-            .sort(() => Math.random() - 0.5) // shuffle
-            .slice(0, kanjiFile.max)
+            .sort(() => Math.random() - 0.5)
+            .map((val, index, arr) => {
+                // skip remaining kanji if slot kanji is fullfilled
+                if (inserted >= kanjiFile.max) {
+                    return
+                }
+                // automatically insert the kanji if remaining kanji amount and slot needs to be filled in, is the same
+                else if (kanjiFile.max - inserted >= arr.length - index) {
+                    inserted++
+                    return val
+                }
+                // if the kanji is flagged, automatically insert the kanji
+                else if (flagData.checkKanjiExist(val.kanji)) {
+                    inserted++
+                    return val
+                }
+                // set up randomization whether the kanji could appear or not
+                else if (progressData.appear(val.id)) {
+                    inserted++
+                    return val
+                }
+            })
+            .filter(val => val != undefined)
     } else {
         finalResults = results.flat()
     }
@@ -130,7 +155,6 @@ async function initData() {
             class="flex flex-col justify-center items-center min-h-[100dvh] pt-8 lg:pt-0 space-y-2.5 lg:space-y-4 select-none">
             <!-- Flag Symbol -->
             <div class="relative flex items-center justify-center">
-
                 <div @click="flagData.checkKanjiExist(kanjiData.kanji) ? flagData.removeData(kanjiData.kanji) : flagData.pushData(kanjiData)"
                     class="absolute -right-7 md:-right-8 text-gray-500 hover:text-gray-700 cursor-pointer">
                     <svg v-if="!flagData.checkKanjiExist(kanjiData.kanji)" xmlns="http://www.w3.org/2000/svg"
@@ -154,7 +178,8 @@ async function initData() {
             </Transition>
             <div class="relative">
                 <Transition name="fade" mode="out-in">
-                    <h1 lang="ja" class="text-center text-5xl lg:text-7xl" :key="kanjiData.kanji">{{ kanjiData.kanji
+                    <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
+                        kanjiData.kanji
                     }}
                     </h1>
                 </Transition>
