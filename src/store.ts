@@ -143,7 +143,7 @@ export const progressStore = defineStore('progressStore', () => {
             progress.value = JSON.parse(saved)
             for (const kanjiId in progress.value) {
                 progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
-                if ((new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime() > 86400000) {
+                if ((new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime() > 432000000) {
                     if (progress.value[kanjiId]!.amount > 1) {
                         progress.value[kanjiId]!.amount--
                     } else {
