@@ -143,13 +143,19 @@ export const progressStore = defineStore('progressStore', () => {
             progress.value = JSON.parse(saved)
             for (const kanjiId in progress.value) {
                 progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
-                if ((new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime() > 432000000) {
-                    if (progress.value[kanjiId]!.amount > 1) {
-                        progress.value[kanjiId]!.amount--
-                    } else {
+                const diff = (new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime()
+
+                // decrease progress point by floor rounding of 4 day number
+                if (diff > 432000000) {
+                    progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - Math.floor(diff / 432000000)
+                    if (progress.value[kanjiId]!.amount <= 0) {
                         delete progress.value[kanjiId]
+                    } else {
+                        progress.value[kanjiId]!.lastProgress = new Date()
                     }
                 }
+
+                setLocalStorage("progressStore", progress.value)
             }
         }
         used.value = true
