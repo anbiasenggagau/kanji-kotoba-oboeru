@@ -122,12 +122,13 @@ function goHome() {
         <KanjiCard v-for="(item, index) in kanjiData" :key="index" v-bind="item" />
     </div>
     <div v-else class="mx-4">
-        <Message class="my-4 lg:my-6">Semakin tinggi tingkat kemahiran, semakin jarang kanji tersebut akan muncul
+        <Message class="my-4 lg:my-6 text-base">Semakin tinggi tingkat kemahiran, semakin jarang kanji tersebut akan
+            muncul
         </Message>
         <div class="grid grid-cols-3 lg:grid-cols-9 gap-4">
             <div v-for="progress in progressArr" :key="progress.kanjiId" class="flex items-center gap-2">
                 <span :class="['w-4 h-4 rounded-full', progress.color]"></span>
-                <div class="text-xl">
+                <div class="text-base lg:text-xl">
                     <div class="font-medium">{{ progress.kanjiId }}</div>
                     <div class="font-extrabold">({{ progress.percent }}%)</div>
                 </div>
