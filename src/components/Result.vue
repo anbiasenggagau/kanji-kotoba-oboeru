@@ -19,23 +19,38 @@ const progressData = progressStore()
 
 const progressArr = Object.entries(progressData.progress)
     .map(([kanjiId, value]) => {
-        let color = ""
+        let color = "";
 
-        if (value.amount == 1) color = "bg-red-500"
-        else if (value.amount == 2) color = "bg-orange-500"
-        else if (value.amount == 3) color = "bg-yellow-500"
-        else if (value.amount == 4) color = "bg-lime-500"
-        else if (value.amount == 5) color = "bg-green-500"
+        if (value.amount == 1) color = "bg-red-500";
+        else if (value.amount == 2) color = "bg-orange-500";
+        else if (value.amount == 3) color = "bg-yellow-500";
+        else if (value.amount == 4) color = "bg-lime-500";
+        else if (value.amount == 5) color = "bg-green-500";
 
         return {
             kanjiId,
-            percent: value.amount / 5 * 100,
+            percent: (value.amount / 5) * 100,
             color
-        }
+        };
     })
-    .sort((a, b) =>
-        a.kanjiId.localeCompare(b.kanjiId, undefined, { numeric: true })
-    )
+    .sort((a, b) => {
+        const parse = (id: any) => {
+            const [, n1, n2, n3] = id.match(/^N(\d+)\.(\d+)\.(\d+)$/);
+            return [Number(n1), Number(n2), Number(n3)];
+        };
+
+        const [a1, a2, a3] = parse(a.kanjiId);
+        const [b1, b2, b3] = parse(b.kanjiId);
+
+        // number1 DESC
+        if (a1 !== b1) return b1! - a1!;
+
+        // number2 ASC
+        if (a2 !== b2) return a2! - b2!;
+
+        // number3 ASC
+        return a3! - b3!;
+    });
 
 const routerOpt = useRouter()
 const kanjiData = ref<KanjiType[]>([...resultData.wrong])
