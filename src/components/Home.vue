@@ -14,8 +14,8 @@ const kanjiData = kanjiTestStore()
 const routerOpt = useRouter()
 kanjiData.clearData()
 
-const capData = ref(false)
-const maxKanji = ref<undefined | number>(undefined)
+const noCapKanji = ref(false)
+const maxKanji = ref<undefined | number>(50)
 const alertRef = ref<InstanceType<typeof Alert> | null>(null)
 const selectedLevel = ref<string>("N5")
 const selectedAll = ref(false)
@@ -127,17 +127,18 @@ function blurFocus(event: Event) {
                 </div>
             </template>
         </Card>
-        <div class="card flex flex-wrap items-center justify-center gap-2 mt-1">
-            <Checkbox v-model="capData" binary @click="maxKanji = undefined" />
-            <span class="text-sm lg:text-base">Batasi Jumlah Soal</span>
-        </div>
-        <div class="flex justify-center">
+        <div class="flex flex-col justify-center items-center">
+            <span class="text-sm lg:text-base mb-1.5">Jumlah soal</span>
             <InputNumber v-model="maxKanji" class="input-small text-xs lg:text-base" @keyup.enter="blurFocus"
-                @keyup.esc="blurFocus" :disabled="!capData" :use-grouping="false" :min="1" />
+                @keyup.esc="blurFocus" :disabled="noCapKanji" :use-grouping="false" :min="1" />
+        </div>
+        <div class="card flex flex-wrap items-center justify-center gap-2">
+            <Checkbox v-model="noCapKanji" binary @click="maxKanji = undefined" />
+            <span class="text-sm lg:text-base">Jangan batasi soal</span>
         </div>
         <div class="flex justify-center space-x-4">
-            <Button @click="startKanjiTest" class="text-sm md:text-lg mt-8" label="Mulai Test" variant="link" />
-            <SecondaryButton as="RouterLink" :to="{ name: 'study' }" class="text-sm md:text-lg mt-8"
+            <Button @click="startKanjiTest" class="text-sm md:text-lg" label="Mulai Test" variant="link" />
+            <SecondaryButton as="RouterLink" :to="{ name: 'study' }" class="text-sm md:text-lg"
                 label="Lihat Daftar Kanji" variant="link" />
         </div>
     </div>

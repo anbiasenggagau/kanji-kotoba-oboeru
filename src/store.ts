@@ -134,14 +134,29 @@ export const flagStore = defineStore('flagStore', () => {
 })
 
 export const progressStore = defineStore('progressStore', () => {
-    const progress = ref<Record<string, { amount: number, lastProgress: Date }>>({})
+    const progress = ref<Record<string, { kanji: string, amount: number, lastProgress: Date }>>({})
     const used = ref(false)
 
-    function initialize() {
+    async function initialize() {
+        const kanjiTemp: KanjiType[] = []
         const saved = localStorage.getItem('progressStore')
         if (saved) {
             progress.value = JSON.parse(saved)
             for (const kanjiId in progress.value) {
+                // Auto migrate progress that have no kanji yet
+                if (progress.value[kanjiId]!.kanji == undefined) {
+                    let findKanji = kanjiTemp.find(val => kanjiId == val.id)
+                    if (findKanji) {
+                        progress.value[kanjiId]!.kanji = findKanji.kanji
+                    } else {
+                        const file = kanjiId[1] + "_" + kanjiId[3] + ".json"
+                        const resp = await fetch(file)
+                        kanjiTemp.push(...(await resp.json()))
+                        findKanji = kanjiTemp.find(val => kanjiId == val.id)
+                        progress.value[kanjiId]!.kanji = findKanji!.kanji
+                    }
+                }
+
                 progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
                 const diff = (new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime()
 
@@ -164,15 +179,16 @@ export const progressStore = defineStore('progressStore', () => {
     if (!used.value)
         initialize()
 
-    function progressTrue(kanjiId: string) {
-        if (progress.value[kanjiId]) {
-            if (progress.value[kanjiId].amount < 5) {
-                progress.value[kanjiId].amount++
+    function progressTrue(kanji: KanjiType) {
+        if (progress.value[kanji.id]) {
+            if (progress.value[kanji.id]!.amount < 5) {
+                progress.value[kanji.id]!.amount++
             }
 
-            progress.value[kanjiId].lastProgress = new Date()
+            progress.value[kanji.id]!.lastProgress = new Date()
         } else {
-            progress.value[kanjiId] = {
+            progress.value[kanji.id] = {
+                kanji: kanji.kanji,
                 amount: 1,
                 lastProgress: new Date()
             }

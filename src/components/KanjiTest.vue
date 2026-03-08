@@ -57,7 +57,7 @@ function navigateToResult() {
 }
 
 function addCorrectAnswerCallback() {
-    progressData.progressTrue(kanjiData.value.id)
+    progressData.progressTrue(kanjiData.value)
     correctAnswer.value.push(kanjiData.value)
 }
 
@@ -180,7 +180,7 @@ async function initData() {
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
                         kanjiData.kanji
-                    }}
+                        }}
                     </h1>
                 </Transition>
             </div>

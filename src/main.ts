@@ -9,6 +9,7 @@ import KanjiTest from './components/KanjiTest.vue';
 import Result from './components/Result.vue';
 import './style.css';
 import KanjiSearch from './components/KanjiSearch.vue';
+import Temp from './components/Temp.vue';
 
 const pinia = createPinia()
 const router = createRouter({
@@ -37,6 +38,11 @@ const router = createRouter({
             path: "/search",
             component: KanjiSearch,
             name: "search"
+        },
+        {
+            path: "/temp",
+            component: Temp,
+            name: "temp"
         },
     ],
     history: createWebHistory(),

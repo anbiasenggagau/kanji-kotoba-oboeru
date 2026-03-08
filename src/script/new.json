@@ -259,5 +259,230 @@
         "enMeaning": "To connect / to link together",
         "idMeaning": "Menhubungkan",
         "type": "KK Transitif"
+    },
+    {
+        "id": "N3.6.30",
+        "kanji": "数",
+        "component": "",
+        "hiragana": "かず",
+        "enMeaning": "Number / quantity",
+        "idMeaning": "Jumlah / angka",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.31",
+        "kanji": "外部",
+        "component": "",
+        "hiragana": "がいぶ",
+        "enMeaning": "Outside / external",
+        "idMeaning": "Bagian luar / eksternal",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.32",
+        "kanji": "列車",
+        "component": "",
+        "hiragana": "れっしゃ",
+        "enMeaning": "Train",
+        "idMeaning": "Kereta",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.33",
+        "kanji": "変更",
+        "component": "",
+        "hiragana": "へんこう",
+        "enMeaning": "Change / modification",
+        "idMeaning": "Perubahan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.34",
+        "kanji": "可能性",
+        "component": "",
+        "hiragana": "かのうせい",
+        "enMeaning": "Possibility",
+        "idMeaning": "Kemungkinan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.35",
+        "kanji": "幸福",
+        "component": "",
+        "hiragana": "こうふく",
+        "enMeaning": "Happiness / good fortune",
+        "idMeaning": "Kebahagiaan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.36",
+        "kanji": "履歴書",
+        "component": "",
+        "hiragana": "りれきしょ",
+        "enMeaning": "Resume / CV",
+        "idMeaning": "Daftar riwayat hidup / CV",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.37",
+        "kanji": "共有",
+        "component": "",
+        "hiragana": "きょうゆう",
+        "enMeaning": "Sharing",
+        "idMeaning": "Berbagi / berbagi bersama",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.38",
+        "kanji": "関節",
+        "component": "",
+        "hiragana": "かんせつ",
+        "enMeaning": "Joint (body)",
+        "idMeaning": "Sendi",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.39",
+        "kanji": "感染",
+        "component": "",
+        "hiragana": "かんせん",
+        "enMeaning": "Infection",
+        "idMeaning": "Infeksi",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.40",
+        "kanji": "筋肉",
+        "component": "",
+        "hiragana": "きんにく",
+        "enMeaning": "Muscle",
+        "idMeaning": "Otot",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.41",
+        "kanji": "筋肉痛",
+        "component": "",
+        "hiragana": "きんにくつう",
+        "enMeaning": "Muscle pain / soreness",
+        "idMeaning": "Nyeri otot",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.42",
+        "kanji": "夜勤",
+        "component": "",
+        "hiragana": "やきん",
+        "enMeaning": "Night shift",
+        "idMeaning": "Shift malam",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.43",
+        "kanji": "夜中",
+        "component": "",
+        "hiragana": "よなか",
+        "enMeaning": "Midnight / middle of the night",
+        "idMeaning": "Tengah malam",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.44",
+        "kanji": "咳",
+        "component": "",
+        "hiragana": "せき",
+        "enMeaning": "Cough",
+        "idMeaning": "Batuk",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.45",
+        "kanji": "流行る",
+        "component": "",
+        "hiragana": "はやる",
+        "enMeaning": "To become popular / spread",
+        "idMeaning": "Menjadi populer / menyebar",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.46",
+        "kanji": "体調",
+        "component": "",
+        "hiragana": "たいちょう",
+        "enMeaning": "Physical condition / health condition",
+        "idMeaning": "Kondisi tubuh",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.47",
+        "kanji": "抹茶",
+        "component": "",
+        "hiragana": "まっちゃ",
+        "enMeaning": "Matcha (powdered green tea)",
+        "idMeaning": "Teh hijau bubuk (matcha)",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.48",
+        "kanji": "気に入る",
+        "component": "",
+        "hiragana": "きにいる",
+        "enMeaning": "To like / be pleased with",
+        "idMeaning": "Menyukai / berkenan",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.49",
+        "kanji": "友人",
+        "component": "",
+        "hiragana": "ゆうじん",
+        "enMeaning": "Friend",
+        "idMeaning": "Teman",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.50",
+        "kanji": "宝石",
+        "component": "",
+        "hiragana": "ほうせき",
+        "enMeaning": "Gem / jewel",
+        "idMeaning": "Permata",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.51",
+        "kanji": "開店",
+        "component": "",
+        "hiragana": "かいてん",
+        "enMeaning": "Opening of a shop",
+        "idMeaning": "Pembukaan toko",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.52",
+        "kanji": "開店する",
+        "component": "",
+        "hiragana": "かいてんする",
+        "enMeaning": "To open a shop",
+        "idMeaning": "Membuka toko",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.53",
+        "kanji": "既に",
+        "component": "",
+        "hiragana": "すでに",
+        "enMeaning": "Already / previously",
+        "idMeaning": "Sudah / sebelumnya",
+        "type": "Frasa / Klausa"
+    },
+    {
+        "id": "N3.6.54",
+        "kanji": "極める",
+        "component": "",
+        "hiragana": "きわめる",
+        "enMeaning": "To master / to pursue thoroughly",
+        "idMeaning": "Menguasai / mendalami",
+        "type": "KK Transitif"
     }
 ]

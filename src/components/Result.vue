@@ -2,7 +2,11 @@
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
 import { progressStore, resultStore } from '../store';
-import type { KanjiType } from '../type';
+import type { KanjiProgress, KanjiType } from '../type';
+import Accordion from '../volt/Accordion.vue';
+import AccordionPanel from '../volt/AccordionPanel.vue';
+import AccordionHeader from '../volt/AccordionHeader.vue';
+import AccordionContent from '../volt/AccordionContent.vue';
 import Button from '../volt/Button.vue';
 import DangerButton from '../volt/DangerButton.vue';
 import SecondaryButton from '../volt/SecondaryButton.vue';
@@ -17,9 +21,9 @@ const progressActive = ref(false)
 const resultData = resultStore()
 const progressData = progressStore()
 
-const progressArr = Object.entries(progressData.progress)
+const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
     .map(([kanjiId, value]) => {
-        let color = "";
+        let color: KanjiProgress["color"] = "bg-red-500"
 
         if (value.amount == 1) color = "bg-red-500";
         else if (value.amount == 2) color = "bg-orange-500";
@@ -29,6 +33,7 @@ const progressArr = Object.entries(progressData.progress)
 
         return {
             kanjiId,
+            kanji: value.kanji,
             percent: (value.amount / 5) * 100,
             color
         };
@@ -50,7 +55,20 @@ const progressArr = Object.entries(progressData.progress)
 
         // number3 ASC
         return a3! - b3!;
-    });
+    })
+
+const groupedProgress: KanjiProgress[][] = []
+for (const val of progressArr) {
+    const level = val.kanjiId.split(".")[0]
+    const levelNumber = Number(level!.slice(1))
+    const index = 5 - levelNumber
+
+    if (!groupedProgress[index]) {
+        groupedProgress[index] = []
+    }
+
+    groupedProgress[index].push(val)
+}
 
 const routerOpt = useRouter()
 const kanjiData = ref<KanjiType[]>([...resultData.wrong])
@@ -125,14 +143,31 @@ function goHome() {
         <Message class="my-4 lg:my-6 text-base">Semakin tinggi tingkat kemahiran, semakin jarang kanji tersebut akan
             muncul
         </Message>
-        <div class="grid grid-cols-3 lg:grid-cols-9 gap-4">
-            <div v-for="progress in progressArr" :key="progress.kanjiId" class="flex items-center gap-2">
-                <span :class="['w-4 h-4 rounded-full', progress.color]"></span>
-                <div class="text-base lg:text-xl">
-                    <div class="font-medium">{{ progress.kanjiId }}</div>
-                    <div class="font-extrabold">({{ progress.percent }}%)</div>
-                </div>
-            </div>
-        </div>
+        <Accordion multiple>
+            <AccordionPanel v-for="(progressArr, index) in groupedProgress" :key="index" :value="index">
+                <AccordionHeader class="sticky top-0 z-10 bg-white font-bold text-base lg:text-xl">
+                    N{{ 5 - index }}
+                </AccordionHeader>
+
+                <AccordionContent>
+                    <div class="grid grid-cols-3 lg:grid-cols-9 gap-4">
+                        <div v-for="progress in progressArr" :key="progress.kanjiId">
+                            <div class="flex items-center gap-2">
+                                <span :class="[
+                                    'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
+                                    progress.color
+                                ]"></span>
+
+                                <div class="text-sm lg:text-base">
+                                    <div class="font-medium">{{ progress.kanjiId }}</div>
+                                    <div class="font-medium">{{ progress.kanji }}</div>
+                                    <div class="font-extrabold">({{ progress.percent }}%)</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </AccordionContent>
+            </AccordionPanel>
+        </Accordion>
     </div>
 </template>
