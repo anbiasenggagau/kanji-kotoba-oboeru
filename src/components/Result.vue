@@ -159,8 +159,8 @@ function goHome() {
                                 ]"></span>
 
                                 <div class="text-sm lg:text-base">
-                                    <div class="font-medium">{{ progress.kanjiId }}</div>
-                                    <div class="font-medium">{{ progress.kanji }}</div>
+                                    <div class="text-sm font-medium">{{ progress.kanjiId }}</div>
+                                    <div class="text-xs font-medium">{{ progress.kanji }}</div>
                                     <div class="font-extrabold">({{ progress.percent }}%)</div>
                                 </div>
                             </div>
