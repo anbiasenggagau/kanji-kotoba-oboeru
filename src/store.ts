@@ -162,7 +162,7 @@ export const progressStore = defineStore('progressStore', () => {
 
                 // decrease progress point by floor rounding of 4 day number
                 if (diff > 432000000) {
-                    progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - Math.floor(diff / 432000000)
+                    progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - Math.floor(diff / 259200000)
                     if (progress.value[kanjiId]!.amount <= 0) {
                         delete progress.value[kanjiId]
                     } else {
