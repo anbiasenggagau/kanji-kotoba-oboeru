@@ -104,7 +104,8 @@ async function initData() {
     if (results.length == 0)
         routerOpt.replace({ name: "home" })
 
-    let finalResults: any
+    let remainingKanji: (KanjiType & { progress: number, flagged: boolean })[] = []
+    let finalResults: KanjiType[] = []
     if (kanjiFile.max > 0) {
         let inserted = 0
         finalResults = results.flat()
@@ -114,10 +115,14 @@ async function initData() {
                 if (inserted >= kanjiFile.max) {
                     return
                 }
-                // automatically insert the kanji if remaining kanji amount and slot needs to be filled in, is the same
+                // automatically archive the kanji if remaining kanji amount and slot needs to be filled in, is the same
                 else if (kanjiFile.max - inserted >= arr.length - index) {
-                    inserted++
-                    return val
+                    remainingKanji.push({
+                        ...val,
+                        progress: progressData.getProgress(val.id),
+                        flagged: flagData.checkKanjiExist(val.kanji),
+                    })
+                    return
                 }
                 // if the kanji is flagged, automatically insert the kanji
                 else if (flagData.checkKanjiExist(val.kanji)) {
@@ -126,11 +131,48 @@ async function initData() {
                 }
                 // set up randomization whether the kanji could appear or not
                 else if (progressData.appear(val.id)) {
+                    console.info("odd wins, progress", progressData.getProgress(val.id))
                     inserted++
                     return val
+
+                }
+                // Archive skipped kanji
+                else {
+                    console.info("odd lose, progress", progressData.getProgress(val.id))
+                    remainingKanji.push({
+                        ...val,
+                        progress: progressData.getProgress(val.id),
+                        flagged: flagData.checkKanjiExist(val.kanji),
+                    })
+                    return
                 }
             })
             .filter(val => val != undefined)
+
+        // Insert most prioritize kanji
+        if (kanjiFile.max > inserted) {
+            console.info("Max", kanjiFile.max)
+            console.info("Inserted", inserted)
+            // Flagged is first priority
+            // Less progress amount is second priority
+            remainingKanji.sort((a, b) => {
+                if (a.flagged !== b.flagged) {
+                    return Number(b.flagged) - Number(a.flagged)
+                }
+
+                return a.progress - b.progress
+            })
+
+            console.info("Remaining Kanji", remainingKanji.map(val => ({
+                progress: val.progress,
+                flagged: val.flagged
+            })))
+
+            for (let i = 0; i < kanjiFile.max - inserted; i++) {
+                finalResults.push(remainingKanji[i] as KanjiType)
+            }
+            console.info(finalResults)
+        }
     } else {
         finalResults = results.flat()
     }
@@ -180,7 +222,7 @@ async function initData() {
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
                         kanjiData.kanji
-                        }}
+                    }}
                     </h1>
                 </Transition>
             </div>

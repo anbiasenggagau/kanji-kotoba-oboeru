@@ -219,7 +219,12 @@ export const progressStore = defineStore('progressStore', () => {
         return false
     }
 
-    return { progress, progressTrue, progressFalse, appear }
+    function getProgress(kanjiId: string): number {
+        if (progress.value[kanjiId]) return progress.value[kanjiId].amount
+        return 0
+    }
+
+    return { progress, getProgress, progressTrue, progressFalse, appear }
 })
 
 function setLocalStorage(memoryId: string, data: any) {

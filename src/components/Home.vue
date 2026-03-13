@@ -133,7 +133,7 @@ function blurFocus(event: Event) {
                 @keyup.esc="blurFocus" :disabled="noCapKanji" :use-grouping="false" :min="1" />
         </div>
         <div class="card flex flex-wrap items-center justify-center gap-2">
-            <Checkbox v-model="noCapKanji" binary />
+            <Checkbox v-model="noCapKanji" @click="noCapKanji ? maxKanji = 50 : maxKanji = undefined" binary />
             <span class="text-sm lg:text-base">Jangan batasi soal</span>
         </div>
         <div class="flex justify-center space-x-4">
