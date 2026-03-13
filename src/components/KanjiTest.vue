@@ -131,14 +131,12 @@ async function initData() {
                 }
                 // set up randomization whether the kanji could appear or not
                 else if (progressData.appear(val.id)) {
-                    console.info("odd wins, progress", progressData.getProgress(val.id))
                     inserted++
                     return val
 
                 }
                 // Archive skipped kanji
                 else {
-                    console.info("odd lose, progress", progressData.getProgress(val.id))
                     remainingKanji.push({
                         ...val,
                         progress: progressData.getProgress(val.id),
@@ -151,8 +149,6 @@ async function initData() {
 
         // Insert most prioritize kanji
         if (kanjiFile.max > inserted) {
-            console.info("Max", kanjiFile.max)
-            console.info("Inserted", inserted)
             // Flagged is first priority
             // Less progress amount is second priority
             remainingKanji.sort((a, b) => {
@@ -163,15 +159,9 @@ async function initData() {
                 return a.progress - b.progress
             })
 
-            console.info("Remaining Kanji", remainingKanji.map(val => ({
-                progress: val.progress,
-                flagged: val.flagged
-            })))
-
             for (let i = 0; i < kanjiFile.max - inserted; i++) {
                 finalResults.push(remainingKanji[i] as KanjiType)
             }
-            console.info(finalResults)
         }
     } else {
         finalResults = results.flat()
@@ -222,7 +212,7 @@ async function initData() {
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
                         kanjiData.kanji
-                    }}
+                        }}
                     </h1>
                 </Transition>
             </div>
