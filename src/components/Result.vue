@@ -25,16 +25,16 @@ const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
     .map(([kanjiId, value]) => {
         let color: KanjiProgress["color"] = "bg-red-500"
 
-        if (value.amount == 1) color = "bg-red-500";
-        else if (value.amount == 2) color = "bg-orange-500";
-        else if (value.amount == 3) color = "bg-yellow-500";
-        else if (value.amount == 4) color = "bg-lime-500";
-        else if (value.amount == 5) color = "bg-green-500";
+        if (value.amount <= 1) color = "bg-red-500";
+        else if (value.amount <= 2) color = "bg-orange-500";
+        else if (value.amount <= 3) color = "bg-yellow-500";
+        else if (value.amount <= 4) color = "bg-lime-500";
+        else if (value.amount <= 5) color = "bg-green-500";
 
         return {
             kanjiId,
             kanji: value.kanji,
-            percent: (value.amount / 5) * 100,
+            percent: parseInt(((value.amount / 5) * 100).toFixed(0)),
             color
         };
     })

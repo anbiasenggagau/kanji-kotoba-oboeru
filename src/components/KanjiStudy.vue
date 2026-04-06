@@ -84,6 +84,9 @@ function chooseVolume(volume: number) {
 
 async function removeFlaggedKanji(kanji: string) {
     flagData.removeData(kanji)
+
+    // If we are on flagged kanji list
+    // Get new data and go to previous index
     if (selectedLevel.value == "Flagged") {
         kanjiList.value = await flagData.getKanji()
         previousKanji()

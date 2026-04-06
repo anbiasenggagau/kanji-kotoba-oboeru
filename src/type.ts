@@ -7,6 +7,14 @@ export type KanjiType = {
     idMeaning: string
 }
 
+export type KanjiProgressStore = {
+    kanji: string,
+    amount: number,
+    trueStack: number,
+    falseStack: number,
+    lastProgress: Date
+}
+
 export type KanjiProgress = {
     kanjiId: string,
     kanji: string

@@ -622,12 +622,12 @@
   },
   {
     "id": "N3.4.70",
-    "kanji": "～番",
+    "kanji": "～件",
     "component": "",
-    "hiragana": "～ばん",
-    "enMeaning": "Number / order",
-    "idMeaning": "Nomor ~",
-    "type": "Kata Benda"
+    "hiragana": "～けん",
+    "enMeaning": "Counter for messages / emails",
+    "idMeaning": "~ Pesan",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N3.4.71",
@@ -811,10 +811,10 @@
   },
   {
     "id": "N3.4.91",
-    "kanji": "実際に",
+    "kanji": "実際",
     "component": "",
-    "hiragana": "じっさいに",
-    "enMeaning": "Actually",
+    "hiragana": "じっさい",
+    "enMeaning": "Actually / reality",
     "idMeaning": "Secara nyata / benar-benar",
     "type": "Kata Benda"
   },
