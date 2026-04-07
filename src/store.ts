@@ -192,7 +192,7 @@ export const progressStore = defineStore('progressStore', () => {
             return true
         }
         // running odds if progress is tracked
-        return Math.random() > progress.value[kanjiId].amount / 5
+        return Math.random() > (progress.value[kanjiId].amount + progress.value[kanjiId].trueStack) / 5
     }
 
     function getProgress(kanjiId: string): number {
