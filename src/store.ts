@@ -196,7 +196,7 @@ export const progressStore = defineStore('progressStore', () => {
     }
 
     function getProgress(kanjiId: string): number {
-        if (progress.value[kanjiId]) return progress.value[kanjiId].amount
+        if (progress.value[kanjiId]) return progress.value[kanjiId].amount + progress.value[kanjiId].trueStack
         return 0
     }
 
