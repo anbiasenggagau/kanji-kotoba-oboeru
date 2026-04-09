@@ -1,23 +1,5 @@
 [
     {
-        "id": "N3.8.1",
-        "kanji": "構う",
-        "component": "",
-        "hiragana": "かまう",
-        "enMeaning": "Mind / care about / bother",
-        "idMeaning": "Memperdulikan / peduli",
-        "type": "KK Intransitif"
-    },
-    {
-        "id": "N3.8.2",
-        "kanji": "破る",
-        "component": "",
-        "hiragana": "やぶる",
-        "enMeaning": "Tear / break / violate",
-        "idMeaning": "Merobek / melanggar",
-        "type": "KK Transitif"
-    },
-    {
         "id": "N3.8.3",
         "kanji": "破産",
         "component": "",
@@ -225,3 +207,4 @@
         "type": "Kata Benda"
     }
 ]
+黙る
