@@ -21,6 +21,7 @@ const progressActive = ref(false)
 const resultData = resultStore()
 const progressData = progressStore()
 const sumColor: Record<string, number> = {}
+const sumColorGroup: Record<string, number>[] = []
 const colorOrder = [
     "bg-red-500",
     "bg-orange-500",
@@ -40,6 +41,12 @@ const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
         else if (value.amount <= 5) color = "bg-green-500";
 
         sumColor[color] = (sumColor[color] ?? 0) + 1;
+        const level = kanjiId.split(".")[0]!
+        const levelNumber = Number(level!.slice(1))
+        const index = 5 - levelNumber
+        sumColorGroup[index] ??= {};
+        sumColorGroup[index][color] = (sumColorGroup[index][color] ?? 0) + 1;
+
 
         return {
             kanjiId,
@@ -72,6 +79,15 @@ const sumColorOrdered = Object.fromEntries(
         .filter(c => sumColor[c])
         .map(c => [c, sumColor[c]])
 ) as Record<string, number>
+
+const sumColorGroupOrdered: Record<string, number>[] =
+    sumColorGroup.map(group =>
+        Object.fromEntries(
+            colorOrder
+                .filter(c => c in group)
+                .map(c => [c, group[c]!])
+        )
+    );
 
 const groupedProgress: KanjiProgress[][] = []
 for (const val of progressArr) {
@@ -160,7 +176,7 @@ function goHome() {
             muncul
         </Message>
         <div class="col-flex justify-center items-center text-center">
-            <div class="flex flex-wrap justify-center gap-3 md:gap-4 lg:gap-6">
+            <div class="flex flex-wrap justify-center gap-2.5 md:gap-4 lg:gap-6">
                 <div v-for="(num, color) in sumColorOrdered" :key="color" class="flex items-center gap-1">
                     <span :class="[
                         'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
@@ -174,8 +190,25 @@ function goHome() {
         </div>
         <Accordion multiple>
             <AccordionPanel v-for="(progressArr, index) in groupedProgress" :key="index" :value="index">
-                <AccordionHeader class="sticky top-0 z-10 bg-white font-bold text-base lg:text-xl">
-                    N{{ 5 - index }}
+                <AccordionHeader
+                    class="sticky top-0 z-10 bg-white font-bold text-base lg:text-xl flex items-center justify-between">
+                    <!-- LEFT SIDE -->
+                    <div class="flex items-center font-bold gap-4 md:gap-6 lg:gap-8">
+                        <span>N{{ 5 - index }}</span>
+
+                        <div class="flex flex-wrap gap-2.5 md:gap-4 lg:gap-6">
+                            <div v-for="(num, color) in sumColorGroupOrdered[index]" :key="color"
+                                class="flex items-center gap-1">
+                                <span :class="[
+                                    'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
+                                    color
+                                ]"></span>
+                                <span class="text-base font-bold">
+                                    {{ num }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
                 </AccordionHeader>
 
                 <AccordionContent>
