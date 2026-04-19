@@ -20,6 +20,14 @@ const progressActive = ref(false)
 
 const resultData = resultStore()
 const progressData = progressStore()
+const sumColor: Record<string, number> = {}
+const colorOrder = [
+    "bg-red-500",
+    "bg-orange-500",
+    "bg-yellow-500",
+    "bg-lime-500",
+    "bg-green-500",
+];
 
 const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
     .map(([kanjiId, value]) => {
@@ -30,6 +38,8 @@ const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
         else if (value.amount <= 3) color = "bg-yellow-500";
         else if (value.amount <= 4) color = "bg-lime-500";
         else if (value.amount <= 5) color = "bg-green-500";
+
+        sumColor[color] = (sumColor[color] ?? 0) + 1;
 
         return {
             kanjiId,
@@ -56,6 +66,12 @@ const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
         // number3 ASC
         return a3! - b3!;
     })
+
+const sumColorOrdered = Object.fromEntries(
+    colorOrder
+        .filter(c => sumColor[c])
+        .map(c => [c, sumColor[c]])
+) as Record<string, number>
 
 const groupedProgress: KanjiProgress[][] = []
 for (const val of progressArr) {
@@ -143,6 +159,19 @@ function goHome() {
         <Message class="my-4 lg:my-6 text-base">Semakin tinggi tingkat kemahiran, semakin jarang kanji tersebut akan
             muncul
         </Message>
+        <div class="col-flex justify-center items-center text-center">
+            <div class="flex flex-wrap justify-center gap-3 md:gap-4 lg:gap-6">
+                <div v-for="(num, color) in sumColorOrdered" :key="color" class="flex items-center gap-1">
+                    <span :class="[
+                        'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
+                        color
+                    ]"></span>
+                    <span class="text-base font-bold">
+                        {{ num }}
+                    </span>
+                </div>
+            </div>
+        </div>
         <Accordion multiple>
             <AccordionPanel v-for="(progressArr, index) in groupedProgress" :key="index" :value="index">
                 <AccordionHeader class="sticky top-0 z-10 bg-white font-bold text-base lg:text-xl">

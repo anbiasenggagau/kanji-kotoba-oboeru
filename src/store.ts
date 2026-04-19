@@ -108,7 +108,7 @@ export const progressStore = defineStore('progressStore', () => {
 
                 // decrease progress point by floor rounding of 3 day number
                 if (diff > 259200000) {
-                    progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - Math.floor(diff / 259200000)
+                    progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
                     if (progress.value[kanjiId]!.amount <= 0) {
                         delete progress.value[kanjiId]
                     } else {
@@ -192,7 +192,7 @@ export const progressStore = defineStore('progressStore', () => {
             return true
         }
         // running odds if progress is tracked
-        return Math.random() > (progress.value[kanjiId].amount + progress.value[kanjiId].trueStack) / 5
+        return Math.random() > (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)) / 5
     }
 
     function getProgress(kanjiId: string): number {
