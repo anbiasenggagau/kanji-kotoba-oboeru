@@ -89,6 +89,13 @@ export const progressStore = defineStore('progressStore', () => {
         if (saved) {
             progress.value = JSON.parse(saved)
             for (const kanjiId in progress.value) {
+                // Reset stack progress
+                progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
+                if (progress.value[kanjiId]!.lastProgress.toDateString() != (new Date()).toDateString()) {
+                    progress.value[kanjiId]!.falseStack = 0
+                    progress.value[kanjiId]!.trueStack = 0
+                }
+
                 // Auto migrate progress that have no kanji yet
                 if (progress.value[kanjiId]!.kanji == undefined) {
                     let findKanji = kanjiData.getKanji(kanjiId)
@@ -103,9 +110,7 @@ export const progressStore = defineStore('progressStore', () => {
                     progress.value[kanjiId]!.kanji = findKanji.kanji
                 }
 
-                progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
                 const diff = (new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime()
-
                 // decrease progress point by floor rounding of 3 day number
                 if (diff > 259200000) {
                     progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
@@ -133,14 +138,14 @@ export const progressStore = defineStore('progressStore', () => {
                 if (progress.value[kanji.id]!.lastProgress.toDateString() == (new Date()).toDateString()) {
                     progress.value[kanji.id]!.trueStack++
 
-                    if (progress.value[kanji.id]!.trueStack == 1) {
+                    if (progress.value[kanji.id]!.trueStack == 2 || progress.value[kanji.id]!.trueStack == 1) {
                         progress.value[kanji.id]!.amount = progress.value[kanji.id]!.amount + 0.5
-                    } else if (progress.value[kanji.id]!.trueStack == 2) {
+                    } else if (progress.value[kanji.id]!.trueStack == 3) {
                         progress.value[kanji.id]!.amount = progress.value[kanji.id]!.amount + 0.25
                     }
                 } else {
                     progress.value[kanji.id]!.amount++
-                    progress.value[kanji.id]!.trueStack = 0
+                    progress.value[kanji.id]!.trueStack = 1
                 }
             }
 
@@ -196,7 +201,7 @@ export const progressStore = defineStore('progressStore', () => {
     }
 
     function getProgress(kanjiId: string): number {
-        if (progress.value[kanjiId]) return progress.value[kanjiId].amount + progress.value[kanjiId].trueStack
+        if (progress.value[kanjiId]) return (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5))
         return 0
     }
 
