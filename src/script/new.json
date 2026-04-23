@@ -1,2 +1,299 @@
-[]
-捕まえる
+[
+    {
+        "id": "1",
+        "kanji": "捕まえる",
+        "component": "",
+        "hiragana": "つかまえる",
+        "enMeaning": "Catch / arrest",
+        "idMeaning": "Menangkap",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "2",
+        "kanji": "灰色",
+        "component": "",
+        "hiragana": "はいいろ",
+        "enMeaning": "Grey",
+        "idMeaning": "Abu-abu (warna)",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "3",
+        "kanji": "張本人",
+        "component": "",
+        "hiragana": "ちょうほんにん",
+        "enMeaning": "The ringleader / the culprit",
+        "idMeaning": "Biang keladi / dalang",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "4",
+        "kanji": "貸出",
+        "component": "",
+        "hiragana": "かしだし",
+        "enMeaning": "Lending / loaning",
+        "idMeaning": "Peminjaman",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "5",
+        "kanji": "鮮魚",
+        "component": "",
+        "hiragana": "せんぎょ",
+        "enMeaning": "Fresh fish",
+        "idMeaning": "Ikan segar",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "6",
+        "kanji": "酸素",
+        "component": "",
+        "hiragana": "さんそ",
+        "enMeaning": "Oxygen",
+        "idMeaning": "Oksigen",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "7",
+        "kanji": "灰",
+        "component": "",
+        "hiragana": "はい",
+        "enMeaning": "Ashes",
+        "idMeaning": "Abu",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "8",
+        "kanji": "派手",
+        "component": "",
+        "hiragana": "はで",
+        "enMeaning": "Flashy / gaudy",
+        "idMeaning": "Mencolok / mewah",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "9",
+        "kanji": "地味",
+        "component": "",
+        "hiragana": "じみ",
+        "enMeaning": "Plain",
+        "idMeaning": "Sederhana",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "10",
+        "kanji": "秒速",
+        "component": "",
+        "hiragana": "びょうそく",
+        "enMeaning": "Speed per second",
+        "idMeaning": "Kecepatan per detik",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "11",
+        "kanji": "古着",
+        "component": "",
+        "hiragana": "ふるぎ",
+        "enMeaning": "Second-hand clothing",
+        "idMeaning": "Pakaian bekas",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "12",
+        "kanji": "黄金",
+        "component": "",
+        "hiragana": "おうごん",
+        "enMeaning": "Gold / golden",
+        "idMeaning": "Emas",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "13",
+        "kanji": "象牙",
+        "component": "",
+        "hiragana": "ぞうげ",
+        "enMeaning": "Ivory",
+        "idMeaning": "Gading gajah",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "14",
+        "kanji": "牙",
+        "component": "",
+        "hiragana": "きば",
+        "enMeaning": "Fang / tusk",
+        "idMeaning": "Taring",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "15",
+        "kanji": "繋ぐ",
+        "component": "",
+        "hiragana": "つなぐ",
+        "enMeaning": "Connect / link",
+        "idMeaning": "Menghubungkan / menyambungkan",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "16",
+        "kanji": "繋がる",
+        "component": "",
+        "hiragana": "つながる",
+        "enMeaning": "To be tied together / to be connected",
+        "idMeaning": "Terhubung / tersambung",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "17",
+        "kanji": "当時",
+        "component": "",
+        "hiragana": "とうじ",
+        "enMeaning": "At that time",
+        "idMeaning": "Saat itu / waktu itu",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "18",
+        "kanji": "暫く",
+        "component": "",
+        "hiragana": "しばらく",
+        "enMeaning": "For a while / a moment",
+        "idMeaning": "Sebentar / sementara",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "19",
+        "kanji": "暫定",
+        "component": "",
+        "hiragana": "ざんてい",
+        "enMeaning": "Provisional / tentative",
+        "idMeaning": "Sementara / tentatif",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "20",
+        "kanji": "迷い",
+        "component": "",
+        "hiragana": "まよい",
+        "enMeaning": "Hesitation / lost",
+        "idMeaning": "Keraguan / ketersesatan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "21",
+        "kanji": "お札",
+        "component": "",
+        "hiragana": "おさつ",
+        "enMeaning": "Bill",
+        "idMeaning": "Tagihan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "22",
+        "kanji": "正直",
+        "component": "",
+        "hiragana": "しょうじき",
+        "enMeaning": "Honest / frank",
+        "idMeaning": "Jujur",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "23",
+        "kanji": "検索",
+        "component": "",
+        "hiragana": "けんさく",
+        "enMeaning": "Search / lookup",
+        "idMeaning": "Pencarian",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "24",
+        "kanji": "雷雨",
+        "component": "",
+        "hiragana": "らいう",
+        "enMeaning": "Thunderstorm",
+        "idMeaning": "Hujan badai / hujan petir",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "25",
+        "kanji": "共通",
+        "component": "",
+        "hiragana": "きょうつう",
+        "enMeaning": "Common / mutual",
+        "idMeaning": "Umum / kesamaan",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "26",
+        "kanji": "共に",
+        "component": "",
+        "hiragana": "ともに",
+        "enMeaning": "Together / with",
+        "idMeaning": "Bersama / bersama dengan",
+        "type": "Frasa / Klausa"
+    },
+    {
+        "id": "27",
+        "kanji": "作成",
+        "component": "",
+        "hiragana": "さくせい",
+        "enMeaning": "Creation / preparation / drafting",
+        "idMeaning": "Pembuatan / penyusunan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "28",
+        "kanji": "順",
+        "component": "",
+        "hiragana": "じゅん",
+        "enMeaning": "Order / turn",
+        "idMeaning": "Urutan / giliran",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "29",
+        "kanji": "変換",
+        "component": "",
+        "hiragana": "へんかん",
+        "enMeaning": "Conversion / change",
+        "idMeaning": "Konversi / perubahan",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "30",
+        "kanji": "詳明",
+        "component": "",
+        "hiragana": "しょうめい",
+        "enMeaning": "Detailed explanation / elucidation",
+        "idMeaning": "Penjelasan rinci",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "31",
+        "kanji": "解像度",
+        "component": "",
+        "hiragana": "かいぞうど",
+        "enMeaning": "Resolution",
+        "idMeaning": "Resolusi",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "32",
+        "kanji": "画像",
+        "component": "",
+        "hiragana": "がぞう",
+        "enMeaning": "Image",
+        "idMeaning": "Gambar / citra",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "33",
+        "kanji": "関連",
+        "component": "",
+        "hiragana": "かんれん",
+        "enMeaning": "Relation / connection / relevance",
+        "idMeaning": "Kaitan / hubungan",
+        "type": "Kata Benda"
+    }
+]
