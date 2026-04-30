@@ -1,0 +1,1202 @@
+[
+    {
+        "id": "K.1.1",
+        "kana": "テレビ",
+        "enMeaning": "TV",
+        "idMeaning": "Televisi"
+    },
+    {
+        "id": "K.1.2",
+        "kana": "ガッカリ",
+        "enMeaning": "Disappointed",
+        "idMeaning": "Kecewa"
+    },
+    {
+        "id": "K.1.3",
+        "kana": "ラジオ",
+        "enMeaning": "Radio",
+        "idMeaning": "Radio"
+    },
+    {
+        "id": "K.1.4",
+        "kana": "コンピューター",
+        "enMeaning": "Computer",
+        "idMeaning": "Komputer"
+    },
+    {
+        "id": "K.1.5",
+        "kana": "スマホ",
+        "enMeaning": "Smartphone",
+        "idMeaning": "HP / Smartphone"
+    },
+    {
+        "id": "K.1.6",
+        "kana": "テーブル",
+        "enMeaning": "Table",
+        "idMeaning": "Meja"
+    },
+    {
+        "id": "K.1.7",
+        "kana": "ソファ",
+        "enMeaning": "Sofa",
+        "idMeaning": "Sofa"
+    },
+    {
+        "id": "K.1.8",
+        "kana": "ベッド",
+        "enMeaning": "Bed",
+        "idMeaning": "Tempat tidur"
+    },
+    {
+        "id": "K.1.9",
+        "kana": "ドア",
+        "enMeaning": "Door",
+        "idMeaning": "Pintu"
+    },
+    {
+        "id": "K.1.10",
+        "kana": "エレベーター",
+        "enMeaning": "Elevator",
+        "idMeaning": "Lift"
+    },
+    {
+        "id": "K.1.11",
+        "kana": "トイレ",
+        "enMeaning": "Toilet",
+        "idMeaning": "Toilet"
+    },
+    {
+        "id": "K.1.12",
+        "kana": "コーヒー",
+        "enMeaning": "Coffee",
+        "idMeaning": "Kopi"
+    },
+    {
+        "id": "K.1.13",
+        "kana": "ミルク",
+        "enMeaning": "Milk",
+        "idMeaning": "Susu"
+    },
+    {
+        "id": "K.1.14",
+        "kana": "パン",
+        "enMeaning": "Bread",
+        "idMeaning": "Roti"
+    },
+    {
+        "id": "K.1.15",
+        "kana": "ケーキ",
+        "enMeaning": "Cake",
+        "idMeaning": "Kue"
+    },
+    {
+        "id": "K.1.16",
+        "kana": "ハンバーガー",
+        "enMeaning": "Hamburger",
+        "idMeaning": "Hamburger"
+    },
+    {
+        "id": "K.1.17",
+        "kana": "サラダ",
+        "enMeaning": "Salad",
+        "idMeaning": "Salad"
+    },
+    {
+        "id": "K.1.18",
+        "kana": "ジュース",
+        "enMeaning": "Juice",
+        "idMeaning": "Jus"
+    },
+    {
+        "id": "K.1.19",
+        "kana": "アイスクリーム",
+        "enMeaning": "Ice cream",
+        "idMeaning": "Es krim"
+    },
+    {
+        "id": "K.1.20",
+        "kana": "シャツ",
+        "enMeaning": "Shirt",
+        "idMeaning": "Kemeja"
+    },
+    {
+        "id": "K.1.21",
+        "kana": "ジーンズ",
+        "enMeaning": "Jeans",
+        "idMeaning": "Jeans"
+    },
+    {
+        "id": "K.1.22",
+        "kana": "ジャケット",
+        "enMeaning": "Jacket",
+        "idMeaning": "Jaket"
+    },
+    {
+        "id": "K.1.23",
+        "kana": "スカート",
+        "enMeaning": "Skirt",
+        "idMeaning": "Rok"
+    },
+    {
+        "id": "K.1.24",
+        "kana": "ドレス",
+        "enMeaning": "Dress",
+        "idMeaning": "Gaun"
+    },
+    {
+        "id": "K.1.25",
+        "kana": "スニーカー",
+        "enMeaning": "Sneakers",
+        "idMeaning": "Sepatu sneakers"
+    },
+    {
+        "id": "K.1.26",
+        "kana": "バッグ",
+        "enMeaning": "Bag",
+        "idMeaning": "Tas"
+    },
+    {
+        "id": "K.1.27",
+        "kana": "アルバイト",
+        "enMeaning": "Part-time job",
+        "idMeaning": "Kerja paruh waktu"
+    },
+    {
+        "id": "K.1.28",
+        "kana": "サービス",
+        "enMeaning": "Service",
+        "idMeaning": "Layanan"
+    },
+    {
+        "id": "K.1.29",
+        "kana": "チェック",
+        "enMeaning": "Check",
+        "idMeaning": "Periksa"
+    },
+    {
+        "id": "K.1.30",
+        "kana": "テスト",
+        "enMeaning": "Test",
+        "idMeaning": "Tes"
+    },
+    {
+        "id": "K.1.31",
+        "kana": "スタート",
+        "enMeaning": "Start",
+        "idMeaning": "Mulai"
+    },
+    {
+        "id": "K.1.32",
+        "kana": "ストップ",
+        "enMeaning": "Stop",
+        "idMeaning": "Berhenti"
+    },
+    {
+        "id": "K.1.33",
+        "kana": "コピー",
+        "enMeaning": "Copy",
+        "idMeaning": "Salin"
+    },
+    {
+        "id": "K.1.34",
+        "kana": "メモ",
+        "enMeaning": "Memo",
+        "idMeaning": "Catatan"
+    },
+    {
+        "id": "K.1.35",
+        "kana": "オフィス",
+        "enMeaning": "Office",
+        "idMeaning": "Kantor"
+    },
+    {
+        "id": "K.1.36",
+        "kana": "メール",
+        "enMeaning": "Email",
+        "idMeaning": "Email"
+    },
+    {
+        "id": "K.1.37",
+        "kana": "インターネット",
+        "enMeaning": "Internet",
+        "idMeaning": "Internet"
+    },
+    {
+        "id": "K.1.38",
+        "kana": "プロジェクト",
+        "enMeaning": "Project",
+        "idMeaning": "Proyek"
+    },
+    {
+        "id": "K.1.39",
+        "kana": "プレゼン",
+        "enMeaning": "Presentation",
+        "idMeaning": "Presentasi"
+    },
+    {
+        "id": "K.1.40",
+        "kana": "データ",
+        "enMeaning": "Data",
+        "idMeaning": "Data"
+    },
+    {
+        "id": "K.1.41",
+        "kana": "パスワード",
+        "enMeaning": "Password",
+        "idMeaning": "Kata sandi"
+    },
+    {
+        "id": "K.1.42",
+        "kana": "ゴメン",
+        "enMeaning": "Sorry",
+        "idMeaning": "Maaf"
+    },
+    {
+        "id": "K.1.43",
+        "kana": "ガスレンジ",
+        "enMeaning": "Gas range",
+        "idMeaning": "Kompor gas"
+    },
+    {
+        "id": "K.1.44",
+        "kana": "ガスコンロ",
+        "enMeaning": "Gas stove",
+        "idMeaning": "Kompor gas"
+    },
+    {
+        "id": "K.1.45",
+        "kana": "ワイングラス",
+        "enMeaning": "Wine glass",
+        "idMeaning": "Gelas anggur"
+    },
+    {
+        "id": "K.1.46",
+        "kana": "コーヒーカップ",
+        "enMeaning": "Coffee cup",
+        "idMeaning": "Cangkir kopi"
+    },
+    {
+        "id": "K.1.47",
+        "kana": "ガラスのカップ",
+        "enMeaning": "Glass cup",
+        "idMeaning": "Cangkir kaca"
+    },
+    {
+        "id": "K.1.48",
+        "kana": "レバー",
+        "enMeaning": "Lever",
+        "idMeaning": "Tuas"
+    },
+    {
+        "id": "K.1.49",
+        "kana": "エアコン",
+        "enMeaning": "Air conditioner",
+        "idMeaning": "AC"
+    },
+    {
+        "id": "K.1.50",
+        "kana": "ヒーター",
+        "enMeaning": "Heater",
+        "idMeaning": "Pemanas"
+    },
+    {
+        "id": "K.1.51",
+        "kana": "コンセント",
+        "enMeaning": "Power outlet",
+        "idMeaning": "Stop kontak"
+    },
+    {
+        "id": "K.1.52",
+        "kana": "カーペット",
+        "enMeaning": "Carpet",
+        "idMeaning": "Karpet"
+    },
+    {
+        "id": "K.1.53",
+        "kana": "コード",
+        "enMeaning": "Cord / Cable",
+        "idMeaning": "Kabel"
+    },
+    {
+        "id": "K.1.54",
+        "kana": "リモコン",
+        "enMeaning": "Remote control",
+        "idMeaning": "Remote"
+    },
+    {
+        "id": "K.1.55",
+        "kana": "スイッチ",
+        "enMeaning": "Switch",
+        "idMeaning": "Saklar"
+    },
+    {
+        "id": "K.1.56",
+        "kana": "クーラー",
+        "enMeaning": "Cooler / AC",
+        "idMeaning": "Pendingin / AC"
+    },
+    {
+        "id": "K.1.57",
+        "kana": "1リットル",
+        "enMeaning": "1 liter",
+        "idMeaning": "1 liter"
+    },
+    {
+        "id": "K.1.58",
+        "kana": "カロリー",
+        "enMeaning": "Calorie",
+        "idMeaning": "Kalori"
+    },
+    {
+        "id": "K.1.59",
+        "kana": "ラップ",
+        "enMeaning": "Plastic wrap",
+        "idMeaning": "Plastik wrap"
+    },
+    {
+        "id": "K.1.60",
+        "kana": "フォイル",
+        "enMeaning": "Foil",
+        "idMeaning": "Aluminium foil"
+    },
+    {
+        "id": "K.1.61",
+        "kana": "カメラ",
+        "enMeaning": "Camera",
+        "idMeaning": "Kamera"
+    },
+    {
+        "id": "K.1.62",
+        "kana": "ビデオ",
+        "enMeaning": "Video",
+        "idMeaning": "Video"
+    },
+    {
+        "id": "K.1.63",
+        "kana": "イヤホン",
+        "enMeaning": "Earphones",
+        "idMeaning": "Earphone"
+    },
+    {
+        "id": "K.1.64",
+        "kana": "ヘッドホン",
+        "enMeaning": "Headphones",
+        "idMeaning": "Headphone"
+    },
+    {
+        "id": "K.1.65",
+        "kana": "マイク",
+        "enMeaning": "Microphone",
+        "idMeaning": "Mikrofon"
+    },
+    {
+        "id": "K.1.66",
+        "kana": "スピーカー",
+        "enMeaning": "Speaker",
+        "idMeaning": "Speaker"
+    },
+    {
+        "id": "K.1.67",
+        "kana": "ライト",
+        "enMeaning": "Light",
+        "idMeaning": "Lampu"
+    },
+    {
+        "id": "K.1.68",
+        "kana": "バッテリー",
+        "enMeaning": "Battery",
+        "idMeaning": "Baterai"
+    },
+    {
+        "id": "K.1.69",
+        "kana": "アプリ",
+        "enMeaning": "App",
+        "idMeaning": "Aplikasi"
+    },
+    {
+        "id": "K.1.70",
+        "kana": "ソフト",
+        "enMeaning": "Software",
+        "idMeaning": "Perangkat lunak"
+    },
+    {
+        "id": "K.1.71",
+        "kana": "ハード",
+        "enMeaning": "Hardware",
+        "idMeaning": "Perangkat keras"
+    },
+    {
+        "id": "K.1.72",
+        "kana": "ファイル",
+        "enMeaning": "File",
+        "idMeaning": "File"
+    },
+    {
+        "id": "K.1.73",
+        "kana": "フォルダ",
+        "enMeaning": "Folder",
+        "idMeaning": "Folder"
+    },
+    {
+        "id": "K.1.74",
+        "kana": "ダウンロード",
+        "enMeaning": "Download",
+        "idMeaning": "Unduh"
+    },
+    {
+        "id": "K.1.75",
+        "kana": "アップロード",
+        "enMeaning": "Upload",
+        "idMeaning": "Unggah"
+    },
+    {
+        "id": "K.1.76",
+        "kana": "ログイン",
+        "enMeaning": "Login",
+        "idMeaning": "Masuk"
+    },
+    {
+        "id": "K.1.77",
+        "kana": "ログアウト",
+        "enMeaning": "Logout",
+        "idMeaning": "Keluar"
+    },
+    {
+        "id": "K.1.78",
+        "kana": "クリック",
+        "enMeaning": "Click",
+        "idMeaning": "Klik"
+    },
+    {
+        "id": "K.1.79",
+        "kana": "ドラッグ",
+        "enMeaning": "Drag",
+        "idMeaning": "Geser"
+    },
+    {
+        "id": "K.1.80",
+        "kana": "スクロール",
+        "enMeaning": "Scroll",
+        "idMeaning": "Scroll"
+    },
+    {
+        "id": "K.1.81",
+        "kana": "リンク",
+        "enMeaning": "Link",
+        "idMeaning": "Tautan"
+    },
+    {
+        "id": "K.1.82",
+        "kana": "ブラウザ",
+        "enMeaning": "Browser",
+        "idMeaning": "Browser"
+    },
+    {
+        "id": "K.1.83",
+        "kana": "サーバー",
+        "enMeaning": "Server",
+        "idMeaning": "Server"
+    },
+    {
+        "id": "K.1.84",
+        "kana": "クラウド",
+        "enMeaning": "Cloud",
+        "idMeaning": "Cloud"
+    },
+    {
+        "id": "K.1.85",
+        "kana": "デバイス",
+        "enMeaning": "Device",
+        "idMeaning": "Perangkat"
+    },
+    {
+        "id": "K.1.86",
+        "kana": "ネットワーク",
+        "enMeaning": "Network",
+        "idMeaning": "Jaringan"
+    },
+    {
+        "id": "K.1.87",
+        "kana": "システム",
+        "enMeaning": "System",
+        "idMeaning": "Sistem"
+    },
+    {
+        "id": "K.1.88",
+        "kana": "アップデート",
+        "enMeaning": "Update",
+        "idMeaning": "Pembaruan"
+    },
+    {
+        "id": "K.1.89",
+        "kana": "エラー",
+        "enMeaning": "Error",
+        "idMeaning": "Error"
+    },
+    {
+        "id": "K.1.90",
+        "kana": "バグ",
+        "enMeaning": "Bug",
+        "idMeaning": "Bug"
+    },
+    {
+        "id": "K.1.91",
+        "kana": "セキュリティ",
+        "enMeaning": "Security",
+        "idMeaning": "Keamanan"
+    },
+    {
+        "id": "K.1.92",
+        "kana": "プログラム",
+        "enMeaning": "Program",
+        "idMeaning": "Program"
+    },
+    {
+        "id": "K.1.93",
+        "kana": "コード",
+        "enMeaning": "Code",
+        "idMeaning": "Kode"
+    },
+    {
+        "id": "K.1.94",
+        "kana": "エンジニア",
+        "enMeaning": "Engineer",
+        "idMeaning": "Insinyur"
+    },
+    {
+        "id": "K.1.95",
+        "kana": "デザイナー",
+        "enMeaning": "Designer",
+        "idMeaning": "Desainer"
+    },
+    {
+        "id": "K.1.96",
+        "kana": "マネージャー",
+        "enMeaning": "Manager",
+        "idMeaning": "Manajer"
+    },
+    {
+        "id": "K.1.97",
+        "kana": "スタッフ",
+        "enMeaning": "Staff",
+        "idMeaning": "Staf"
+    },
+    {
+        "id": "K.1.98",
+        "kana": "チーム",
+        "enMeaning": "Team",
+        "idMeaning": "Tim"
+    },
+    {
+        "id": "K.1.99",
+        "kana": "ミーティング",
+        "enMeaning": "Meeting",
+        "idMeaning": "Rapat"
+    },
+    {
+        "id": "K.1.100",
+        "kana": "スケジュール",
+        "enMeaning": "Schedule",
+        "idMeaning": "Jadwal"
+    },
+    {
+        "id": "K.1.101",
+        "kana": "タスク",
+        "enMeaning": "Task",
+        "idMeaning": "Tugas"
+    },
+    {
+        "id": "K.1.102",
+        "kana": "プロセス",
+        "enMeaning": "Process",
+        "idMeaning": "Proses"
+    },
+    {
+        "id": "K.1.103",
+        "kana": "プラン",
+        "enMeaning": "Plan",
+        "idMeaning": "Rencana"
+    },
+    {
+        "id": "K.1.104",
+        "kana": "アイデア",
+        "enMeaning": "Idea",
+        "idMeaning": "Ide"
+    },
+    {
+        "id": "K.1.105",
+        "kana": "コンセプト",
+        "enMeaning": "Concept",
+        "idMeaning": "Konsep"
+    },
+    {
+        "id": "K.1.106",
+        "kana": "リスク",
+        "enMeaning": "Risk",
+        "idMeaning": "Risiko"
+    },
+    {
+        "id": "K.1.107",
+        "kana": "チャンス",
+        "enMeaning": "Chance",
+        "idMeaning": "Kesempatan"
+    },
+    {
+        "id": "K.1.108",
+        "kana": "サポート",
+        "enMeaning": "Support",
+        "idMeaning": "Dukungan"
+    },
+    {
+        "id": "K.1.109",
+        "kana": "サービス",
+        "enMeaning": "Service",
+        "idMeaning": "Layanan"
+    },
+    {
+        "id": "K.1.110",
+        "kana": "クレーム",
+        "enMeaning": "Complaint",
+        "idMeaning": "Keluhan"
+    },
+    {
+        "id": "K.1.111",
+        "kana": "レビュー",
+        "enMeaning": "Review",
+        "idMeaning": "Ulasan"
+    },
+    {
+        "id": "K.1.112",
+        "kana": "コメント",
+        "enMeaning": "Comment",
+        "idMeaning": "Komentar"
+    },
+    {
+        "id": "K.1.113",
+        "kana": "フィードバック",
+        "enMeaning": "Feedback",
+        "idMeaning": "Umpan balik"
+    },
+    {
+        "id": "K.1.114",
+        "kana": "レポート",
+        "enMeaning": "Report",
+        "idMeaning": "Laporan"
+    },
+    {
+        "id": "K.1.115",
+        "kana": "データベース",
+        "enMeaning": "Database",
+        "idMeaning": "Basis data"
+    },
+    {
+        "id": "K.1.116",
+        "kana": "アクセス",
+        "enMeaning": "Access",
+        "idMeaning": "Akses"
+    },
+    {
+        "id": "K.1.117",
+        "kana": "ユーザー",
+        "enMeaning": "User",
+        "idMeaning": "Pengguna"
+    },
+    {
+        "id": "K.1.118",
+        "kana": "アカウント",
+        "enMeaning": "Account",
+        "idMeaning": "Akun"
+    },
+    {
+        "id": "K.1.119",
+        "kana": "パス",
+        "enMeaning": "Pass",
+        "idMeaning": "Pass / izin"
+    },
+    {
+        "id": "K.1.120",
+        "kana": "カード",
+        "enMeaning": "Card",
+        "idMeaning": "Kartu"
+    },
+    {
+        "id": "K.1.121",
+        "kana": "チケット",
+        "enMeaning": "Ticket",
+        "idMeaning": "Tiket"
+    },
+    {
+        "id": "K.1.122",
+        "kana": "クーポン",
+        "enMeaning": "Coupon",
+        "idMeaning": "Kupon"
+    },
+    {
+        "id": "K.1.123",
+        "kana": "ポイント",
+        "enMeaning": "Point",
+        "idMeaning": "Poin"
+    },
+    {
+        "id": "K.1.124",
+        "kana": "セール",
+        "enMeaning": "Sale",
+        "idMeaning": "Diskon"
+    },
+    {
+        "id": "K.1.125",
+        "kana": "ショップ",
+        "enMeaning": "Shop",
+        "idMeaning": "Toko"
+    },
+    {
+        "id": "K.1.126",
+        "kana": "ストア",
+        "enMeaning": "Store",
+        "idMeaning": "Toko"
+    },
+    {
+        "id": "K.1.127",
+        "kana": "ブランド",
+        "enMeaning": "Brand",
+        "idMeaning": "Merek"
+    },
+    {
+        "id": "K.1.128",
+        "kana": "メーカー",
+        "enMeaning": "Maker / Manufacturer",
+        "idMeaning": "Produsen"
+    },
+    {
+        "id": "K.1.129",
+        "kana": "モデル",
+        "enMeaning": "Model",
+        "idMeaning": "Model"
+    },
+    {
+        "id": "K.1.130",
+        "kana": "サイズ",
+        "enMeaning": "Size",
+        "idMeaning": "Ukuran"
+    },
+    {
+        "id": "K.1.131",
+        "kana": "カラー",
+        "enMeaning": "Color",
+        "idMeaning": "Warna"
+    },
+    {
+        "id": "K.1.132",
+        "kana": "デザイン",
+        "enMeaning": "Design",
+        "idMeaning": "Desain"
+    },
+    {
+        "id": "K.1.133",
+        "kana": "スタイル",
+        "enMeaning": "Style",
+        "idMeaning": "Gaya"
+    },
+    {
+        "id": "K.1.134",
+        "kana": "ファッション",
+        "enMeaning": "Fashion",
+        "idMeaning": "Fashion"
+    },
+    {
+        "id": "K.1.135",
+        "kana": "アクセサリー",
+        "enMeaning": "Accessory",
+        "idMeaning": "Aksesoris"
+    },
+    {
+        "id": "K.1.136",
+        "kana": "リング",
+        "enMeaning": "Ring",
+        "idMeaning": "Cincin"
+    },
+    {
+        "id": "K.1.137",
+        "kana": "ネックレス",
+        "enMeaning": "Necklace",
+        "idMeaning": "Kalung"
+    },
+    {
+        "id": "K.1.138",
+        "kana": "ブレスレット",
+        "enMeaning": "Bracelet",
+        "idMeaning": "Gelang"
+    },
+    {
+        "id": "K.1.139",
+        "kana": "キャップ",
+        "enMeaning": "Cap",
+        "idMeaning": "Topi"
+    },
+    {
+        "id": "K.1.140",
+        "kana": "コート",
+        "enMeaning": "Coat",
+        "idMeaning": "Mantel"
+    },
+    {
+        "id": "K.1.141",
+        "kana": "セーター",
+        "enMeaning": "Sweater",
+        "idMeaning": "Sweater"
+    },
+    {
+        "id": "K.1.142",
+        "kana": "パーカー",
+        "enMeaning": "Hoodie",
+        "idMeaning": "Hoodie"
+    },
+    {
+        "id": "K.1.143",
+        "kana": "スーツ",
+        "enMeaning": "Suit",
+        "idMeaning": "Setelan"
+    },
+    {
+        "id": "K.1.144",
+        "kana": "ネクタイ",
+        "enMeaning": "Tie",
+        "idMeaning": "Dasi"
+    },
+    {
+        "id": "K.1.145",
+        "kana": "ベルト",
+        "enMeaning": "Belt",
+        "idMeaning": "Ikat pinggang"
+    },
+    {
+        "id": "K.1.146",
+        "kana": "サンダル",
+        "enMeaning": "Sandals",
+        "idMeaning": "Sandal"
+    },
+    {
+        "id": "K.1.147",
+        "kana": "ブーツ",
+        "enMeaning": "Boots",
+        "idMeaning": "Sepatu bot"
+    },
+    {
+        "id": "K.1.148",
+        "kana": "ソックス",
+        "enMeaning": "Socks",
+        "idMeaning": "Kaos kaki"
+    },
+    {
+        "id": "K.1.149",
+        "kana": "ホテル",
+        "enMeaning": "Hotel",
+        "idMeaning": "Hotel"
+    },
+    {
+        "id": "K.1.150",
+        "kana": "レストラン",
+        "enMeaning": "Restaurant",
+        "idMeaning": "Restoran"
+    },
+    {
+        "id": "K.1.151",
+        "kana": "カフェ",
+        "enMeaning": "Cafe",
+        "idMeaning": "Kafe"
+    },
+    {
+        "id": "K.1.152",
+        "kana": "バー",
+        "enMeaning": "Bar",
+        "idMeaning": "Bar"
+    },
+    {
+        "id": "K.1.153",
+        "kana": "メニュー",
+        "enMeaning": "Menu",
+        "idMeaning": "Menu"
+    },
+    {
+        "id": "K.1.154",
+        "kana": "オーダー",
+        "enMeaning": "Order",
+        "idMeaning": "Pesan"
+    },
+    {
+        "id": "K.1.155",
+        "kana": "セット",
+        "enMeaning": "Set",
+        "idMeaning": "Paket"
+    },
+    {
+        "id": "K.1.156",
+        "kana": "ドリンク",
+        "enMeaning": "Drink",
+        "idMeaning": "Minuman"
+    },
+    {
+        "id": "K.1.157",
+        "kana": "デザート",
+        "enMeaning": "Dessert",
+        "idMeaning": "Pencuci mulut"
+    },
+    {
+        "id": "K.1.158",
+        "kana": "ランチ",
+        "enMeaning": "Lunch",
+        "idMeaning": "Makan siang"
+    },
+    {
+        "id": "K.1.159",
+        "kana": "ディナー",
+        "enMeaning": "Dinner",
+        "idMeaning": "Makan malam"
+    },
+    {
+        "id": "K.1.160",
+        "kana": "モーニング",
+        "enMeaning": "Morning set",
+        "idMeaning": "Sarapan set"
+    },
+    {
+        "id": "K.1.161",
+        "kana": "ビュッフェ",
+        "enMeaning": "Buffet",
+        "idMeaning": "Buffet"
+    },
+    {
+        "id": "K.1.162",
+        "kana": "テイクアウト",
+        "enMeaning": "Takeout",
+        "idMeaning": "Bungkus"
+    },
+    {
+        "id": "K.1.163",
+        "kana": "デリバリー",
+        "enMeaning": "Delivery",
+        "idMeaning": "Pengantaran"
+    },
+    {
+        "id": "K.1.164",
+        "kana": "キッチン",
+        "enMeaning": "Kitchen",
+        "idMeaning": "Dapur"
+    },
+    {
+        "id": "K.1.165",
+        "kana": "スタッフ",
+        "enMeaning": "Staff",
+        "idMeaning": "Staf"
+    },
+    {
+        "id": "K.1.166",
+        "kana": "シェフ",
+        "enMeaning": "Chef",
+        "idMeaning": "Koki"
+    },
+    {
+        "id": "K.1.167",
+        "kana": "ウェイター",
+        "enMeaning": "Waiter",
+        "idMeaning": "Pelayan pria"
+    },
+    {
+        "id": "K.1.168",
+        "kana": "ウェイトレス",
+        "enMeaning": "Waitress",
+        "idMeaning": "Pelayan wanita"
+    },
+    {
+        "id": "K.1.169",
+        "kana": "バス",
+        "enMeaning": "Bus",
+        "idMeaning": "Bus"
+    },
+    {
+        "id": "K.1.170",
+        "kana": "タクシー",
+        "enMeaning": "Taxi",
+        "idMeaning": "Taksi"
+    },
+    {
+        "id": "K.1.171",
+        "kana": "トラック",
+        "enMeaning": "Truck",
+        "idMeaning": "Truk"
+    },
+    {
+        "id": "K.1.172",
+        "kana": "バイク",
+        "enMeaning": "Motorbike",
+        "idMeaning": "Motor"
+    },
+    {
+        "id": "K.1.173",
+        "kana": "ガソリン",
+        "enMeaning": "Gasoline",
+        "idMeaning": "Bensin"
+    },
+    {
+        "id": "K.1.174",
+        "kana": "エンジン",
+        "enMeaning": "Engine",
+        "idMeaning": "Mesin"
+    },
+    {
+        "id": "K.1.175",
+        "kana": "ブレーキ",
+        "enMeaning": "Brake",
+        "idMeaning": "Rem"
+    },
+    {
+        "id": "K.1.176",
+        "kana": "スピード",
+        "enMeaning": "Speed",
+        "idMeaning": "Kecepatan"
+    },
+    {
+        "id": "K.1.177",
+        "kana": "ハンドル",
+        "enMeaning": "Handle / Steering",
+        "idMeaning": "Setir"
+    },
+    {
+        "id": "K.1.178",
+        "kana": "ドライブ",
+        "enMeaning": "Drive",
+        "idMeaning": "Mengemudi"
+    },
+    {
+        "id": "K.1.179",
+        "kana": "トレーニング",
+        "enMeaning": "Training",
+        "idMeaning": "Latihan"
+    },
+    {
+        "id": "K.1.180",
+        "kana": "フィットネス",
+        "enMeaning": "Fitness",
+        "idMeaning": "Kebugaran"
+    },
+    {
+        "id": "K.1.181",
+        "kana": "ジム",
+        "enMeaning": "Gym",
+        "idMeaning": "Gym"
+    },
+    {
+        "id": "K.1.182",
+        "kana": "ヨガ",
+        "enMeaning": "Yoga",
+        "idMeaning": "Yoga"
+    },
+    {
+        "id": "K.1.183",
+        "kana": "ランニング",
+        "enMeaning": "Running",
+        "idMeaning": "Lari"
+    },
+    {
+        "id": "K.1.184",
+        "kana": "ウォーキング",
+        "enMeaning": "Walking",
+        "idMeaning": "Jalan kaki"
+    },
+    {
+        "id": "K.1.185",
+        "kana": "ストレッチ",
+        "enMeaning": "Stretch",
+        "idMeaning": "Peregangan"
+    },
+    {
+        "id": "K.1.186",
+        "kana": "ダイエット",
+        "enMeaning": "Diet",
+        "idMeaning": "Diet"
+    },
+    {
+        "id": "K.1.187",
+        "kana": "カロリー",
+        "enMeaning": "Calorie",
+        "idMeaning": "Kalori"
+    },
+    {
+        "id": "K.1.188",
+        "kana": "プロテイン",
+        "enMeaning": "Protein",
+        "idMeaning": "Protein"
+    },
+    {
+        "id": "K.1.189",
+        "kana": "ゲーム",
+        "enMeaning": "Game",
+        "idMeaning": "Game"
+    },
+    {
+        "id": "K.1.190",
+        "kana": "プレイヤー",
+        "enMeaning": "Player",
+        "idMeaning": "Pemain"
+    },
+    {
+        "id": "K.1.191",
+        "kana": "レベル",
+        "enMeaning": "Level",
+        "idMeaning": "Level"
+    },
+    {
+        "id": "K.1.192",
+        "kana": "スコア",
+        "enMeaning": "Score",
+        "idMeaning": "Skor"
+    },
+    {
+        "id": "K.1.193",
+        "kana": "ステージ",
+        "enMeaning": "Stage",
+        "idMeaning": "Tahap"
+    },
+    {
+        "id": "K.1.194",
+        "kana": "キャラクター",
+        "enMeaning": "Character",
+        "idMeaning": "Karakter"
+    },
+    {
+        "id": "K.1.195",
+        "kana": "アイテム",
+        "enMeaning": "Item",
+        "idMeaning": "Item"
+    },
+    {
+        "id": "K.1.196",
+        "kana": "スキル",
+        "enMeaning": "Skill",
+        "idMeaning": "Keterampilan"
+    },
+    {
+        "id": "K.1.197",
+        "kana": "ボーナス",
+        "enMeaning": "Bonus",
+        "idMeaning": "Bonus"
+    },
+    {
+        "id": "K.1.198",
+        "kana": "ミッション",
+        "enMeaning": "Mission",
+        "idMeaning": "Misi"
+    },
+    {
+        "id": "K.1.199",
+        "kana": "ニュース",
+        "enMeaning": "News",
+        "idMeaning": "Berita"
+    },
+    {
+        "id": "K.1.200",
+        "kana": "メディア",
+        "enMeaning": "Media",
+        "idMeaning": "Media"
+    }
+]

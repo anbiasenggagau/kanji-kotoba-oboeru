@@ -155,7 +155,7 @@ export const progressStore = defineStore('progressStore', () => {
             progress.value[kanji.id] = {
                 kanji: kanji.kanji,
                 amount: 1,
-                trueStack: 0,
+                trueStack: 1,
                 falseStack: 0,
                 lastProgress: new Date()
             }

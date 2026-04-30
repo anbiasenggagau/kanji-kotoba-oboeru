@@ -1,4 +1,64 @@
 [
-    "ガッカリ",
-    "ビックリ"
+    {
+        "id": "K.2.1",
+        "kana": "テレビドラマ",
+        "enMeaning": "TV drama",
+        "idMeaning": "Drama TV"
+    },
+    {
+        "id": "K.2.2",
+        "kana": "アニメ",
+        "enMeaning": "Anime",
+        "idMeaning": "Anime"
+    },
+    {
+        "id": "K.2.3",
+        "kana": "マンガ",
+        "enMeaning": "Manga",
+        "idMeaning": "Manga"
+    },
+    {
+        "id": "K.2.4",
+        "kana": "ストーリー",
+        "enMeaning": "Story",
+        "idMeaning": "Cerita"
+    },
+    {
+        "id": "K.2.5",
+        "kana": "シーン",
+        "enMeaning": "Scene",
+        "idMeaning": "Adegan"
+    },
+    {
+        "id": "K.2.6",
+        "kana": "エピソード",
+        "enMeaning": "Episode",
+        "idMeaning": "Episode"
+    },
+    {
+        "id": "K.2.7",
+        "kana": "タイトル",
+        "enMeaning": "Title",
+        "idMeaning": "Judul"
+    },
+    {
+        "id": "K.2.8",
+        "kana": "テーマ",
+        "enMeaning": "Theme",
+        "idMeaning": "Tema"
+    },
+    {
+        "id": "K.2.9",
+        "kana": "フライパン",
+        "enMeaning": "Frying pan",
+        "idMeaning": "Wajan"
+    },
+    {
+        "id": "K.2.10",
+        "kanji": "ガッカリ",
+        "enMeaning": "Disappointed",
+        "idMeaning": "Kecewa"
+    }
 ]
+ノック
+サイレン

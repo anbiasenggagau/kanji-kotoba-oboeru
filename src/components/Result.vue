@@ -52,6 +52,7 @@ const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
             kanjiId,
             kanji: value.kanji,
             percent: parseInt(((value.amount / 5) * 100).toFixed(0)),
+            streak: value.trueStack,
             color
         };
     })
@@ -214,7 +215,7 @@ function goHome() {
                 <AccordionContent>
                     <div class="grid grid-cols-3 lg:grid-cols-9 gap-4">
                         <div v-for="progress in progressArr" :key="progress.kanjiId">
-                            <div class="flex items-center gap-2">
+                            <div class="relative flex items-center gap-2">
                                 <span :class="[
                                     'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
                                     progress.color
@@ -223,7 +224,12 @@ function goHome() {
                                 <div class="text-sm lg:text-base">
                                     <div class="text-sm font-medium">{{ progress.kanjiId }}</div>
                                     <div class="text-xs font-medium">{{ progress.kanji }}</div>
-                                    <div class="font-extrabold">({{ progress.percent }}%)</div>
+                                    <div class="flex justify-between items-center">
+                                        <div class="font-extrabold">({{ progress.percent }}%)</div>
+                                        <div class="ml-1 md:ml-1.5 lg:ml-2 text-xs lg:text-sm text-green-500 font-bold">
+                                            {{ progress.streak }}
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

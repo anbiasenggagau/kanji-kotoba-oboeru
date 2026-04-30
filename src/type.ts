@@ -19,5 +19,6 @@ export type KanjiProgress = {
     kanjiId: string,
     kanji: string
     percent: number,
+    streak: number,
     color: "bg-red-500" | "bg-orange-500" | "bg-yellow-500" | "bg-lime-500" | "bg-green-500",
 }
