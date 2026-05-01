@@ -197,7 +197,21 @@ export const progressStore = defineStore('progressStore', () => {
             return true
         }
         // running odds if progress is tracked
-        return Math.random() > (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)) / 5
+
+        // return Math.random() > (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)) / 5
+
+        // Debug Mode
+        const odds = Math.random()
+        const prob = (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.75)) / 5
+        console.info("found progress of", kanjiId)
+        console.info("progress:", progress.value[kanjiId].amount)
+        console.info("currentStack:", progress.value[kanjiId].trueStack)
+        console.info("prob:", prob)
+        console.info("odds:", odds)
+        console.info("result:", odds > prob)
+        console.info("===============")
+
+        return odds > prob
     }
 
     function getProgress(kanjiId: string): number {

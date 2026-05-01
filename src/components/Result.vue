@@ -224,7 +224,7 @@ function goHome() {
                                 <div class="text-sm lg:text-base">
                                     <div class="text-sm font-medium">{{ progress.kanjiId }}</div>
                                     <div class="text-xs font-medium">{{ progress.kanji }}</div>
-                                    <div class="flex justify-between items-center">
+                                    <div class="flex items-center">
                                         <div class="font-extrabold">({{ progress.percent }}%)</div>
                                         <div class="ml-1 md:ml-1.5 lg:ml-2 text-xs lg:text-sm text-green-500 font-bold">
                                             {{ progress.streak }}
