@@ -118,7 +118,7 @@ function blurFocus(event: Event) {
                     <SecondaryButton class="text-xs md:text-base"
                         :label="arraysEqual(selectedVolumes[selectedLevel]!, volumes[selectedLevel]!) ? 'Tidak Pilih Semua' : 'Pilih Semua'"
                         variant="link" @click="selectAllVolumes" />
-                    <div class="flex justify-center space-x-2 lg:space-x-4 flex-wrap">
+                    <div class="flex justify-center space-x-1.5 md:space-x-2.25 lg:space-x-4 flex-wrap">
                         <Button v-for="vol in volumes[selectedLevel]" :key="vol" class="text-xs md:text-base"
                             :label="String(vol)"
                             :variant="selectedVolumes[selectedLevel]!.includes(vol) ? 'link' : 'outlined'"

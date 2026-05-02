@@ -139,7 +139,7 @@ async function getKanjiData(file: string) {
                     </template>
                     <template #content>
                         <div class="flex flex-col justify-center items-center">
-                            <div class="flex justify-center space-x-2 lg:space-x-4">
+                            <div class="flex justify-center space-x-1.5 md:space-x-2.25 lg:space-x-4">
                                 <Button v-for="vol in volumes[selectedLevel]" :key="vol" class="text-xs md:text-base"
                                     :label="String(vol)" :variant="selectedVolume == vol ? 'link' : 'outlined'"
                                     @click="chooseVolume(vol)" />

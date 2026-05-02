@@ -314,8 +314,8 @@
     {
         "id": "K.1.53",
         "kana": "コード",
-        "enMeaning": "Cord / Cable",
-        "idMeaning": "Kabel"
+        "enMeaning": "Cord / cable / code",
+        "idMeaning": "Kabel / kode"
     },
     {
         "id": "K.1.54",
@@ -553,650 +553,644 @@
     },
     {
         "id": "K.1.93",
-        "kana": "コード",
-        "enMeaning": "Code",
-        "idMeaning": "Kode"
-    },
-    {
-        "id": "K.1.94",
         "kana": "エンジニア",
         "enMeaning": "Engineer",
         "idMeaning": "Insinyur"
     },
     {
-        "id": "K.1.95",
+        "id": "K.1.94",
         "kana": "デザイナー",
         "enMeaning": "Designer",
         "idMeaning": "Desainer"
     },
     {
-        "id": "K.1.96",
+        "id": "K.1.95",
         "kana": "マネージャー",
         "enMeaning": "Manager",
         "idMeaning": "Manajer"
     },
     {
-        "id": "K.1.97",
+        "id": "K.1.96",
         "kana": "スタッフ",
         "enMeaning": "Staff",
         "idMeaning": "Staf"
     },
     {
-        "id": "K.1.98",
+        "id": "K.1.97",
         "kana": "チーム",
         "enMeaning": "Team",
         "idMeaning": "Tim"
     },
     {
-        "id": "K.1.99",
+        "id": "K.1.98",
         "kana": "ミーティング",
         "enMeaning": "Meeting",
         "idMeaning": "Rapat"
     },
     {
-        "id": "K.1.100",
+        "id": "K.1.99",
         "kana": "スケジュール",
         "enMeaning": "Schedule",
         "idMeaning": "Jadwal"
     },
     {
-        "id": "K.1.101",
+        "id": "K.1.100",
         "kana": "タスク",
         "enMeaning": "Task",
         "idMeaning": "Tugas"
     },
     {
-        "id": "K.1.102",
+        "id": "K.1.101",
         "kana": "プロセス",
         "enMeaning": "Process",
         "idMeaning": "Proses"
     },
     {
-        "id": "K.1.103",
+        "id": "K.1.102",
         "kana": "プラン",
         "enMeaning": "Plan",
         "idMeaning": "Rencana"
     },
     {
-        "id": "K.1.104",
+        "id": "K.1.103",
         "kana": "アイデア",
         "enMeaning": "Idea",
         "idMeaning": "Ide"
     },
     {
-        "id": "K.1.105",
+        "id": "K.1.104",
         "kana": "コンセプト",
         "enMeaning": "Concept",
         "idMeaning": "Konsep"
     },
     {
-        "id": "K.1.106",
+        "id": "K.1.105",
         "kana": "リスク",
         "enMeaning": "Risk",
         "idMeaning": "Risiko"
     },
     {
-        "id": "K.1.107",
+        "id": "K.1.106",
         "kana": "チャンス",
         "enMeaning": "Chance",
         "idMeaning": "Kesempatan"
     },
     {
-        "id": "K.1.108",
+        "id": "K.1.107",
         "kana": "サポート",
         "enMeaning": "Support",
         "idMeaning": "Dukungan"
     },
     {
-        "id": "K.1.109",
-        "kana": "サービス",
-        "enMeaning": "Service",
-        "idMeaning": "Layanan"
-    },
-    {
-        "id": "K.1.110",
+        "id": "K.1.108",
         "kana": "クレーム",
         "enMeaning": "Complaint",
         "idMeaning": "Keluhan"
     },
     {
-        "id": "K.1.111",
+        "id": "K.1.109",
         "kana": "レビュー",
         "enMeaning": "Review",
         "idMeaning": "Ulasan"
     },
     {
-        "id": "K.1.112",
+        "id": "K.1.110",
         "kana": "コメント",
         "enMeaning": "Comment",
         "idMeaning": "Komentar"
     },
     {
-        "id": "K.1.113",
+        "id": "K.1.111",
         "kana": "フィードバック",
         "enMeaning": "Feedback",
         "idMeaning": "Umpan balik"
     },
     {
-        "id": "K.1.114",
+        "id": "K.1.112",
         "kana": "レポート",
         "enMeaning": "Report",
         "idMeaning": "Laporan"
     },
     {
-        "id": "K.1.115",
+        "id": "K.1.113",
         "kana": "データベース",
         "enMeaning": "Database",
         "idMeaning": "Basis data"
     },
     {
-        "id": "K.1.116",
+        "id": "K.1.114",
         "kana": "アクセス",
         "enMeaning": "Access",
         "idMeaning": "Akses"
     },
     {
-        "id": "K.1.117",
+        "id": "K.1.115",
         "kana": "ユーザー",
         "enMeaning": "User",
         "idMeaning": "Pengguna"
     },
     {
-        "id": "K.1.118",
+        "id": "K.1.116",
         "kana": "アカウント",
         "enMeaning": "Account",
         "idMeaning": "Akun"
     },
     {
-        "id": "K.1.119",
+        "id": "K.1.117",
         "kana": "パス",
         "enMeaning": "Pass",
         "idMeaning": "Pass / izin"
     },
     {
-        "id": "K.1.120",
+        "id": "K.1.118",
         "kana": "カード",
         "enMeaning": "Card",
         "idMeaning": "Kartu"
     },
     {
-        "id": "K.1.121",
+        "id": "K.1.119",
         "kana": "チケット",
         "enMeaning": "Ticket",
         "idMeaning": "Tiket"
     },
     {
-        "id": "K.1.122",
+        "id": "K.1.120",
         "kana": "クーポン",
         "enMeaning": "Coupon",
         "idMeaning": "Kupon"
     },
     {
-        "id": "K.1.123",
+        "id": "K.1.121",
         "kana": "ポイント",
         "enMeaning": "Point",
         "idMeaning": "Poin"
     },
     {
-        "id": "K.1.124",
+        "id": "K.1.122",
         "kana": "セール",
         "enMeaning": "Sale",
         "idMeaning": "Diskon"
     },
     {
-        "id": "K.1.125",
+        "id": "K.1.123",
         "kana": "ショップ",
         "enMeaning": "Shop",
         "idMeaning": "Toko"
     },
     {
-        "id": "K.1.126",
+        "id": "K.1.124",
         "kana": "ストア",
         "enMeaning": "Store",
         "idMeaning": "Toko"
     },
     {
-        "id": "K.1.127",
+        "id": "K.1.125",
         "kana": "ブランド",
         "enMeaning": "Brand",
         "idMeaning": "Merek"
     },
     {
-        "id": "K.1.128",
+        "id": "K.1.126",
         "kana": "メーカー",
         "enMeaning": "Maker / Manufacturer",
         "idMeaning": "Produsen"
     },
     {
-        "id": "K.1.129",
+        "id": "K.1.127",
         "kana": "モデル",
         "enMeaning": "Model",
         "idMeaning": "Model"
     },
     {
-        "id": "K.1.130",
+        "id": "K.1.128",
         "kana": "サイズ",
         "enMeaning": "Size",
         "idMeaning": "Ukuran"
     },
     {
-        "id": "K.1.131",
+        "id": "K.1.129",
         "kana": "カラー",
         "enMeaning": "Color",
         "idMeaning": "Warna"
     },
     {
-        "id": "K.1.132",
+        "id": "K.1.130",
         "kana": "デザイン",
         "enMeaning": "Design",
         "idMeaning": "Desain"
     },
     {
-        "id": "K.1.133",
+        "id": "K.1.131",
         "kana": "スタイル",
         "enMeaning": "Style",
         "idMeaning": "Gaya"
     },
     {
-        "id": "K.1.134",
+        "id": "K.1.132",
         "kana": "ファッション",
         "enMeaning": "Fashion",
         "idMeaning": "Fashion"
     },
     {
-        "id": "K.1.135",
+        "id": "K.1.133",
         "kana": "アクセサリー",
         "enMeaning": "Accessory",
         "idMeaning": "Aksesoris"
     },
     {
-        "id": "K.1.136",
+        "id": "K.1.134",
         "kana": "リング",
         "enMeaning": "Ring",
         "idMeaning": "Cincin"
     },
     {
-        "id": "K.1.137",
+        "id": "K.1.135",
         "kana": "ネックレス",
         "enMeaning": "Necklace",
         "idMeaning": "Kalung"
     },
     {
-        "id": "K.1.138",
+        "id": "K.1.136",
         "kana": "ブレスレット",
         "enMeaning": "Bracelet",
         "idMeaning": "Gelang"
     },
     {
-        "id": "K.1.139",
+        "id": "K.1.137",
         "kana": "キャップ",
         "enMeaning": "Cap",
         "idMeaning": "Topi"
     },
     {
-        "id": "K.1.140",
+        "id": "K.1.138",
         "kana": "コート",
         "enMeaning": "Coat",
         "idMeaning": "Mantel"
     },
     {
-        "id": "K.1.141",
+        "id": "K.1.139",
         "kana": "セーター",
         "enMeaning": "Sweater",
         "idMeaning": "Sweater"
     },
     {
-        "id": "K.1.142",
+        "id": "K.1.140",
         "kana": "パーカー",
         "enMeaning": "Hoodie",
         "idMeaning": "Hoodie"
     },
     {
-        "id": "K.1.143",
+        "id": "K.1.141",
         "kana": "スーツ",
         "enMeaning": "Suit",
         "idMeaning": "Setelan"
     },
     {
-        "id": "K.1.144",
+        "id": "K.1.142",
         "kana": "ネクタイ",
         "enMeaning": "Tie",
         "idMeaning": "Dasi"
     },
     {
-        "id": "K.1.145",
+        "id": "K.1.143",
         "kana": "ベルト",
         "enMeaning": "Belt",
         "idMeaning": "Ikat pinggang"
     },
     {
-        "id": "K.1.146",
+        "id": "K.1.144",
         "kana": "サンダル",
         "enMeaning": "Sandals",
         "idMeaning": "Sandal"
     },
     {
-        "id": "K.1.147",
+        "id": "K.1.145",
         "kana": "ブーツ",
         "enMeaning": "Boots",
         "idMeaning": "Sepatu bot"
     },
     {
-        "id": "K.1.148",
+        "id": "K.1.146",
         "kana": "ソックス",
         "enMeaning": "Socks",
         "idMeaning": "Kaos kaki"
     },
     {
-        "id": "K.1.149",
+        "id": "K.1.147",
         "kana": "ホテル",
         "enMeaning": "Hotel",
         "idMeaning": "Hotel"
     },
     {
-        "id": "K.1.150",
+        "id": "K.1.148",
         "kana": "レストラン",
         "enMeaning": "Restaurant",
         "idMeaning": "Restoran"
     },
     {
-        "id": "K.1.151",
+        "id": "K.1.149",
         "kana": "カフェ",
         "enMeaning": "Cafe",
         "idMeaning": "Kafe"
     },
     {
-        "id": "K.1.152",
+        "id": "K.1.150",
         "kana": "バー",
         "enMeaning": "Bar",
         "idMeaning": "Bar"
     },
     {
-        "id": "K.1.153",
+        "id": "K.1.151",
         "kana": "メニュー",
         "enMeaning": "Menu",
         "idMeaning": "Menu"
     },
     {
-        "id": "K.1.154",
+        "id": "K.1.152",
         "kana": "オーダー",
         "enMeaning": "Order",
         "idMeaning": "Pesan"
     },
     {
-        "id": "K.1.155",
+        "id": "K.1.153",
         "kana": "セット",
         "enMeaning": "Set",
         "idMeaning": "Paket"
     },
     {
-        "id": "K.1.156",
+        "id": "K.1.154",
         "kana": "ドリンク",
         "enMeaning": "Drink",
         "idMeaning": "Minuman"
     },
     {
-        "id": "K.1.157",
+        "id": "K.1.155",
         "kana": "デザート",
         "enMeaning": "Dessert",
         "idMeaning": "Pencuci mulut"
     },
     {
-        "id": "K.1.158",
+        "id": "K.1.156",
         "kana": "ランチ",
         "enMeaning": "Lunch",
         "idMeaning": "Makan siang"
     },
     {
-        "id": "K.1.159",
+        "id": "K.1.157",
         "kana": "ディナー",
         "enMeaning": "Dinner",
         "idMeaning": "Makan malam"
     },
     {
-        "id": "K.1.160",
+        "id": "K.1.158",
         "kana": "モーニング",
         "enMeaning": "Morning set",
         "idMeaning": "Sarapan set"
     },
     {
-        "id": "K.1.161",
+        "id": "K.1.159",
         "kana": "ビュッフェ",
         "enMeaning": "Buffet",
         "idMeaning": "Buffet"
     },
     {
-        "id": "K.1.162",
+        "id": "K.1.160",
         "kana": "テイクアウト",
         "enMeaning": "Takeout",
         "idMeaning": "Bungkus"
     },
     {
-        "id": "K.1.163",
+        "id": "K.1.161",
         "kana": "デリバリー",
         "enMeaning": "Delivery",
         "idMeaning": "Pengantaran"
     },
     {
-        "id": "K.1.164",
+        "id": "K.1.162",
         "kana": "キッチン",
         "enMeaning": "Kitchen",
         "idMeaning": "Dapur"
     },
     {
-        "id": "K.1.165",
-        "kana": "スタッフ",
-        "enMeaning": "Staff",
-        "idMeaning": "Staf"
-    },
-    {
-        "id": "K.1.166",
+        "id": "K.1.163",
         "kana": "シェフ",
         "enMeaning": "Chef",
         "idMeaning": "Koki"
     },
     {
-        "id": "K.1.167",
+        "id": "K.1.164",
         "kana": "ウェイター",
         "enMeaning": "Waiter",
         "idMeaning": "Pelayan pria"
     },
     {
-        "id": "K.1.168",
+        "id": "K.1.165",
         "kana": "ウェイトレス",
         "enMeaning": "Waitress",
         "idMeaning": "Pelayan wanita"
     },
     {
-        "id": "K.1.169",
+        "id": "K.1.166",
         "kana": "バス",
         "enMeaning": "Bus",
         "idMeaning": "Bus"
     },
     {
-        "id": "K.1.170",
+        "id": "K.1.167",
         "kana": "タクシー",
         "enMeaning": "Taxi",
         "idMeaning": "Taksi"
     },
     {
-        "id": "K.1.171",
+        "id": "K.1.168",
         "kana": "トラック",
         "enMeaning": "Truck",
         "idMeaning": "Truk"
     },
     {
-        "id": "K.1.172",
+        "id": "K.1.169",
         "kana": "バイク",
         "enMeaning": "Motorbike",
         "idMeaning": "Motor"
     },
     {
-        "id": "K.1.173",
+        "id": "K.1.170",
         "kana": "ガソリン",
         "enMeaning": "Gasoline",
         "idMeaning": "Bensin"
     },
     {
-        "id": "K.1.174",
+        "id": "K.1.171",
         "kana": "エンジン",
         "enMeaning": "Engine",
         "idMeaning": "Mesin"
     },
     {
-        "id": "K.1.175",
+        "id": "K.1.172",
         "kana": "ブレーキ",
         "enMeaning": "Brake",
         "idMeaning": "Rem"
     },
     {
-        "id": "K.1.176",
+        "id": "K.1.173",
         "kana": "スピード",
         "enMeaning": "Speed",
         "idMeaning": "Kecepatan"
     },
     {
-        "id": "K.1.177",
+        "id": "K.1.174",
         "kana": "ハンドル",
         "enMeaning": "Handle / Steering",
         "idMeaning": "Setir"
     },
     {
-        "id": "K.1.178",
+        "id": "K.1.175",
         "kana": "ドライブ",
         "enMeaning": "Drive",
         "idMeaning": "Mengemudi"
     },
     {
-        "id": "K.1.179",
+        "id": "K.1.176",
         "kana": "トレーニング",
         "enMeaning": "Training",
         "idMeaning": "Latihan"
     },
     {
-        "id": "K.1.180",
+        "id": "K.1.177",
         "kana": "フィットネス",
         "enMeaning": "Fitness",
         "idMeaning": "Kebugaran"
     },
     {
-        "id": "K.1.181",
+        "id": "K.1.178",
         "kana": "ジム",
         "enMeaning": "Gym",
         "idMeaning": "Gym"
     },
     {
-        "id": "K.1.182",
+        "id": "K.1.179",
         "kana": "ヨガ",
         "enMeaning": "Yoga",
         "idMeaning": "Yoga"
     },
     {
-        "id": "K.1.183",
+        "id": "K.1.180",
         "kana": "ランニング",
         "enMeaning": "Running",
         "idMeaning": "Lari"
     },
     {
-        "id": "K.1.184",
+        "id": "K.1.181",
         "kana": "ウォーキング",
         "enMeaning": "Walking",
         "idMeaning": "Jalan kaki"
     },
     {
-        "id": "K.1.185",
+        "id": "K.1.182",
         "kana": "ストレッチ",
         "enMeaning": "Stretch",
         "idMeaning": "Peregangan"
     },
     {
-        "id": "K.1.186",
+        "id": "K.1.183",
         "kana": "ダイエット",
         "enMeaning": "Diet",
         "idMeaning": "Diet"
     },
     {
-        "id": "K.1.187",
-        "kana": "カロリー",
-        "enMeaning": "Calorie",
-        "idMeaning": "Kalori"
-    },
-    {
-        "id": "K.1.188",
+        "id": "K.1.184",
         "kana": "プロテイン",
         "enMeaning": "Protein",
         "idMeaning": "Protein"
     },
     {
-        "id": "K.1.189",
+        "id": "K.1.185",
         "kana": "ゲーム",
         "enMeaning": "Game",
         "idMeaning": "Game"
     },
     {
-        "id": "K.1.190",
+        "id": "K.1.186",
         "kana": "プレイヤー",
         "enMeaning": "Player",
         "idMeaning": "Pemain"
     },
     {
-        "id": "K.1.191",
+        "id": "K.1.187",
         "kana": "レベル",
         "enMeaning": "Level",
         "idMeaning": "Level"
     },
     {
-        "id": "K.1.192",
+        "id": "K.1.188",
         "kana": "スコア",
         "enMeaning": "Score",
         "idMeaning": "Skor"
     },
     {
-        "id": "K.1.193",
+        "id": "K.1.190",
         "kana": "ステージ",
         "enMeaning": "Stage",
         "idMeaning": "Tahap"
     },
     {
-        "id": "K.1.194",
+        "id": "K.1.191",
         "kana": "キャラクター",
         "enMeaning": "Character",
         "idMeaning": "Karakter"
     },
     {
-        "id": "K.1.195",
+        "id": "K.1.192",
         "kana": "アイテム",
         "enMeaning": "Item",
         "idMeaning": "Item"
     },
     {
-        "id": "K.1.196",
+        "id": "K.1.193",
         "kana": "スキル",
         "enMeaning": "Skill",
         "idMeaning": "Keterampilan"
     },
     {
-        "id": "K.1.197",
+        "id": "K.1.194",
         "kana": "ボーナス",
         "enMeaning": "Bonus",
         "idMeaning": "Bonus"
     },
     {
-        "id": "K.1.198",
+        "id": "K.1.195",
         "kana": "ミッション",
         "enMeaning": "Mission",
         "idMeaning": "Misi"
     },
     {
-        "id": "K.1.199",
+        "id": "K.1.196",
         "kana": "ニュース",
         "enMeaning": "News",
         "idMeaning": "Berita"
     },
     {
-        "id": "K.1.200",
+        "id": "K.1.197",
         "kana": "メディア",
         "enMeaning": "Media",
         "idMeaning": "Media"
+    },
+    {
+        "id": "K.1.198",
+        "kana": "ノック",
+        "enMeaning": "Mengetuk",
+        "idMeaning": "Knock"
+    },
+    {
+        "id": "K.1.199",
+        "kana": "サイレン",
+        "enMeaning": "Siren",
+        "idMeaning": "Sirene"
+    },
+    {
+        "id": "K.1.200",
+        "kana": "ガイダンス",
+        "enMeaning": "Guidance",
+        "idMeaning": "Panduan"
     }
 ]

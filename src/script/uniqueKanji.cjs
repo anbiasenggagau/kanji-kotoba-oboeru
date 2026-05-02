@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const hiragana = "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽきゃきゅきょぎゃぎゅぎょにゃにゅにょひゃひゅひょびゃびゅびょぴゃぴゅぴょみゃみゅみょりゃりゅりょじゃじゅじぇじょちゃちゅちぇちょしゃしゅしぇしょ～"
+const hiragana = "ーッアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポキャキュキョギャギュギョニャニュニョヒャヒュヒョビャビュビョピャピュピョミャミュミョリャリュリョジャジュジェジョチャチュチェチョシャシュシェショあいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽきゃきゅきょぎゃぎゅぎょにゃにゅにょひゃひゅひょびゃびゅびょぴゃぴゅぴょみゃみゅみょりゃりゅりょじゃじゅじぇじょちゃちゅちぇちょしゃしゅしぇしょ～"
 
 const publicDir = path.join(__dirname, '../../public');
 
@@ -12,25 +12,31 @@ fs.readdirSync(publicDir)
     .forEach(file => {
         fileLoc = publicDir + "/" + file
         let data = require(fileLoc)
+
         for (const val of data) {
-            const kanjiLength = (val.kanji.length).toString()
-            if (kanjiByLetter[kanjiLength]) {
-                kanjiByLetter[kanjiLength].push(val.kanji)
-            } else {
-                kanjiByLetter[kanjiLength] = [val.kanji]
+            let key = "kanji"
+            if (fileLoc.includes("k_")) {
+                key = "kana"
             }
 
-            for (const char of val.kanji) {
+            const kanjiLength = (val[key].length).toString()
+            if (kanjiByLetter[kanjiLength]) {
+                kanjiByLetter[kanjiLength].push(val[key])
+            } else {
+                kanjiByLetter[kanjiLength] = [val[key]]
+            }
+
+            for (const char of val[key]) {
                 if (hiragana.includes(char)) {
                     continue
                 }
                 if (result[char]) {
                     result[char].amount++
-                    result[char].words.push(val.kanji)
+                    result[char].words.push(val[key])
                 } else {
                     result[char] = {
                         amount: 1,
-                        words: [val.kanji]
+                        words: [val[key]]
                     }
                 }
             }
@@ -46,5 +52,5 @@ for (const val of sorted) {
 }
 
 fs.writeFileSync("./kanjiLength.json", JSON.stringify(kanjiByLetter, null, 2))
-fs.writeFileSync("./uniqueKanji.json", JSON.stringify(sorted, null, 2))
+fs.writeFileSync("./kanjiUnique.json", JSON.stringify(sorted, null, 2))
 fs.writeFileSync("./kanjiArr.json", JSON.stringify(kanjiArr, null, 2))
