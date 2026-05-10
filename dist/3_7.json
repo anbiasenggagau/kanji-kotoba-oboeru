@@ -73,29 +73,29 @@
     },
     {
         "id": "N3.7.9",
-        "kanji": "勇気",
+        "kanji": "作品",
         "component": "",
-        "hiragana": "ゆうき",
-        "enMeaning": "Courage",
-        "idMeaning": "Keberanian",
+        "hiragana": "さくひん",
+        "enMeaning": "Work / piece (art, literature)",
+        "idMeaning": "Karya",
         "type": "Kata Benda"
     },
     {
         "id": "N3.7.10",
-        "kanji": "我々",
-        "component": "",
-        "hiragana": "われわれ",
-        "enMeaning": "We / us",
-        "idMeaning": "Kami / kita",
-        "type": "Kata Benda"
-    },
-    {
-        "id": "N3.7.11",
         "kanji": "信頼",
         "component": "",
         "hiragana": "しんらい",
         "enMeaning": "Trust / faith",
         "idMeaning": "Kepercayaan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.7.11",
+        "kanji": "我々",
+        "component": "",
+        "hiragana": "われわれ",
+        "enMeaning": "We / us",
+        "idMeaning": "Kami / kita",
         "type": "Kata Benda"
     },
     {
@@ -271,20 +271,20 @@
     },
     {
         "id": "N3.7.31",
-        "kanji": "騒音",
-        "component": "",
-        "hiragana": "そうおん",
-        "enMeaning": "Noise",
-        "idMeaning": "Kebisingan",
-        "type": "Kata Benda"
-    },
-    {
-        "id": "N3.7.32",
         "kanji": "義務",
         "component": "",
         "hiragana": "ぎむ",
         "enMeaning": "Duty / obligation",
         "idMeaning": "Kewajiban",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.7.32",
+        "kanji": "騒音",
+        "component": "",
+        "hiragana": "そうおん",
+        "enMeaning": "Noise",
+        "idMeaning": "Kebisingan",
         "type": "Kata Benda"
     },
     {
@@ -343,11 +343,11 @@
     },
     {
         "id": "N3.7.39",
-        "kanji": "作品",
+        "kanji": "勇気",
         "component": "",
-        "hiragana": "さくひん",
-        "enMeaning": "Work / piece (art, literature)",
-        "idMeaning": "Karya",
+        "hiragana": "ゆうき",
+        "enMeaning": "Courage",
+        "idMeaning": "Keberanian",
         "type": "Kata Benda"
     },
     {
