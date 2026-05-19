@@ -244,12 +244,12 @@
     },
     {
         "id": "N3.8.28",
-        "kanji": "詳明",
+        "kanji": "就職",
         "component": "",
-        "hiragana": "しょうめい",
-        "enMeaning": "Detailed explanation / elucidation",
-        "idMeaning": "Penjelasan rinci",
-        "type": "KK Transitif"
+        "hiragana": "しゅうしょく",
+        "enMeaning": "Employment / getting a job",
+        "idMeaning": "Pekerjaan / mendapat pekerjaan",
+        "type": "Kata Benda"
     },
     {
         "id": "N3.8.29",
@@ -568,11 +568,11 @@
     },
     {
         "id": "N3.8.64",
-        "kanji": "ご飯台",
+        "kanji": "目標",
         "component": "",
-        "hiragana": "ごはんだい",
-        "enMeaning": "Meal cost",
-        "idMeaning": "Biaya makan",
+        "hiragana": "もくひょう",
+        "enMeaning": "Goal / target",
+        "idMeaning": "Tujuan / target",
         "type": "Kata Benda"
     },
     {
