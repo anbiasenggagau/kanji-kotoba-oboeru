@@ -118,7 +118,13 @@ export const progressStore = defineStore('progressStore', () => {
             if (diff > 259200000) {
                 progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
                 if (progress.value[kanjiId]!.amount <= 0) {
-                    delete progress.value[kanjiId]
+                    progress.value[kanjiId] = {
+                        ...progress.value[kanjiId]!,
+                        amount: 0,
+                        trueStack: 0,
+                        falseStack: 0,
+                        lastProgress: new Date(0)
+                    }
                 } else {
                     progress.value[kanjiId]!.lastProgress = new Date()
                 }
@@ -132,7 +138,7 @@ export const progressStore = defineStore('progressStore', () => {
                     amount: 0,
                     trueStack: 0,
                     falseStack: 0,
-                    lastProgress: new Date()
+                    lastProgress: new Date(0)
                 }
             }
         }
@@ -193,13 +199,16 @@ export const progressStore = defineStore('progressStore', () => {
                 progress.value[kanjiId].amount--
                 progress.value[kanjiId].falseStack = 0
             }
-
-            if (progress.value[kanjiId].amount < 0) progress.value[kanjiId].amount = 0
             progress.value[kanjiId].lastProgress = new Date()
 
-
             if (progress.value[kanjiId].amount <= 0) {
-                delete progress.value[kanjiId]
+                progress.value[kanjiId] = {
+                    ...progress.value[kanjiId]!,
+                    amount: 0,
+                    trueStack: 0,
+                    falseStack: 0,
+                    lastProgress: new Date(0)
+                }
             }
         }
         setLocalStorage("progressStore", progress.value)
