@@ -159,6 +159,18 @@ function goHome() {
     resultData.clearAnswer()
     routerOpt.push({ name: "home" })
 }
+
+function getBalancedCols(group: Record<string, number> | undefined): number {
+    if (!group) return 1;
+
+    const totalItems = Object.keys(group).length;
+
+    // If you have 3 or fewer items, keep them all on 1 row
+    if (totalItems <= 3) return totalItems || 1;
+
+    // Otherwise, split them perfectly down the middle into 2 balanced rows
+    return Math.ceil(totalItems / 2);
+}
 </script>
 
 <template>
@@ -203,9 +215,11 @@ function goHome() {
                     <div class="flex items-center font-bold gap-4 md:gap-6 lg:gap-8">
                         <span>N{{ 5 - index }}</span>
 
-                        <div class="flex flex-wrap gap-2 md:gap-3.5 lg:gap-5.5">
+                        <div class="grid md:flex md:flex-wrap gap-2 md:gap-3.5 lg:gap-5.5"
+                            :style="{ gridTemplateColumns: `repeat(${getBalancedCols(sumColorGroupOrdered[index])}, minmax(0, 1fr))` }">
+
                             <div v-for="(num, color) in sumColorGroupOrdered[index]" :key="color"
-                                class="flex items-center gap-1">
+                                class="flex items-center gap-1 justify-center md:justify-start">
                                 <span :class="[
                                     'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
                                     color
