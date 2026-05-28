@@ -1,1 +1,191 @@
-[]
+[
+    {
+        "id": "N3.8.1",
+        "kanji": "校庭",
+        "component": "",
+        "hiragana": "こうてい",
+        "enMeaning": "Schoolyard",
+        "idMeaning": "Halaman sekolah",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.2",
+        "kanji": "基本的",
+        "component": "",
+        "hiragana": "きほんてき",
+        "enMeaning": "Basic / fundamental",
+        "idMeaning": "Dasar / fundamental",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "N3.8.3",
+        "kanji": "以前",
+        "component": "",
+        "hiragana": "いぜん",
+        "enMeaning": "Before / previously",
+        "idMeaning": "Sebelumnya",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.4",
+        "kanji": "揺れる",
+        "component": "",
+        "hiragana": "ゆれる",
+        "enMeaning": "Shake / sway",
+        "idMeaning": "Goyang / berguncang",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.8.5",
+        "kanji": "感覚",
+        "component": "",
+        "hiragana": "かんかく",
+        "enMeaning": "Sense / feeling",
+        "idMeaning": "Perasaan / indra",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.1",
+        "kanji": "光景",
+        "component": "",
+        "hiragana": "こうけい",
+        "enMeaning": "Scene / sight",
+        "idMeaning": "Pemandangan",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.2",
+        "kanji": "数人",
+        "component": "",
+        "hiragana": "すうにん",
+        "enMeaning": "Several people",
+        "idMeaning": "Beberapa orang",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.3",
+        "kanji": "真っ白",
+        "component": "",
+        "hiragana": "まっしろ",
+        "enMeaning": "Pure white",
+        "idMeaning": "Putih bersih",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "N3.8.4",
+        "kanji": "久しぶり",
+        "component": "",
+        "hiragana": "ひさしぶり",
+        "enMeaning": "After a long time",
+        "idMeaning": "Setelah lama",
+        "type": "Kata Sifat な"
+    },
+    {
+        "id": "N3.8.5",
+        "kanji": "名詞",
+        "component": "",
+        "hiragana": "めいし",
+        "enMeaning": "Noun",
+        "idMeaning": "Kata benda",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.1",
+        "kanji": "飽きる",
+        "component": "",
+        "hiragana": "あきる",
+        "enMeaning": "Get tired of / lose interest",
+        "idMeaning": "Bosan",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.8.2",
+        "kanji": "用語",
+        "component": "",
+        "hiragana": "ようご",
+        "enMeaning": "Term / terminology",
+        "idMeaning": "Istilah",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.3",
+        "kanji": "物理",
+        "component": "",
+        "hiragana": "ぶつり",
+        "enMeaning": "Physics",
+        "idMeaning": "Fisika",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.4",
+        "kanji": "科目",
+        "component": "",
+        "hiragana": "かもく",
+        "enMeaning": "Subject / course",
+        "idMeaning": "Mata pelajaran",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.5",
+        "kanji": "似合う",
+        "component": "",
+        "hiragana": "にあう",
+        "enMeaning": "Suit / match",
+        "idMeaning": "Cocok",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.8.1",
+        "kanji": "下ろす",
+        "component": "",
+        "hiragana": "おろす",
+        "enMeaning": "Take down / withdraw",
+        "idMeaning": "Menurunkan / menarik",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.8.2",
+        "kanji": "金を下ろす",
+        "component": "",
+        "hiragana": "かねをおろす",
+        "enMeaning": "Withdraw money",
+        "idMeaning": "Menarik uang",
+        "type": "Frasa / Klausa"
+    },
+    {
+        "id": "N3.8.3",
+        "kanji": "演奏する",
+        "component": "",
+        "hiragana": "えんそうする",
+        "enMeaning": "Perform music",
+        "idMeaning": "Memainkan musik",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.8.4",
+        "kanji": "演奏",
+        "component": "",
+        "hiragana": "えんそう",
+        "enMeaning": "Musical performance",
+        "idMeaning": "Pertunjukan musik",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.5",
+        "kanji": "放課後",
+        "component": "",
+        "hiragana": "ほうかご",
+        "enMeaning": "After school",
+        "idMeaning": "Setelah sekolah",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.1",
+        "kanji": "試す",
+        "component": "",
+        "hiragana": "ためす",
+        "enMeaning": "Try / test",
+        "idMeaning": "Mencoba / menguji",
+        "type": "KK Transitif"
+    }
+]

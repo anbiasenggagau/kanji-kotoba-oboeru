@@ -38,6 +38,7 @@ function revealAnswer() {
 }
 
 function nextKanji(callback: () => void) {
+    // Safety for last kanji
     if (kanjiList.value.length == 1) callback()
 
     kanjiList.value.splice(idx.value, 1);
@@ -104,7 +105,7 @@ async function initData() {
     if (results.length == 0)
         routerOpt.replace({ name: "home" })
 
-    let remainingKanji: (KanjiType & { progress: number, flagged: boolean })[] = []
+    let remainingKanji: (KanjiType & { progress: number, lastProgress: Date, flagged: boolean })[] = []
     let finalResults: KanjiType[] = []
     if (kanjiFile.max > 0) {
         let inserted = 0
@@ -119,7 +120,7 @@ async function initData() {
                 else if (kanjiFile.max - inserted >= arr.length - index) {
                     remainingKanji.push({
                         ...val,
-                        progress: progressData.getProgress(val.id),
+                        ...progressData.getProgress(val.id),
                         flagged: flagData.checkKanjiExist(val.kanji),
                     })
                     return
@@ -139,7 +140,7 @@ async function initData() {
                 else {
                     remainingKanji.push({
                         ...val,
-                        progress: progressData.getProgress(val.id),
+                        ...progressData.getProgress(val.id),
                         flagged: flagData.checkKanjiExist(val.kanji),
                     })
                     return
@@ -149,15 +150,30 @@ async function initData() {
 
         // Insert most prioritize kanji
         if (kanjiFile.max > inserted) {
+            // DEBUG
+            // console.info("Sorting prioritize data")
+            // console.info(remainingKanji)
+
             // Flagged is first priority
             // Less progress amount is second priority
             remainingKanji.sort((a, b) => {
+                // 1. flagged === true first
                 if (a.flagged !== b.flagged) {
                     return Number(b.flagged) - Number(a.flagged)
                 }
 
-                return a.progress - b.progress
+                // 2. lower progress first
+                if (a.progress !== b.progress) {
+                    return a.progress - b.progress
+                }
+
+                // 3. older lastProgress first
+                return a.lastProgress.getTime() - b.lastProgress.getTime()
             })
+
+            // DEBUG
+            // console.info("Sorted data")
+            // console.info(remainingKanji)
 
             for (let i = 0; i < kanjiFile.max - inserted; i++) {
                 finalResults.push(remainingKanji[i] as KanjiType)
@@ -212,7 +228,7 @@ async function initData() {
                 <Transition name="fade" mode="out-in">
                     <h1 lang="ja" class="text-center text-[55px]/15 lg:text-7xl" :key="kanjiData.kanji">{{
                         kanjiData.kanji
-                        }}
+                    }}
                     </h1>
                 </Transition>
             </div>

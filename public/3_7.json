@@ -1078,5 +1078,50 @@
         "enMeaning": "Capital city",
         "idMeaning": "Ibu kota",
         "type": "Kata Benda"
+    },
+    {
+        "id": "N3.7.121",
+        "kanji": "煮える",
+        "component": "",
+        "hiragana": "にえる",
+        "enMeaning": "Be cooked / be boiled",
+        "idMeaning": "Matang / direbus",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.7.122",
+        "kanji": "玉ねぎ",
+        "component": "",
+        "hiragana": "たまねぎ",
+        "enMeaning": "Onion",
+        "idMeaning": "Bawang bombai",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.7.123",
+        "kanji": "人参",
+        "component": "",
+        "hiragana": "にんじん",
+        "enMeaning": "Carrot",
+        "idMeaning": "Wortel",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.7.124",
+        "kanji": "国際交流",
+        "component": "",
+        "hiragana": "こくさいこうりゅう",
+        "enMeaning": "International exchange",
+        "idMeaning": "Pertukaran internasional",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.7.125",
+        "kanji": "交流",
+        "component": "",
+        "hiragana": "こうりゅう",
+        "enMeaning": "Exchange / interaction",
+        "idMeaning": "Interaksi / pertukaran",
+        "type": "Kata Benda"
     }
 ]

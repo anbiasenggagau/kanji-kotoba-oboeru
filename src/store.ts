@@ -86,44 +86,58 @@ export const progressStore = defineStore('progressStore', () => {
 
         await kanjiData.initialize()
         const saved = localStorage.getItem('progressStore')
+
         if (saved) {
             progress.value = JSON.parse(saved)
-            for (const kanjiId in progress.value) {
-                // Reset stack progress
-                progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
-                if (progress.value[kanjiId]!.lastProgress.toDateString() != (new Date()).toDateString()) {
-                    progress.value[kanjiId]!.falseStack = 0
-                    progress.value[kanjiId]!.trueStack = 0
-                }
+        }
 
-                // Auto migrate progress that have no kanji yet
-                if (progress.value[kanjiId]!.kanji == undefined) {
-                    let findKanji = kanjiData.getKanji(kanjiId)
-                    if (findKanji) {
-                        progress.value[kanjiId]!.kanji = findKanji.kanji
-                    }
-                }
+        for (const kanjiId in progress.value) {
+            // Reset stack progress
+            progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
+            if (progress.value[kanjiId]!.lastProgress.toDateString() != (new Date()).toDateString()) {
+                progress.value[kanjiId]!.falseStack = 0
+                progress.value[kanjiId]!.trueStack = 0
+            }
 
-                // Auto Migration changes data
+            // Auto migrate progress that have no kanji yet
+            if (progress.value[kanjiId]!.kanji == undefined) {
                 let findKanji = kanjiData.getKanji(kanjiId)
-                if (findKanji && findKanji.kanji != progress.value[kanjiId]!.kanji) {
+                if (findKanji) {
                     progress.value[kanjiId]!.kanji = findKanji.kanji
-                }
-
-                const diff = (new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime()
-                // decrease progress point by floor rounding of 3 day number
-                if (diff > 259200000) {
-                    progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
-                    if (progress.value[kanjiId]!.amount <= 0) {
-                        delete progress.value[kanjiId]
-                    } else {
-                        progress.value[kanjiId]!.lastProgress = new Date()
-                    }
                 }
             }
 
-            setLocalStorage("progressStore", progress.value)
+            // Auto Migration changes data
+            let findKanji = kanjiData.getKanji(kanjiId)
+            if (findKanji && findKanji.kanji != progress.value[kanjiId]!.kanji) {
+                progress.value[kanjiId]!.kanji = findKanji.kanji
+            }
+
+            const diff = (new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime()
+            // decrease progress point by floor rounding of 3 day number
+            if (diff > 259200000) {
+                progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
+                if (progress.value[kanjiId]!.amount <= 0) {
+                    delete progress.value[kanjiId]
+                } else {
+                    progress.value[kanjiId]!.lastProgress = new Date()
+                }
+            }
         }
+
+        for (const kanjiId in kanjiData.kanji) {
+            if (!progress.value[kanjiId]) {
+                progress.value[kanjiId] = {
+                    kanji: kanjiData.kanji[kanjiId]!.kanji,
+                    amount: 0,
+                    trueStack: 0,
+                    falseStack: 0,
+                    lastProgress: new Date()
+                }
+            }
+        }
+
+        setLocalStorage("progressStore", progress.value)
         used.value = true
     }
 
@@ -197,26 +211,31 @@ export const progressStore = defineStore('progressStore', () => {
             return true
         }
         // running odds if progress is tracked
+        return Math.random() > (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.75)) / 5
 
-        // return Math.random() > (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)) / 5
-
-        // Debug Mode
-        const odds = Math.random()
-        const prob = (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.75)) / 5
-        console.info("found progress of", kanjiId)
-        console.info("progress:", progress.value[kanjiId].amount)
-        console.info("currentStack:", progress.value[kanjiId].trueStack)
-        console.info("prob:", prob)
-        console.info("odds:", odds)
-        console.info("result:", odds > prob)
-        console.info("===============")
-
-        return odds > prob
+        // DEBUG
+        // const odds = Math.random()
+        // const prob = (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.75)) / 5
+        // console.info("found progress of", kanjiId)
+        // console.info("progress:", progress.value[kanjiId].amount)
+        // console.info("currentStack:", progress.value[kanjiId].trueStack)
+        // console.info("prob:", prob)
+        // console.info("odds:", odds)
+        // console.info("result:", odds > prob)
+        // console.info("===============")
+        // return odds > prob
     }
 
-    function getProgress(kanjiId: string): number {
-        if (progress.value[kanjiId]) return (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5))
-        return 0
+    function getProgress(kanjiId: string): { progress: number, lastProgress?: Date } {
+        if (progress.value[kanjiId])
+            return {
+                progress: (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)),
+                lastProgress: progress.value[kanjiId].lastProgress,
+            }
+
+        return {
+            progress: 0
+        }
     }
 
     return { progress, getProgress, progressTrue, progressFalse, appear }
@@ -226,6 +245,15 @@ export const flagStore = defineStore('flagStore', () => {
     const flag = ref<Record<string, KanjiType>>({})
     const kanjiData = kanjiTempStore()
     const used = ref(false)
+
+    // Add event listener to sync up every modification that happens on another tab
+    if (typeof window !== 'undefined') {
+        window.addEventListener('storage', (e) => {
+            if (e.key === 'flagStore') {
+                flag.value = e.newValue ? JSON.parse(e.newValue) : {}
+            }
+        })
+    }
 
     function pushData(data: KanjiType) {
         flag.value[data.kanji] = data

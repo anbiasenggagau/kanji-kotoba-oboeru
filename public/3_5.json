@@ -1078,5 +1078,50 @@
     "enMeaning": "Table salt",
     "idMeaning": "Garam masak",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.121",
+    "kanji": "暮らす",
+    "component": "",
+    "hiragana": "くらす",
+    "enMeaning": "Live / spend life",
+    "idMeaning": "Tinggal / menjalani hidup",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.5.122",
+    "kanji": "生える",
+    "component": "",
+    "hiragana": "はえる",
+    "enMeaning": "Grow / sprout",
+    "idMeaning": "Tumbuh",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.5.123",
+    "kanji": "重要",
+    "component": "",
+    "hiragana": "じゅうよう",
+    "enMeaning": "Important",
+    "idMeaning": "Penting",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.124",
+    "kanji": "応援",
+    "component": "",
+    "hiragana": "おうえん",
+    "enMeaning": "Support / cheer",
+    "idMeaning": "Dukungan / menyemangati",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.125",
+    "kanji": "先日",
+    "component": "",
+    "hiragana": "せんじつ",
+    "enMeaning": "The other day",
+    "idMeaning": "Beberapa hari lalu",
+    "type": "Kata Benda"
   }
 ]

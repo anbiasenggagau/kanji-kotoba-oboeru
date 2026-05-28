@@ -1078,5 +1078,50 @@
         "enMeaning": "Neighbour",
         "idMeaning": "Tetangga",
         "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.121",
+        "kanji": "企業家",
+        "component": "",
+        "hiragana": "きぎょうか",
+        "enMeaning": "Entrepreneur",
+        "idMeaning": "Pengusaha",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.122",
+        "kanji": "経つ",
+        "component": "",
+        "hiragana": "たつ",
+        "enMeaning": "Pass (time)",
+        "idMeaning": "Berlalu",
+        "type": "KK Intransitif"
+    },
+    {
+        "id": "N3.6.123",
+        "kanji": "いつの間にか",
+        "component": "",
+        "hiragana": "いつのまにか",
+        "enMeaning": "Before one knows it",
+        "idMeaning": "Tanpa sadar",
+        "type": "Frasa / Klausa"
+    },
+    {
+        "id": "N3.6.124",
+        "kanji": "講演",
+        "component": "",
+        "hiragana": "こうえん",
+        "enMeaning": "Lecture / speech",
+        "idMeaning": "Ceramah / kuliah umum",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.6.125",
+        "kanji": "近道",
+        "component": "",
+        "hiragana": "ちかみち",
+        "enMeaning": "Shortcut",
+        "idMeaning": "Jalan pintas",
+        "type": "Kata Benda"
     }
 ]

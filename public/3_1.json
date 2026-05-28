@@ -1078,5 +1078,50 @@
     "enMeaning": "Serious",
     "idMeaning": "Serius",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.121",
+    "kanji": "懐かしい",
+    "component": "",
+    "hiragana": "なつかしい",
+    "enMeaning": "Nostalgic",
+    "idMeaning": "Nostalgia / merindukan masa lalu",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.1.122",
+    "kanji": "仲の良い",
+    "component": "",
+    "hiragana": "なかのよい",
+    "enMeaning": "Close / get along well",
+    "idMeaning": "Akrab / hubungan baik",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.1.123",
+    "kanji": "仲間",
+    "component": "",
+    "hiragana": "なかま",
+    "enMeaning": "Companion / group member",
+    "idMeaning": "Teman / rekan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.124",
+    "kanji": "司会",
+    "component": "",
+    "hiragana": "しかい",
+    "enMeaning": "Host / master of ceremonies",
+    "idMeaning": "Pembawa acara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.125",
+    "kanji": "時給",
+    "component": "",
+    "hiragana": "じきゅう",
+    "enMeaning": "Hourly wage",
+    "idMeaning": "Upah per jam",
+    "type": "Kata Benda"
   }
 ]

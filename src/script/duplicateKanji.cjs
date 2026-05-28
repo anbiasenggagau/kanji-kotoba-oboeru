@@ -45,10 +45,10 @@ for (const val of newKanji) {
         result[val.kanji].push(val.id)
     }
 
-    if (hiraganaResult[key] == undefined) {
-        hiraganaResult[key] = [val.id]
+    if (hiraganaResult[val.kanji] == undefined) {
+        hiraganaResult[val.kanji] = [val.id]
     } else {
-        hiraganaResult[key].push(val.id)
+        hiraganaResult[val.kanji].push(val.id)
     }
 }
 

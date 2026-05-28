@@ -1078,5 +1078,50 @@
     "enMeaning": "Increase",
     "idMeaning": "Peningkatan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.121",
+    "kanji": "痒い",
+    "component": "",
+    "hiragana": "かゆい",
+    "enMeaning": "Itchy",
+    "idMeaning": "Gatal",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.4.122",
+    "kanji": "可也",
+    "component": "",
+    "hiragana": "かなり",
+    "enMeaning": "Quite / fairly",
+    "idMeaning": "Lumayan / cukup",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.4.123",
+    "kanji": "半年",
+    "component": "",
+    "hiragana": "はんとし",
+    "enMeaning": "Half a year",
+    "idMeaning": "Setengah tahun",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.124",
+    "kanji": "花見",
+    "component": "",
+    "hiragana": "はなみ",
+    "enMeaning": "Cherry blossom viewing",
+    "idMeaning": "Melihat bunga sakura",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.125",
+    "kanji": "一人暮らし",
+    "component": "",
+    "hiragana": "ひとりぐらし",
+    "enMeaning": "Living alone",
+    "idMeaning": "Tinggal sendiri",
+    "type": "Kata Benda"
   }
 ]

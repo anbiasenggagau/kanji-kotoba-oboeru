@@ -545,7 +545,7 @@
         "component": "",
         "hiragana": "めいさく",
         "enMeaning": "Masterpiece",
-        "idMeaning": "Karya terkenal",
+        "idMeaning": "Mahakarya",
         "type": "Kata Benda"
     },
     {
@@ -1077,6 +1077,51 @@
         "hiragana": "こえる",
         "enMeaning": "To cross / to exceed",
         "idMeaning": "Melewati / melampaui",
+        "type": "KK Transitif"
+    },
+    {
+        "id": "N3.8.121",
+        "kanji": "会員",
+        "component": "",
+        "hiragana": "かいいん",
+        "enMeaning": "Member",
+        "idMeaning": "Anggota",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.122",
+        "kanji": "介護",
+        "component": "",
+        "hiragana": "かいご",
+        "enMeaning": "Nursing care / caregiving",
+        "idMeaning": "Perawatan / merawat orang",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.123",
+        "kanji": "覚悟",
+        "component": "",
+        "hiragana": "かくご",
+        "enMeaning": "Preparedness / resolution",
+        "idMeaning": "Kesiapan / tekad",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.124",
+        "kanji": "特徴",
+        "component": "",
+        "hiragana": "とくちょう",
+        "enMeaning": "Characteristic / feature",
+        "idMeaning": "Ciri khas / karakteristik",
+        "type": "Kata Benda"
+    },
+    {
+        "id": "N3.8.125",
+        "kanji": "煮る",
+        "component": "",
+        "hiragana": "にる",
+        "enMeaning": "Boil / cook by simmering",
+        "idMeaning": "Merebus",
         "type": "KK Transitif"
     }
 ]

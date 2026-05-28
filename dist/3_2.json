@@ -1078,5 +1078,50 @@
     "enMeaning": "Skin / peel",
     "idMeaning": "Kulit",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.121",
+    "kanji": "本格",
+    "component": "",
+    "hiragana": "ほんかく",
+    "enMeaning": "Full-scale / authentic",
+    "idMeaning": "Sungguhan / serius / autentik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.122",
+    "kanji": "普段",
+    "component": "",
+    "hiragana": "ふだん",
+    "enMeaning": "Usually / normally",
+    "idMeaning": "Biasanya / keseharian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.123",
+    "kanji": "感謝",
+    "component": "",
+    "hiragana": "かんしゃ",
+    "enMeaning": "Gratitude / thanks",
+    "idMeaning": "Rasa terima kasih",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.124",
+    "kanji": "次第に",
+    "component": "",
+    "hiragana": "しだいに",
+    "enMeaning": "Gradually",
+    "idMeaning": "Sedikit demi sedikit",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.125",
+    "kanji": "途中",
+    "component": "",
+    "hiragana": "とちゅう",
+    "enMeaning": "On the way / in the middle",
+    "idMeaning": "Di tengah jalan / di tengah proses",
+    "type": "Kata Benda"
   }
 ]
