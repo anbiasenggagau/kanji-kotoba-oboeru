@@ -183,13 +183,13 @@ function goHome() {
             muncul
         </Message>
         <div class="col-flex justify-center items-center text-center">
-            <div class="flex flex-wrap justify-center gap-2.5 md:gap-4 lg:gap-6">
+            <div class="flex flex-wrap justify-center gap-2 md:gap-3.5 lg:gap-5.5">
                 <div v-for="(num, color) in sumColorOrdered" :key="color" class="flex items-center gap-1">
                     <span :class="[
                         'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
                         color
                     ]"></span>
-                    <span class="text-base font-bold">
+                    <span class="text-sm font-bold">
                         {{ num }}
                     </span>
                 </div>
@@ -203,14 +203,14 @@ function goHome() {
                     <div class="flex items-center font-bold gap-4 md:gap-6 lg:gap-8">
                         <span>N{{ 5 - index }}</span>
 
-                        <div class="flex flex-wrap gap-2.5 md:gap-4 lg:gap-6">
+                        <div class="flex flex-wrap gap-2 md:gap-3.5 lg:gap-5.5">
                             <div v-for="(num, color) in sumColorGroupOrdered[index]" :key="color"
                                 class="flex items-center gap-1">
                                 <span :class="[
                                     'inline-block w-3 h-3 lg:w-4 lg:h-4 rounded-full',
                                     color
                                 ]"></span>
-                                <span class="text-base font-bold">
+                                <span class="text-sm font-bold">
                                     {{ num }}
                                 </span>
                             </div>
