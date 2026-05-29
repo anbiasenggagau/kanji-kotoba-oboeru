@@ -28,11 +28,11 @@
   },
   {
     "id": "N3.1.4",
-    "kanji": "技術",
+    "kanji": "回収",
     "component": "",
-    "hiragana": "ぎじゅつ",
-    "enMeaning": "Technology / skill",
-    "idMeaning": "Teknologi",
+    "hiragana": "かいしゅう",
+    "enMeaning": "Collection / recovery",
+    "idMeaning": "Pengumpulan / penarikan kembali",
     "type": "Kata Benda"
   },
   {
@@ -253,12 +253,12 @@
   },
   {
     "id": "N3.1.29",
-    "kanji": "飛行場",
+    "kanji": "真っ白",
     "component": "",
-    "hiragana": "ひこうじょう",
-    "enMeaning": "Airport / airfield",
-    "idMeaning": "Bandara / lapangan terbang",
-    "type": "Kata Benda"
+    "hiragana": "まっしろ",
+    "enMeaning": "Pure white",
+    "idMeaning": "Putih bersih",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N3.1.30",
@@ -586,12 +586,12 @@
   },
   {
     "id": "N3.1.66",
-    "kanji": "済む",
+    "kanji": "校庭",
     "component": "",
-    "hiragana": "すむ",
-    "enMeaning": "Be finished / be settled",
-    "idMeaning": "Selesai / beres",
-    "type": "KK Intransitif"
+    "hiragana": "こうてい",
+    "enMeaning": "Schoolyard",
+    "idMeaning": "Halaman sekolah",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.1.67",
@@ -721,12 +721,12 @@
   },
   {
     "id": "N3.1.81",
-    "kanji": "虫",
+    "kanji": "基本的",
     "component": "",
-    "hiragana": "むし",
-    "enMeaning": "Insect",
-    "idMeaning": "Serangga",
-    "type": "Kata Benda"
+    "hiragana": "きほんてき",
+    "enMeaning": "Basic / fundamental",
+    "idMeaning": "Dasar / fundamental",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N3.1.82",
@@ -829,12 +829,12 @@
   },
   {
     "id": "N3.1.93",
-    "kanji": "残る",
+    "kanji": "根拠",
     "component": "",
-    "hiragana": "のこる",
-    "enMeaning": "Remain / be left",
-    "idMeaning": "Tersisa",
-    "type": "KK Intransitif"
+    "hiragana": "こんきょ",
+    "enMeaning": "Basis / evidence",
+    "idMeaning": "Dasar / bukti",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.1.94",

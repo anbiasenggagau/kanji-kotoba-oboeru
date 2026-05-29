@@ -763,5 +763,95 @@
     "enMeaning": "Daily life",
     "idMeaning": "Sehari-hari",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.86",
+    "kanji": "済む",
+    "component": "",
+    "hiragana": "すむ",
+    "enMeaning": "Be finished / be settled",
+    "idMeaning": "Selesai / beres",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.1.87",
+    "kanji": "虫",
+    "component": "",
+    "hiragana": "むし",
+    "enMeaning": "Insect",
+    "idMeaning": "Serangga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.88",
+    "kanji": "湖",
+    "component": "",
+    "hiragana": "みずうみ",
+    "enMeaning": "Lake",
+    "idMeaning": "Danau",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.89",
+    "kanji": "空港",
+    "component": "",
+    "hiragana": "くうこう",
+    "enMeaning": "Airport",
+    "idMeaning": "Bandara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.90",
+    "kanji": "数学",
+    "component": "",
+    "hiragana": "すうがく",
+    "enMeaning": "Mathematics",
+    "idMeaning": "Matematika",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.91",
+    "kanji": "腕",
+    "component": "",
+    "hiragana": "うで",
+    "enMeaning": "Arm / skill",
+    "idMeaning": "Lengan / keahlian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.92",
+    "kanji": "水道",
+    "component": "",
+    "hiragana": "すいどう",
+    "enMeaning": "Water supply / tap water",
+    "idMeaning": "Saluran air / air ledeng",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.93",
+    "kanji": "飛行場",
+    "component": "",
+    "hiragana": "ひこうじょう",
+    "enMeaning": "Airport / airfield",
+    "idMeaning": "Bandara / lapangan terbang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.94",
+    "kanji": "残念",
+    "component": "",
+    "hiragana": "ざんねん",
+    "enMeaning": "Regrettable",
+    "idMeaning": "Sayang sekali",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N4.1.95",
+    "kanji": "経済",
+    "component": "",
+    "hiragana": "けいざい",
+    "enMeaning": "Economy",
+    "idMeaning": "Ekonomi",
+    "type": "Kata Benda"
   }
 ]

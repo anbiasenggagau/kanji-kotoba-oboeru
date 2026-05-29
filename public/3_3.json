@@ -73,11 +73,11 @@
   },
   {
     "id": "N3.3.9",
-    "kanji": "原因",
+    "kanji": "条件",
     "component": "",
-    "hiragana": "げんいん",
-    "enMeaning": "Cause",
-    "idMeaning": "Penyebab",
+    "hiragana": "じょうけん",
+    "enMeaning": "Condition / requirement",
+    "idMeaning": "Syarat / kondisi",
     "type": "Kata Benda"
   },
   {
@@ -181,11 +181,11 @@
   },
   {
     "id": "N3.3.21",
-    "kanji": "焼く",
+    "kanji": "奪う",
     "component": "",
-    "hiragana": "やく",
-    "enMeaning": "To grill / bake / burn",
-    "idMeaning": "Memanggang / membakar",
+    "hiragana": "うばう",
+    "enMeaning": "Take away / rob",
+    "idMeaning": "Merebut / merampas",
     "type": "KK Transitif"
   },
   {
@@ -883,11 +883,11 @@
   },
   {
     "id": "N3.3.99",
-    "kanji": "経済",
+    "kanji": "名詞",
     "component": "",
-    "hiragana": "けいざい",
-    "enMeaning": "Economy",
-    "idMeaning": "Ekonomi",
+    "hiragana": "めいし",
+    "enMeaning": "Noun",
+    "idMeaning": "Kata benda",
     "type": "Kata Benda"
   },
   {
@@ -1099,11 +1099,11 @@
   },
   {
     "id": "N3.3.123",
-    "kanji": "水道",
+    "kanji": "数人",
     "component": "",
-    "hiragana": "すいどう",
-    "enMeaning": "Water supply / tap water",
-    "idMeaning": "Saluran air / air ledeng",
+    "hiragana": "すうにん",
+    "enMeaning": "Several people",
+    "idMeaning": "Beberapa orang",
     "type": "Kata Benda"
   },
   {

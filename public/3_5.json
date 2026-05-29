@@ -73,12 +73,12 @@
   },
   {
     "id": "N3.5.9",
-    "kanji": "指",
+    "kanji": "飽きる",
     "component": "",
-    "hiragana": "ゆび",
-    "enMeaning": "Finger",
-    "idMeaning": "Jari",
-    "type": "Kata Benda"
+    "hiragana": "あきる",
+    "enMeaning": "Get tired of / lose interest",
+    "idMeaning": "Bosan",
+    "type": "KK Intransitif"
   },
   {
     "id": "N3.5.10",
@@ -289,12 +289,12 @@
   },
   {
     "id": "N3.5.33",
-    "kanji": "割合",
+    "kanji": "訪問",
     "component": "",
-    "hiragana": "わりあい",
-    "enMeaning": "Rate / proportion",
-    "idMeaning": "Persentase",
-    "type": "Kata Benda / Keterangan"
+    "hiragana": "ほうもん",
+    "enMeaning": "Visit",
+    "idMeaning": "Kunjungan",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.5.34",
@@ -964,11 +964,11 @@
   },
   {
     "id": "N3.5.108",
-    "kanji": "残念",
+    "kanji": "久しぶり",
     "component": "",
-    "hiragana": "ざんねん",
-    "enMeaning": "Regrettable",
-    "idMeaning": "Sayang sekali",
+    "hiragana": "ひさしぶり",
+    "enMeaning": "After a long time",
+    "idMeaning": "Setelah lama",
     "type": "Kata Sifat な"
   },
   {

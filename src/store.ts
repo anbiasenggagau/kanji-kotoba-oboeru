@@ -131,6 +131,7 @@ export const progressStore = defineStore('progressStore', () => {
             }
         }
 
+        // Auto migration to add non-existing progress
         for (const kanjiId in kanjiData.kanji) {
             if (!progress.value[kanjiId]) {
                 progress.value[kanjiId] = {

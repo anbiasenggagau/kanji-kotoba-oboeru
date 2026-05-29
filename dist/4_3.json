@@ -763,5 +763,95 @@
     "enMeaning": "Lover",
     "idMeaning": "Kekasih / Pacar",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.3.86",
+    "kanji": "盗む",
+    "component": "",
+    "hiragana": "ぬすむ",
+    "enMeaning": "Steal",
+    "idMeaning": "Mencuri",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.3.87",
+    "kanji": "残る",
+    "component": "",
+    "hiragana": "のこる",
+    "enMeaning": "Remain / be left",
+    "idMeaning": "Tersisa",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.3.88",
+    "kanji": "上がる",
+    "component": "",
+    "hiragana": "あがる",
+    "enMeaning": "Go up",
+    "idMeaning": "Naik",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.3.89",
+    "kanji": "優しい",
+    "component": "",
+    "hiragana": "やさしい",
+    "enMeaning": "Kind / gentle",
+    "idMeaning": "Ramah / baik hati",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N4.3.90",
+    "kanji": "原因",
+    "component": "",
+    "hiragana": "げんいん",
+    "enMeaning": "Cause",
+    "idMeaning": "Penyebab",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.3.91",
+    "kanji": "打つ",
+    "component": "",
+    "hiragana": "うつ",
+    "enMeaning": "Hit / type",
+    "idMeaning": "Memukul / mengetik",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.3.92",
+    "kanji": "技術",
+    "component": "",
+    "hiragana": "ぎじゅつ",
+    "enMeaning": "Technology / skill",
+    "idMeaning": "Teknologi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.3.93",
+    "kanji": "～倍",
+    "component": "",
+    "hiragana": "～ばい",
+    "enMeaning": "Times / fold",
+    "idMeaning": "~ kali (perkalian)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.3.94",
+    "kanji": "割合",
+    "component": "",
+    "hiragana": "わりあい",
+    "enMeaning": "Rate / proportion",
+    "idMeaning": "Persentase",
+    "type": "Kata Benda / Keterangan"
+  },
+  {
+    "id": "N4.3.95",
+    "kanji": "暫く",
+    "component": "",
+    "hiragana": "しばらく",
+    "enMeaning": "For a while / a moment",
+    "idMeaning": "Sebentar / sementara",
+    "type": "Kata Benda"
   }
 ]

@@ -763,5 +763,95 @@
     "enMeaning": "Bus stop",
     "idMeaning": "Halte bus",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.86",
+    "kanji": "止む",
+    "component": "",
+    "hiragana": "やむ",
+    "enMeaning": "Stop (rain etc.)",
+    "idMeaning": "Berhenti",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.4.87",
+    "kanji": "寄る",
+    "component": "",
+    "hiragana": "よる",
+    "enMeaning": "Stop by",
+    "idMeaning": "Mampir",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.4.88",
+    "kanji": "参る",
+    "component": "",
+    "hiragana": "まいる",
+    "enMeaning": "To go / come (kenjougo)",
+    "idMeaning": "Pergi (kenjougo)",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.4.89",
+    "kanji": "焼く",
+    "component": "",
+    "hiragana": "やく",
+    "enMeaning": "To grill / bake / burn",
+    "idMeaning": "Memanggang / membakar",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.4.90",
+    "kanji": "足す",
+    "component": "",
+    "hiragana": "たす",
+    "enMeaning": "Add / supplement",
+    "idMeaning": "Menambahkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.4.91",
+    "kanji": "木綿",
+    "component": "",
+    "hiragana": "もめん",
+    "enMeaning": "Cotton",
+    "idMeaning": "Katun",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.92",
+    "kanji": "床屋",
+    "component": "",
+    "hiragana": "とこや",
+    "enMeaning": "Barber / barbershop",
+    "idMeaning": "Tukang cukur / tempat cukur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.93",
+    "kanji": "差し上げる",
+    "component": "",
+    "hiragana": "さしあげる",
+    "enMeaning": "Give (kenjougo)",
+    "idMeaning": "Memberikan (kenjougo)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.4.94",
+    "kanji": "噛む",
+    "component": "",
+    "hiragana": "かむ",
+    "enMeaning": "Bite / chew",
+    "idMeaning": "Menggigit / mengunyah",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.4.95",
+    "kanji": "絹",
+    "component": "",
+    "hiragana": "きぬ",
+    "enMeaning": "Silk",
+    "idMeaning": "Sutra",
+    "type": "Kata Benda"
   }
 ]

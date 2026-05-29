@@ -763,5 +763,95 @@
     "enMeaning": "Store clerk",
     "idMeaning": "Pegawai",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.86",
+    "kanji": "指",
+    "component": "",
+    "hiragana": "ゆび",
+    "enMeaning": "Finger",
+    "idMeaning": "Jari",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.87",
+    "kanji": "生産",
+    "component": "",
+    "hiragana": "せいさん",
+    "enMeaning": "Production",
+    "idMeaning": "Produksi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.88",
+    "kanji": "公務員",
+    "component": "",
+    "hiragana": "こうむいん",
+    "enMeaning": "Public servant",
+    "idMeaning": "Pegawai negeri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.89",
+    "kanji": "喧嘩",
+    "component": "",
+    "hiragana": "けんか",
+    "enMeaning": "Fight / quarrel",
+    "idMeaning": "Bertengkar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.90",
+    "kanji": "決して",
+    "component": "",
+    "hiragana": "けっして",
+    "enMeaning": "Never / by no means",
+    "idMeaning": "Sama sekali tidak (negatif)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.91",
+    "kanji": "喜ぶ",
+    "component": "",
+    "hiragana": "よろこぶ",
+    "enMeaning": "Be happy / be pleased",
+    "idMeaning": "Bergembira / merasa senang",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.2.92",
+    "kanji": "途中",
+    "component": "",
+    "hiragana": "とちゅう",
+    "enMeaning": "On the way / in the middle",
+    "idMeaning": "Di tengah jalan / di tengah proses",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.93",
+    "kanji": "下がる",
+    "component": "",
+    "hiragana": "さがる",
+    "enMeaning": "Go down",
+    "idMeaning": "Turun",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.2.94",
+    "kanji": "浅い",
+    "component": "",
+    "hiragana": "あさい",
+    "enMeaning": "Shallow",
+    "idMeaning": "Dangkal",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N4.2.95",
+    "kanji": "深い",
+    "component": "",
+    "hiragana": "ふかい",
+    "enMeaning": "Deep",
+    "idMeaning": "Dalam",
+    "type": "Kata Sifat い"
   }
 ]

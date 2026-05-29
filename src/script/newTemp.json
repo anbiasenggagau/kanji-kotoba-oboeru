@@ -1,0 +1,137 @@
+[
+  {
+    "id": "N3.8.37",
+    "kanji": "糸",
+    "component": "",
+    "hiragana": "いと",
+    "enMeaning": "Thread",
+    "idMeaning": "Benang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.39",
+    "kanji": "注射",
+    "component": "",
+    "hiragana": "ちゅうしゃ",
+    "enMeaning": "Injection",
+    "idMeaning": "Suntikan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.40",
+    "kanji": "坂",
+    "component": "",
+    "hiragana": "さか",
+    "enMeaning": "Slope / hill",
+    "idMeaning": "Tanjakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.41",
+    "kanji": "布団",
+    "component": "",
+    "hiragana": "ふとん",
+    "enMeaning": "Futon",
+    "idMeaning": "Kasur futon",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.42",
+    "kanji": "高等学校",
+    "component": "",
+    "hiragana": "こうとうがっこう",
+    "enMeaning": "High school",
+    "idMeaning": "Sekolah menengah atas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.43",
+    "kanji": "辞典",
+    "component": "",
+    "hiragana": "じてん",
+    "enMeaning": "Dictionary",
+    "idMeaning": "Kamus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.44",
+    "kanji": "髭",
+    "component": "",
+    "hiragana": "ひげ",
+    "enMeaning": "Beard / moustache",
+    "idMeaning": "Jenggot / kumis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.45",
+    "kanji": "味噌",
+    "component": "",
+    "hiragana": "みそ",
+    "enMeaning": "Miso",
+    "idMeaning": "Miso",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.46",
+    "kanji": "見物",
+    "component": "",
+    "hiragana": "けんぶつ",
+    "enMeaning": "Sightseeing / watching",
+    "idMeaning": "Tamasya / melihat-lihat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.47",
+    "kanji": "為",
+    "component": "",
+    "hiragana": "ため",
+    "enMeaning": "For the sake of / benefit",
+    "idMeaning": "Demi / untuk",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.8.48",
+    "kanji": "為さる",
+    "component": "",
+    "hiragana": "なさる",
+    "enMeaning": "Do (keigo)",
+    "idMeaning": "Melakukan (keigo)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.49",
+    "kanji": "一生懸命",
+    "component": "",
+    "hiragana": "いっしょうけんめい",
+    "enMeaning": "With all one's effort",
+    "idMeaning": "Dengan sekuat tenaga",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.8.50",
+    "kanji": "怒る",
+    "component": "",
+    "hiragana": "おこる",
+    "enMeaning": "Get angry",
+    "idMeaning": "Marah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.8.51",
+    "kanji": "訪ねる",
+    "component": "",
+    "hiragana": "たずねる",
+    "enMeaning": "Visit",
+    "idMeaning": "Mengunjungi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.52",
+    "kanji": "赤ん坊",
+    "component": "",
+    "hiragana": "あかんぼう",
+    "enMeaning": "Baby",
+    "idMeaning": "Bayi",
+    "type": "Kata Benda"
+  }
+]

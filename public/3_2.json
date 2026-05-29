@@ -37,11 +37,11 @@
   },
   {
     "id": "N3.2.5",
-    "kanji": "～倍",
+    "kanji": "判断",
     "component": "",
-    "hiragana": "～ばい",
-    "enMeaning": "Times / fold",
-    "idMeaning": "~ kali (perkalian)",
+    "hiragana": "はんだん",
+    "enMeaning": "Judgment / decision",
+    "idMeaning": "Penilaian / keputusan",
     "type": "Kata Benda"
   },
   {
@@ -496,21 +496,21 @@
   },
   {
     "id": "N3.2.56",
-    "kanji": "決して",
+    "kanji": "似合う",
     "component": "",
-    "hiragana": "けっして",
-    "enMeaning": "Never / by no means",
-    "idMeaning": "Sama sekali tidak (negatif)",
-    "type": "Kata Benda"
+    "hiragana": "にあう",
+    "enMeaning": "Suit / match",
+    "idMeaning": "Cocok",
+    "type": "KK Intransitif"
   },
   {
     "id": "N3.2.57",
-    "kanji": "参る",
+    "kanji": "商売",
     "component": "",
-    "hiragana": "まいる",
-    "enMeaning": "To go / come (kenjougo)",
-    "idMeaning": "Pergi (kenjougo)",
-    "type": "KK Intransitif"
+    "hiragana": "しょうばい",
+    "enMeaning": "Business / trade",
+    "idMeaning": "Perdagangan / usaha",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.2.58",
@@ -577,11 +577,11 @@
   },
   {
     "id": "N3.2.65",
-    "kanji": "湖",
+    "kanji": "以前",
     "component": "",
-    "hiragana": "みずうみ",
-    "enMeaning": "Lake",
-    "idMeaning": "Danau",
+    "hiragana": "いぜん",
+    "enMeaning": "Before / previously",
+    "idMeaning": "Sebelumnya",
     "type": "Kata Benda"
   },
   {
@@ -919,39 +919,39 @@
   },
   {
     "id": "N3.2.103",
-    "kanji": "下がる",
+    "kanji": "演奏する",
     "component": "",
-    "hiragana": "さがる",
-    "enMeaning": "Go down",
-    "idMeaning": "Turun",
-    "type": "KK Intransitif"
+    "hiragana": "えんそうする",
+    "enMeaning": "Perform music",
+    "idMeaning": "Memainkan musik",
+    "type": "KK Transitif"
   },
   {
     "id": "N3.2.104",
-    "kanji": "上がる",
+    "kanji": "結論",
     "component": "",
-    "hiragana": "あがる",
-    "enMeaning": "Go up",
-    "idMeaning": "Naik",
-    "type": "KK Intransitif"
+    "hiragana": "けつろん",
+    "enMeaning": "Conclusion",
+    "idMeaning": "Kesimpulan",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.2.105",
-    "kanji": "浅い",
+    "kanji": "演奏",
     "component": "",
-    "hiragana": "あさい",
-    "enMeaning": "Shallow",
-    "idMeaning": "Dangkal",
-    "type": "Kata Sifat い"
+    "hiragana": "えんそう",
+    "enMeaning": "Musical performance",
+    "idMeaning": "Pertunjukan musik",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.2.106",
-    "kanji": "深い",
+    "kanji": "放課後",
     "component": "",
-    "hiragana": "ふかい",
-    "enMeaning": "Deep",
-    "idMeaning": "Dalam",
-    "type": "Kata Sifat い"
+    "hiragana": "ほうかご",
+    "enMeaning": "After school",
+    "idMeaning": "Setelah sekolah",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.2.107",
@@ -1117,11 +1117,11 @@
   },
   {
     "id": "N3.2.125",
-    "kanji": "途中",
+    "kanji": "金を下ろす",
     "component": "",
-    "hiragana": "とちゅう",
-    "enMeaning": "On the way / in the middle",
-    "idMeaning": "Di tengah jalan / di tengah proses",
-    "type": "Kata Benda"
+    "hiragana": "かねをおろす",
+    "enMeaning": "Withdraw money",
+    "idMeaning": "Menarik uang",
+    "type": "Frasa / Klausa"
   }
 ]

@@ -763,5 +763,95 @@
     "enMeaning": "Clean / beautiful",
     "idMeaning": "Cantik / indah",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N4.7.86",
+    "kanji": "先輩",
+    "component": "",
+    "hiragana": "せんぱい",
+    "enMeaning": "Senior",
+    "idMeaning": "Senior / kakak tingkat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.87",
+    "kanji": "致す",
+    "component": "",
+    "hiragana": "いたす",
+    "enMeaning": "Do (kenjougo)",
+    "idMeaning": "Melakukan (kenjougo)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.7.88",
+    "kanji": "大抵",
+    "component": "",
+    "hiragana": "たいてい",
+    "enMeaning": "Usually / mostly",
+    "idMeaning": "Biasanya / umumnya",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N4.7.89",
+    "kanji": "葡萄",
+    "component": "",
+    "hiragana": "ぶどう",
+    "enMeaning": "Grape",
+    "idMeaning": "Anggur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.90",
+    "kanji": "贈り物",
+    "component": "",
+    "hiragana": "おくりもの",
+    "enMeaning": "Gift / present",
+    "idMeaning": "Hadiah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.91",
+    "kanji": "雲",
+    "component": "",
+    "hiragana": "くも",
+    "enMeaning": "Cloud",
+    "idMeaning": "Awan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.92",
+    "kanji": "玩具",
+    "component": "",
+    "hiragana": "おもちゃ",
+    "enMeaning": "Toy",
+    "idMeaning": "Mainan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.93",
+    "kanji": "電報",
+    "component": "",
+    "hiragana": "でんぽう",
+    "enMeaning": "Telegram",
+    "idMeaning": "Telegram",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.94",
+    "kanji": "校長",
+    "component": "",
+    "hiragana": "こうちょう",
+    "enMeaning": "Principal",
+    "idMeaning": "Kepala sekolah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.95",
+    "kanji": "郊外",
+    "component": "",
+    "hiragana": "こうがい",
+    "enMeaning": "Suburbs",
+    "idMeaning": "Pinggiran kota",
+    "type": "Kata Benda"
   }
 ]

@@ -763,5 +763,95 @@
     "enMeaning": "Post office",
     "idMeaning": "Kantor pos",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.86",
+    "kanji": "盛ん",
+    "component": "",
+    "hiragana": "さかん",
+    "enMeaning": "Prosperous / active",
+    "idMeaning": "Aktif / berkembang",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N4.6.87",
+    "kanji": "電灯",
+    "component": "",
+    "hiragana": "でんとう",
+    "enMeaning": "Electric light",
+    "idMeaning": "Lampu listrik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.88",
+    "kanji": "草",
+    "component": "",
+    "hiragana": "くさ",
+    "enMeaning": "Grass",
+    "idMeaning": "Rumput",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.89",
+    "kanji": "競争",
+    "component": "",
+    "hiragana": "きょうそう",
+    "enMeaning": "Competition",
+    "idMeaning": "Persaingan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.90",
+    "kanji": "棚",
+    "component": "",
+    "hiragana": "たな",
+    "enMeaning": "Shelf",
+    "idMeaning": "Rak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.91",
+    "kanji": "申し上げる",
+    "component": "",
+    "hiragana": "もうしあげる",
+    "enMeaning": "Say / tell (kenjougo)",
+    "idMeaning": "Mengatakan (kenjougo)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.6.92",
+    "kanji": "可笑しい",
+    "component": "",
+    "hiragana": "おかしい",
+    "enMeaning": "Strange / funny",
+    "idMeaning": "Aneh / lucu",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N4.6.93",
+    "kanji": "汽車",
+    "component": "",
+    "hiragana": "きしゃ",
+    "enMeaning": "Train (steam train)",
+    "idMeaning": "Kereta api",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.94",
+    "kanji": "具合",
+    "component": "",
+    "hiragana": "ぐあい",
+    "enMeaning": "Condition / state",
+    "idMeaning": "Keadaan / kondisi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.95",
+    "kanji": "紹介",
+    "component": "",
+    "hiragana": "しょうかい",
+    "enMeaning": "Introduction",
+    "idMeaning": "Perkenalan / pengenalan",
+    "type": "Kata Benda"
   }
 ]

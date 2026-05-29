@@ -46,12 +46,12 @@
   },
   {
     "id": "N3.4.6",
-    "kanji": "空港",
+    "kanji": "揺れる",
     "component": "",
-    "hiragana": "くうこう",
-    "enMeaning": "Airport",
-    "idMeaning": "Bandara",
-    "type": "Kata Benda"
+    "hiragana": "ゆれる",
+    "enMeaning": "Shake / sway",
+    "idMeaning": "Goyang / berguncang",
+    "type": "KK Intransitif"
   },
   {
     "id": "N3.4.7",
@@ -181,12 +181,12 @@
   },
   {
     "id": "N3.4.21",
-    "kanji": "優しい",
+    "kanji": "例外",
     "component": "",
-    "hiragana": "やさしい",
-    "enMeaning": "Kind / gentle",
-    "idMeaning": "Ramah / baik hati",
-    "type": "Kata Sifat い"
+    "hiragana": "れいがい",
+    "enMeaning": "Exception",
+    "idMeaning": "Pengecualian",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.4.22",
@@ -343,11 +343,11 @@
   },
   {
     "id": "N3.4.39",
-    "kanji": "公務員",
+    "kanji": "物理",
     "component": "",
-    "hiragana": "こうむいん",
-    "enMeaning": "Public servant",
-    "idMeaning": "Pegawai negeri",
+    "hiragana": "ぶつり",
+    "enMeaning": "Physics",
+    "idMeaning": "Fisika",
     "type": "Kata Benda"
   },
   {
@@ -442,11 +442,11 @@
   },
   {
     "id": "N3.4.50",
-    "kanji": "数学",
+    "kanji": "感覚",
     "component": "",
-    "hiragana": "すうがく",
-    "enMeaning": "Mathematics",
-    "idMeaning": "Matematika",
+    "hiragana": "かんかく",
+    "enMeaning": "Sense / feeling",
+    "idMeaning": "Perasaan / indra",
     "type": "Kata Benda"
   },
   {
