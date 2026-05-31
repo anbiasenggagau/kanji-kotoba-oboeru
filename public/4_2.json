@@ -853,5 +853,50 @@
     "enMeaning": "Deep",
     "idMeaning": "Dalam",
     "type": "Kata Sifat い"
+  },
+  {
+    "id": "N4.2.96",
+    "kanji": "辞典",
+    "component": "",
+    "hiragana": "じてん",
+    "enMeaning": "Dictionary",
+    "idMeaning": "Kamus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.97",
+    "kanji": "髭",
+    "component": "",
+    "hiragana": "ひげ",
+    "enMeaning": "Beard / moustache",
+    "idMeaning": "Jenggot / kumis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.98",
+    "kanji": "味噌",
+    "component": "",
+    "hiragana": "みそ",
+    "enMeaning": "Miso",
+    "idMeaning": "Miso",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.99",
+    "kanji": "見物",
+    "component": "",
+    "hiragana": "けんぶつ",
+    "enMeaning": "Sightseeing / watching",
+    "idMeaning": "Tamasya / melihat-lihat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.100",
+    "kanji": "為",
+    "component": "",
+    "hiragana": "ため",
+    "enMeaning": "For the sake of / benefit",
+    "idMeaning": "Demi / untuk",
+    "type": "Frasa / Klausa"
   }
 ]

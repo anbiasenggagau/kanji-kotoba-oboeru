@@ -24,7 +24,7 @@ function main2() {
     const kanjiData = {}
 
     fs.readdirSync(publicDir)
-        .filter(file => path.extname(file) === '.json' && file[0] == "4")
+        .filter(file => path.extname(file) === '.json' && file[0] == "4" && ["1", "2", "7", "6"].includes(file[2]))
         .forEach(file => {
             fileLoc = publicDir + "/" + file
             let data = require(fileLoc)
@@ -32,7 +32,7 @@ function main2() {
         })
 
     for (const key in kanjiData) {
-        for (let i = 0; i < 10; i++) {
+        for (let i = 0; i < 5; i++) {
             const replacedData = replaced.splice(0, 1)[0]
             kanjiData[key].push({
                 ...replacedData,

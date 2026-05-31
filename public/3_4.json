@@ -46,12 +46,12 @@
   },
   {
     "id": "N3.4.6",
-    "kanji": "揺れる",
+    "kanji": "激しい",
     "component": "",
-    "hiragana": "ゆれる",
-    "enMeaning": "Shake / sway",
-    "idMeaning": "Goyang / berguncang",
-    "type": "KK Intransitif"
+    "hiragana": "はげしい",
+    "enMeaning": "Violent / intense / fierce",
+    "idMeaning": "Hebat / keras / intens",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N3.4.7",
@@ -1108,11 +1108,11 @@
   },
   {
     "id": "N3.4.124",
-    "kanji": "花見",
+    "kanji": "責任",
     "component": "",
-    "hiragana": "はなみ",
-    "enMeaning": "Cherry blossom viewing",
-    "idMeaning": "Melihat bunga sakura",
+    "hiragana": "せきにん",
+    "enMeaning": "Responsibility",
+    "idMeaning": "Tanggung jawab",
     "type": "Kata Benda"
   },
   {

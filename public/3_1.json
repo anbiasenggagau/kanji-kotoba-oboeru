@@ -91,12 +91,12 @@
   },
   {
     "id": "N3.1.11",
-    "kanji": "確か",
+    "kanji": "体型",
     "component": "",
-    "hiragana": "たしか",
-    "enMeaning": "Certain / sure",
-    "idMeaning": "Pasti",
-    "type": "Kata Sifat な"
+    "hiragana": "たいけい",
+    "enMeaning": "Body type / physique",
+    "idMeaning": "Bentuk tubuh",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.1.12",
@@ -172,12 +172,12 @@
   },
   {
     "id": "N3.1.20",
-    "kanji": "今晩",
+    "kanji": "親しい",
     "component": "",
-    "hiragana": "こんばん",
-    "enMeaning": "This evening / tonight",
-    "idMeaning": "Malam ini",
-    "type": "Kata Benda"
+    "hiragana": "したしい",
+    "enMeaning": "Close / intimate / familiar",
+    "idMeaning": "Akrab / dekat",
+    "type": "Kata Sifat い"
   },
   {
     "id": "N3.1.21",
@@ -262,12 +262,12 @@
   },
   {
     "id": "N3.1.30",
-    "kanji": "冷える",
+    "kanji": "誤解",
     "component": "",
-    "hiragana": "ひえる",
-    "enMeaning": "Get cold",
-    "idMeaning": "Menjadi dingin",
-    "type": "KK Intransitif"
+    "hiragana": "ごかい",
+    "enMeaning": "Misunderstanding",
+    "idMeaning": "Kesalahpahaman",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.1.31",

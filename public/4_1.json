@@ -853,5 +853,50 @@
     "enMeaning": "Economy",
     "idMeaning": "Ekonomi",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.96",
+    "kanji": "糸",
+    "component": "",
+    "hiragana": "いと",
+    "enMeaning": "Thread",
+    "idMeaning": "Benang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.97",
+    "kanji": "注射",
+    "component": "",
+    "hiragana": "ちゅうしゃ",
+    "enMeaning": "Injection",
+    "idMeaning": "Suntikan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.98",
+    "kanji": "坂",
+    "component": "",
+    "hiragana": "さか",
+    "enMeaning": "Slope / hill",
+    "idMeaning": "Tanjakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.99",
+    "kanji": "布団",
+    "component": "",
+    "hiragana": "ふとん",
+    "enMeaning": "Futon",
+    "idMeaning": "Kasur futon",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.100",
+    "kanji": "高等学校",
+    "component": "",
+    "hiragana": "こうとうがっこう",
+    "enMeaning": "High school",
+    "idMeaning": "Sekolah menengah atas",
+    "type": "Kata Benda"
   }
 ]

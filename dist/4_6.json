@@ -853,5 +853,50 @@
     "enMeaning": "Introduction",
     "idMeaning": "Perkenalan / pengenalan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.96",
+    "kanji": "為さる",
+    "component": "",
+    "hiragana": "なさる",
+    "enMeaning": "Do (keigo)",
+    "idMeaning": "Melakukan (keigo)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.6.97",
+    "kanji": "一生懸命",
+    "component": "",
+    "hiragana": "いっしょうけんめい",
+    "enMeaning": "With all one's effort",
+    "idMeaning": "Dengan sekuat tenaga",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N4.6.98",
+    "kanji": "怒る",
+    "component": "",
+    "hiragana": "おこる",
+    "enMeaning": "Get angry",
+    "idMeaning": "Marah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.6.99",
+    "kanji": "訪ねる",
+    "component": "",
+    "hiragana": "たずねる",
+    "enMeaning": "Visit",
+    "idMeaning": "Mengunjungi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.6.100",
+    "kanji": "赤ん坊",
+    "component": "",
+    "hiragana": "あかんぼう",
+    "enMeaning": "Baby",
+    "idMeaning": "Bayi",
+    "type": "Kata Benda"
   }
 ]

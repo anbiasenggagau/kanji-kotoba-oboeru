@@ -853,5 +853,50 @@
     "enMeaning": "Suburbs",
     "idMeaning": "Pinggiran kota",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.96",
+    "kanji": "花見",
+    "component": "",
+    "hiragana": "はなみ",
+    "enMeaning": "Cherry blossom viewing",
+    "idMeaning": "Melihat bunga sakura",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.97",
+    "kanji": "揺れる",
+    "component": "",
+    "hiragana": "ゆれる",
+    "enMeaning": "Shake / sway",
+    "idMeaning": "Goyang / berguncang",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.7.98",
+    "kanji": "確か",
+    "component": "",
+    "hiragana": "たしか",
+    "enMeaning": "Certain / sure",
+    "idMeaning": "Pasti",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N4.7.99",
+    "kanji": "今晩",
+    "component": "",
+    "hiragana": "こんばん",
+    "enMeaning": "This evening / tonight",
+    "idMeaning": "Malam ini",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.100",
+    "kanji": "冷える",
+    "component": "",
+    "hiragana": "ひえる",
+    "enMeaning": "Get cold",
+    "idMeaning": "Menjadi dingin",
+    "type": "KK Intransitif"
   }
 ]
