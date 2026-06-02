@@ -1123,5 +1123,50 @@
     "enMeaning": "Boil / cook by simmering",
     "idMeaning": "Merebus",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.126",
+    "kanji": "繰り返す",
+    "component": "",
+    "hiragana": "くりかえす",
+    "enMeaning": "To do over again",
+    "idMeaning": "Berulang kali",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.127",
+    "kanji": "基づく",
+    "component": "",
+    "hiragana": "もとづく",
+    "enMeaning": "Be based on",
+    "idMeaning": "Berdasarkan",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.8.128",
+    "kanji": "費用",
+    "component": "",
+    "hiragana": "ひよう",
+    "enMeaning": "Cost",
+    "idMeaning": "Biaya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.129",
+    "kanji": "味方",
+    "component": "",
+    "hiragana": "みかた",
+    "enMeaning": "Ally / friend",
+    "idMeaning": "Sekutu / pihak sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.130",
+    "kanji": "敵",
+    "component": "",
+    "hiragana": "てき",
+    "enMeaning": "Enemy / opponent",
+    "idMeaning": "Musuh / lawan",
+    "type": "Kata Benda"
   }
 ]

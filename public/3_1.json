@@ -1123,5 +1123,50 @@
     "enMeaning": "Hourly wage",
     "idMeaning": "Upah per jam",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.126",
+    "kanji": "僅か",
+    "component": "",
+    "hiragana": "わずか",
+    "enMeaning": "Only / merely / slight",
+    "idMeaning": "Hanya / sedikit",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.127",
+    "kanji": "迷惑",
+    "component": "",
+    "hiragana": "めいわく",
+    "enMeaning": "Trouble / nuisance",
+    "idMeaning": "Gangguan / merepotkan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.128",
+    "kanji": "様々",
+    "component": "",
+    "hiragana": "さまざま",
+    "enMeaning": "Various / diverse",
+    "idMeaning": "Berbagai macam",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.129",
+    "kanji": "質",
+    "component": "",
+    "hiragana": "しつ",
+    "enMeaning": "Quality",
+    "idMeaning": "Kualitas / mutu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.130",
+    "kanji": "紫色",
+    "component": "",
+    "hiragana": "むらさきいろ",
+    "enMeaning": "Purple color",
+    "idMeaning": "Warna ungu",
+    "type": "Kata Benda"
   }
 ]
