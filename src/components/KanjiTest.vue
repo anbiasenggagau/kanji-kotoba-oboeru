@@ -111,6 +111,10 @@ async function initData() {
         let inserted = 0
         finalResults = results.flat()
             .sort(() => Math.random() - 0.5)
+            .sort(() => Math.random() - 0.5)
+            .sort(() => Math.random() - 0.5)
+            .sort(() => Math.random() - 0.5)
+            .sort(() => Math.random() - 0.5)
             .map((val, index, arr) => {
                 // skip remaining kanji if slot kanji is fullfilled
                 if (inserted >= kanjiFile.max) {
