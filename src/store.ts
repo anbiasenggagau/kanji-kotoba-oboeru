@@ -159,8 +159,8 @@ export const progressStore = defineStore('progressStore', () => {
                 // While auto decay running, lastProgress becomes today
                 // Prevent progress treated as same day by checking the falseStack & trueStack
                 if (progress.value[kanji.id]!.lastProgress.toDateString() == (new Date()).toDateString()
-                    && progress.value[kanji.id]!.falseStack != 0
-                    && progress.value[kanji.id]!.trueStack != 0) {
+                    && (progress.value[kanji.id]!.falseStack != 0
+                        || progress.value[kanji.id]!.trueStack != 0)) {
                     progress.value[kanji.id]!.trueStack++
 
                     if (progress.value[kanji.id]!.trueStack == 2 || progress.value[kanji.id]!.trueStack == 1) {
@@ -195,8 +195,8 @@ export const progressStore = defineStore('progressStore', () => {
             // While auto decay running, lastProgress becomes today
             // Prevent progress treated as same day by checking the falseStack & trueStack
             if (progress.value[kanjiId].lastProgress.toDateString() == (new Date()).toDateString()
-                && progress.value[kanjiId]!.falseStack != 0
-                && progress.value[kanjiId]!.trueStack != 0) {
+                && (progress.value[kanjiId]!.falseStack != 0
+                    || progress.value[kanjiId]!.trueStack != 0)) {
                 progress.value[kanjiId].falseStack++
 
                 if (progress.value[kanjiId].falseStack == 1) {
