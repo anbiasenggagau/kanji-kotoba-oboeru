@@ -95,6 +95,16 @@ function revealAnswerEvent(e: KeyboardEvent) {
     }
 }
 
+function shuffle(array: KanjiType[]) {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j]!, shuffled[i]!];
+    }
+
+    return shuffled;
+}
+
 async function initData() {
     if (kanjiFile.data.length == 0) {
         routerOpt.replace({ name: "home" })
@@ -109,12 +119,7 @@ async function initData() {
     let finalResults: KanjiType[] = []
     if (kanjiFile.max > 0) {
         let inserted = 0
-        finalResults = results.flat()
-            .sort(() => Math.random() - 0.5)
-            .sort(() => Math.random() - 0.5)
-            .sort(() => Math.random() - 0.5)
-            .sort(() => Math.random() - 0.5)
-            .sort(() => Math.random() - 0.5)
+        finalResults = shuffle(results.flat())
             .map((val, index, arr) => {
                 // skip remaining kanji if slot kanji is fullfilled
                 if (inserted >= kanjiFile.max) {

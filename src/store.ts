@@ -244,7 +244,7 @@ export const progressStore = defineStore('progressStore', () => {
         // return odds > prob
     }
 
-    function getProgress(kanjiId: string): { progress: number, lastProgress?: Date } {
+    function getProgress(kanjiId: string): { progress: number, lastProgress: Date } {
         if (progress.value[kanjiId])
             return {
                 progress: (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)),
@@ -252,7 +252,8 @@ export const progressStore = defineStore('progressStore', () => {
             }
 
         return {
-            progress: 0
+            progress: 0,
+            lastProgress: new Date(0)
         }
     }
 

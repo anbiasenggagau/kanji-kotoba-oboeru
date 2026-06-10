@@ -1123,5 +1123,50 @@
     "enMeaning": "Withdraw money",
     "idMeaning": "Menarik uang",
     "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.126",
+    "kanji": "優秀",
+    "component": "",
+    "hiragana": "ゆうしゅう",
+    "enMeaning": "Excellent / outstanding",
+    "idMeaning": "Unggul / sangat baik",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.2.127",
+    "kanji": "作業",
+    "component": "",
+    "hiragana": "さぎょう",
+    "enMeaning": "Work / operation / task",
+    "idMeaning": "Pekerjaan / tugas / proses kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.128",
+    "kanji": "開始",
+    "component": "",
+    "hiragana": "かいし",
+    "enMeaning": "Start / commencement",
+    "idMeaning": "Mulai / permulaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.129",
+    "kanji": "緊急",
+    "component": "",
+    "hiragana": "きんきゅう",
+    "enMeaning": "Urgent / emergency",
+    "idMeaning": "Darurat / mendesak",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.2.130",
+    "kanji": "目覚まし時計",
+    "component": "",
+    "hiragana": "めざましどけい",
+    "enMeaning": "Alarm clock",
+    "idMeaning": "Jam alarm",
+    "type": "Kata Benda"
   }
 ]

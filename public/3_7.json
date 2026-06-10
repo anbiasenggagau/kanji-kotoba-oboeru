@@ -1123,5 +1123,50 @@
     "enMeaning": "Exchange / interaction",
     "idMeaning": "Interaksi / pertukaran",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.126",
+    "kanji": "印刷",
+    "component": "",
+    "hiragana": "いんさつ",
+    "enMeaning": "Printing / print",
+    "idMeaning": "Pencetakan / cetak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.127",
+    "kanji": "坂道",
+    "component": "",
+    "hiragana": "さかみち",
+    "enMeaning": "Slope / uphill road",
+    "idMeaning": "Jalan menanjak / lereng",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.128",
+    "kanji": "体重",
+    "component": "",
+    "hiragana": "たいじゅう",
+    "enMeaning": "Body weight",
+    "idMeaning": "Berat badan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.129",
+    "kanji": "小雨",
+    "component": "",
+    "hiragana": "こさめ",
+    "enMeaning": "Light rain / drizzle",
+    "idMeaning": "Hujan gerimis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.130",
+    "kanji": "予算",
+    "component": "",
+    "hiragana": "よさん",
+    "enMeaning": "Budget",
+    "idMeaning": "Anggaran",
+    "type": "Kata Benda"
   }
 ]
