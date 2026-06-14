@@ -1123,5 +1123,50 @@
     "enMeaning": "Living alone",
     "idMeaning": "Tinggal sendiri",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.126",
+    "kanji": "清潔",
+    "component": "",
+    "hiragana": "せいけつ",
+    "enMeaning": "Clean / hygienic",
+    "idMeaning": "Bersih / higienis",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.4.127",
+    "kanji": "挑戦",
+    "component": "",
+    "hiragana": "ちょうせん",
+    "enMeaning": "Challenge",
+    "idMeaning": "Tantangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.128",
+    "kanji": "有休",
+    "component": "",
+    "hiragana": "ゆうきゅう",
+    "enMeaning": "Paid leave",
+    "idMeaning": "Cuti berbayar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.129",
+    "kanji": "取り敢えず",
+    "component": "",
+    "hiragana": "とりあえず",
+    "enMeaning": "For now / first of all",
+    "idMeaning": "Untuk sementara / pertama-tama",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.4.130",
+    "kanji": "一応",
+    "component": "",
+    "hiragana": "いちおう",
+    "enMeaning": "Just in case / for the time being",
+    "idMeaning": "Untuk berjaga-jaga / sementara",
+    "type": "Frasa / Klausa"
   }
 ]

@@ -1123,5 +1123,50 @@
     "enMeaning": "The other day",
     "idMeaning": "Beberapa hari lalu",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.126",
+    "kanji": "一先ず",
+    "component": "",
+    "hiragana": "ひとまず",
+    "enMeaning": "For the time being / first of all",
+    "idMeaning": "Untuk sementara / pertama-tama",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.5.127",
+    "kanji": "当日",
+    "component": "",
+    "hiragana": "とうじつ",
+    "enMeaning": "The day of the event",
+    "idMeaning": "Hari-H acara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.128",
+    "kanji": "持参",
+    "component": "",
+    "hiragana": "じさん",
+    "enMeaning": "Bringing with oneself",
+    "idMeaning": "Membawa sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.129",
+    "kanji": "不要",
+    "component": "",
+    "hiragana": "ふよう",
+    "enMeaning": "Unnecessary",
+    "idMeaning": "Tidak perlu",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.130",
+    "kanji": "年会費",
+    "component": "",
+    "hiragana": "ねんかいひ",
+    "enMeaning": "Annual membership fee",
+    "idMeaning": "Biaya keanggotaan tahunan",
+    "type": "Kata Benda"
   }
 ]

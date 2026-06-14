@@ -1123,5 +1123,50 @@
     "enMeaning": "Imagination",
     "idMeaning": "Imajinasi",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.126",
+    "kanji": "掲示板",
+    "component": "",
+    "hiragana": "けいじばん",
+    "enMeaning": "Bulletin board / notice board",
+    "idMeaning": "Papan pengumuman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.127",
+    "kanji": "板",
+    "component": "",
+    "hiragana": "いた",
+    "enMeaning": "Board / plank",
+    "idMeaning": "Papan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.128",
+    "kanji": "障害",
+    "component": "",
+    "hiragana": "しょうがい",
+    "enMeaning": "Disability / obstacle",
+    "idMeaning": "Disabilitas / hambatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.129",
+    "kanji": "障害者",
+    "component": "",
+    "hiragana": "しょうがいしゃ",
+    "enMeaning": "Person with a disability",
+    "idMeaning": "Penyandang disabilitas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.130",
+    "kanji": "清い",
+    "component": "",
+    "hiragana": "きよい",
+    "enMeaning": "Pure / clean",
+    "idMeaning": "Murni / bersih",
+    "type": "Kata Sifat い"
   }
 ]

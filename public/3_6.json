@@ -1123,5 +1123,50 @@
     "enMeaning": "Shortcut",
     "idMeaning": "Jalan pintas",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.126",
+    "kanji": "検討",
+    "component": "",
+    "hiragana": "けんとう",
+    "enMeaning": "Consideration / examination",
+    "idMeaning": "Pertimbangan / kajian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.127",
+    "kanji": "掘る",
+    "component": "",
+    "hiragana": "ほる",
+    "enMeaning": "Dig",
+    "idMeaning": "Menggali",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.6.128",
+    "kanji": "工夫",
+    "component": "",
+    "hiragana": "くふう",
+    "enMeaning": "Ingenuity / devise",
+    "idMeaning": "Ide kreatif / akal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.129",
+    "kanji": "近づく",
+    "component": "",
+    "hiragana": "ちかづく",
+    "enMeaning": "Approach / get closer",
+    "idMeaning": "Mendekat",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.6.130",
+    "kanji": "気づく",
+    "component": "",
+    "hiragana": "きづく",
+    "enMeaning": "Notice / realize",
+    "idMeaning": "Menyadari",
+    "type": "KK Intransitif"
   }
 ]
