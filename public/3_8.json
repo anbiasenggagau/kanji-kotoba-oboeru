@@ -1168,5 +1168,50 @@
     "enMeaning": "Enemy / opponent",
     "idMeaning": "Musuh / lawan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.131",
+    "kanji": "来日",
+    "component": "",
+    "hiragana": "らいにち",
+    "enMeaning": "Visit Japan / arrival in Japan",
+    "idMeaning": "Datang ke Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.132",
+    "kanji": "恐らく",
+    "component": "",
+    "hiragana": "おそらく",
+    "enMeaning": "Probably / perhaps",
+    "idMeaning": "Mungkin",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.8.133",
+    "kanji": "主に",
+    "component": "",
+    "hiragana": "おもに",
+    "enMeaning": "Mainly / chiefly",
+    "idMeaning": "Terutama / terutama sekali",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.8.134",
+    "kanji": "講座",
+    "component": "",
+    "hiragana": "こうざ",
+    "enMeaning": "Course / lecture series",
+    "idMeaning": "Kursus / seri kuliah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.135",
+    "kanji": "お互い",
+    "component": "",
+    "hiragana": "おたがい",
+    "enMeaning": "Each other / one another",
+    "idMeaning": "Satu sama lain",
+    "type": "Kata Benda"
   }
 ]

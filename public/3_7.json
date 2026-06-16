@@ -1168,5 +1168,50 @@
     "enMeaning": "Budget",
     "idMeaning": "Anggaran",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.131",
+    "kanji": "避ける",
+    "component": "",
+    "hiragana": "さける",
+    "enMeaning": "Avoid",
+    "idMeaning": "Menghindari",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.7.132",
+    "kanji": "沈む",
+    "component": "",
+    "hiragana": "しずむ",
+    "enMeaning": "Sink / go down",
+    "idMeaning": "Tenggelam / terbenam",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.7.133",
+    "kanji": "叫ぶ",
+    "component": "",
+    "hiragana": "さけぶ",
+    "enMeaning": "Shout / scream",
+    "idMeaning": "Berteriak",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.7.134",
+    "kanji": "賢い",
+    "component": "",
+    "hiragana": "かしこい",
+    "enMeaning": "Wise / smart",
+    "idMeaning": "Bijaksana / pintar",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.7.135",
+    "kanji": "幼い",
+    "component": "",
+    "hiragana": "おさない",
+    "enMeaning": "Young / childish",
+    "idMeaning": "Masih kecil / kekanak-kanakan",
+    "type": "Kata Sifat い"
   }
 ]

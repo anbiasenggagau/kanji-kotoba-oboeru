@@ -1168,5 +1168,50 @@
     "enMeaning": "Pure / clean",
     "idMeaning": "Murni / bersih",
     "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.3.131",
+    "kanji": "疑問",
+    "component": "",
+    "hiragana": "ぎもん",
+    "enMeaning": "Question / doubt",
+    "idMeaning": "Pertanyaan / keraguan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.132",
+    "kanji": "会合",
+    "component": "",
+    "hiragana": "かいごう",
+    "enMeaning": "Meeting / gathering",
+    "idMeaning": "Pertemuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.133",
+    "kanji": "退社",
+    "component": "",
+    "hiragana": "たいしゃ",
+    "enMeaning": "Leaving a company",
+    "idMeaning": "Keluar dari perusahaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.134",
+    "kanji": "返信",
+    "component": "",
+    "hiragana": "へんしん",
+    "enMeaning": "Reply / response",
+    "idMeaning": "Balasan / jawaban",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.135",
+    "kanji": "平気",
+    "component": "",
+    "hiragana": "へいき",
+    "enMeaning": "Calm / fine / unconcerned",
+    "idMeaning": "Tidak apa-apa / tenang",
+    "type": "Kata Sifat な"
   }
 ]

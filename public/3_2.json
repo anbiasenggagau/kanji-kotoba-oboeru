@@ -1168,5 +1168,50 @@
     "enMeaning": "Alarm clock",
     "idMeaning": "Jam alarm",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.131",
+    "kanji": "失う",
+    "component": "",
+    "hiragana": "うしなう",
+    "enMeaning": "Lose",
+    "idMeaning": "Kehilangan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.132",
+    "kanji": "争う",
+    "component": "",
+    "hiragana": "あらそう",
+    "enMeaning": "Fight / dispute",
+    "idMeaning": "Bertengkar / berselisih",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.2.133",
+    "kanji": "返品",
+    "component": "",
+    "hiragana": "へんぴん",
+    "enMeaning": "Return of goods",
+    "idMeaning": "Pengembalian barang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.134",
+    "kanji": "激しい",
+    "component": "",
+    "hiragana": "はげしい",
+    "enMeaning": "Violent / intense / severe",
+    "idMeaning": "Hebat / keras / sengit",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.2.135",
+    "kanji": "支える",
+    "component": "",
+    "hiragana": "ささえる",
+    "enMeaning": "Support / hold up",
+    "idMeaning": "Menopang / mendukung",
+    "type": "KK Transitif"
   }
 ]

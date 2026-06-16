@@ -175,7 +175,7 @@
     "kanji": "親しい",
     "component": "",
     "hiragana": "したしい",
-    "enMeaning": "Close / intimate / familiar",
+    "enMeaning": "Close / intimate",
     "idMeaning": "Akrab / dekat",
     "type": "Kata Sifat い"
   },
@@ -1167,6 +1167,51 @@
     "hiragana": "むらさきいろ",
     "enMeaning": "Purple color",
     "idMeaning": "Warna ungu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.131",
+    "kanji": "地下",
+    "component": "",
+    "hiragana": "ちか",
+    "enMeaning": "Underground / basement",
+    "idMeaning": "Bawah tanah / ruang bawah tanah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.132",
+    "kanji": "承知",
+    "component": "",
+    "hiragana": "しょうち",
+    "enMeaning": "Knowledge / consent / understanding",
+    "idMeaning": "Mengetahui / memahami",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.133",
+    "kanji": "承知する",
+    "component": "",
+    "hiragana": "しょうちする",
+    "enMeaning": "Understand / acknowledge",
+    "idMeaning": "Memahami",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.134",
+    "kanji": "過ごす",
+    "component": "",
+    "hiragana": "すごす",
+    "enMeaning": "Spend (time) / live through",
+    "idMeaning": "Menghabiskan (waktu) / menjalani",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.135",
+    "kanji": "命",
+    "component": "",
+    "hiragana": "いのち",
+    "enMeaning": "Life",
+    "idMeaning": "Nyawa / kehidupan",
     "type": "Kata Benda"
   }
 ]
