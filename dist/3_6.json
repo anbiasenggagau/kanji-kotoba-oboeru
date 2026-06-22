@@ -1168,5 +1168,50 @@
     "enMeaning": "Notice / realize",
     "idMeaning": "Menyadari",
     "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.6.131",
+    "kanji": "腰",
+    "component": "",
+    "hiragana": "こし",
+    "enMeaning": "Waist / lower back",
+    "idMeaning": "Pinggang / punggung bawah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.132",
+    "kanji": "管理",
+    "component": "",
+    "hiragana": "かんり",
+    "enMeaning": "Management / control",
+    "idMeaning": "Manajemen / pengelolaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.133",
+    "kanji": "痛める",
+    "component": "",
+    "hiragana": "いためる",
+    "enMeaning": "Injure / hurt",
+    "idMeaning": "Melukai / mencederai",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.6.134",
+    "kanji": "対する",
+    "component": "",
+    "hiragana": "たいする",
+    "enMeaning": "Face / be directed toward",
+    "idMeaning": "Terhadap / menghadapi",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.6.135",
+    "kanji": "許す",
+    "component": "",
+    "hiragana": "ゆるす",
+    "enMeaning": "Permit / forgive",
+    "idMeaning": "Mengizinkan / memaafkan",
+    "type": "KK Transitif"
   }
 ]

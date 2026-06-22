@@ -23,7 +23,7 @@ function main2() {
     const kanjiData = {}
 
     fs.readdirSync(publicDir)
-        .filter(file => path.extname(file) === '.json' && file[0] == "3" && ["3"].includes(file[2]))
+        .filter(file => path.extname(file) === '.json' && file[0] == "3" && ["6"].includes(file[2]))
         .forEach(file => {
             fileLoc = publicDir + "/" + file
             let data = require(fileLoc)

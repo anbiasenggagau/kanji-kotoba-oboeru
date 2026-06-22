@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
-import { progressStore, resultStore } from '../store';
+import { flagStore, progressStore, resultStore } from '../store';
 import type { KanjiProgress, KanjiType } from '../type';
 import Accordion from '../volt/Accordion.vue';
 import AccordionPanel from '../volt/AccordionPanel.vue';
@@ -20,6 +20,7 @@ const progressActive = ref(false)
 
 const resultData = resultStore()
 const progressData = progressStore()
+const flagData = flagStore()
 const sumColor: Record<string, number> = {}
 const sumColorGroup: Record<string, number>[] = []
 const colorOrder = [
@@ -52,12 +53,12 @@ const progressArr: KanjiProgress[] = Object.entries(progressData.progress)
         sumColorGroup[index] ??= {};
         sumColorGroup[index][color] = (sumColorGroup[index][color] ?? 0) + 1;
 
-
         return {
             kanjiId,
             kanji: value.kanji,
             percent: parseInt(((value.amount / 5) * 100).toFixed(0)),
             streak: value.trueStack,
+            flagged: flagData.checkKanjiExist(value.kanji),
             color
         };
     })
@@ -242,7 +243,8 @@ function getBalancedCols(group: Record<string, number> | undefined): number {
                                 ]"></span>
 
                                 <div class="text-sm lg:text-base">
-                                    <div class="text-sm font-medium">{{ progress.kanjiId }}</div>
+                                    <div class="text-sm font-medium" :class="progress.flagged ? `text-red-700` : ``">{{
+                                        progress.kanjiId }}</div>
                                     <div class="text-xs font-medium">{{ progress.kanji }}</div>
                                     <div class="flex items-center">
                                         <div class="font-extrabold">({{ progress.percent }}%)</div>

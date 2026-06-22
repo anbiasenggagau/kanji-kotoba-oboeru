@@ -21,4 +21,5 @@ export type KanjiProgress = {
     percent: number,
     streak: number,
     color: "bg-gray-500" | "bg-red-500" | "bg-orange-500" | "bg-yellow-500" | "bg-lime-500" | "bg-green-500",
+    flagged: boolean
 }
