@@ -1168,5 +1168,50 @@
     "enMeaning": "Just in case / for the time being",
     "idMeaning": "Untuk berjaga-jaga / sementara",
     "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.4.131",
+    "kanji": "緊急時",
+    "component": "",
+    "hiragana": "きんきゅうじ",
+    "enMeaning": "Emergency / in an emergency",
+    "idMeaning": "Keadaan darurat / saat darurat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.132",
+    "kanji": "発売",
+    "component": "",
+    "hiragana": "はつばい",
+    "enMeaning": "Sale / release (of a product)",
+    "idMeaning": "Penjualan / peluncuran (produk)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.133",
+    "kanji": "緊張",
+    "component": "",
+    "hiragana": "きんちょう",
+    "enMeaning": "Tension / nervousness",
+    "idMeaning": "Ketegangan / gugup",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.134",
+    "kanji": "金欠",
+    "component": "",
+    "hiragana": "きんけつ",
+    "enMeaning": "Short of money / broke",
+    "idMeaning": "Kekurangan uang / bokek",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.135",
+    "kanji": "限界",
+    "component": "",
+    "hiragana": "げんかい",
+    "enMeaning": "Limit / boundary",
+    "idMeaning": "Batas / limit",
+    "type": "Kata Benda"
   }
 ]

@@ -1168,5 +1168,50 @@
     "enMeaning": "Annual membership fee",
     "idMeaning": "Biaya keanggotaan tahunan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.131",
+    "kanji": "耐える",
+    "component": "",
+    "hiragana": "たえる",
+    "enMeaning": "Endure / withstand",
+    "idMeaning": "Menahan / bertahan terhadap",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.5.132",
+    "kanji": "程度",
+    "component": "",
+    "hiragana": "ていど",
+    "enMeaning": "Degree / extent / level",
+    "idMeaning": "Tingkat / derajat / sejauh mana",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.133",
+    "kanji": "由来",
+    "component": "",
+    "hiragana": "ゆらい",
+    "enMeaning": "Origin / source",
+    "idMeaning": "Asal-usul",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.134",
+    "kanji": "文脈",
+    "component": "",
+    "hiragana": "ぶんみゃく",
+    "enMeaning": "Context",
+    "idMeaning": "Konteks",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.135",
+    "kanji": "隠す",
+    "component": "",
+    "hiragana": "かくす",
+    "enMeaning": "Hide / conceal",
+    "idMeaning": "Menyembunyikan",
+    "type": "KK Transitif"
   }
 ]

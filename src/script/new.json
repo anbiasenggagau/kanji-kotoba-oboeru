@@ -1,11 +1,20 @@
 [
   {
-    "id": "N3.8.6",
-    "kanji": "居間",
-    "component": "",
-    "hiragana": "いま",
-    "enMeaning": "Living room",
-    "idMeaning": "Ruang tamu / ruang keluarga",
+    "id": "N3.8.9",
+    "kanji": "選択肢",
+    "component": "選択 + 肢",
+    "hiragana": "せんたくし",
+    "enMeaning": "Choice / option",
+    "idMeaning": "Pilihan / opsi",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.10",
+    "kanji": "含む",
+    "component": "",
+    "hiragana": "ふくむ",
+    "enMeaning": "Include / contain",
+    "idMeaning": "Mencakup / mengandung",
+    "type": "KK Transitif"
   }
 ]
