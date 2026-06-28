@@ -1213,5 +1213,50 @@
     "enMeaning": "Permit / forgive",
     "idMeaning": "Mengizinkan / memaafkan",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.6.136",
+    "kanji": "検査",
+    "component": "",
+    "hiragana": "けんさ",
+    "enMeaning": "Inspection / examination",
+    "idMeaning": "Pemeriksaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.137",
+    "kanji": "通訳",
+    "component": "",
+    "hiragana": "つうやく",
+    "enMeaning": "Interpretation / interpreter",
+    "idMeaning": "Penerjemahan lisan / juru bahasa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.138",
+    "kanji": "単純",
+    "component": "",
+    "hiragana": "たんじゅん",
+    "enMeaning": "Simple",
+    "idMeaning": "Sederhana",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.6.139",
+    "kanji": "離す",
+    "component": "",
+    "hiragana": "はなす",
+    "enMeaning": "Separate / let go",
+    "idMeaning": "Memisahkan / melepaskan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.6.140",
+    "kanji": "離れる",
+    "component": "",
+    "hiragana": "はなれる",
+    "enMeaning": "Become separated / leave",
+    "idMeaning": "Berpisah / menjauh",
+    "type": "KK Intransitif"
   }
 ]

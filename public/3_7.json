@@ -1213,5 +1213,50 @@
     "enMeaning": "Young / childish",
     "idMeaning": "Masih kecil / kekanak-kanakan",
     "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.7.136",
+    "kanji": "勤勉",
+    "component": "",
+    "hiragana": "きんべん",
+    "enMeaning": "Diligent / hardworking",
+    "idMeaning": "Rajin / tekun",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.7.137",
+    "kanji": "零れる",
+    "component": "",
+    "hiragana": "こぼれる",
+    "enMeaning": "Spill / overflow",
+    "idMeaning": "Tumpah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.7.138",
+    "kanji": "零す",
+    "component": "",
+    "hiragana": "こぼす",
+    "enMeaning": "Spill",
+    "idMeaning": "Menumpahkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.7.139",
+    "kanji": "伸びる",
+    "component": "",
+    "hiragana": "のびる",
+    "enMeaning": "Stretch / grow / increase",
+    "idMeaning": "Memanjang / bertambah / berkembang",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.7.140",
+    "kanji": "感心",
+    "component": "",
+    "hiragana": "かんしん",
+    "enMeaning": "Admiration / being impressed",
+    "idMeaning": "Kagum",
+    "type": "Kata Benda"
   }
 ]

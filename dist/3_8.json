@@ -1213,5 +1213,50 @@
     "enMeaning": "Each other / one another",
     "idMeaning": "Satu sama lain",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.136",
+    "kanji": "食料",
+    "component": "",
+    "hiragana": "しょくりょう",
+    "enMeaning": "Food supplies",
+    "idMeaning": "Bahan makanan / persediaan makanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.137",
+    "kanji": "刈る",
+    "component": "",
+    "hiragana": "かる",
+    "enMeaning": "Cut (grass, crops)",
+    "idMeaning": "Memotong (rumput, tanaman)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.138",
+    "kanji": "剃る",
+    "component": "",
+    "hiragana": "そる",
+    "enMeaning": "Shave",
+    "idMeaning": "Mencukur",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.139",
+    "kanji": "印象",
+    "component": "",
+    "hiragana": "いんしょう",
+    "enMeaning": "Impression",
+    "idMeaning": "Kesan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.140",
+    "kanji": "傾向",
+    "component": "",
+    "hiragana": "けいこう",
+    "enMeaning": "Tendency / trend",
+    "idMeaning": "Kecenderungan / tren",
+    "type": "Kata Benda"
   }
 ]

@@ -1213,5 +1213,50 @@
     "enMeaning": "Calm / fine / unconcerned",
     "idMeaning": "Tidak apa-apa / tenang",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.3.136",
+    "kanji": "消費期限",
+    "component": "",
+    "hiragana": "しょうひきげん",
+    "enMeaning": "Use-by date",
+    "idMeaning": "Batas tanggal konsumsi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.137",
+    "kanji": "片道",
+    "component": "",
+    "hiragana": "かたみち",
+    "enMeaning": "One-way",
+    "idMeaning": "Sekali jalan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.138",
+    "kanji": "変動",
+    "component": "",
+    "hiragana": "へんどう",
+    "enMeaning": "Fluctuation",
+    "idMeaning": "Fluktuasi / perubahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.139",
+    "kanji": "柱",
+    "component": "",
+    "hiragana": "はしら",
+    "enMeaning": "Pillar / column",
+    "idMeaning": "Tiang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.140",
+    "kanji": "株",
+    "component": "",
+    "hiragana": "かぶ",
+    "enMeaning": "Stock / share",
+    "idMeaning": "Saham",
+    "type": "Kata Benda"
   }
 ]

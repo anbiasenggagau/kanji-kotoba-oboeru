@@ -1213,5 +1213,50 @@
     "enMeaning": "Support / hold up",
     "idMeaning": "Menopang / mendukung",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.136",
+    "kanji": "損害",
+    "component": "",
+    "hiragana": "そんがい",
+    "enMeaning": "Damage / loss",
+    "idMeaning": "Kerusakan / kerugian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.137",
+    "kanji": "損をする",
+    "component": "",
+    "hiragana": "そんをする",
+    "enMeaning": "Suffer a loss",
+    "idMeaning": "Mengalami kerugian",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.138",
+    "kanji": "前半",
+    "component": "",
+    "hiragana": "ぜんはん",
+    "enMeaning": "First half",
+    "idMeaning": "Paruh pertama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.139",
+    "kanji": "後半",
+    "component": "",
+    "hiragana": "こうはん",
+    "enMeaning": "Second half",
+    "idMeaning": "Paruh kedua",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.140",
+    "kanji": "点線",
+    "component": "",
+    "hiragana": "てんせん",
+    "enMeaning": "Dotted line",
+    "idMeaning": "Garis putus-putus",
+    "type": "Kata Benda"
   }
 ]
