@@ -1258,5 +1258,50 @@
     "enMeaning": "Dotted line",
     "idMeaning": "Garis putus-putus",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.141",
+    "kanji": "芸能",
+    "component": "",
+    "hiragana": "げいのう",
+    "enMeaning": "Entertainment / performing arts",
+    "idMeaning": "Dunia hiburan / seni pertunjukan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.142",
+    "kanji": "芸能人",
+    "component": "",
+    "hiragana": "げいのうじん",
+    "enMeaning": "Celebrity / entertainer",
+    "idMeaning": "Selebriti / artis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.143",
+    "kanji": "保温",
+    "component": "",
+    "hiragana": "ほおん",
+    "enMeaning": "Heat retention / keeping warm",
+    "idMeaning": "Menjaga kehangatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.144",
+    "kanji": "覆う",
+    "component": "",
+    "hiragana": "おおう",
+    "enMeaning": "Cover",
+    "idMeaning": "Menutupi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.145",
+    "kanji": "効果的",
+    "component": "",
+    "hiragana": "こうかてき",
+    "enMeaning": "Effective",
+    "idMeaning": "Efektif",
+    "type": "Kata Sifat な"
   }
 ]

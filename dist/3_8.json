@@ -1258,5 +1258,50 @@
     "enMeaning": "Tendency / trend",
     "idMeaning": "Kecenderungan / tren",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.141",
+    "kanji": "得",
+    "component": "",
+    "hiragana": "とく",
+    "enMeaning": "Profit / advantage",
+    "idMeaning": "Keuntungan / manfaat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.142",
+    "kanji": "得意",
+    "component": "",
+    "hiragana": "とくい",
+    "enMeaning": "Good at / one's specialty",
+    "idMeaning": "Mahir / keahlian",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.8.143",
+    "kanji": "家賃",
+    "component": "",
+    "hiragana": "やちん",
+    "enMeaning": "Rent",
+    "idMeaning": "Uang sewa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.144",
+    "kanji": "仰る",
+    "component": "",
+    "hiragana": "おっしゃる",
+    "enMeaning": "Say (honorific)",
+    "idMeaning": "Bersabda / mengatakan (bentuk hormat)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.145",
+    "kanji": "勧める",
+    "component": "",
+    "hiragana": "すすめる",
+    "enMeaning": "Recommend",
+    "idMeaning": "Menyarankan",
+    "type": "KK Transitif"
   }
 ]

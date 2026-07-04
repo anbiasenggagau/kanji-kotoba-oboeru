@@ -1213,5 +1213,50 @@
     "enMeaning": "Hide / conceal",
     "idMeaning": "Menyembunyikan",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.5.136",
+    "kanji": "値",
+    "component": "",
+    "hiragana": "あたい",
+    "enMeaning": "Value",
+    "idMeaning": "Nilai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.137",
+    "kanji": "負",
+    "component": "",
+    "hiragana": "まけ",
+    "enMeaning": "Defeat / loss",
+    "idMeaning": "Kekalahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.138",
+    "kanji": "手を加える",
+    "component": "",
+    "hiragana": "てをくわえる",
+    "enMeaning": "Modify / improve",
+    "idMeaning": "Memodifikasi / memperbaiki",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.5.139",
+    "kanji": "慌てる",
+    "component": "",
+    "hiragana": "あわてる",
+    "enMeaning": "Panic / be flustered",
+    "idMeaning": "Panik / gugup",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.5.140",
+    "kanji": "企画",
+    "component": "",
+    "hiragana": "きかく",
+    "enMeaning": "Plan / project",
+    "idMeaning": "Rencana / proyek",
+    "type": "Kata Benda"
   }
 ]

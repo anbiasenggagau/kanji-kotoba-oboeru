@@ -338,7 +338,7 @@
     "component": "",
     "hiragana": "うかがう",
     "enMeaning": "Visit / ask (keigo)",
-    "idMeaning": "Bertanya (keigo)",
+    "idMeaning": "Datang / bertanya (keigo)",
     "type": "KK Transitif"
   },
   {
@@ -1212,6 +1212,51 @@
     "hiragana": "げんかい",
     "enMeaning": "Limit / boundary",
     "idMeaning": "Batas / limit",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.136",
+    "kanji": "促す",
+    "component": "",
+    "hiragana": "うながす",
+    "enMeaning": "Urge / encourage",
+    "idMeaning": "Mendorong / mendesak",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.4.137",
+    "kanji": "機能",
+    "component": "",
+    "hiragana": "きのう",
+    "enMeaning": "Function",
+    "idMeaning": "Fungsi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.138",
+    "kanji": "代謝",
+    "component": "",
+    "hiragana": "たいしゃ",
+    "enMeaning": "Metabolism",
+    "idMeaning": "Metabolisme",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.139",
+    "kanji": "充電器",
+    "component": "",
+    "hiragana": "じゅうでんき",
+    "enMeaning": "Charger",
+    "idMeaning": "Pengisi daya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.140",
+    "kanji": "携帯",
+    "component": "",
+    "hiragana": "けいたい",
+    "enMeaning": "Mobile phone / carrying",
+    "idMeaning": "Ponsel / membawa",
     "type": "Kata Benda"
   }
 ]

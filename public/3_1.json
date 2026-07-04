@@ -1258,5 +1258,50 @@
     "enMeaning": "Loss / disadvantage",
     "idMeaning": "Kerugian",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.141",
+    "kanji": "保護者",
+    "component": "",
+    "hiragana": "ほごしゃ",
+    "enMeaning": "Guardian / parent",
+    "idMeaning": "Wali / orang tua",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.142",
+    "kanji": "見つめる",
+    "component": "",
+    "hiragana": "みつめる",
+    "enMeaning": "Stare at / gaze at",
+    "idMeaning": "Menatap",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.143",
+    "kanji": "丸",
+    "component": "",
+    "hiragana": "まる",
+    "enMeaning": "Circle / round",
+    "idMeaning": "Lingkaran / bulat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.144",
+    "kanji": "満ちる",
+    "component": "",
+    "hiragana": "みちる",
+    "enMeaning": "Be filled with / become full",
+    "idMeaning": "Terisi penuh / dipenuhi",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.145",
+    "kanji": "触れる",
+    "component": "",
+    "hiragana": "ふれる",
+    "enMeaning": "Touch",
+    "idMeaning": "Menyentuh",
+    "type": "KK Intransitif"
   }
 ]
