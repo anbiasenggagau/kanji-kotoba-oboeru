@@ -10,6 +10,8 @@ import Result from './components/Result.vue';
 import './style.css';
 import KanjiSearch from './components/KanjiSearch.vue';
 import Temp from './components/Temp.vue';
+import ConfirmationService from 'primevue/confirmationservice'
+import ToastService from 'primevue/toastservice';
 
 const pinia = createPinia()
 const router = createRouter({
@@ -49,6 +51,8 @@ const router = createRouter({
 })
 
 createApp(App)
+    .use(ConfirmationService)
+    .use(ToastService)
     .use(router)
     .use(pinia)
     .use(PrimeVue, {

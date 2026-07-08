@@ -1,5 +1,5 @@
 import { defineStore } from "pinia"
-import { ref } from "vue"
+import { reactive, ref } from "vue"
 import type { KanjiProgressStore, KanjiType } from "./type"
 import { volumes } from "./const"
 
@@ -75,7 +75,7 @@ export const kanjiTempStore = defineStore('kanjiTempStore', () => {
 })
 
 export const progressStore = defineStore('progressStore', () => {
-    const progress = ref<Record<string, KanjiProgressStore>>({})
+    const progress = reactive<Record<string, KanjiProgressStore>>({})
     const kanjiData = kanjiTempStore()
     const used = ref(false)
 
@@ -87,55 +87,60 @@ export const progressStore = defineStore('progressStore', () => {
         await kanjiData.initialize()
         const saved = localStorage.getItem('progressStore')
 
-        if (saved) {
-            progress.value = JSON.parse(saved)
+        if (typeof saved == "string" && saved != "undefined") {
+            const savedJson = JSON.parse(saved)
+            for (const key in savedJson) {
+                progress[key] = savedJson[key]
+            }
+        } else if (saved == "undefined") {
+            clearLocalStorage("progressStore")
         }
 
-        for (const kanjiId in progress.value) {
+        for (const kanjiId in progress) {
             // Reset stack progress
-            progress.value[kanjiId]!.lastProgress = new Date(progress.value[kanjiId]!.lastProgress)
-            if (progress.value[kanjiId]!.lastProgress.toDateString() != (new Date()).toDateString()) {
-                progress.value[kanjiId]!.falseStack = 0
-                progress.value[kanjiId]!.trueStack = 0
+            progress[kanjiId]!.lastProgress = new Date(progress[kanjiId]!.lastProgress)
+            if (progress[kanjiId]!.lastProgress.toDateString() != (new Date()).toDateString()) {
+                progress[kanjiId]!.falseStack = 0
+                progress[kanjiId]!.trueStack = 0
             }
 
             // Auto migrate progress that have no kanji yet
-            if (progress.value[kanjiId]!.kanji == undefined) {
+            if (progress[kanjiId]!.kanji == undefined) {
                 let findKanji = kanjiData.getKanji(kanjiId)
                 if (findKanji) {
-                    progress.value[kanjiId]!.kanji = findKanji.kanji
+                    progress[kanjiId]!.kanji = findKanji.kanji
                 }
             }
 
             // Auto Migration changes data
             let findKanji = kanjiData.getKanji(kanjiId)
-            if (findKanji && findKanji.kanji != progress.value[kanjiId]!.kanji) {
-                progress.value[kanjiId]!.kanji = findKanji.kanji
+            if (findKanji && findKanji.kanji != progress[kanjiId]!.kanji) {
+                progress[kanjiId]!.kanji = findKanji.kanji
             }
 
-            const diff = (new Date()).getTime() - progress.value[kanjiId]!.lastProgress.getTime()
+            const diff = (new Date()).getTime() - progress[kanjiId]!.lastProgress.getTime()
             // decrease progress point by floor rounding of 3 day number
             if (diff > 259200000) {
-                progress.value[kanjiId]!.amount = progress.value[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
-                if (progress.value[kanjiId]!.amount <= 0) {
-                    progress.value[kanjiId] = {
-                        ...progress.value[kanjiId]!,
+                progress[kanjiId]!.amount = progress[kanjiId]!.amount - (Math.floor(diff / 259200000) * 0.5)
+                if (progress[kanjiId]!.amount <= 0) {
+                    progress[kanjiId] = {
+                        ...progress[kanjiId]!,
                         amount: 0,
                         trueStack: 0,
                         falseStack: 0,
                         lastProgress: new Date(0)
                     }
                 } else {
-                    progress.value[kanjiId]!.lastProgress = new Date()
+                    progress[kanjiId]!.lastProgress = new Date()
                 }
             }
         }
 
         // Auto migration to add non-existing progress
-        if (Object.keys(progress.value).length != 0) {
+        if (Object.keys(progress).length != 0) {
             for (const kanjiId in kanjiData.kanji) {
-                if (!progress.value[kanjiId]) {
-                    progress.value[kanjiId] = {
+                if (!progress[kanjiId]) {
+                    progress[kanjiId] = {
                         kanji: kanjiData.kanji[kanjiId]!.kanji,
                         amount: 0,
                         trueStack: 0,
@@ -146,7 +151,7 @@ export const progressStore = defineStore('progressStore', () => {
             }
         }
 
-        setLocalStorage("progressStore", progress.value)
+        setLocalStorage("progressStore", progress)
         used.value = true
     }
 
@@ -154,32 +159,32 @@ export const progressStore = defineStore('progressStore', () => {
         initialize()
 
     function progressTrue(kanji: KanjiType) {
-        if (progress.value[kanji.id]) {
-            if (progress.value[kanji.id]!.amount < 5) {
+        if (progress[kanji.id]) {
+            if (progress[kanji.id]!.amount < 5) {
 
                 // Handle sameday progress
                 // While auto decay running, lastProgress becomes today
                 // Prevent progress treated as same day by checking the falseStack & trueStack
-                if (progress.value[kanji.id]!.lastProgress.toDateString() == (new Date()).toDateString()
-                    && (progress.value[kanji.id]!.falseStack != 0
-                        || progress.value[kanji.id]!.trueStack != 0)) {
-                    progress.value[kanji.id]!.trueStack++
+                if (progress[kanji.id]!.lastProgress.toDateString() == (new Date()).toDateString()
+                    && (progress[kanji.id]!.falseStack != 0
+                        || progress[kanji.id]!.trueStack != 0)) {
+                    progress[kanji.id]!.trueStack++
 
-                    if (progress.value[kanji.id]!.trueStack == 2 || progress.value[kanji.id]!.trueStack == 1) {
-                        progress.value[kanji.id]!.amount = progress.value[kanji.id]!.amount + 0.5
-                    } else if (progress.value[kanji.id]!.trueStack == 3) {
-                        progress.value[kanji.id]!.amount = progress.value[kanji.id]!.amount + 0.25
+                    if (progress[kanji.id]!.trueStack == 2 || progress[kanji.id]!.trueStack == 1) {
+                        progress[kanji.id]!.amount = progress[kanji.id]!.amount + 0.5
+                    } else if (progress[kanji.id]!.trueStack == 3) {
+                        progress[kanji.id]!.amount = progress[kanji.id]!.amount + 0.25
                     }
                 } else {
-                    progress.value[kanji.id]!.amount++
-                    progress.value[kanji.id]!.trueStack = 1
+                    progress[kanji.id]!.amount++
+                    progress[kanji.id]!.trueStack = 1
                 }
             }
 
-            if (progress.value[kanji.id]!.amount > 5) progress.value[kanji.id]!.amount = 5
-            progress.value[kanji.id]!.lastProgress = new Date()
+            if (progress[kanji.id]!.amount > 5) progress[kanji.id]!.amount = 5
+            progress[kanji.id]!.lastProgress = new Date()
         } else {
-            progress.value[kanji.id] = {
+            progress[kanji.id] = {
                 kanji: kanji.kanji,
                 amount: 1,
                 trueStack: 1,
@@ -187,34 +192,34 @@ export const progressStore = defineStore('progressStore', () => {
                 lastProgress: new Date()
             }
         }
-        setLocalStorage("progressStore", progress.value)
+        setLocalStorage("progressStore", progress)
     }
 
     function progressFalse(kanjiId: string) {
-        if (progress.value[kanjiId]) {
+        if (progress[kanjiId]) {
 
             // Handle sameday progress
             // While auto decay running, lastProgress becomes today
             // Prevent progress treated as same day by checking the falseStack & trueStack
-            if (progress.value[kanjiId].lastProgress.toDateString() == (new Date()).toDateString()
-                && (progress.value[kanjiId]!.falseStack != 0
-                    || progress.value[kanjiId]!.trueStack != 0)) {
-                progress.value[kanjiId].falseStack++
+            if (progress[kanjiId].lastProgress.toDateString() == (new Date()).toDateString()
+                && (progress[kanjiId]!.falseStack != 0
+                    || progress[kanjiId]!.trueStack != 0)) {
+                progress[kanjiId].falseStack++
 
-                if (progress.value[kanjiId].falseStack == 1) {
-                    progress.value[kanjiId].amount = progress.value[kanjiId].amount - 0.5
-                } else if (progress.value[kanjiId].falseStack == 2) {
-                    progress.value[kanjiId].amount = progress.value[kanjiId].amount - 0.25
+                if (progress[kanjiId].falseStack == 1) {
+                    progress[kanjiId].amount = progress[kanjiId].amount - 0.5
+                } else if (progress[kanjiId].falseStack == 2) {
+                    progress[kanjiId].amount = progress[kanjiId].amount - 0.25
                 }
             } else {
-                progress.value[kanjiId].amount--
-                progress.value[kanjiId].falseStack = 0
+                progress[kanjiId].amount--
+                progress[kanjiId].falseStack = 0
             }
-            progress.value[kanjiId].lastProgress = new Date()
+            progress[kanjiId].lastProgress = new Date()
 
-            if (progress.value[kanjiId].amount <= 0) {
-                progress.value[kanjiId] = {
-                    ...progress.value[kanjiId]!,
+            if (progress[kanjiId].amount <= 0) {
+                progress[kanjiId] = {
+                    ...progress[kanjiId]!,
                     amount: 0,
                     trueStack: 0,
                     falseStack: 0,
@@ -222,35 +227,23 @@ export const progressStore = defineStore('progressStore', () => {
                 }
             }
         }
-        setLocalStorage("progressStore", progress.value)
+        setLocalStorage("progressStore", progress)
     }
 
     function appear(kanjiId: string): boolean {
         // if progress not found, make it appear
-        if (!progress.value[kanjiId]) {
+        if (!progress[kanjiId]) {
             return true
         }
         // running odds if progress is tracked
-        return Math.random() > (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.75)) / 5
-
-        // DEBUG
-        // const odds = Math.random()
-        // const prob = (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.75)) / 5
-        // console.info("found progress of", kanjiId)
-        // console.info("progress:", progress.value[kanjiId].amount)
-        // console.info("currentStack:", progress.value[kanjiId].trueStack)
-        // console.info("prob:", prob)
-        // console.info("odds:", odds)
-        // console.info("result:", odds > prob)
-        // console.info("===============")
-        // return odds > prob
+        return Math.random() > (progress[kanjiId].amount + (progress[kanjiId].trueStack * 1.75)) / 5
     }
 
     function getProgress(kanjiId: string): { progress: number, lastProgress: Date } {
-        if (progress.value[kanjiId])
+        if (progress[kanjiId])
             return {
-                progress: (progress.value[kanjiId].amount + (progress.value[kanjiId].trueStack * 1.5)),
-                lastProgress: progress.value[kanjiId].lastProgress,
+                progress: (progress[kanjiId].amount + (progress[kanjiId].trueStack * 1.5)),
+                lastProgress: progress[kanjiId].lastProgress,
             }
 
         return {
@@ -259,7 +252,51 @@ export const progressStore = defineStore('progressStore', () => {
         }
     }
 
-    return { progress, getProgress, progressTrue, progressFalse, appear }
+    function clearData() {
+        Object.entries(progress).forEach(([key, value]) => {
+            progress[key] = {
+                ...value,
+                amount: 0,
+                falseStack: 0,
+                trueStack: 0,
+                lastProgress: new Date(0)
+            };
+        });
+
+        setLocalStorage("progressStore", progress)
+    }
+
+    function importData(data: any) {
+        const keys = Object.keys(data)
+        for (const key of keys) {
+            const fields = Object.keys(data[key])
+            if (
+                !((fields.includes("kanji") && typeof data[key]["kanji"] == "string")
+                    && (fields.includes("amount") && typeof data[key]["amount"] == "number")
+                    && (fields.includes("trueStack") && typeof data[key]["trueStack"] == "number")
+                    && (fields.includes("falseStack") && typeof data[key]["falseStack"] == "number"))
+            ) {
+                throw new Error("File's structure does not match")
+            }
+        }
+        Object.entries(data).forEach(([key, value]) => {
+            const val = value as KanjiProgressStore
+            let amount = val.amount > 5 ? 5 : val.amount
+            amount = amount < 0 ? 0 : amount
+
+            progress[key] = {
+                ...val,
+                amount: amount,
+                trueStack: 0,
+                falseStack: 0,
+                lastProgress: new Date()
+            };
+        });
+
+        setLocalStorage("progressStore", progress)
+    }
+
+    return { progress, getProgress, progressTrue, progressFalse, appear, clearData, importData }
 })
 
 export const flagStore = defineStore('flagStore', () => {
