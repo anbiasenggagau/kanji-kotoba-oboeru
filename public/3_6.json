@@ -730,11 +730,11 @@
   },
   {
     "id": "N3.6.82",
-    "kanji": "偶然",
+    "kanji": "公開",
     "component": "",
-    "hiragana": "ぐうぜん",
-    "enMeaning": "Chance / coincidence",
-    "idMeaning": "Kebetulan",
+    "hiragana": "こうかい",
+    "enMeaning": "Public / opening to the public",
+    "idMeaning": "Publik / dibuka untuk umum",
     "type": "Kata Benda"
   },
   {
@@ -1258,5 +1258,50 @@
     "enMeaning": "Become separated / leave",
     "idMeaning": "Berpisah / menjauh",
     "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.6.141",
+    "kanji": "要件",
+    "component": "",
+    "hiragana": "ようけん",
+    "enMeaning": "Requirement",
+    "idMeaning": "Persyaratan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.142",
+    "kanji": "追いつく",
+    "component": "",
+    "hiragana": "おいつく",
+    "enMeaning": "Catch up",
+    "idMeaning": "Menyusul / mengejar hingga sejajar",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.6.143",
+    "kanji": "進捗",
+    "component": "",
+    "hiragana": "しんちょく",
+    "enMeaning": "Progress",
+    "idMeaning": "Kemajuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.144",
+    "kanji": "納期",
+    "component": "",
+    "hiragana": "のうき",
+    "enMeaning": "Delivery deadline",
+    "idMeaning": "Tenggat pengiriman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.145",
+    "kanji": "要するに",
+    "component": "",
+    "hiragana": "ようするに",
+    "enMeaning": "In short / in other words",
+    "idMeaning": "Singkatnya / dengan kata lain",
+    "type": "Frasa / Klausa"
   }
 ]

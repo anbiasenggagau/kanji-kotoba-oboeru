@@ -1258,5 +1258,50 @@
     "enMeaning": "Stock / share",
     "idMeaning": "Saham",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.141",
+    "kanji": "抱く",
+    "component": "",
+    "hiragana": "いだく",
+    "enMeaning": "Embrace / harbor",
+    "idMeaning": "Memeluk (perasaan, harapan)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.3.142",
+    "kanji": "解除",
+    "component": "",
+    "hiragana": "かいじょ",
+    "enMeaning": "Cancellation / lifting",
+    "idMeaning": "Pencabutan / pembatalan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.143",
+    "kanji": "相談に乗る",
+    "component": "",
+    "hiragana": "そうだんにのる",
+    "enMeaning": "Give advice / listen to someone's concerns",
+    "idMeaning": "Memberi saran / mendengarkan curhat",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.3.144",
+    "kanji": "視線",
+    "component": "",
+    "hiragana": "しせん",
+    "enMeaning": "Line of sight / gaze",
+    "idMeaning": "Tatapan / pandangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.145",
+    "kanji": "奴",
+    "component": "",
+    "hiragana": "やつ",
+    "enMeaning": "Guy / fellow",
+    "idMeaning": "Orang itu / si dia",
+    "type": "Kata Benda"
   }
 ]

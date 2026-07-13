@@ -361,12 +361,12 @@
   },
   {
     "id": "N3.4.41",
-    "kanji": "表す",
+    "kanji": "年始",
     "component": "",
-    "hiragana": "あらわす",
-    "enMeaning": "Express / represent",
-    "idMeaning": "Mengungkapkan",
-    "type": "KK Transitif"
+    "hiragana": "ねんし",
+    "enMeaning": "Beginning of the year",
+    "idMeaning": "Awal tahun",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.4.42",
@@ -1257,6 +1257,51 @@
     "hiragana": "けいたい",
     "enMeaning": "Mobile phone / carrying",
     "idMeaning": "Ponsel / membawa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.141",
+    "kanji": "月給",
+    "component": "",
+    "hiragana": "げっきゅう",
+    "enMeaning": "Monthly salary",
+    "idMeaning": "Gaji bulanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.142",
+    "kanji": "鋭い",
+    "component": "",
+    "hiragana": "するどい",
+    "enMeaning": "Sharp / keen",
+    "idMeaning": "Tajam",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.4.143",
+    "kanji": "鈍い",
+    "component": "",
+    "hiragana": "にぶい",
+    "enMeaning": "Dull / blunt",
+    "idMeaning": "Tumpul / lambat",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.4.144",
+    "kanji": "都市",
+    "component": "",
+    "hiragana": "とし",
+    "enMeaning": "City",
+    "idMeaning": "Kota",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.145",
+    "kanji": "出前",
+    "component": "",
+    "hiragana": "でまえ",
+    "enMeaning": "Food delivery",
+    "idMeaning": "Layanan antar makanan",
     "type": "Kata Benda"
   }
 ]

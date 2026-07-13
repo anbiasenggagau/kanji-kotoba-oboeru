@@ -10,11 +10,11 @@
   },
   {
     "id": "N3.7.2",
-    "kanji": "都市",
+    "kanji": "支出",
     "component": "",
-    "hiragana": "とし",
-    "enMeaning": "City",
-    "idMeaning": "Kota",
+    "hiragana": "ししゅつ",
+    "enMeaning": "Expenditure / expense",
+    "idMeaning": "Pengeluaran",
     "type": "Kata Benda"
   },
   {
@@ -1257,6 +1257,51 @@
     "hiragana": "かんしん",
     "enMeaning": "Admiration / being impressed",
     "idMeaning": "Kagum",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.141",
+    "kanji": "婚約",
+    "component": "",
+    "hiragana": "こんやく",
+    "enMeaning": "Engagement",
+    "idMeaning": "Pertunangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.142",
+    "kanji": "偶然",
+    "component": "",
+    "hiragana": "ぐうぜん",
+    "enMeaning": "Chance / coincidence",
+    "idMeaning": "Kebetulan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.143",
+    "kanji": "夫人",
+    "component": "",
+    "hiragana": "ふじん",
+    "enMeaning": "Lady / wife (sonkeigo)",
+    "idMeaning": "Ibu / istri (sonkeigo)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.144",
+    "kanji": "相当",
+    "component": "",
+    "hiragana": "そうとう",
+    "enMeaning": "Equivalent / corresponding",
+    "idMeaning": "Sepadan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.7.145",
+    "kanji": "料金",
+    "component": "",
+    "hiragana": "りょうきん",
+    "enMeaning": "Fee / charge",
+    "idMeaning": "Biaya / tarif",
     "type": "Kata Benda"
   }
 ]

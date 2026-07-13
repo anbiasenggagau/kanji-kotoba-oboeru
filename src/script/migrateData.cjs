@@ -1,9 +1,11 @@
 const fs = require('fs');
 const path = require('path');
-const migrateId = require("./archive.json")
+// const migrateId = require("./archive.json")
 const replacement = require("./new.json")
 
 const publicDir = path.join(__dirname, '../../public');
+const kanjiVolume = ["7", "3", "6", "4", "5", "1"]
+const kanjiAmount = 5
 
 main2()
 
@@ -23,7 +25,7 @@ function main2() {
     const kanjiData = {}
 
     fs.readdirSync(publicDir)
-        .filter(file => path.extname(file) === '.json' && file[0] == "3" && ["4", "5", "1", "8", "2"].includes(file[2]))
+        .filter(file => path.extname(file) === '.json' && file[0] == "3" && kanjiVolume.includes(file[2]))
         .forEach(file => {
             fileLoc = publicDir + "/" + file
             let data = require(fileLoc)
@@ -31,7 +33,7 @@ function main2() {
         })
 
     for (const key in kanjiData) {
-        for (let i = 0; i < 5; i++) {
+        for (let i = 0; i < kanjiAmount; i++) {
             const replacedData = replacement.splice(0, 1)[0]
             kanjiData[key].push({
                 ...replacedData,

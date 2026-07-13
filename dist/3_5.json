@@ -1258,5 +1258,50 @@
     "enMeaning": "Plan / project",
     "idMeaning": "Rencana / proyek",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.141",
+    "kanji": "売り切れ",
+    "component": "",
+    "hiragana": "うりきれ",
+    "enMeaning": "Sold out",
+    "idMeaning": "Habis terjual",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.142",
+    "kanji": "発生",
+    "component": "",
+    "hiragana": "はっせい",
+    "enMeaning": "Occurrence / outbreak",
+    "idMeaning": "Terjadi / kemunculan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.143",
+    "kanji": "表す",
+    "component": "",
+    "hiragana": "あらわす",
+    "enMeaning": "Express / represent",
+    "idMeaning": "Mengungkapkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.5.144",
+    "kanji": "距離",
+    "component": "",
+    "hiragana": "きょり",
+    "enMeaning": "Distance",
+    "idMeaning": "Jarak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.145",
+    "kanji": "現場",
+    "component": "",
+    "hiragana": "げんば",
+    "enMeaning": "Site / scene",
+    "idMeaning": "Lokasi / tempat kejadian",
+    "type": "Kata Benda"
   }
 ]

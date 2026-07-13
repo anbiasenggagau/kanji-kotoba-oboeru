@@ -163,12 +163,12 @@
   },
   {
     "id": "N3.1.19",
-    "kanji": "婚約",
+    "kanji": "異常",
     "component": "",
-    "hiragana": "こんやく",
-    "enMeaning": "Engagement",
-    "idMeaning": "Pertunangan",
-    "type": "Kata Benda"
+    "hiragana": "いじょう",
+    "enMeaning": "Abnormal / abnormality",
+    "idMeaning": "Tidak normal / kelainan",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N3.1.20",
@@ -1303,5 +1303,50 @@
     "enMeaning": "Touch",
     "idMeaning": "Menyentuh",
     "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.146",
+    "kanji": "進学",
+    "component": "",
+    "hiragana": "しんがく",
+    "enMeaning": "Advance to higher education",
+    "idMeaning": "Melanjutkan pendidikan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.147",
+    "kanji": "追い抜く",
+    "component": "",
+    "hiragana": "おいぬく",
+    "enMeaning": "Overtake / pass",
+    "idMeaning": "Menyalip",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.148",
+    "kanji": "流氷",
+    "component": "",
+    "hiragana": "りゅうひょう",
+    "enMeaning": "Drift ice",
+    "idMeaning": "Es terapung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.149",
+    "kanji": "農業",
+    "component": "",
+    "hiragana": "のうぎょう",
+    "enMeaning": "Agriculture",
+    "idMeaning": "Pertanian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.150",
+    "kanji": "大志",
+    "component": "",
+    "hiragana": "たいし",
+    "enMeaning": "Great ambition",
+    "idMeaning": "Cita-cita besar",
+    "type": "Kata Benda"
   }
 ]
