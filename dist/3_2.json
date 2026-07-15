@@ -1303,5 +1303,50 @@
     "enMeaning": "Effective",
     "idMeaning": "Efektif",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.2.146",
+    "kanji": "尊敬",
+    "component": "",
+    "hiragana": "そんけい",
+    "enMeaning": "Respect / esteem",
+    "idMeaning": "Rasa hormat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.147",
+    "kanji": "旅",
+    "component": "",
+    "hiragana": "たび",
+    "enMeaning": "Journey / trip",
+    "idMeaning": "Perjalanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.148",
+    "kanji": "原作",
+    "component": "",
+    "hiragana": "げんさく",
+    "enMeaning": "Original work",
+    "idMeaning": "Karya asli",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.149",
+    "kanji": "野原",
+    "component": "",
+    "hiragana": "のはら",
+    "enMeaning": "Field / plain",
+    "idMeaning": "Padang / lapangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.150",
+    "kanji": "監督",
+    "component": "",
+    "hiragana": "かんとく",
+    "enMeaning": "Director / supervisor",
+    "idMeaning": "Sutradara / pengawas",
+    "type": "Kata Benda"
   }
 ]

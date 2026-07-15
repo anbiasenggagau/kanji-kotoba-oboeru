@@ -1303,5 +1303,50 @@
     "enMeaning": "Guy / fellow",
     "idMeaning": "Orang itu / si dia",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.146",
+    "kanji": "王子",
+    "component": "",
+    "hiragana": "おうじ",
+    "enMeaning": "Prince",
+    "idMeaning": "Pangeran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.147",
+    "kanji": "王女",
+    "component": "",
+    "hiragana": "おうじょ",
+    "enMeaning": "Princess",
+    "idMeaning": "Putri kerajaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.148",
+    "kanji": "煙突",
+    "component": "",
+    "hiragana": "えんとつ",
+    "enMeaning": "Chimney",
+    "idMeaning": "Cerobong asap",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.149",
+    "kanji": "通じる",
+    "component": "",
+    "hiragana": "つうじる",
+    "enMeaning": "Lead to / be understood / communicate",
+    "idMeaning": "Terhubung / dimengerti / berkomunikasi",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.3.150",
+    "kanji": "親指",
+    "component": "",
+    "hiragana": "おやゆび",
+    "enMeaning": "Thumb",
+    "idMeaning": "Ibu jari",
+    "type": "Kata Benda"
   }
 ]

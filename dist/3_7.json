@@ -1303,5 +1303,50 @@
     "enMeaning": "Fee / charge",
     "idMeaning": "Biaya / tarif",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.146",
+    "kanji": "披露",
+    "component": "",
+    "hiragana": "ひろう",
+    "enMeaning": "Announcement / presentation",
+    "idMeaning": "Pengumuman / pertunjukan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.147",
+    "kanji": "才能",
+    "component": "",
+    "hiragana": "さいのう",
+    "enMeaning": "Talent",
+    "idMeaning": "Bakat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.148",
+    "kanji": "素敵",
+    "component": "",
+    "hiragana": "すてき",
+    "enMeaning": "Lovely / wonderful",
+    "idMeaning": "Indah",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.7.149",
+    "kanji": "振る",
+    "component": "",
+    "hiragana": "ふる",
+    "enMeaning": "Wave / shake",
+    "idMeaning": "Melambaikan / mengibaskan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.7.150",
+    "kanji": "場面",
+    "component": "",
+    "hiragana": "ばめん",
+    "enMeaning": "Scene / situation",
+    "idMeaning": "Adegan / situasi",
+    "type": "Kata Benda"
   }
 ]

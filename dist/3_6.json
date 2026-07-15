@@ -1303,5 +1303,50 @@
     "enMeaning": "In short / in other words",
     "idMeaning": "Singkatnya / dengan kata lain",
     "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.6.146",
+    "kanji": "人差し指",
+    "component": "",
+    "hiragana": "ひとさしゆび",
+    "enMeaning": "Index finger",
+    "idMeaning": "Jari telunjuk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.147",
+    "kanji": "中指",
+    "component": "",
+    "hiragana": "なかゆび",
+    "enMeaning": "Middle finger",
+    "idMeaning": "Jari tengah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.148",
+    "kanji": "薬指",
+    "component": "",
+    "hiragana": "くすりゆび",
+    "enMeaning": "Ring finger",
+    "idMeaning": "Jari manis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.149",
+    "kanji": "小指",
+    "component": "",
+    "hiragana": "こゆび",
+    "enMeaning": "Little finger",
+    "idMeaning": "Jari kelingking",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.150",
+    "kanji": "理屈",
+    "component": "",
+    "hiragana": "りくつ",
+    "enMeaning": "Reason / logic",
+    "idMeaning": "Alasan / logika",
+    "type": "Kata Benda"
   }
 ]

@@ -1303,5 +1303,50 @@
     "enMeaning": "Recommend",
     "idMeaning": "Menyarankan",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.8.146",
+    "kanji": "拡大",
+    "component": "",
+    "hiragana": "かくだい",
+    "enMeaning": "Expansion / enlargement",
+    "idMeaning": "Perluasan / pembesaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.147",
+    "kanji": "寮",
+    "component": "",
+    "hiragana": "りょう",
+    "enMeaning": "Dormitory",
+    "idMeaning": "Asrama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.148",
+    "kanji": "蜜",
+    "component": "",
+    "hiragana": "みつ",
+    "enMeaning": "Honey / nectar",
+    "idMeaning": "Madu / nektar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.149",
+    "kanji": "幸運",
+    "component": "",
+    "hiragana": "こううん",
+    "enMeaning": "Good luck / fortune",
+    "idMeaning": "Keberuntungan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.150",
+    "kanji": "蛾",
+    "component": "",
+    "hiragana": "が",
+    "enMeaning": "Moth",
+    "idMeaning": "Ngengat",
+    "type": "Kata Benda"
   }
 ]
