@@ -1303,5 +1303,50 @@
     "enMeaning": "Food delivery",
     "idMeaning": "Layanan antar makanan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.146",
+    "kanji": "汚染",
+    "component": "",
+    "hiragana": "おせん",
+    "enMeaning": "Pollution / contamination",
+    "idMeaning": "Pencemaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.147",
+    "kanji": "常連",
+    "component": "",
+    "hiragana": "じょうれん",
+    "enMeaning": "Regular customer",
+    "idMeaning": "Pelanggan tetap",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.148",
+    "kanji": "巻き込む",
+    "component": "",
+    "hiragana": "まきこむ",
+    "enMeaning": "Involve / drag into",
+    "idMeaning": "Melibatkan / menyeret ke dalam",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.4.149",
+    "kanji": "翌日",
+    "component": "",
+    "hiragana": "よくじつ",
+    "enMeaning": "The following day",
+    "idMeaning": "Hari berikutnya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.150",
+    "kanji": "被害",
+    "component": "",
+    "hiragana": "ひがい",
+    "enMeaning": "Damage / harm",
+    "idMeaning": "Kerugian / kerusakan",
+    "type": "Kata Benda"
   }
 ]

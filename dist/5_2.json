@@ -121,8 +121,8 @@
     "kanji": "悪い",
     "component": "",
     "hiragana": "わるい",
-    "enMeaning": "Bad",
-    "idMeaning": "Buruk / jahat",
+    "enMeaning": "Bad / at fault",
+    "idMeaning": "Buruk / bersalah",
     "type": "Kata Sifat い"
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "id": "N5.2.26",
-    "kanji": "町",
+    "kanji": "町 / 街",
     "component": "",
     "hiragana": "まち",
     "enMeaning": "Town",

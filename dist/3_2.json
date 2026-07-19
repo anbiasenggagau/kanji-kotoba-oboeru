@@ -184,8 +184,8 @@
     "kanji": "勝負",
     "component": "",
     "hiragana": "しょうぶ",
-    "enMeaning": "Victory or defeat",
-    "idMeaning": "Menang-kalah",
+    "enMeaning": "Victory or defeat / match",
+    "idMeaning": "Menang-kalah / duel",
     "type": "Kata Benda"
   },
   {
@@ -838,7 +838,7 @@
   },
   {
     "id": "N3.2.94",
-    "kanji": "刺し身",
+    "kanji": "刺し身 / 刺身",
     "component": "",
     "hiragana": "さしみ",
     "enMeaning": "Sashimi",

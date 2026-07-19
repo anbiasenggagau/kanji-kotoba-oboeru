@@ -1303,5 +1303,50 @@
     "enMeaning": "Site / scene",
     "idMeaning": "Lokasi / tempat kejadian",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.146",
+    "kanji": "気の毒",
+    "component": "",
+    "hiragana": "きのどく",
+    "enMeaning": "Pitiful / unfortunate",
+    "idMeaning": "Kasihan / menyedihkan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.147",
+    "kanji": "知り合う",
+    "component": "",
+    "hiragana": "しりあう",
+    "enMeaning": "Get acquainted / get to know",
+    "idMeaning": "Berkenalan",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.5.148",
+    "kanji": "無駄",
+    "component": "",
+    "hiragana": "むだ",
+    "enMeaning": "Waste / useless",
+    "idMeaning": "Sia-sia / pemborosan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.149",
+    "kanji": "親戚",
+    "component": "",
+    "hiragana": "しんせき",
+    "enMeaning": "Relative",
+    "idMeaning": "Kerabat / saudara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.150",
+    "kanji": "発行",
+    "component": "",
+    "hiragana": "はっこう",
+    "enMeaning": "Publication / issuance",
+    "idMeaning": "Penerbitan / pengeluaran (dokumen)",
+    "type": "Kata Benda"
   }
 ]

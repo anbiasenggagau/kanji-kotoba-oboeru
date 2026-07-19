@@ -19,19 +19,27 @@ fs.readdirSync(publicDir)
             }
 
             // Kanji Data
-            if (result[key] == undefined) {
-                result[key] = [val.id]
+            if (key.endsWith("する")) {
+                const tmpKey = key.substring(0, key.length - 2)
+                if (result[tmpKey] != undefined) {
+                    result[tmpKey].push([val.id, key])
+                } else {
+                    result[tmpKey] = [[val.id, key]]
+                }
+            }
+            else if (result[key] == undefined) {
+                result[key] = [[val.id, key]]
             } else {
-                result[key].push(val.id)
+                result[key].push([val.id, key])
             }
 
             // Hiragana Data
             if (!fileLoc.includes("k_")) {
                 key = val.hiragana
                 if (hiraganaResult[key] == undefined) {
-                    hiraganaResult[key] = [val.id]
+                    hiraganaResult[key] = [[val.id, val.kanji]]
                 } else {
-                    hiraganaResult[key].push(val.id)
+                    hiraganaResult[key].push([val.id, val.kanji])
                 }
             }
         }
@@ -40,15 +48,15 @@ fs.readdirSync(publicDir)
 // Get proposed new kanji
 for (const val of newKanji) {
     if (result[val.kanji] == undefined) {
-        result[val.kanji] = [val.id]
+        result[val.kanji] = [[val.id, val.kanji]]
     } else {
-        result[val.kanji].push(val.id)
+        result[val.kanji].push([val.id, val.kanji])
     }
 
     if (hiraganaResult[val.kanji] == undefined) {
-        hiraganaResult[val.kanji] = [val.id]
+        hiraganaResult[val.kanji] = [[val.id, val.kanji]]
     } else {
-        hiraganaResult[val.kanji].push(val.id)
+        hiraganaResult[val.kanji].push([val.id, val.kanji])
     }
 }
 

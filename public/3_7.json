@@ -676,7 +676,7 @@
   },
   {
     "id": "N3.7.76",
-    "kanji": "羽",
+    "kanji": "羽 / 羽根",
     "component": "",
     "hiragana": "はね",
     "enMeaning": "Feather / wing",
@@ -1243,7 +1243,7 @@
   },
   {
     "id": "N3.7.139",
-    "kanji": "伸びる",
+    "kanji": "伸びる / 延びる",
     "component": "",
     "hiragana": "のびる",
     "enMeaning": "Stretch / grow / increase",
@@ -1282,8 +1282,8 @@
     "kanji": "夫人",
     "component": "",
     "hiragana": "ふじん",
-    "enMeaning": "Lady / wife (sonkeigo)",
-    "idMeaning": "Ibu / istri (sonkeigo)",
+    "enMeaning": "Lady / wife (keigo)",
+    "idMeaning": "Ibu / istri (keigo)",
     "type": "Kata Benda"
   },
   {

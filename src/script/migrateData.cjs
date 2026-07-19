@@ -4,7 +4,8 @@ const path = require('path');
 const replacement = require("./new.json")
 
 const publicDir = path.join(__dirname, '../../public');
-const kanjiVolume = ["8", "2", "7", "3", "6"]
+const kanjiLevel = "3"
+const kanjiVolume = ["4", "5"]
 const kanjiAmount = 5
 
 main2()
@@ -25,7 +26,7 @@ function main2() {
     const kanjiData = {}
 
     fs.readdirSync(publicDir)
-        .filter(file => path.extname(file) === '.json' && file[0] == "3" && kanjiVolume.includes(file[2]))
+        .filter(file => path.extname(file) === '.json' && file[0] == kanjiLevel && kanjiVolume.includes(file[2]))
         .forEach(file => {
             fileLoc = publicDir + "/" + file
             let data = require(fileLoc)
