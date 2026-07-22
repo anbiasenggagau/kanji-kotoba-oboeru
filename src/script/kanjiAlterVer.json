@@ -1,0 +1,292 @@
+[
+    {
+        "idFirstVer": "N5.1.18",
+        "kanjiFirstVer": "机",
+        "enMeaningFirstVer": "Desk / table",
+        "idMeaningFirstVer": "Meja",
+        "idSecondVer": "N3.1.15",
+        "kanjiSecondVer": "案",
+        "enMeaningSecondVer": "Plan / proposal",
+        "idMeaningSecondVer": "Usulan"
+    },
+    {
+        "idFirstVer": "N5.2.47",
+        "kanjiFirstVer": "早い",
+        "enMeaningFirstVer": "Early / quickly",
+        "idMeaningFirstVer": "Cepat / lebih awal",
+        "idSecondVer": "N5.6.52",
+        "kanjiSecondVer": "速い",
+        "enMeaningSecondVer": "Fast",
+        "idMeaningSecondVer": "Cepat"
+    },
+    {
+        "idFirstVer": "N5.2.68",
+        "kanjiFirstVer": "温かい",
+        "enMeaningFirstVer": "Warm",
+        "idMeaningFirstVer": "Hangat",
+        "idSecondVer": "N3.2.76",
+        "kanjiSecondVer": "暖かい",
+        "enMeaningSecondVer": "Warm",
+        "idMeaningSecondVer": "Hangat"
+    },
+    {
+        "idFirstVer": "N5.3.41",
+        "kanjiFirstVer": "作る",
+        "enMeaningFirstVer": "Make / create",
+        "idMeaningFirstVer": "Membuat",
+        "idSecondVer": "N3.3.51",
+        "kanjiSecondVer": "造る",
+        "enMeaningSecondVer": "To make (manufacture)",
+        "idMeaningSecondVer": "Membuat (manufaktur)"
+    },
+    {
+        "idFirstVer": "N5.3.51",
+        "kanjiFirstVer": "入れる",
+        "enMeaningFirstVer": "Put in / insert",
+        "idMeaningFirstVer": "Memasukkan",
+        "idSecondVer": "N4.4.5",
+        "kanjiSecondVer": "入れる",
+        "enMeaningSecondVer": "Turn on (electricity)",
+        "idMeaningSecondVer": "Menghidupkan / menyalakan (listrik)"
+    },
+    {
+        "idFirstVer": "N5.3.59",
+        "kanjiFirstVer": "体",
+        "enMeaningFirstVer": "Body",
+        "idMeaningFirstVer": "Badan / tubuh",
+        "idSecondVer": "N2.4.47",
+        "kanjiSecondVer": "身体",
+        "enMeaningSecondVer": "Body",
+        "idMeaningSecondVer": "Tubuh"
+    },
+    {
+        "idFirstVer": "N5.5.43",
+        "kanjiFirstVer": "時",
+        "enMeaningFirstVer": "Time / hour",
+        "idMeaningFirstVer": "Waktu / jam",
+        "idSecondVer": "N5.2.43",
+        "kanjiSecondVer": "秋",
+        "enMeaningSecondVer": "Autumn / fall",
+        "idMeaningSecondVer": "Musim gugur"
+    },
+    {
+        "idFirstVer": "N5.5.82",
+        "kanjiFirstVer": "六",
+        "enMeaningFirstVer": "Six",
+        "idMeaningFirstVer": "Enam",
+        "idSecondVer": "N2.5.180",
+        "kanjiSecondVer": "陸",
+        "enMeaningSecondVer": "Land / shore",
+        "idMeaningSecondVer": "Darat"
+    },
+    {
+        "idFirstVer": "N5.6.16",
+        "kanjiFirstVer": "履く",
+        "enMeaningFirstVer": "Put on / wear",
+        "idMeaningFirstVer": "Memakai (celana, sepatu, kaus kaki)",
+        "idSecondVer": "N5.4.5",
+        "kanjiSecondVer": "着く",
+        "enMeaningSecondVer": "Arrive",
+        "idMeaningSecondVer": "Tiba / sampai"
+    },
+    {
+        "idFirstVer": "N4.1.28",
+        "kanjiFirstVer": "開く",
+        "enMeaningFirstVer": "Open",
+        "idMeaningFirstVer": "Membuka / terbuka",
+        "idSecondVer": "N3.2.116",
+        "kanjiSecondVer": "空く",
+        "enMeaningSecondVer": "Become empty",
+        "idMeaningSecondVer": "Kosong"
+    },
+    {
+        "idFirstVer": "N4.1.46",
+        "kanjiFirstVer": "飛ぶ",
+        "enMeaningFirstVer": "Fly",
+        "idMeaningFirstVer": "Terbang",
+        "idSecondVer": "N3.1.111",
+        "kanjiSecondVer": "跳ぶ",
+        "enMeaningSecondVer": "Jump",
+        "idMeaningSecondVer": "Melompat"
+    },
+    {
+        "idFirstVer": "N4.1.69",
+        "kanjiFirstVer": "息子",
+        "enMeaningFirstVer": "Son",
+        "idMeaningFirstVer": "Anak laki-laki",
+        "idSecondVer": "N3.1.13",
+        "kanjiSecondVer": "息",
+        "enMeaningSecondVer": "Breath",
+        "idMeaningSecondVer": "Napas"
+    },
+    {
+        "idFirstVer": "N4.2.2",
+        "kanjiFirstVer": "破れる",
+        "enMeaningFirstVer": "Tear / rip",
+        "idMeaningFirstVer": "Robek",
+        "idSecondVer": "N3.4.5",
+        "kanjiSecondVer": "割れる",
+        "enMeaningSecondVer": "Break / split",
+        "idMeaningSecondVer": "Pecah"
+    },
+    {
+        "idFirstVer": "N4.2.23",
+        "kanjiFirstVer": "決める",
+        "enMeaningFirstVer": "Decide",
+        "idMeaningFirstVer": "Menentukan / memutuskan",
+        "idSecondVer": "N3.6.54",
+        "kanjiSecondVer": "極める",
+        "enMeaningSecondVer": "To master / to pursue thoroughly",
+        "idMeaningSecondVer": "Menguasai / mendalami"
+    },
+    {
+        "idFirstVer": "N4.2.39",
+        "kanjiFirstVer": "隅",
+        "enMeaningFirstVer": "Corner",
+        "idMeaningFirstVer": "Sudut / pojok",
+        "idSecondVer": "N5.4.19",
+        "kanjiSecondVer": "角",
+        "enMeaningSecondVer": "Corner",
+        "idMeaningSecondVer": "Pojok / sudut"
+    },
+    {
+        "idFirstVer": "N4.3.88",
+        "kanjiFirstVer": "上がる",
+        "enMeaningFirstVer": "Go up",
+        "idMeaningFirstVer": "Naik",
+        "idSecondVer": "N5.4.67",
+        "kanjiSecondVer": "登る/上る",
+        "enMeaningSecondVer": "Climb",
+        "idMeaningSecondVer": "Mendaki"
+    },
+    {
+        "idFirstVer": "N4.5.73",
+        "kanjiFirstVer": "降ろす",
+        "enMeaningFirstVer": "Lower / unload",
+        "idMeaningFirstVer": "Menurunkan",
+        "idSecondVer": "N3.6.21",
+        "kanjiSecondVer": "下ろす",
+        "enMeaningSecondVer": "Take down / withdraw",
+        "idMeaningSecondVer": "Menurunkan / menarik"
+    },
+    {
+        "idFirstVer": "N3.1.143",
+        "kanjiFirstVer": "丸",
+        "enMeaningFirstVer": "Circle / round",
+        "idMeaningFirstVer": "Lingkaran / bulat",
+        "idSecondVer": "N5.5.7",
+        "kanjiSecondVer": "円",
+        "enMeaningSecondVer": "Yen",
+        "idMeaningSecondVer": "Yen"
+    },
+    {
+        "idFirstVer": "N3.6.72",
+        "kanjiFirstVer": "元",
+        "enMeaningFirstVer": "Origin / base",
+        "idMeaningFirstVer": "Asal / dasar",
+        "idSecondVer": "N5.5.88",
+        "kanjiSecondVer": "本",
+        "enMeaningSecondVer": "Book",
+        "idMeaningSecondVer": "Buku / asal / utama"
+    },
+    {
+        "idFirstVer": "N3.7.13",
+        "kanjiFirstVer": "我が",
+        "enMeaningFirstVer": "My / our (literary)",
+        "idMeaningFirstVer": "Kepunyaanku / kami",
+        "idSecondVer": "N3.7.12",
+        "kanjiSecondVer": "我",
+        "enMeaningSecondVer": "I / oneself",
+        "idMeaningSecondVer": "Aku / diri sendiri"
+    },
+    {
+        "idFirstVer": "N2.1.33",
+        "kanjiFirstVer": "内",
+        "enMeaningFirstVer": "Inside / within",
+        "idMeaningFirstVer": "Di dalam",
+        "idSecondVer": "N5.5.66",
+        "kanjiSecondVer": "中",
+        "enMeaningSecondVer": "Inside / middle",
+        "idMeaningSecondVer": "Dalam / tengah"
+    },
+    {
+        "idFirstVer": "N2.1.77",
+        "kanjiFirstVer": "編集",
+        "enMeaningFirstVer": "Editing / compilation",
+        "idMeaningFirstVer": "Penyuntingan / pengeditan",
+        "idSecondVer": "N2.2.20",
+        "kanjiSecondVer": "編集",
+        "enMeaningSecondVer": "Editing",
+        "idMeaningSecondVer": "Penyuntingan"
+    },
+    {
+        "idFirstVer": "N2.1.158",
+        "kanjiFirstVer": "玉",
+        "enMeaningFirstVer": "Ball / jewel",
+        "idMeaningFirstVer": "Bola / permata",
+        "idSecondVer": "N2.3.132",
+        "kanjiSecondVer": "球",
+        "enMeaningSecondVer": "Ball / sphere",
+        "idMeaningSecondVer": "Bola"
+    },
+    {
+        "idFirstVer": "N2.2.36",
+        "kanjiFirstVer": "目印",
+        "enMeaningFirstVer": "Landmark / marker",
+        "idMeaningFirstVer": "Penanda",
+        "idSecondVer": "N3.8.64",
+        "kanjiSecondVer": "目標",
+        "enMeaningSecondVer": "Goal / target",
+        "idMeaningSecondVer": "Tujuan / target"
+    },
+    {
+        "idFirstVer": "N2.3.37",
+        "kanjiFirstVer": "張る",
+        "enMeaningFirstVer": "Stretch / stick",
+        "idMeaningFirstVer": "Meregangkan / menempel",
+        "idSecondVer": "N3.1.116",
+        "kanjiSecondVer": "張る/貼る",
+        "enMeaningSecondVer": "Stick / paste",
+        "idMeaningSecondVer": "Menempel"
+    },
+    {
+        "idFirstVer": "N2.3.37",
+        "kanjiFirstVer": "張る",
+        "enMeaningFirstVer": "Stretch / stick",
+        "idMeaningFirstVer": "Meregangkan / menempel",
+        "idSecondVer": "N3.1.116",
+        "kanjiSecondVer": "張る/貼る",
+        "enMeaningSecondVer": "Stick / paste",
+        "idMeaningSecondVer": "Menempel"
+    },
+    {
+        "idFirstVer": "N2.3.125",
+        "kanjiFirstVer": "憎い",
+        "enMeaningFirstVer": "Hateful",
+        "idMeaningFirstVer": "Dibenci",
+        "idSecondVer": "N5.2.14",
+        "kanjiSecondVer": "悪い",
+        "enMeaningSecondVer": "Bad / at fault",
+        "idMeaningSecondVer": "Buruk / bersalah"
+    },
+    {
+        "idFirstVer": "N2.6.173",
+        "kanjiFirstVer": "昇る",
+        "enMeaningFirstVer": "Rise / go up",
+        "idMeaningFirstVer": "Naik",
+        "idSecondVer": "N5.4.67",
+        "kanjiSecondVer": "登る/上る",
+        "enMeaningSecondVer": "Climb",
+        "idMeaningSecondVer": "Mendaki"
+    },
+    {
+        "idFirstVer": "N2.6.173",
+        "kanjiFirstVer": "昇る",
+        "enMeaningFirstVer": "Rise / go up",
+        "idMeaningFirstVer": "Naik",
+        "idSecondVer": "N5.4.67",
+        "kanjiSecondVer": "登る/上る",
+        "enMeaningSecondVer": "Climb",
+        "idMeaningSecondVer": "Mendaki"
+    }
+]

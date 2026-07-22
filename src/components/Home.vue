@@ -70,11 +70,13 @@ function selectAllVolumesLevel() {
         selectedVolumes.value["N5"] = []
         selectedVolumes.value["N4"] = []
         selectedVolumes.value["N3"] = []
+        selectedVolumes.value["N2"] = []
         selectedAll.value = false
     } else {
         selectedVolumes.value["N5"] = [...volumes["N5"]!]
         selectedVolumes.value["N4"] = [...volumes["N4"]!]
         selectedVolumes.value["N3"] = [...volumes["N3"]!]
+        selectedVolumes.value["N2"] = [...volumes["N2"]!]
         selectedAll.value = true
     }
 }
