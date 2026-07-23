@@ -96,12 +96,15 @@ export const progressStore = defineStore('progressStore', () => {
             clearLocalStorage("progressStore")
         }
 
+        let resetProgress = true
+        const todayMidnight = new Date();
+        todayMidnight.setHours(0, 0, 0, 0);
+        const midnightEpoch = todayMidnight.getTime();
         for (const kanjiId in progress) {
             // Reset stack progress
             progress[kanjiId]!.lastProgress = new Date(progress[kanjiId]!.lastProgress)
-            if (progress[kanjiId]!.lastProgress.toDateString() != (new Date()).toDateString()) {
-                progress[kanjiId]!.falseStack = 0
-                progress[kanjiId]!.trueStack = 0
+            if (resetProgress && progress[kanjiId]!.lastProgress.getTime() >= midnightEpoch) {
+                resetProgress = false
             }
 
             // Auto migrate progress that have no kanji yet
@@ -133,6 +136,13 @@ export const progressStore = defineStore('progressStore', () => {
                 } else {
                     progress[kanjiId]!.lastProgress = new Date()
                 }
+            }
+        }
+
+        if (resetProgress) {
+            for (const kanjiId in progress) {
+                progress[kanjiId]!.falseStack = 0
+                progress[kanjiId]!.trueStack = 0
             }
         }
 
