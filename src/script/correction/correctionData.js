@@ -10,6 +10,10 @@ main2()
 // main();
 
 function main2() {
+    realignIdKanji()
+}
+
+function rearrangeKanjiData() {
     const omitId = []
     const allCorrectionData = {}
     fs.readdirSync(publicDir)
@@ -97,6 +101,8 @@ function realignIdKanji() {
     for (const [idx, val] of kanji.entries()) {
         for (const [idx2, val2] of val.entries()) {
             const num = val2.id.split(".")
+            num[0] = kanji[idx][0].id.split(".")[0]
+            num[1] = kanji[idx][0].id.split(".")[1]
             num[2] = idx2 + 1
             kanji[idx][idx2].id = num.join(".")
         }

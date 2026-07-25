@@ -1144,15 +1144,6 @@
   },
   {
     "id": "N3.6.128",
-    "kanji": "工夫",
-    "component": "",
-    "hiragana": "くふう",
-    "enMeaning": "Ingenuity / devise",
-    "idMeaning": "Ide kreatif / akal",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.6.129",
     "kanji": "近づく",
     "component": "",
     "hiragana": "ちかづく",
@@ -1161,7 +1152,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.6.130",
+    "id": "N3.6.129",
     "kanji": "気づく",
     "component": "",
     "hiragana": "きづく",
@@ -1170,7 +1161,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.6.131",
+    "id": "N3.6.130",
     "kanji": "腰",
     "component": "",
     "hiragana": "こし",
@@ -1179,7 +1170,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.132",
+    "id": "N3.6.131",
     "kanji": "管理",
     "component": "",
     "hiragana": "かんり",
@@ -1188,7 +1179,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.133",
+    "id": "N3.6.132",
     "kanji": "痛める",
     "component": "",
     "hiragana": "いためる",
@@ -1197,7 +1188,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.6.134",
+    "id": "N3.6.133",
     "kanji": "対する",
     "component": "",
     "hiragana": "たいする",
@@ -1206,7 +1197,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.6.135",
+    "id": "N3.6.134",
     "kanji": "許す",
     "component": "",
     "hiragana": "ゆるす",
@@ -1215,7 +1206,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.6.136",
+    "id": "N3.6.135",
     "kanji": "検査",
     "component": "",
     "hiragana": "けんさ",
@@ -1224,7 +1215,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.137",
+    "id": "N3.6.136",
     "kanji": "通訳",
     "component": "",
     "hiragana": "つうやく",
@@ -1233,7 +1224,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.138",
+    "id": "N3.6.137",
     "kanji": "単純",
     "component": "",
     "hiragana": "たんじゅん",
@@ -1242,7 +1233,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N3.6.139",
+    "id": "N3.6.138",
     "kanji": "離す",
     "component": "",
     "hiragana": "はなす",
@@ -1251,7 +1242,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.6.140",
+    "id": "N3.6.139",
     "kanji": "離れる",
     "component": "",
     "hiragana": "はなれる",
@@ -1260,7 +1251,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.6.141",
+    "id": "N3.6.140",
     "kanji": "要件",
     "component": "",
     "hiragana": "ようけん",
@@ -1269,7 +1260,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.142",
+    "id": "N3.6.141",
     "kanji": "追い付く",
     "component": "",
     "hiragana": "おいつく",
@@ -1278,7 +1269,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.6.143",
+    "id": "N3.6.142",
     "kanji": "進捗",
     "component": "",
     "hiragana": "しんちょく",
@@ -1287,7 +1278,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.144",
+    "id": "N3.6.143",
     "kanji": "納期",
     "component": "",
     "hiragana": "のうき",
@@ -1296,7 +1287,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.145",
+    "id": "N3.6.144",
     "kanji": "要するに",
     "component": "",
     "hiragana": "ようするに",
@@ -1305,7 +1296,7 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N3.6.146",
+    "id": "N3.6.145",
     "kanji": "人差し指",
     "component": "",
     "hiragana": "ひとさしゆび",
@@ -1314,7 +1305,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.147",
+    "id": "N3.6.146",
     "kanji": "中指",
     "component": "",
     "hiragana": "なかゆび",
@@ -1323,7 +1314,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.148",
+    "id": "N3.6.147",
     "kanji": "薬指",
     "component": "",
     "hiragana": "くすりゆび",
@@ -1332,7 +1323,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.149",
+    "id": "N3.6.148",
     "kanji": "小指",
     "component": "",
     "hiragana": "こゆび",
@@ -1341,12 +1332,21 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.6.150",
+    "id": "N3.6.149",
     "kanji": "理屈",
     "component": "",
     "hiragana": "りくつ",
     "enMeaning": "Reason / logic",
     "idMeaning": "Alasan / logika",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.150",
+    "kanji": "愛情",
+    "component": "",
+    "hiragana": "あいじょう",
+    "enMeaning": "Affection",
+    "idMeaning": "Kasih sayang",
     "type": "Kata Benda"
   }
 ]

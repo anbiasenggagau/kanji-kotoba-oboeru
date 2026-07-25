@@ -718,5 +718,50 @@
     "enMeaning": "Room",
     "idMeaning": "Kamar / ruangan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.81",
+    "kanji": "忘れ物",
+    "component": "",
+    "hiragana": "わすれもの",
+    "enMeaning": "Something forgotten",
+    "idMeaning": "Barang tertinggal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.82",
+    "kanji": "会議",
+    "component": "",
+    "hiragana": "かいぎ",
+    "enMeaning": "Meeting",
+    "idMeaning": "Rapat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.83",
+    "kanji": "最初",
+    "component": "",
+    "hiragana": "さいしょ",
+    "enMeaning": "Beginning / first",
+    "idMeaning": "Pertama / awal",
+    "type": "Kata Benda / Keterangan"
+  },
+  {
+    "id": "N5.2.84",
+    "kanji": "最後",
+    "component": "",
+    "hiragana": "さいご",
+    "enMeaning": "Last",
+    "idMeaning": "Terakhir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.85",
+    "kanji": "お祭り",
+    "component": "",
+    "hiragana": "おまつり",
+    "enMeaning": "Festival",
+    "idMeaning": "Festival",
+    "type": "Kata Benda"
   }
 ]

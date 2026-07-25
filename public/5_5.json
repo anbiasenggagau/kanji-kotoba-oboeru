@@ -763,50 +763,5 @@
     "enMeaning": "Listen / asking",
     "idMeaning": "Mendengar / bertanya",
     "type": "KK Transitif"
-  },
-  {
-    "id": "N5.5.86",
-    "kanji": "北",
-    "component": "",
-    "hiragana": "きた",
-    "enMeaning": "North",
-    "idMeaning": "Utara",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N5.5.87",
-    "kanji": "木",
-    "component": "",
-    "hiragana": "き",
-    "enMeaning": "Tree / wood",
-    "idMeaning": "Pohon / kayu",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N5.5.88",
-    "kanji": "本",
-    "component": "",
-    "hiragana": "ほん",
-    "enMeaning": "Book",
-    "idMeaning": "Buku / asal / utama",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N5.5.89",
-    "kanji": "毎",
-    "component": "",
-    "hiragana": "まい",
-    "enMeaning": "Every",
-    "idMeaning": "Setiap",
-    "type": "Frasa / Klausa"
-  },
-  {
-    "id": "N5.5.90",
-    "kanji": "母",
-    "component": "",
-    "hiragana": "はは",
-    "enMeaning": "Mother",
-    "idMeaning": "Ibu",
-    "type": "Kata Benda"
   }
 ]

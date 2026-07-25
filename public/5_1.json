@@ -763,5 +763,50 @@
     "idMeaning": "Mata",
     "enMeaning": "Eye",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.86",
+    "kanji": "再来年",
+    "component": "",
+    "hiragana": "さらいねん",
+    "enMeaning": "The year after next",
+    "idMeaning": "Dua tahun lagi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.87",
+    "kanji": "良い",
+    "component": "",
+    "hiragana": "よい",
+    "enMeaning": "Good",
+    "idMeaning": "Baik",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N5.1.88",
+    "kanji": "居る",
+    "component": "",
+    "hiragana": "いる",
+    "enMeaning": "Exist (animate)",
+    "idMeaning": "Ada (makhluk hidup)",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N5.1.89",
+    "kanji": "零",
+    "component": "",
+    "hiragana": "れい",
+    "enMeaning": "Zero",
+    "idMeaning": "Nol",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.90",
+    "kanji": "変える",
+    "component": "",
+    "hiragana": "かえる",
+    "enMeaning": "Change",
+    "idMeaning": "Mengubah",
+    "type": "KK Transitif"
   }
 ]

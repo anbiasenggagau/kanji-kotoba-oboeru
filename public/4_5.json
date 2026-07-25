@@ -853,5 +853,50 @@
     "enMeaning": "Say / be called (kenjougo)",
     "idMeaning": "Mengatakan / bernama (kenjougo)",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N4.5.96",
+    "kanji": "捕まえる",
+    "component": "",
+    "hiragana": "つかまえる",
+    "enMeaning": "Catch / arrest",
+    "idMeaning": "Menangkap",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.5.97",
+    "kanji": "貿易",
+    "component": "",
+    "hiragana": "ぼうえき",
+    "enMeaning": "Trade",
+    "idMeaning": "Perdagangan internasional",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.98",
+    "kanji": "似る",
+    "component": "以",
+    "hiragana": "にる",
+    "enMeaning": "Resemble",
+    "idMeaning": "Mirip",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.5.99",
+    "kanji": "血",
+    "component": "",
+    "hiragana": "ち",
+    "enMeaning": "Blood",
+    "idMeaning": "Darah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.100",
+    "kanji": "間違える",
+    "component": "",
+    "hiragana": "まちがえる",
+    "enMeaning": "To make a mistake",
+    "idMeaning": "Berbuat salah",
+    "type": "KK Transitif"
   }
 ]
