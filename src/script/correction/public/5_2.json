@@ -718,5 +718,95 @@
     "enMeaning": "Room",
     "idMeaning": "Kamar / ruangan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.87",
+    "kanji": "会議",
+    "component": "",
+    "hiragana": "かいぎ",
+    "enMeaning": "Meeting",
+    "idMeaning": "Rapat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.89",
+    "kanji": "最後",
+    "component": "",
+    "hiragana": "さいご",
+    "enMeaning": "Last",
+    "idMeaning": "Terakhir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.83",
+    "kanji": "居る",
+    "component": "",
+    "hiragana": "いる",
+    "enMeaning": "Exist (animate)",
+    "idMeaning": "Ada (makhluk hidup)",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N5.2.84",
+    "kanji": "零",
+    "component": "",
+    "hiragana": "れい",
+    "enMeaning": "Zero",
+    "idMeaning": "Nol",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.85",
+    "kanji": "変える",
+    "component": "",
+    "hiragana": "かえる",
+    "enMeaning": "Change",
+    "idMeaning": "Mengubah",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N5.2.86",
+    "kanji": "忘れ物",
+    "component": "",
+    "hiragana": "わすれもの",
+    "enMeaning": "Something forgotten",
+    "idMeaning": "Barang tertinggal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.87",
+    "kanji": "会議",
+    "component": "",
+    "hiragana": "かいぎ",
+    "enMeaning": "Meeting",
+    "idMeaning": "Rapat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.88",
+    "kanji": "最初",
+    "component": "",
+    "hiragana": "さいしょ",
+    "enMeaning": "Beginning / first",
+    "idMeaning": "Pertama / awal",
+    "type": "Kata Benda / Keterangan"
+  },
+  {
+    "id": "N5.2.89",
+    "kanji": "最後",
+    "component": "",
+    "hiragana": "さいご",
+    "enMeaning": "Last",
+    "idMeaning": "Terakhir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.90",
+    "kanji": "お祭り",
+    "component": "",
+    "hiragana": "おまつり",
+    "enMeaning": "Festival",
+    "idMeaning": "Festival",
+    "type": "Kata Benda"
   }
 ]

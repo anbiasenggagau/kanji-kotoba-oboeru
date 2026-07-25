@@ -1,0 +1,29 @@
+[
+  {
+    "id": "N2.1.69",
+    "kanji": "札",
+    "component": "",
+    "hiragana": "ふだ",
+    "enMeaning": "Tag / label / nameplate",
+    "idMeaning": "Label / papan nama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.158",
+    "kanji": "玉",
+    "component": "",
+    "hiragana": "たま",
+    "enMeaning": "Ball / jewel",
+    "idMeaning": "Bola / permata",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.134",
+    "kanji": "腹",
+    "component": "",
+    "hiragana": "はら",
+    "enMeaning": "Stomach / abdomen",
+    "idMeaning": "Perut",
+    "type": "Kata Benda"
+  }
+]

@@ -1,7 +1,7 @@
 const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
-const publicDir = path.join(__dirname, '../../public');
+const publicDir = path.join(__dirname, '../../../public');
 
 const summary = []
 let kanji = []
@@ -10,7 +10,79 @@ main2()
 // main();
 
 function main2() {
-    const data = require("./kanjiSummary.json")
+    const omitId = []
+    const allCorrectionData = {}
+    fs.readdirSync(publicDir)
+        .filter(file => path.extname(file) === '.json')
+        .forEach(file => {
+            const fileLoc = publicDir + "/" + file;
+            const data = require(fileLoc);
+            kanji.push(data);
+        });
+    const kanjiFlat = kanji.flat()
+
+    fs.readdirSync("./")
+        .filter(file => path.extname(file) == ".json" && file.at(0) == "N")
+        .forEach(file => {
+            const correctionData = []
+            const data = require(`./${file}`)
+            for (const val of data) {
+                const findData = kanjiFlat.find(val2 => val2.kanji == val)
+                omitId.push(findData.id)
+                correctionData.push(findData)
+            }
+            allCorrectionData[file] = correctionData
+            fs.writeFileSync(`./moveKanji/${file}`, JSON.stringify(correctionData, null, 2))
+        })
+
+
+    for (const [idx, val] of kanji.entries()) {
+        for (const [idx2, val2] of val.entries()) {
+            if (omitId.includes(val2.id)) {
+                // console.info("Omit:", val2.id, val2.kanji)
+                kanji[idx].splice(idx2, 1)
+            }
+        }
+    }
+
+    const capAmount = {
+        "N5": 90,
+        "N4": 100,
+        "N3": 150,
+        "N2": 200,
+    }
+
+    for (const [idx, val] of kanji.entries()) {
+        const level = kanji[idx][0].id.split(".")[0]
+        const cap = capAmount[level]
+        if (cap) {
+            const diff = kanji[idx].length - cap
+            if (diff < 0 && allCorrectionData[`${level}.json`].length > 0) {
+                console.info(`${level}.json:`, allCorrectionData[`${level}.json`].length)
+                console.info("Before:", kanji[idx][0].id, kanji[idx].length)
+                kanji[idx].push(...allCorrectionData[`${level}.json`].splice(0, (diff * -1)))
+                console.info("After:", kanji[idx][0].id, kanji[idx].length)
+                console.info("===================================")
+            }
+        }
+    }
+
+    for (const [idx, val] of kanji.entries()) {
+        for (const [idx2, val2] of val.entries()) {
+            const num = val2.id.split(".")
+            num[0] = kanji[idx][0].id.split(".")[0]
+            num[1] = kanji[idx][0].id.split(".")[1]
+            num[2] = idx2 + 1
+            kanji[idx][idx2].id = num.join(".")
+        }
+        const num = kanji[idx][0].id.split(".")
+        const fileName = `./public/${num[0].at(-1)}_${num[1]}.json`
+        // const fileName = `../../../public/${num[0].at(-1)}_${num[1]}.json`
+        fs.writeFileSync(fileName, JSON.stringify(kanji[idx], null, 2))
+    }
+}
+
+function realignIdKanji() {
     fs.readdirSync(publicDir)
         .filter(file => path.extname(file) === '.json')
         .forEach(file => {
@@ -18,42 +90,17 @@ function main2() {
             let data = require(fileLoc);
             kanji.push(data);
         });
-    const kanjiData = kanji.flat()
 
-    const result = []
-    for (const val of data) {
-        if (val.allVersion && val.allVersion.length > 1) {
-            for (const val2 of val.allVersion) {
-                const findData = kanjiData.find(val3 =>
-                    val3.kanji &&
-                    val3.id != val.id &&
-                    !result.find(val4 => val4.idFirstVer == val3.id) &&
-                    val3.kanji.split("/").includes(val2))
-                if (findData) {
-                    console.info("==============")
-                    console.info(val.id)
-                    console.info(val2)
-                    console.info(val.allVersion)
-                    console.info("Found alter version", val2, val.id, "on", findData.id, "as", findData.kanji)
-                    const firstVer = kanjiData.find(val4 => val4.id == val.id)
-                    const secondVer = kanjiData.find(val4 => val4.id == findData.id)
-                    result.push({
-                        idFirstVer: firstVer.id,
-                        kanjiFirstVer: firstVer.kanji,
-                        enMeaningFirstVer: firstVer.enMeaning,
-                        idMeaningFirstVer: firstVer.idMeaning,
-                        idSecondVer: secondVer.id,
-                        kanjiSecondVer: secondVer.kanji,
-                        enMeaningSecondVer: secondVer.enMeaning,
-                        idMeaningSecondVer: secondVer.idMeaning,
-                    })
-                }
-            }
+    for (const [idx, val] of kanji.entries()) {
+        for (const [idx2, val2] of val.entries()) {
+            const num = val2.id.split(".")
+            num[2] = idx2 + 1
+            kanji[idx][idx2].id = num.join(".")
         }
+        const num = kanji[idx][0].id.split(".")
+        const fileName = `../../../public/${num[0].at(-1)}_${num[1]}.json`
+        fs.writeFileSync(fileName, JSON.stringify(kanji[idx], null, 2))
     }
-
-    fs.writeFileSync("./kanjiAlterVer.json", JSON.stringify(result, 2))
-    return result
 }
 
 function alterVer(data, kanjiData) {
@@ -205,10 +252,10 @@ async function main() {
     //     // console.error(`Failed to fetch or process target: ${kanjiData}`, error);
     // }
 
-    fs.writeFileSync("./kanjiAlterVer.json", JSON.stringify(alterVer(summary, data), 2))
-    fs.writeFileSync("./kanjiOmit.json", JSON.stringify(shouldOmit(data), 2))
-    fs.writeFileSync("./kanjiCorrection.json", JSON.stringify(correction(summary), 2))
-    fs.writeFileSync("./kanjiSummary.json", JSON.stringify(sorting(summary), 2))
+    fs.writeFileSync("./kanjiAlterVer.json", JSON.stringify(alterVer(summary, data), null, 2))
+    fs.writeFileSync("./kanjiOmit.json", JSON.stringify(shouldOmit(data), null, 2))
+    fs.writeFileSync("./kanjiCorrection.json", JSON.stringify(correction(summary), null, 2))
+    fs.writeFileSync("./kanjiSummary.json", JSON.stringify(sorting(summary), null, 2))
 }
 
 function getJlptLevel(labels) {
