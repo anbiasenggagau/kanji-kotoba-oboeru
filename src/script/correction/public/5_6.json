@@ -799,5 +799,14 @@
     "enMeaning": "Every night",
     "idMeaning": "Setiap malam",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.90",
+    "kanji": "久しぶり",
+    "component": "",
+    "hiragana": "ひさしぶり",
+    "enMeaning": "After a long time",
+    "idMeaning": "Setelah lama",
+    "type": "Kata Sifat な"
   }
 ]

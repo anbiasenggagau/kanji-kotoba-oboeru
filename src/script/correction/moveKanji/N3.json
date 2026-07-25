@@ -1,6 +1,6 @@
 [
   {
-    "id": "N3.1.139",
+    "id": "N2.1.26",
     "kanji": "常に",
     "component": "",
     "hiragana": "つねに",
@@ -9,7 +9,7 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N3.1.140",
+    "id": "N2.6.147",
     "kanji": "覚ます",
     "component": "",
     "hiragana": "さます",
@@ -18,7 +18,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.1.141",
+    "id": "N2.6.8",
     "kanji": "素晴らしい",
     "component": "",
     "hiragana": "すばらしい",
@@ -27,7 +27,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N3.1.142",
+    "id": "N2.1.43",
     "kanji": "放す",
     "component": "",
     "hiragana": "はなす",
@@ -36,7 +36,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.1.143",
+    "id": "N2.2.105",
     "kanji": "全国",
     "component": "",
     "hiragana": "ぜんこく",
@@ -45,7 +45,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.1.144",
+    "id": "N2.4.64",
     "kanji": "裏切る",
     "component": "",
     "hiragana": "うらぎる",
@@ -54,7 +54,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.1.145",
+    "id": "N2.2.110",
     "kanji": "責める",
     "component": "",
     "hiragana": "せめる",
@@ -63,7 +63,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N2.2.140",
+    "id": "N2.2.150",
     "kanji": "加わる",
     "component": "",
     "hiragana": "くわわる",
@@ -72,7 +72,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.1.147",
+    "id": "N2.4.165",
     "kanji": "建築",
     "component": "",
     "hiragana": "けんちく",
@@ -81,7 +81,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.1.148",
+    "id": "N2.1.22",
     "kanji": "飛び出す",
     "component": "",
     "hiragana": "とびだす",
@@ -90,7 +90,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N2.1.40",
+    "id": "N2.1.44",
     "kanji": "放送",
     "component": "",
     "hiragana": "ほうそう",
@@ -99,7 +99,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.1.150",
+    "id": "N2.6.117",
     "kanji": "勢い",
     "component": "",
     "hiragana": "いきおい",
@@ -108,7 +108,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.144",
+    "id": "N2.1.106",
     "kanji": "再び",
     "component": "",
     "hiragana": "ふたたび",
@@ -117,7 +117,7 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N3.2.145",
+    "id": "N2.1.175",
     "kanji": "設計",
     "component": "",
     "hiragana": "せっけい",
@@ -126,7 +126,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.146",
+    "id": "N2.2.24",
     "kanji": "可能",
     "component": "",
     "hiragana": "かのう",
@@ -135,7 +135,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N3.2.147",
+    "id": "N2.2.12",
     "kanji": "通信",
     "component": "",
     "hiragana": "つうしん",
@@ -144,7 +144,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.148",
+    "id": "N2.1.138",
     "kanji": "支払う",
     "component": "",
     "hiragana": "しはらう",
@@ -153,7 +153,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.2.149",
+    "id": "N2.1.179",
     "kanji": "向かい",
     "component": "",
     "hiragana": "むかい",
@@ -162,7 +162,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.150",
+    "id": "N2.1.109",
     "kanji": "医療",
     "component": "",
     "hiragana": "いりょう",
@@ -171,7 +171,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.143",
+    "id": "N2.2.149",
     "kanji": "震える",
     "component": "",
     "hiragana": "ふるえる",
@@ -180,7 +180,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.3.144",
+    "id": "N2.2.51",
     "kanji": "乗客",
     "component": "",
     "hiragana": "じょうきゃく",
@@ -189,7 +189,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.145",
+    "id": "N2.2.139",
     "kanji": "資源",
     "component": "",
     "hiragana": "しげん",
@@ -198,7 +198,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.146",
+    "id": "N2.4.25",
     "kanji": "神経",
     "component": "",
     "hiragana": "しんけい",
@@ -207,7 +207,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.147",
+    "id": "N2.3.126",
     "kanji": "悲しむ",
     "component": "",
     "hiragana": "かなしむ",
@@ -216,7 +216,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.3.148",
+    "id": "N2.3.25",
     "kanji": "現状",
     "component": "",
     "hiragana": "げんじょう",
@@ -225,7 +225,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.3.19",
+    "id": "N2.3.20",
     "kanji": "帰宅",
     "component": "",
     "hiragana": "きたく",
@@ -234,7 +234,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.150",
+    "id": "N2.2.81",
     "kanji": "等しい",
     "component": "",
     "hiragana": "ひとしい",
@@ -243,7 +243,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N3.4.146",
+    "id": "N2.2.175",
     "kanji": "作法",
     "component": "",
     "hiragana": "さほう",
@@ -252,7 +252,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.4.147",
+    "id": "N2.4.41",
     "kanji": "消費",
     "component": "",
     "hiragana": "しょうひ",
@@ -261,7 +261,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.4.148",
+    "id": "N2.3.92",
     "kanji": "適度",
     "component": "",
     "hiragana": "てきど",
@@ -270,7 +270,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N3.4.149",
+    "id": "N2.3.72",
     "kanji": "幸い",
     "component": "",
     "hiragana": "さいわい",
@@ -279,7 +279,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.4.150",
+    "id": "N2.4.27",
     "kanji": "苦痛",
     "component": "",
     "hiragana": "くつう",
@@ -288,7 +288,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.142",
+    "id": "N2.3.19",
     "kanji": "住宅",
     "component": "",
     "hiragana": "じゅうたく",
@@ -297,7 +297,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.143",
+    "id": "N2.2.161",
     "kanji": "記者",
     "component": "",
     "hiragana": "きしゃ",
@@ -306,7 +306,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.144",
+    "id": "N2.4.46",
     "kanji": "自身",
     "component": "",
     "hiragana": "じしん",
@@ -315,7 +315,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.145",
+    "id": "N2.4.67",
     "kanji": "差別",
     "component": "",
     "hiragana": "さべつ",
@@ -324,7 +324,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.146",
+    "id": "N2.4.113",
     "kanji": "無事",
     "component": "",
     "hiragana": "ぶじ",
@@ -333,7 +333,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N3.5.147",
+    "id": "N2.5.5",
     "kanji": "観察",
     "component": "",
     "hiragana": "かんさつ",
@@ -342,7 +342,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.148",
+    "id": "N2.5.68",
     "kanji": "苦しむ",
     "component": "",
     "hiragana": "くるしむ",
@@ -351,7 +351,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.5.149",
+    "id": "N2.6.149",
     "kanji": "環境",
     "component": "",
     "hiragana": "かんきょう",
@@ -360,7 +360,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.98",
+    "id": "N2.2.104",
     "kanji": "全く",
     "component": "",
     "hiragana": "まったく",
@@ -369,7 +369,7 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N3.6.150",
+    "id": "N2.2.103",
     "kanji": "全て",
     "component": "",
     "hiragana": "すべて",
@@ -378,7 +378,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.7.150",
+    "id": "N2.3.131",
     "kanji": "愛情",
     "component": "",
     "hiragana": "あいじょう",
@@ -387,7 +387,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.8.148",
+    "id": "N2.3.152",
     "kanji": "恐れる",
     "component": "",
     "hiragana": "おそれる",
@@ -396,7 +396,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.8.149",
+    "id": "N2.3.134",
     "kanji": "腹",
     "component": "",
     "hiragana": "はら",
@@ -405,12 +405,21 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.8.150",
+    "id": "N2.5.81",
     "kanji": "支給",
     "component": "",
     "hiragana": "しきゅう",
     "enMeaning": "Supply / payment",
     "idMeaning": "Pemberian / pembayaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.65",
+    "kanji": "農家",
+    "component": "",
+    "hiragana": "のうか",
+    "enMeaning": "Farmer / farming household",
+    "idMeaning": "Petani / keluarga petani",
     "type": "Kata Benda"
   }
 ]

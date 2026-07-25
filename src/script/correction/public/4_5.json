@@ -856,6 +856,15 @@
   },
   {
     "id": "N4.5.96",
+    "kanji": "捕まえる",
+    "component": "",
+    "hiragana": "つかまえる",
+    "enMeaning": "Catch / arrest",
+    "idMeaning": "Menangkap",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N4.5.97",
     "kanji": "貿易",
     "component": "",
     "hiragana": "ぼうえき",
@@ -864,7 +873,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.5.97",
+    "id": "N4.5.98",
+    "kanji": "似る",
+    "component": "以",
+    "hiragana": "にる",
+    "enMeaning": "Resemble",
+    "idMeaning": "Mirip",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.5.99",
     "kanji": "血",
     "component": "",
     "hiragana": "ち",
@@ -873,30 +891,12 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.5.98",
-    "kanji": "下宿",
-    "component": "",
-    "hiragana": "げしゅく",
-    "enMeaning": "Boarding house",
-    "idMeaning": "Kos-kosan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N4.5.99",
-    "kanji": "割れる",
-    "component": "",
-    "hiragana": "われる",
-    "enMeaning": "Break / split",
-    "idMeaning": "Pecah",
-    "type": "KK Intransitif"
-  },
-  {
     "id": "N4.5.100",
-    "kanji": "鳴る",
+    "kanji": "間違える",
     "component": "",
-    "hiragana": "なる",
-    "enMeaning": "Ringing (clock/phone)",
-    "idMeaning": "Berbunyi (jam/HP)",
-    "type": "KK Intransitif"
+    "hiragana": "まちがえる",
+    "enMeaning": "To make a mistake",
+    "idMeaning": "Berbuat salah",
+    "type": "KK Transitif"
   }
 ]

@@ -1333,20 +1333,20 @@
   },
   {
     "id": "N3.8.149",
-    "kanji": "悲しむ",
+    "kanji": "支給",
     "component": "",
-    "hiragana": "かなしむ",
-    "enMeaning": "Grieve / mourn",
-    "idMeaning": "Bersedih",
-    "type": "KK Transitif"
+    "hiragana": "しきゅう",
+    "enMeaning": "Supply / payment",
+    "idMeaning": "Pemberian / pembayaran",
+    "type": "Kata Benda"
   },
   {
     "id": "N3.8.150",
-    "kanji": "現状",
+    "kanji": "農家",
     "component": "",
-    "hiragana": "げんじょう",
-    "enMeaning": "Current situation",
-    "idMeaning": "Keadaan saat ini",
+    "hiragana": "のうか",
+    "enMeaning": "Farmer / farming household",
+    "idMeaning": "Petani / keluarga petani",
     "type": "Kata Benda"
   }
 ]

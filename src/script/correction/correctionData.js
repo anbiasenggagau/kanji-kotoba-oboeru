@@ -35,15 +35,18 @@ function main2() {
             fs.writeFileSync(`./moveKanji/${file}`, JSON.stringify(correctionData, null, 2))
         })
 
-
+    // console.info("Before Omit:", omitId)
     for (const [idx, val] of kanji.entries()) {
         for (const [idx2, val2] of val.entries()) {
-            if (omitId.includes(val2.id)) {
-                // console.info("Omit:", val2.id, val2.kanji)
-                kanji[idx].splice(idx2, 1)
+            const findIdx = omitId.findIndex(val3 => val3 == val2.id)
+            if (findIdx != -1) {
+                omitId[findIdx] = null
+                kanji[idx][idx2] = null
             }
         }
     }
+    // console.info("After Omit:", omitId)
+    kanji = kanji.map(val => val.map(val2 => val2).filter(val2 => val2 != null))
 
     const capAmount = {
         "N5": 90,

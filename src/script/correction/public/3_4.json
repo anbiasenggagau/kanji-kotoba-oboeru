@@ -1306,6 +1306,15 @@
   },
   {
     "id": "N3.4.146",
+    "kanji": "作法",
+    "component": "",
+    "hiragana": "さほう",
+    "enMeaning": "Manners / etiquette",
+    "idMeaning": "Tata krama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.147",
     "kanji": "消費",
     "component": "",
     "hiragana": "しょうひ",
@@ -1314,7 +1323,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.4.147",
+    "id": "N3.4.148",
+    "kanji": "適度",
+    "component": "",
+    "hiragana": "てきど",
+    "enMeaning": "Moderate / proper degree",
+    "idMeaning": "Secukupnya",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.4.149",
     "kanji": "幸い",
     "component": "",
     "hiragana": "さいわい",
@@ -1323,30 +1341,12 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.4.148",
-    "kanji": "可能",
-    "component": "",
-    "hiragana": "かのう",
-    "enMeaning": "Possible",
-    "idMeaning": "Mungkin",
-    "type": "Kata Sifat な"
-  },
-  {
-    "id": "N3.4.149",
-    "kanji": "通信",
-    "component": "",
-    "hiragana": "つうしん",
-    "enMeaning": "Communication",
-    "idMeaning": "Komunikasi",
-    "type": "Kata Benda"
-  },
-  {
     "id": "N3.4.150",
-    "kanji": "支払う",
+    "kanji": "苦痛",
     "component": "",
-    "hiragana": "しはらう",
-    "enMeaning": "Pay",
-    "idMeaning": "Membayar",
-    "type": "KK Transitif"
+    "hiragana": "くつう",
+    "enMeaning": "Pain / suffering",
+    "idMeaning": "Penderitaan",
+    "type": "Kata Benda"
   }
 ]

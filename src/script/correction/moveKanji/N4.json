@@ -1,6 +1,6 @@
 [
   {
-    "id": "N4.3.96",
+    "id": "N3.1.13",
     "kanji": "息",
     "component": "",
     "hiragana": "いき",
@@ -9,7 +9,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.3.97",
+    "id": "N3.1.109",
     "kanji": "沸く",
     "component": "",
     "hiragana": "わく",
@@ -18,7 +18,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N4.3.98",
+    "id": "N3.2.58",
     "kanji": "比べる",
     "component": "",
     "hiragana": "くらべる",
@@ -27,7 +27,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N4.3.99",
+    "id": "N3.3.4",
     "kanji": "細かい",
     "component": "",
     "hiragana": "こまかい",
@@ -36,7 +36,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N4.3.100",
+    "id": "N3.3.48",
     "kanji": "お宅",
     "component": "",
     "hiragana": "おたく",
@@ -45,7 +45,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.4.96",
+    "id": "N3.3.35",
     "kanji": "再来週",
     "component": "",
     "hiragana": "さらいしゅう",
@@ -54,7 +54,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.4.97",
+    "id": "N3.3.85",
     "kanji": "下宿",
     "component": "",
     "hiragana": "げしゅく",
@@ -63,7 +63,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.4.98",
+    "id": "N3.4.5",
     "kanji": "割れる",
     "component": "",
     "hiragana": "われる",
@@ -72,7 +72,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N4.4.99",
+    "id": "N3.4.26",
     "kanji": "鳴る",
     "component": "",
     "hiragana": "なる",
@@ -81,7 +81,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N4.4.100",
+    "id": "N3.4.46",
     "kanji": "消しゴム",
     "component": "",
     "hiragana": "けしゴム",
@@ -90,7 +90,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.5.96",
+    "id": "N3.8.1",
     "kanji": "捕まえる",
     "component": "",
     "hiragana": "つかまえる",
@@ -99,7 +99,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N4.5.97",
+    "id": "N3.2.96",
     "kanji": "貿易",
     "component": "",
     "hiragana": "ぼうえき",
@@ -108,7 +108,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.5.98",
+    "id": "N3.2.119",
     "kanji": "似る",
     "component": "以",
     "hiragana": "にる",
@@ -117,7 +117,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N4.5.99",
+    "id": "N3.3.89",
     "kanji": "血",
     "component": "",
     "hiragana": "ち",
@@ -126,7 +126,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.5.100",
+    "id": "N3.5.86",
     "kanji": "間違える",
     "component": "",
     "hiragana": "まちがえる",

@@ -855,25 +855,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.3.99",
-    "kanji": "沸く",
-    "component": "",
-    "hiragana": "わく",
-    "enMeaning": "Boil / get excited",
-    "idMeaning": "Mendidih",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N4.3.97",
-    "kanji": "細かい",
-    "component": "",
-    "hiragana": "こまかい",
-    "enMeaning": "Detailed / small",
-    "idMeaning": "Detail / kecil",
-    "type": "Kata Sifat い"
-  },
-  {
-    "id": "N4.3.98",
+    "id": "N4.3.96",
     "kanji": "息",
     "component": "",
     "hiragana": "いき",
@@ -882,7 +864,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N4.3.99",
+    "id": "N4.3.97",
     "kanji": "沸く",
     "component": "",
     "hiragana": "わく",
@@ -891,12 +873,30 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N4.3.100",
+    "id": "N4.3.98",
     "kanji": "比べる",
     "component": "",
     "hiragana": "くらべる",
     "enMeaning": "To compare",
     "idMeaning": "Membandingkan",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N4.3.99",
+    "kanji": "細かい",
+    "component": "",
+    "hiragana": "こまかい",
+    "enMeaning": "Detailed / small",
+    "idMeaning": "Detail / kecil",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N4.3.100",
+    "kanji": "お宅",
+    "component": "",
+    "hiragana": "おたく",
+    "enMeaning": "Your home (keigo)",
+    "idMeaning": "Rumah Anda (keigo)",
+    "type": "Kata Benda"
   }
 ]

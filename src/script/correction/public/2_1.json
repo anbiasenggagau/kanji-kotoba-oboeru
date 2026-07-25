@@ -1683,52 +1683,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.194",
-    "kanji": "申請",
-    "component": "",
-    "hiragana": "しんせい",
-    "enMeaning": "Application",
-    "idMeaning": "Mendaftar",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.1.196",
-    "kanji": "灯油",
-    "component": "",
-    "hiragana": "とうゆ",
-    "enMeaning": "Kerosene",
-    "idMeaning": "Minyak tanah",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.1.198",
-    "kanji": "余る",
-    "component": "",
-    "hiragana": "あまる",
-    "enMeaning": "Remain / be left over",
-    "idMeaning": "Tersisa",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N2.1.200",
-    "kanji": "芸能",
-    "component": "",
-    "hiragana": "げいのう",
-    "enMeaning": "Entertainment / performing arts",
-    "idMeaning": "Dunia hiburan / seni pertunjukan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.1.192",
-    "kanji": "清い",
-    "component": "",
-    "hiragana": "きよい",
-    "enMeaning": "Pure / clean",
-    "idMeaning": "Murni / bersih",
-    "type": "Kata Sifat い"
-  },
-  {
-    "id": "N2.1.193",
+    "id": "N2.1.188",
     "kanji": "冷める",
     "component": "",
     "hiragana": "さめる",
@@ -1737,7 +1692,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N2.1.194",
+    "id": "N2.1.189",
     "kanji": "申請",
     "component": "",
     "hiragana": "しんせい",
@@ -1746,7 +1701,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.195",
+    "id": "N2.1.190",
     "kanji": "真っ白",
     "component": "",
     "hiragana": "まっしろ",
@@ -1755,7 +1710,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N2.1.196",
+    "id": "N2.1.191",
     "kanji": "灯油",
     "component": "",
     "hiragana": "とうゆ",
@@ -1764,7 +1719,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.197",
+    "id": "N2.1.192",
     "kanji": "校庭",
     "component": "",
     "hiragana": "こうてい",
@@ -1773,7 +1728,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.198",
+    "id": "N2.1.193",
     "kanji": "余る",
     "component": "",
     "hiragana": "あまる",
@@ -1782,7 +1737,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N2.1.199",
+    "id": "N2.1.194",
     "kanji": "紅葉",
     "component": "",
     "hiragana": "こうよう / もみじ",
@@ -1791,12 +1746,57 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.200",
+    "id": "N2.1.195",
     "kanji": "芸能",
     "component": "",
     "hiragana": "げいのう",
     "enMeaning": "Entertainment / performing arts",
     "idMeaning": "Dunia hiburan / seni pertunjukan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.196",
+    "kanji": "書留",
+    "component": "",
+    "hiragana": "かきとめ",
+    "enMeaning": "Registered mail",
+    "idMeaning": "Surat tercatat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.197",
+    "kanji": "清い",
+    "component": "",
+    "hiragana": "きよい",
+    "enMeaning": "Pure / clean",
+    "idMeaning": "Murni / bersih",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N2.1.198",
+    "kanji": "煙突",
+    "component": "",
+    "hiragana": "えんとつ",
+    "enMeaning": "Chimney",
+    "idMeaning": "Cerobong asap",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.199",
+    "kanji": "鈍い",
+    "component": "",
+    "hiragana": "にぶい",
+    "enMeaning": "Dull / blunt",
+    "idMeaning": "Tumpul / lambat",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N2.1.200",
+    "kanji": "耐える",
+    "component": "",
+    "hiragana": "たえる",
+    "enMeaning": "Endure / withstand",
+    "idMeaning": "Menahan / bertahan terhadap",
+    "type": "KK Intransitif"
   }
 ]

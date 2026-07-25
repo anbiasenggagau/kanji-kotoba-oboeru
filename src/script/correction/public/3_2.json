@@ -1288,6 +1288,15 @@
   },
   {
     "id": "N3.2.144",
+    "kanji": "再び",
+    "component": "",
+    "hiragana": "ふたたび",
+    "enMeaning": "Again",
+    "idMeaning": "Lagi",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.145",
     "kanji": "設計",
     "component": "",
     "hiragana": "せっけい",
@@ -1296,7 +1305,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.145",
+    "id": "N3.2.146",
+    "kanji": "可能",
+    "component": "",
+    "hiragana": "かのう",
+    "enMeaning": "Possible",
+    "idMeaning": "Mungkin",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.2.147",
     "kanji": "通信",
     "component": "",
     "hiragana": "つうしん",
@@ -1305,7 +1323,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.146",
+    "id": "N3.2.148",
+    "kanji": "支払う",
+    "component": "",
+    "hiragana": "しはらう",
+    "enMeaning": "Pay",
+    "idMeaning": "Membayar",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.149",
     "kanji": "向かい",
     "component": "",
     "hiragana": "むかい",
@@ -1314,39 +1341,12 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.2.147",
-    "kanji": "責める",
-    "component": "",
-    "hiragana": "せめる",
-    "enMeaning": "Blame",
-    "idMeaning": "Menyalahkan",
-    "type": "KK Transitif"
-  },
-  {
-    "id": "N3.2.148",
-    "kanji": "加わる",
-    "component": "",
-    "hiragana": "くわわる",
-    "enMeaning": "Join / be added",
-    "idMeaning": "Bergabung",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N3.2.149",
-    "kanji": "建築",
-    "component": "",
-    "hiragana": "けんちく",
-    "enMeaning": "Construction / architecture",
-    "idMeaning": "Konstruksi",
-    "type": "Kata Benda"
-  },
-  {
     "id": "N3.2.150",
-    "kanji": "飛び出す",
+    "kanji": "医療",
     "component": "",
-    "hiragana": "とびだす",
-    "enMeaning": "Jump out / dash out",
-    "idMeaning": "Melompat keluar",
-    "type": "KK Intransitif"
+    "hiragana": "いりょう",
+    "enMeaning": "Medical care",
+    "idMeaning": "Pelayanan medis",
+    "type": "Kata Benda"
   }
 ]

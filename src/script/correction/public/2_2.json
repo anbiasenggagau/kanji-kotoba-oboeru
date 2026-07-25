@@ -1674,16 +1674,16 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N2.2.197",
-    "kanji": "耐える",
+    "id": "N2.2.187",
+    "kanji": "文脈",
     "component": "",
-    "hiragana": "たえる",
-    "enMeaning": "Endure / withstand",
-    "idMeaning": "Menahan / bertahan terhadap",
-    "type": "KK Intransitif"
+    "hiragana": "ぶんみゃく",
+    "enMeaning": "Context",
+    "idMeaning": "Konteks",
+    "type": "Kata Benda"
   },
   {
-    "id": "N2.2.199",
+    "id": "N2.2.188",
     "kanji": "売り切れ",
     "component": "",
     "hiragana": "うりきれ",
@@ -1693,6 +1693,15 @@
   },
   {
     "id": "N2.2.189",
+    "kanji": "工夫",
+    "component": "",
+    "hiragana": "くふう",
+    "enMeaning": "Ingenuity / devise",
+    "idMeaning": "Ide kreatif / akal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.190",
     "kanji": "交流",
     "component": "",
     "hiragana": "こうりゅう",
@@ -1701,7 +1710,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.190",
+    "id": "N2.2.191",
+    "kanji": "蒸す",
+    "component": "",
+    "hiragana": "むす",
+    "enMeaning": "Steam",
+    "idMeaning": "Mengukus",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.2.192",
     "kanji": "根拠",
     "component": "",
     "hiragana": "こんきょ",
@@ -1710,7 +1728,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.191",
+    "id": "N2.2.193",
+    "kanji": "不在",
+    "component": "",
+    "hiragana": "ふざい",
+    "enMeaning": "Absence",
+    "idMeaning": "Tidak ada di tempat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.194",
     "kanji": "保温",
     "component": "",
     "hiragana": "ほおん",
@@ -1719,7 +1746,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.192",
+    "id": "N2.2.195",
+    "kanji": "促す",
+    "component": "",
+    "hiragana": "うながす",
+    "enMeaning": "Urge / encourage",
+    "idMeaning": "Mendorong / mendesak",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.2.196",
     "kanji": "企画",
     "component": "",
     "hiragana": "きかく",
@@ -1728,75 +1764,12 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.193",
-    "kanji": "書留",
-    "component": "",
-    "hiragana": "かきとめ",
-    "enMeaning": "Registered mail",
-    "idMeaning": "Surat tercatat",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.2.194",
-    "kanji": "清い",
-    "component": "",
-    "hiragana": "きよい",
-    "enMeaning": "Pure / clean",
-    "idMeaning": "Murni / bersih",
-    "type": "Kata Sifat い"
-  },
-  {
-    "id": "N2.2.195",
-    "kanji": "煙突",
-    "component": "",
-    "hiragana": "えんとつ",
-    "enMeaning": "Chimney",
-    "idMeaning": "Cerobong asap",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.2.196",
-    "kanji": "鈍い",
-    "component": "",
-    "hiragana": "にぶい",
-    "enMeaning": "Dull / blunt",
-    "idMeaning": "Tumpul / lambat",
-    "type": "Kata Sifat い"
-  },
-  {
     "id": "N2.2.197",
-    "kanji": "耐える",
+    "kanji": "蜜",
     "component": "",
-    "hiragana": "たえる",
-    "enMeaning": "Endure / withstand",
-    "idMeaning": "Menahan / bertahan terhadap",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N2.2.198",
-    "kanji": "文脈",
-    "component": "",
-    "hiragana": "ぶんみゃく",
-    "enMeaning": "Context",
-    "idMeaning": "Konteks",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.2.199",
-    "kanji": "売り切れ",
-    "component": "",
-    "hiragana": "うりきれ",
-    "enMeaning": "Sold out",
-    "idMeaning": "Habis terjual",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.2.200",
-    "kanji": "工夫",
-    "component": "",
-    "hiragana": "くふう",
-    "enMeaning": "Ingenuity / devise",
-    "idMeaning": "Ide kreatif / akal",
+    "hiragana": "みつ",
+    "enMeaning": "Honey / nectar",
+    "idMeaning": "Madu / nektar",
     "type": "Kata Benda"
   }
 ]

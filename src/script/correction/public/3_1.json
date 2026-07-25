@@ -1242,61 +1242,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.1.146",
-    "kanji": "覚ます",
-    "component": "",
-    "hiragana": "さます",
-    "enMeaning": "Wake up / awaken",
-    "idMeaning": "Membangunkan / menyadarkan",
-    "type": "KK Transitif"
-  },
-  {
-    "id": "N3.1.148",
-    "kanji": "放す",
-    "component": "",
-    "hiragana": "はなす",
-    "enMeaning": "Release / let go",
-    "idMeaning": "Melepaskan",
-    "type": "KK Transitif"
-  },
-  {
-    "id": "N3.1.150",
-    "kanji": "裏切る",
-    "component": "",
-    "hiragana": "うらぎる",
-    "enMeaning": "Betray",
-    "idMeaning": "Mengkhianati",
-    "type": "KK Transitif"
-  },
-  {
-    "id": "N3.1.142",
-    "kanji": "加わる",
-    "component": "",
-    "hiragana": "くわわる",
-    "enMeaning": "Join / be added",
-    "idMeaning": "Bergabung",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N3.1.143",
-    "kanji": "飛び出す",
-    "component": "",
-    "hiragana": "とびだす",
-    "enMeaning": "Jump out / dash out",
-    "idMeaning": "Melompat keluar",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N3.1.144",
-    "kanji": "放送",
-    "component": "",
-    "hiragana": "ほうそう",
-    "enMeaning": "Broadcast",
-    "idMeaning": "Siaran",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.1.145",
+    "id": "N3.1.139",
     "kanji": "常に",
     "component": "",
     "hiragana": "つねに",
@@ -1305,7 +1251,7 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N3.1.146",
+    "id": "N3.1.140",
     "kanji": "覚ます",
     "component": "",
     "hiragana": "さます",
@@ -1314,7 +1260,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.1.147",
+    "id": "N3.1.141",
     "kanji": "素晴らしい",
     "component": "",
     "hiragana": "すばらしい",
@@ -1323,7 +1269,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N3.1.148",
+    "id": "N3.1.142",
     "kanji": "放す",
     "component": "",
     "hiragana": "はなす",
@@ -1332,7 +1278,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.1.149",
+    "id": "N3.1.143",
     "kanji": "全国",
     "component": "",
     "hiragana": "ぜんこく",
@@ -1341,12 +1287,66 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.1.150",
+    "id": "N3.1.144",
     "kanji": "裏切る",
     "component": "",
     "hiragana": "うらぎる",
     "enMeaning": "Betray",
     "idMeaning": "Mengkhianati",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.145",
+    "kanji": "責める",
+    "component": "",
+    "hiragana": "せめる",
+    "enMeaning": "Blame",
+    "idMeaning": "Menyalahkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.1.146",
+    "kanji": "加わる",
+    "component": "",
+    "hiragana": "くわわる",
+    "enMeaning": "Join / be added",
+    "idMeaning": "Bergabung",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.147",
+    "kanji": "建築",
+    "component": "",
+    "hiragana": "けんちく",
+    "enMeaning": "Construction / architecture",
+    "idMeaning": "Konstruksi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.148",
+    "kanji": "飛び出す",
+    "component": "",
+    "hiragana": "とびだす",
+    "enMeaning": "Jump out / dash out",
+    "idMeaning": "Melompat keluar",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.149",
+    "kanji": "放送",
+    "component": "",
+    "hiragana": "ほうそう",
+    "enMeaning": "Broadcast",
+    "idMeaning": "Siaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.150",
+    "kanji": "勢い",
+    "component": "",
+    "hiragana": "いきおい",
+    "enMeaning": "Momentum / vigor",
+    "idMeaning": "Semangat / momentum",
+    "type": "Kata Benda"
   }
 ]

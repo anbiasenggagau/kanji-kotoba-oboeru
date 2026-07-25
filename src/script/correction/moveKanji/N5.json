@@ -1,6 +1,6 @@
 [
   {
-    "id": "N2.1.101",
+    "id": "N2.1.107",
     "kanji": "再来年",
     "component": "",
     "hiragana": "さらいねん",
@@ -9,7 +9,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.3.125",
+    "id": "N2.3.132",
     "kanji": "良い",
     "component": "",
     "hiragana": "よい",
@@ -18,7 +18,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N5.1.88",
+    "id": "N2.4.163",
     "kanji": "居る",
     "component": "",
     "hiragana": "いる",
@@ -27,7 +27,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N5.1.89",
+    "id": "N2.6.27",
     "kanji": "零",
     "component": "",
     "hiragana": "れい",
@@ -36,7 +36,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N5.1.90",
+    "id": "N3.1.96",
     "kanji": "変える",
     "component": "",
     "hiragana": "かえる",
@@ -45,7 +45,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N5.2.81",
+    "id": "N3.5.21",
     "kanji": "忘れ物",
     "component": "",
     "hiragana": "わすれもの",
@@ -54,7 +54,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N5.2.82",
+    "id": "N3.1.74",
     "kanji": "会議",
     "component": "",
     "hiragana": "かいぎ",
@@ -63,7 +63,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N5.2.83",
+    "id": "N3.5.30",
     "kanji": "最初",
     "component": "",
     "hiragana": "さいしょ",
@@ -72,7 +72,7 @@
     "type": "Kata Benda / Keterangan"
   },
   {
-    "id": "N5.2.84",
+    "id": "N3.5.118",
     "kanji": "最後",
     "component": "",
     "hiragana": "さいご",
@@ -81,7 +81,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N5.2.85",
+    "id": "N3.5.100",
     "kanji": "お祭り",
     "component": "",
     "hiragana": "おまつり",
@@ -90,7 +90,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N5.6.90",
+    "id": "N3.5.108",
     "kanji": "久しぶり",
     "component": "",
     "hiragana": "ひさしぶり",

@@ -1,6 +1,6 @@
 [
   {
-    "id": "N2.1.193",
+    "id": "N3.1.39",
     "kanji": "冷める",
     "component": "",
     "hiragana": "さめる",
@@ -9,7 +9,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N2.1.194",
+    "id": "N3.1.8",
     "kanji": "申請",
     "component": "",
     "hiragana": "しんせい",
@@ -18,7 +18,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.195",
+    "id": "N3.1.29",
     "kanji": "真っ白",
     "component": "",
     "hiragana": "まっしろ",
@@ -27,7 +27,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N2.1.196",
+    "id": "N3.1.90",
     "kanji": "灯油",
     "component": "",
     "hiragana": "とうゆ",
@@ -36,7 +36,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.197",
+    "id": "N3.1.66",
     "kanji": "校庭",
     "component": "",
     "hiragana": "こうてい",
@@ -45,7 +45,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.198",
+    "id": "N3.1.117",
     "kanji": "余る",
     "component": "",
     "hiragana": "あまる",
@@ -54,7 +54,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N2.1.199",
+    "id": "N3.2.15",
     "kanji": "紅葉",
     "component": "",
     "hiragana": "こうよう / もみじ",
@@ -63,7 +63,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.200",
+    "id": "N3.2.141",
     "kanji": "芸能",
     "component": "",
     "hiragana": "げいのう",
@@ -72,7 +72,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.193",
+    "id": "N3.3.67",
     "kanji": "書留",
     "component": "",
     "hiragana": "かきとめ",
@@ -81,7 +81,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.1.192",
+    "id": "N3.3.130",
     "kanji": "清い",
     "component": "",
     "hiragana": "きよい",
@@ -90,7 +90,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N2.2.195",
+    "id": "N3.3.148",
     "kanji": "煙突",
     "component": "",
     "hiragana": "えんとつ",
@@ -99,7 +99,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.196",
+    "id": "N3.4.143",
     "kanji": "鈍い",
     "component": "",
     "hiragana": "にぶい",
@@ -108,7 +108,7 @@
     "type": "Kata Sifat い"
   },
   {
-    "id": "N2.2.197",
+    "id": "N3.5.131",
     "kanji": "耐える",
     "component": "",
     "hiragana": "たえる",
@@ -117,7 +117,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N2.2.198",
+    "id": "N3.5.134",
     "kanji": "文脈",
     "component": "",
     "hiragana": "ぶんみゃく",
@@ -126,7 +126,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.199",
+    "id": "N3.5.141",
     "kanji": "売り切れ",
     "component": "",
     "hiragana": "うりきれ",
@@ -135,7 +135,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.200",
+    "id": "N3.6.128",
     "kanji": "工夫",
     "component": "",
     "hiragana": "くふう",
@@ -144,7 +144,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.189",
+    "id": "N3.7.125",
     "kanji": "交流",
     "component": "",
     "hiragana": "こうりゅう",
@@ -153,7 +153,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.3.187",
+    "id": "N3.8.56",
     "kanji": "蒸す",
     "component": "",
     "hiragana": "むす",
@@ -162,7 +162,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N2.2.190",
+    "id": "N3.1.93",
     "kanji": "根拠",
     "component": "",
     "hiragana": "こんきょ",
@@ -171,7 +171,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.3.189",
+    "id": "N3.1.68",
     "kanji": "不在",
     "component": "",
     "hiragana": "ふざい",
@@ -180,7 +180,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.2.191",
+    "id": "N3.2.143",
     "kanji": "保温",
     "component": "",
     "hiragana": "ほおん",
@@ -189,7 +189,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.3.191",
+    "id": "N3.4.136",
     "kanji": "促す",
     "component": "",
     "hiragana": "うながす",
@@ -198,7 +198,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N2.2.192",
+    "id": "N3.5.140",
     "kanji": "企画",
     "component": "",
     "hiragana": "きかく",
@@ -207,7 +207,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.3.193",
+    "id": "N3.8.148",
     "kanji": "蜜",
     "component": "",
     "hiragana": "みつ",

@@ -1180,15 +1180,6 @@
   },
   {
     "id": "N3.5.132",
-    "kanji": "売り切れ",
-    "component": "",
-    "hiragana": "うりきれ",
-    "enMeaning": "Sold out",
-    "idMeaning": "Habis terjual",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.5.133",
     "kanji": "発生",
     "component": "",
     "hiragana": "はっせい",
@@ -1197,7 +1188,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.134",
+    "id": "N3.5.133",
     "kanji": "表す",
     "component": "",
     "hiragana": "あらわす",
@@ -1206,7 +1197,7 @@
     "type": "KK Transitif"
   },
   {
-    "id": "N3.5.135",
+    "id": "N3.5.134",
     "kanji": "距離",
     "component": "",
     "hiragana": "きょり",
@@ -1215,7 +1206,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.136",
+    "id": "N3.5.135",
     "kanji": "現場",
     "component": "",
     "hiragana": "げんば",
@@ -1224,7 +1215,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.137",
+    "id": "N3.5.136",
     "kanji": "気の毒",
     "component": "",
     "hiragana": "きのどく",
@@ -1233,7 +1224,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N3.5.138",
+    "id": "N3.5.137",
     "kanji": "知り合う",
     "component": "",
     "hiragana": "しりあう",
@@ -1242,7 +1233,7 @@
     "type": "KK Intransitif"
   },
   {
-    "id": "N3.5.139",
+    "id": "N3.5.138",
     "kanji": "無駄",
     "component": "",
     "hiragana": "むだ",
@@ -1251,7 +1242,7 @@
     "type": "Kata Sifat な"
   },
   {
-    "id": "N3.5.140",
+    "id": "N3.5.139",
     "kanji": "親戚",
     "component": "",
     "hiragana": "しんせき",
@@ -1260,12 +1251,21 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.141",
+    "id": "N3.5.140",
     "kanji": "発行",
     "component": "",
     "hiragana": "はっこう",
     "enMeaning": "Publication / issuance",
     "idMeaning": "Penerbitan / pengeluaran (dokumen)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.141",
+    "kanji": "住宅",
+    "component": "",
+    "hiragana": "じゅうたく",
+    "enMeaning": "Residence",
+    "idMeaning": "Rumah tinggal",
     "type": "Kata Benda"
   },
   {
@@ -1279,6 +1279,15 @@
   },
   {
     "id": "N3.5.143",
+    "kanji": "自身",
+    "component": "",
+    "hiragana": "じしん",
+    "enMeaning": "Oneself",
+    "idMeaning": "Diri sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.144",
     "kanji": "差別",
     "component": "",
     "hiragana": "さべつ",
@@ -1287,7 +1296,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.144",
+    "id": "N3.5.145",
+    "kanji": "無事",
+    "component": "",
+    "hiragana": "ぶじ",
+    "enMeaning": "Safe / unharmed",
+    "idMeaning": "Selamat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.146",
     "kanji": "観察",
     "component": "",
     "hiragana": "かんさつ",
@@ -1296,7 +1314,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.145",
+    "id": "N3.5.147",
+    "kanji": "苦しむ",
+    "component": "",
+    "hiragana": "くるしむ",
+    "enMeaning": "Suffer",
+    "idMeaning": "Menderita",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.5.148",
     "kanji": "環境",
     "component": "",
     "hiragana": "かんきょう",
@@ -1305,7 +1332,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.5.146",
+    "id": "N3.5.149",
     "kanji": "全く",
     "component": "",
     "hiragana": "まったく",
@@ -1314,39 +1341,12 @@
     "type": "Frasa / Klausa"
   },
   {
-    "id": "N3.5.147",
-    "kanji": "向かい",
-    "component": "",
-    "hiragana": "むかい",
-    "enMeaning": "Opposite side",
-    "idMeaning": "Seberang",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.5.148",
-    "kanji": "医療",
-    "component": "",
-    "hiragana": "いりょう",
-    "enMeaning": "Medical care",
-    "idMeaning": "Pelayanan medis",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.5.149",
-    "kanji": "震える",
-    "component": "",
-    "hiragana": "ふるえる",
-    "enMeaning": "Tremble",
-    "idMeaning": "Gemetar",
-    "type": "KK Intransitif"
-  },
-  {
     "id": "N3.5.150",
-    "kanji": "乗客",
+    "kanji": "全て",
     "component": "",
-    "hiragana": "じょうきゃく",
-    "enMeaning": "Passenger",
-    "idMeaning": "Penumpang",
+    "hiragana": "すべて",
+    "enMeaning": "Everything",
+    "idMeaning": "Semuanya",
     "type": "Kata Benda"
   }
 ]

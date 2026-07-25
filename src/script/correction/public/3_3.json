@@ -1279,6 +1279,15 @@
   },
   {
     "id": "N3.3.143",
+    "kanji": "震える",
+    "component": "",
+    "hiragana": "ふるえる",
+    "enMeaning": "Tremble",
+    "idMeaning": "Gemetar",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.3.144",
     "kanji": "乗客",
     "component": "",
     "hiragana": "じょうきゃく",
@@ -1287,7 +1296,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.144",
+    "id": "N3.3.145",
+    "kanji": "資源",
+    "component": "",
+    "hiragana": "しげん",
+    "enMeaning": "Resources",
+    "idMeaning": "Sumber daya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.146",
     "kanji": "神経",
     "component": "",
     "hiragana": "しんけい",
@@ -1296,7 +1314,16 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.145",
+    "id": "N3.3.147",
+    "kanji": "悲しむ",
+    "component": "",
+    "hiragana": "かなしむ",
+    "enMeaning": "Grieve / mourn",
+    "idMeaning": "Bersedih",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.3.148",
     "kanji": "現状",
     "component": "",
     "hiragana": "げんじょう",
@@ -1305,7 +1332,7 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.146",
+    "id": "N3.3.149",
     "kanji": "帰宅",
     "component": "",
     "hiragana": "きたく",
@@ -1314,39 +1341,12 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N3.3.147",
-    "kanji": "放送",
-    "component": "",
-    "hiragana": "ほうそう",
-    "enMeaning": "Broadcast",
-    "idMeaning": "Siaran",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.3.148",
-    "kanji": "勢い",
-    "component": "",
-    "hiragana": "いきおい",
-    "enMeaning": "Momentum / vigor",
-    "idMeaning": "Semangat / momentum",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.3.149",
-    "kanji": "再び",
-    "component": "",
-    "hiragana": "ふたたび",
-    "enMeaning": "Again",
-    "idMeaning": "Lagi",
-    "type": "Frasa / Klausa"
-  },
-  {
     "id": "N3.3.150",
-    "kanji": "設計",
+    "kanji": "等しい",
     "component": "",
-    "hiragana": "せっけい",
-    "enMeaning": "Design",
-    "idMeaning": "Desain / perancangan",
-    "type": "Kata Benda"
+    "hiragana": "ひとしい",
+    "enMeaning": "Equal",
+    "idMeaning": "Sama",
+    "type": "Kata Sifat い"
   }
 ]
