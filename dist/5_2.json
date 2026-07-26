@@ -226,7 +226,7 @@
   },
   {
     "id": "N5.2.26",
-    "kanji": "町 / 街",
+    "kanji": "町/街",
     "component": "",
     "hiragana": "まち",
     "enMeaning": "Town",
@@ -415,7 +415,7 @@
   },
   {
     "id": "N5.2.47",
-    "kanji": "早い",
+    "kanji": "早い/速い",
     "component": "",
     "hiragana": "はやい",
     "enMeaning": "Early / quickly",
@@ -604,7 +604,7 @@
   },
   {
     "id": "N5.2.68",
-    "kanji": "温かい",
+    "kanji": "温かい/暖かい",
     "component": "",
     "hiragana": "あたたかい",
     "enMeaning": "Warm",
@@ -718,5 +718,95 @@
     "enMeaning": "Room",
     "idMeaning": "Kamar / ruangan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.81",
+    "kanji": "忘れ物",
+    "component": "",
+    "hiragana": "わすれもの",
+    "enMeaning": "Something forgotten",
+    "idMeaning": "Barang tertinggal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.82",
+    "kanji": "会議",
+    "component": "",
+    "hiragana": "かいぎ",
+    "enMeaning": "Meeting",
+    "idMeaning": "Rapat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.83",
+    "kanji": "最初",
+    "component": "",
+    "hiragana": "さいしょ",
+    "enMeaning": "Beginning / first",
+    "idMeaning": "Pertama / awal",
+    "type": "Kata Benda / Keterangan"
+  },
+  {
+    "id": "N5.2.84",
+    "kanji": "最後",
+    "component": "",
+    "hiragana": "さいご",
+    "enMeaning": "Last",
+    "idMeaning": "Terakhir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.85",
+    "kanji": "お祭り",
+    "component": "",
+    "hiragana": "おまつり",
+    "enMeaning": "Festival",
+    "idMeaning": "Festival",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.86",
+    "kanji": "仕事",
+    "component": "",
+    "hiragana": "しごと",
+    "enMeaning": "Work / job",
+    "idMeaning": "Pekerjaan / kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.87",
+    "kanji": "料理",
+    "component": "",
+    "hiragana": "りょうり",
+    "enMeaning": "Cooking / dish / cuisine",
+    "idMeaning": "Masakan / memasak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.88",
+    "kanji": "外国人",
+    "component": "",
+    "hiragana": "がいこくじん",
+    "enMeaning": "Foreigner",
+    "idMeaning": "Orang asing",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.89",
+    "kanji": "歌",
+    "component": "",
+    "hiragana": "うた",
+    "enMeaning": "Song",
+    "idMeaning": "Lagu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.90",
+    "kanji": "本当",
+    "component": "",
+    "hiragana": "ほんとう",
+    "enMeaning": "Truth / real / true",
+    "idMeaning": "Benar / sungguh / kenyataan",
+    "type": "Kata Sifat な"
   }
 ]

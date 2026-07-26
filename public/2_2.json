@@ -1771,5 +1771,32 @@
     "enMeaning": "Honey / nectar",
     "idMeaning": "Madu / nektar",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.198",
+    "kanji": "抽象",
+    "component": "",
+    "hiragana": "ちゅうしょう",
+    "enMeaning": "Abstract",
+    "idMeaning": "Abstrak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.199",
+    "kanji": "儀式",
+    "component": "",
+    "hiragana": "ぎしき",
+    "enMeaning": "Ceremony / ritual",
+    "idMeaning": "Upacara / ritual",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.200",
+    "kanji": "大通り",
+    "component": "",
+    "hiragana": "おおどおり",
+    "enMeaning": "Main street / avenue",
+    "idMeaning": "Jalan utama / boulevard",
+    "type": "Kata Benda"
   }
 ]

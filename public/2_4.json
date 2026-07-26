@@ -1690,5 +1690,113 @@
     "enMeaning": "Valley",
     "idMeaning": "Lembah",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.189",
+    "kanji": "百科事典",
+    "component": "",
+    "hiragana": "ひゃっかじてん",
+    "enMeaning": "Encyclopedia",
+    "idMeaning": "Ensiklopedia",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.190",
+    "kanji": "東洋",
+    "component": "",
+    "hiragana": "とうよう",
+    "enMeaning": "The Orient / Eastern world",
+    "idMeaning": "Timur / dunia Timur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.191",
+    "kanji": "家屋",
+    "component": "",
+    "hiragana": "かおく",
+    "enMeaning": "House / building",
+    "idMeaning": "Rumah / bangunan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.192",
+    "kanji": "方言",
+    "component": "",
+    "hiragana": "ほうげん",
+    "enMeaning": "Dialect",
+    "idMeaning": "Dialek / bahasa daerah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.193",
+    "kanji": "撮影",
+    "component": "",
+    "hiragana": "さつえい",
+    "enMeaning": "Filming / photographing",
+    "idMeaning": "Pengambilan gambar / syuting",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.194",
+    "kanji": "先祖",
+    "component": "",
+    "hiragana": "せんぞ",
+    "enMeaning": "Ancestor",
+    "idMeaning": "Nenek moyang / leluhur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.195",
+    "kanji": "集合",
+    "component": "",
+    "hiragana": "しゅうごう",
+    "enMeaning": "Gathering / assembly",
+    "idMeaning": "Kumpulan / berkumpul",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.196",
+    "kanji": "宴会",
+    "component": "",
+    "hiragana": "えんかい",
+    "enMeaning": "Banquet / party",
+    "idMeaning": "Jamuan / pesta",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.197",
+    "kanji": "古典",
+    "component": "",
+    "hiragana": "こてん",
+    "enMeaning": "Classic / classical literature",
+    "idMeaning": "Klasik / sastra klasik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.198",
+    "kanji": "淡水",
+    "component": "",
+    "hiragana": "たんすい",
+    "enMeaning": "Fresh water",
+    "idMeaning": "Air tawar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.199",
+    "kanji": "自然科学",
+    "component": "",
+    "hiragana": "しぜんかがく",
+    "enMeaning": "Natural science",
+    "idMeaning": "Ilmu alam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.200",
+    "kanji": "摩擦",
+    "component": "",
+    "hiragana": "まさつ",
+    "enMeaning": "Friction",
+    "idMeaning": "Gesekan",
+    "type": "Kata Benda"
   }
 ]

@@ -1720,7 +1720,7 @@
   },
   {
     "id": "N2.5.192",
-    "kanji": "川 / 河",
+    "kanji": "川/河",
     "component": "",
     "hiragana": "かわ",
     "enMeaning": "River",
@@ -1770,6 +1770,33 @@
     "hiragana": "かくりつ",
     "enMeaning": "Probability",
     "idMeaning": "Probabilitas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.198",
+    "kanji": "餅",
+    "component": "",
+    "hiragana": "もち",
+    "enMeaning": "Rice cake",
+    "idMeaning": "Kue beras / mochi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.199",
+    "kanji": "垂直",
+    "component": "",
+    "hiragana": "すいちょく",
+    "enMeaning": "Vertical / perpendicular",
+    "idMeaning": "Vertikal / tegak lurus",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.5.200",
+    "kanji": "水平",
+    "component": "",
+    "hiragana": "すいへい",
+    "enMeaning": "Horizontal / level",
+    "idMeaning": "Horisontal / mendatar",
     "type": "Kata Benda"
   }
 ]

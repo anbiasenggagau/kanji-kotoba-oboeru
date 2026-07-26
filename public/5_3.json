@@ -763,5 +763,50 @@
     "enMeaning": "Mother",
     "idMeaning": "Ibu",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.86",
+    "kanji": "締める",
+    "component": "",
+    "hiragana": "しめる",
+    "enMeaning": "Tighten / close",
+    "idMeaning": "Mengencangkan / menutup",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N5.3.87",
+    "kanji": "掛かる",
+    "component": "",
+    "hiragana": "かかる",
+    "enMeaning": "To hang / take time / cost",
+    "idMeaning": "Tergantung / memakan waktu / menghabiskan biaya",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N5.3.88",
+    "kanji": "女の子",
+    "component": "",
+    "hiragana": "おんなのこ",
+    "enMeaning": "Girl",
+    "idMeaning": "Anak perempuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.89",
+    "kanji": "男の子",
+    "component": "",
+    "hiragana": "おとこのこ",
+    "enMeaning": "Boy",
+    "idMeaning": "Anak laki-laki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.90",
+    "kanji": "少ない",
+    "component": "",
+    "hiragana": "すくない",
+    "enMeaning": "Few / little",
+    "idMeaning": "Sedikit",
+    "type": "Kata Sifat い"
   }
 ]

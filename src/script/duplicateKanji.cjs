@@ -27,6 +27,14 @@ fs.readdirSync(publicDir)
                     result[tmpKey] = [[val.id, key]]
                 }
             }
+            else if (key.startsWith("お")) {
+                const tmpKey = key.substring(1, key.length)
+                if (result[tmpKey] != undefined) {
+                    result[tmpKey].push([val.id, key])
+                } else {
+                    result[tmpKey] = [[val.id, key]]
+                }
+            }
             else if (result[key] == undefined) {
                 result[key] = [[val.id, key]]
             } else {

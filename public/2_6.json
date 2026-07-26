@@ -1735,5 +1735,68 @@
     "enMeaning": "Microscope",
     "idMeaning": "Mikroskop",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.194",
+    "kanji": "売買",
+    "component": "",
+    "hiragana": "ばいばい",
+    "enMeaning": "Buying and selling / trade",
+    "idMeaning": "Jual beli / perdagangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.195",
+    "kanji": "水分",
+    "component": "",
+    "hiragana": "すいぶん",
+    "enMeaning": "Moisture / water content",
+    "idMeaning": "Kadar air / cairan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.196",
+    "kanji": "車掌",
+    "component": "",
+    "hiragana": "しゃしょう",
+    "enMeaning": "Train conductor",
+    "idMeaning": "Kondektur kereta",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.197",
+    "kanji": "代名詞",
+    "component": "",
+    "hiragana": "だいめいし",
+    "enMeaning": "Pronoun",
+    "idMeaning": "Kata ganti",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.198",
+    "kanji": "観測",
+    "component": "",
+    "hiragana": "かんそく",
+    "enMeaning": "Observation / measurement",
+    "idMeaning": "Pengamatan / observasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.199",
+    "kanji": "随筆",
+    "component": "",
+    "hiragana": "ずいひつ",
+    "enMeaning": "Essay / informal writing",
+    "idMeaning": "Esai / tulisan bebas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.200",
+    "kanji": "透明",
+    "component": "",
+    "hiragana": "とうめい",
+    "enMeaning": "Transparent / clear",
+    "idMeaning": "Transparan / bening",
+    "type": "Kata Sifat な"
   }
 ]

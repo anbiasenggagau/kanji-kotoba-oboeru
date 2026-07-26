@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "N2.7.1",
+    "kanji": "吐き気",
+    "component": "",
+    "hiragana": "はきけ",
+    "enMeaning": "Nausea",
+    "idMeaning": "Mual",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.2",
+    "kanji": "漁業",
+    "component": "",
+    "hiragana": "ぎょぎょう",
+    "enMeaning": "Fishing industry",
+    "idMeaning": "Industri perikanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.3",
+    "kanji": "鉱物",
+    "component": "",
+    "hiragana": "こうぶつ",
+    "enMeaning": "Mineral",
+    "idMeaning": "Mineral",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.4",
+    "kanji": "会館",
+    "component": "",
+    "hiragana": "かいかん",
+    "enMeaning": "Hall / meeting hall",
+    "idMeaning": "Gedung pertemuan / aula",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.5",
+    "kanji": "重力",
+    "component": "",
+    "hiragana": "じゅうりょく",
+    "enMeaning": "Gravity",
+    "idMeaning": "Gaya gravitasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.6",
+    "kanji": "社説",
+    "component": "",
+    "hiragana": "しゃせつ",
+    "enMeaning": "Editorial",
+    "idMeaning": "Editorial / tajuk rencana",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.7",
+    "kanji": "流域",
+    "component": "",
+    "hiragana": "りゅういき",
+    "enMeaning": "River basin / drainage area",
+    "idMeaning": "Daerah aliran sungai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.8",
+    "kanji": "農薬",
+    "component": "",
+    "hiragana": "のうやく",
+    "enMeaning": "Agricultural chemicals / pesticide",
+    "idMeaning": "Pestisida / obat pertanian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.9",
+    "kanji": "官庁",
+    "component": "",
+    "hiragana": "かんちょう",
+    "enMeaning": "Government office / agency",
+    "idMeaning": "Kantor pemerintah / instansi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.10",
+    "kanji": "気圧",
+    "component": "",
+    "hiragana": "きあつ",
+    "enMeaning": "Atmospheric pressure",
+    "idMeaning": "Tekanan udara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.11",
+    "kanji": "真空",
+    "component": "",
+    "hiragana": "しんくう",
+    "enMeaning": "Vacuum",
+    "idMeaning": "Vakum",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.12",
+    "kanji": "発電",
+    "component": "",
+    "hiragana": "はつでん",
+    "enMeaning": "Power generation",
+    "idMeaning": "Pembangkit listrik / menghasilkan listrik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.13",
+    "kanji": "測量",
+    "component": "",
+    "hiragana": "そくりょう",
+    "enMeaning": "Surveying / measurement",
+    "idMeaning": "Pengukuran / survei tanah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.14",
+    "kanji": "社会科学",
+    "component": "",
+    "hiragana": "しゃかいかがく",
+    "enMeaning": "Social science",
+    "idMeaning": "Ilmu sosial",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.15",
+    "kanji": "自治",
+    "component": "",
+    "hiragana": "じち",
+    "enMeaning": "Autonomy / self-government",
+    "idMeaning": "Otonomi / pemerintahan sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.16",
+    "kanji": "索引",
+    "component": "",
+    "hiragana": "さくいん",
+    "enMeaning": "Index",
+    "idMeaning": "Indeks",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.17",
+    "kanji": "図鑑",
+    "component": "",
+    "hiragana": "ずかん",
+    "enMeaning": "Illustrated encyclopedia / picture book",
+    "idMeaning": "Buku bergambar / ensiklopedia bergambar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.18",
+    "kanji": "保健",
+    "component": "",
+    "hiragana": "ほけん",
+    "enMeaning": "Health / hygiene",
+    "idMeaning": "Kesehatan / kebersihan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.19",
+    "kanji": "機関車",
+    "component": "",
+    "hiragana": "きかんしゃ",
+    "enMeaning": "Locomotive",
+    "idMeaning": "Lokomotif",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.20",
+    "kanji": "炭鉱",
+    "component": "",
+    "hiragana": "たんこう",
+    "enMeaning": "Coal mine",
+    "idMeaning": "Tambang batu bara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.21",
+    "kanji": "学会",
+    "component": "",
+    "hiragana": "がっかい",
+    "enMeaning": "Academic society / conference",
+    "idMeaning": "Perkumpulan akademik / konferensi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.22",
+    "kanji": "献立",
+    "component": "",
+    "hiragana": "こんだて",
+    "enMeaning": "Menu / meal plan",
+    "idMeaning": "Menu / susunan hidangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.23",
+    "kanji": "紙幣",
+    "component": "",
+    "hiragana": "しへい",
+    "enMeaning": "Paper money / bill",
+    "idMeaning": "Uang kertas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.24",
+    "kanji": "合同",
+    "component": "",
+    "hiragana": "ごうどう",
+    "enMeaning": "Joint / combined / merger",
+    "idMeaning": "Gabungan / penggabungan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.25",
+    "kanji": "踏切",
+    "component": "",
+    "hiragana": "ふみきり",
+    "enMeaning": "Railroad crossing",
+    "idMeaning": "Perlintasan kereta api",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.26",
+    "kanji": "曖昧",
+    "component": "",
+    "hiragana": "あいまい",
+    "enMeaning": "Ambiguous / vague",
+    "idMeaning": "Samar / ambigu",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.27",
+    "kanji": "梯子",
+    "component": "",
+    "hiragana": "はしご",
+    "enMeaning": "Ladder",
+    "idMeaning": "Tangga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.28",
+    "kanji": "肘",
+    "component": "",
+    "hiragana": "ひじ",
+    "enMeaning": "Elbow",
+    "idMeaning": "Siku",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.29",
+    "kanji": "釘",
+    "component": "",
+    "hiragana": "くぎ",
+    "enMeaning": "Nail",
+    "idMeaning": "Paku",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.30",
+    "kanji": "気体",
+    "component": "",
+    "hiragana": "きたい",
+    "enMeaning": "Gas",
+    "idMeaning": "Gas / zat gas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.31",
+    "kanji": "飢饉",
+    "component": "",
+    "hiragana": "ききん",
+    "enMeaning": "Famine",
+    "idMeaning": "Kelaparan / bencana kelaparan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.32",
+    "kanji": "煉瓦",
+    "component": "",
+    "hiragana": "れんが",
+    "enMeaning": "Brick",
+    "idMeaning": "Batu bata",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.33",
+    "kanji": "直角",
+    "component": "",
+    "hiragana": "ちょっかく",
+    "enMeaning": "Right angle",
+    "idMeaning": "Sudut siku-siku",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.34",
+    "kanji": "錆",
+    "component": "",
+    "hiragana": "さび",
+    "enMeaning": "Rust",
+    "idMeaning": "Karat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.35",
+    "kanji": "待合室",
+    "component": "",
+    "hiragana": "まちあいしつ",
+    "enMeaning": "Waiting room",
+    "idMeaning": "Ruang tunggu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.36",
+    "kanji": "失恋",
+    "component": "",
+    "hiragana": "しつれん",
+    "enMeaning": "Heartbreak / broken heart",
+    "idMeaning": "Patah hati",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.37",
+    "kanji": "櫛",
+    "component": "",
+    "hiragana": "くし",
+    "enMeaning": "Comb",
+    "idMeaning": "Sisir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.38",
+    "kanji": "扇風機",
+    "component": "",
+    "hiragana": "せんぷうき",
+    "enMeaning": "Electric fan",
+    "idMeaning": "Kipas angin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.39",
+    "kanji": "回り道",
+    "component": "",
+    "hiragana": "まわりみち",
+    "enMeaning": "Detour / roundabout way",
+    "idMeaning": "Jalan memutar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.40",
+    "kanji": "裁縫",
+    "component": "",
+    "hiragana": "さいほう",
+    "enMeaning": "Sewing",
+    "idMeaning": "Menjahit / jahit-menjahit",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.41",
+    "kanji": "正方形",
+    "component": "",
+    "hiragana": "せいほうけい",
+    "enMeaning": "Square",
+    "idMeaning": "Persegi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.42",
+    "kanji": "体積",
+    "component": "",
+    "hiragana": "たいせき",
+    "enMeaning": "Volume",
+    "idMeaning": "Volume / isi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.43",
+    "kanji": "箒",
+    "component": "",
+    "hiragana": "ほうき",
+    "enMeaning": "Broom",
+    "idMeaning": "Sapu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.44",
+    "kanji": "括弧",
+    "component": "",
+    "hiragana": "かっこ",
+    "enMeaning": "Parentheses / brackets",
+    "idMeaning": "Tanda kurung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.45",
+    "kanji": "人文科学",
+    "component": "",
+    "hiragana": "じんぶんかがく",
+    "enMeaning": "Humanities",
+    "idMeaning": "Ilmu humaniora",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.46",
+    "kanji": "経度",
+    "component": "",
+    "hiragana": "けいど",
+    "enMeaning": "Longitude",
+    "idMeaning": "Garis bujur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.47",
+    "kanji": "長方形",
+    "component": "",
+    "hiragana": "ちょうほうけい",
+    "enMeaning": "Rectangle",
+    "idMeaning": "Persegi panjang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.48",
+    "kanji": "便所",
+    "component": "",
+    "hiragana": "べんじょ",
+    "enMeaning": "Toilet / lavatory",
+    "idMeaning": "Kamar mandi / toilet",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.49",
+    "kanji": "噴水",
+    "component": "",
+    "hiragana": "ふんすい",
+    "enMeaning": "Fountain",
+    "idMeaning": "Air mancur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.50",
+    "kanji": "風呂敷",
+    "component": "",
+    "hiragana": "ふろしき",
+    "enMeaning": "Wrapping cloth",
+    "idMeaning": "Kain pembungkus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.51",
+    "kanji": "障子",
+    "component": "",
+    "hiragana": "しょうじ",
+    "enMeaning": "Shoji / sliding paper door",
+    "idMeaning": "Pintu geser kertas Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.52",
+    "kanji": "方程式",
+    "component": "",
+    "hiragana": "ほうていしき",
+    "enMeaning": "Equation",
+    "idMeaning": "Persamaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.53",
+    "kanji": "長所",
+    "component": "",
+    "hiragana": "ちょうしょ",
+    "enMeaning": "Strong point / merit",
+    "idMeaning": "Kelebihan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.54",
+    "kanji": "役人",
+    "component": "",
+    "hiragana": "やくにん",
+    "enMeaning": "Government official",
+    "idMeaning": "Pejabat / pegawai pemerintah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.55",
+    "kanji": "海洋",
+    "component": "",
+    "hiragana": "かいよう",
+    "enMeaning": "Ocean",
+    "idMeaning": "Lautan / samudra",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.56",
+    "kanji": "関西",
+    "component": "",
+    "hiragana": "かんさい",
+    "enMeaning": "Kansai",
+    "idMeaning": "Wilayah Kansai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.57",
+    "kanji": "正門",
+    "component": "",
+    "hiragana": "せいもん",
+    "enMeaning": "Main gate",
+    "idMeaning": "Gerbang utama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.58",
+    "kanji": "南米",
+    "component": "",
+    "hiragana": "なんべい",
+    "enMeaning": "South America",
+    "idMeaning": "Amerika Selatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.59",
+    "kanji": "連合",
+    "component": "",
+    "hiragana": "れんごう",
+    "enMeaning": "Union / federation",
+    "idMeaning": "Gabungan / serikat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.60",
+    "kanji": "大小",
+    "component": "",
+    "hiragana": "だいしょう",
+    "enMeaning": "Size / big and small",
+    "idMeaning": "Besar-kecil / ukuran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.61",
+    "kanji": "御免",
+    "component": "",
+    "hiragana": "ごめん",
+    "enMeaning": "Pardon / excuse / permission",
+    "idMeaning": "Maaf / izin / pengampunan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.62",
+    "kanji": "麓",
+    "component": "",
+    "hiragana": "ふもと",
+    "enMeaning": "Foot / base (of a mountain)",
+    "idMeaning": "Kaki / dasar gunung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.63",
+    "kanji": "生け花",
+    "component": "",
+    "hiragana": "いけばな",
+    "enMeaning": "Flower arrangement",
+    "idMeaning": "Rangkai bunga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.64",
+    "kanji": "隙間",
+    "component": "",
+    "hiragana": "すきま",
+    "enMeaning": "Gap / crevice",
+    "idMeaning": "Celah / sela",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.65",
+    "kanji": "稽古",
+    "component": "",
+    "hiragana": "けいこ",
+    "enMeaning": "Practice / training",
+    "idMeaning": "Latihan / praktik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.66",
+    "kanji": "合流",
+    "component": "",
+    "hiragana": "ごうりゅう",
+    "enMeaning": "Confluence / merging",
+    "idMeaning": "Bergabung / pertemuan aliran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.67",
+    "kanji": "間もなく",
+    "component": "",
+    "hiragana": "まもなく",
+    "enMeaning": "Soon / shortly",
+    "idMeaning": "Sebentar lagi / tidak lama lagi",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.7.68",
+    "kanji": "殴る",
+    "component": "",
+    "hiragana": "なぐる",
+    "enMeaning": "Hit / punch",
+    "idMeaning": "Memukul / meninju",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.69",
+    "kanji": "診る",
+    "component": "",
+    "hiragana": "みる",
+    "enMeaning": "Examine / diagnose",
+    "idMeaning": "Memeriksa (dokter)",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.70",
+    "kanji": "稀",
+    "component": "",
+    "hiragana": "まれ",
+    "enMeaning": "Rare / uncommon",
+    "idMeaning": "Jarang / langka",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.71",
+    "kanji": "迫る",
+    "component": "",
+    "hiragana": "せまる",
+    "enMeaning": "Approach / press / threaten",
+    "idMeaning": "Mendekat / mendesak / mengancam",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.72",
+    "kanji": "交代",
+    "component": "",
+    "hiragana": "こうたい",
+    "enMeaning": "Alternation / changeover",
+    "idMeaning": "Pergantian / giliran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.73",
+    "kanji": "広げる",
+    "component": "",
+    "hiragana": "ひろげる",
+    "enMeaning": "Spread / widen",
+    "idMeaning": "Melebarkan / memperluas",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.74",
+    "kanji": "取り消す",
+    "component": "",
+    "hiragana": "とりけす",
+    "enMeaning": "Cancel / revoke",
+    "idMeaning": "Membatalkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.75",
+    "kanji": "伝わる",
+    "component": "",
+    "hiragana": "つたわる",
+    "enMeaning": "Be conveyed / spread / be handed down",
+    "idMeaning": "Tersampaikan / tersebar / diwariskan",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.76",
+    "kanji": "見送る",
+    "component": "",
+    "hiragana": "みおくる",
+    "enMeaning": "See off / postpone",
+    "idMeaning": "Melepas / mengantar / menunda",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.77",
+    "kanji": "分かれる",
+    "component": "",
+    "hiragana": "わかれる",
+    "enMeaning": "Split / separate",
+    "idMeaning": "Bercabang / terpisah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.78",
+    "kanji": "接する",
+    "component": "",
+    "hiragana": "せっする",
+    "enMeaning": "Touch / come into contact with",
+    "idMeaning": "Bersentuhan / berhubungan dengan",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.79",
+    "kanji": "属する",
+    "component": "",
+    "hiragana": "ぞくする",
+    "enMeaning": "Belong to / be affiliated with",
+    "idMeaning": "Termasuk / tergabung",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.80",
+    "kanji": "建つ",
+    "component": "",
+    "hiragana": "たつ",
+    "enMeaning": "Stand / be built",
+    "idMeaning": "Berdiri / didirikan",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.81",
+    "kanji": "兼ねる",
+    "component": "",
+    "hiragana": "かねる",
+    "enMeaning": "Serve both purposes / be hard to do",
+    "idMeaning": "Merangkap / sulit untuk",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.82",
+    "kanji": "発揮",
+    "component": "",
+    "hiragana": "はっき",
+    "enMeaning": "Demonstration / display",
+    "idMeaning": "Pengungkapan / unjuk kemampuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.83",
+    "kanji": "法則",
+    "component": "",
+    "hiragana": "ほうそく",
+    "enMeaning": "Law / rule",
+    "idMeaning": "Hukum / aturan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.84",
+    "kanji": "日差し",
+    "component": "",
+    "hiragana": "ひざし",
+    "enMeaning": "Sunlight / sunshine",
+    "idMeaning": "Sinar matahari",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.85",
+    "kanji": "本来",
+    "component": "",
+    "hiragana": "ほんらい",
+    "enMeaning": "Originally / essentially",
+    "idMeaning": "Pada dasarnya / semula",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.7.86",
+    "kanji": "別荘",
+    "component": "",
+    "hiragana": "べっそう",
+    "enMeaning": "Villa / holiday home",
+    "idMeaning": "Villa / rumah peristirahatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.87",
+    "kanji": "原稿",
+    "component": "",
+    "hiragana": "げんこう",
+    "enMeaning": "Manuscript / draft",
+    "idMeaning": "Naskah / draf",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.88",
+    "kanji": "女房",
+    "component": "",
+    "hiragana": "にょうぼう",
+    "enMeaning": "Wife",
+    "idMeaning": "Istri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.89",
+    "kanji": "実力",
+    "component": "",
+    "hiragana": "じつりょく",
+    "enMeaning": "Real ability / true strength",
+    "idMeaning": "Kemampuan nyata",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.90",
+    "kanji": "一流",
+    "component": "",
+    "hiragana": "いちりゅう",
+    "enMeaning": "First-rate / top class",
+    "idMeaning": "Kelas satu / unggulan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.91",
+    "kanji": "絞る",
+    "component": "",
+    "hiragana": "しぼる",
+    "enMeaning": "Squeeze / wring / narrow down",
+    "idMeaning": "Memeras / menyempitkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.92",
+    "kanji": "縛る",
+    "component": "",
+    "hiragana": "しばる",
+    "enMeaning": "Tie / bind",
+    "idMeaning": "Mengikat / membelenggu",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.93",
+    "kanji": "動作",
+    "component": "",
+    "hiragana": "どうさ",
+    "enMeaning": "Action / movement",
+    "idMeaning": "Gerakan / tindakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.94",
+    "kanji": "集会",
+    "component": "",
+    "hiragana": "しゅうかい",
+    "enMeaning": "Meeting / assembly",
+    "idMeaning": "Pertemuan / rapat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.95",
+    "kanji": "蚊",
+    "component": "",
+    "hiragana": "か",
+    "enMeaning": "Mosquito",
+    "idMeaning": "Nyamuk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.96",
+    "kanji": "傑作",
+    "component": "",
+    "hiragana": "けっさく",
+    "enMeaning": "Masterpiece",
+    "idMeaning": "Karya agung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.97",
+    "kanji": "仲良し",
+    "component": "",
+    "hiragana": "なかよし",
+    "enMeaning": "Close friend / good relationship",
+    "idMeaning": "Akrab / sahabat dekat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.98",
+    "kanji": "不運",
+    "component": "",
+    "hiragana": "ふうん",
+    "enMeaning": "Misfortune / bad luck",
+    "idMeaning": "Sial / nasib buruk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.99",
+    "kanji": "普及",
+    "component": "",
+    "hiragana": "ふきゅう",
+    "enMeaning": "Spread / popularization",
+    "idMeaning": "Penyebaran / popularisasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.100",
+    "kanji": "侵入",
+    "component": "",
+    "hiragana": "しんにゅう",
+    "enMeaning": "Intrusion / invasion",
+    "idMeaning": "Penyusupan / masuk secara paksa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.101",
+    "kanji": "全身",
+    "component": "",
+    "hiragana": "ぜんしん",
+    "enMeaning": "Whole body",
+    "idMeaning": "Seluruh tubuh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.102",
+    "kanji": "増大",
+    "component": "",
+    "hiragana": "ぞうだい",
+    "enMeaning": "Increase / expansion",
+    "idMeaning": "Peningkatan / pembesaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.103",
+    "kanji": "低下",
+    "component": "",
+    "hiragana": "ていか",
+    "enMeaning": "Lowering / decline",
+    "idMeaning": "Penurunan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.104",
+    "kanji": "狙い",
+    "component": "",
+    "hiragana": "ねらい",
+    "enMeaning": "Aim / target",
+    "idMeaning": "Sasaran / tujuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.105",
+    "kanji": "公正",
+    "component": "",
+    "hiragana": "こうせい",
+    "enMeaning": "Fair / just",
+    "idMeaning": "Adil / jujur",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.106",
+    "kanji": "高度",
+    "component": "",
+    "hiragana": "こうど",
+    "enMeaning": "High degree / advanced",
+    "idMeaning": "Tingkat tinggi / maju",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.107",
+    "kanji": "手入れ",
+    "component": "",
+    "hiragana": "ていれ",
+    "enMeaning": "Care / maintenance / grooming",
+    "idMeaning": "Perawatan / pemeliharaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.108",
+    "kanji": "地点",
+    "component": "",
+    "hiragana": "ちてん",
+    "enMeaning": "Location / point",
+    "idMeaning": "Titik / lokasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.109",
+    "kanji": "満点",
+    "component": "",
+    "hiragana": "まんてん",
+    "enMeaning": "Perfect score",
+    "idMeaning": "Nilai sempurna",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.110",
+    "kanji": "一定",
+    "component": "",
+    "hiragana": "いってい",
+    "enMeaning": "Fixed / constant",
+    "idMeaning": "Tetap / konstan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.111",
+    "kanji": "特定",
+    "component": "",
+    "hiragana": "とくてい",
+    "enMeaning": "Specific / particular",
+    "idMeaning": "Tertentu / spesifik",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.112",
+    "kanji": "詰まる",
+    "component": "",
+    "hiragana": "つまる",
+    "enMeaning": "Be blocked / be packed / be choked",
+    "idMeaning": "Mampat / tersumbat / penuh",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.113",
+    "kanji": "高める",
+    "component": "",
+    "hiragana": "たかめる",
+    "enMeaning": "Raise / enhance",
+    "idMeaning": "Meningkatkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.114",
+    "kanji": "日の出",
+    "component": "",
+    "hiragana": "ひので",
+    "enMeaning": "Sunrise",
+    "idMeaning": "Matahari terbit",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.115",
+    "kanji": "手ごろ",
+    "component": "",
+    "hiragana": "てごろ",
+    "enMeaning": "Moderate / reasonable / suitable",
+    "idMeaning": "Terjangkau / cocok",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.116",
+    "kanji": "統計",
+    "component": "",
+    "hiragana": "とうけい",
+    "enMeaning": "Statistics",
+    "idMeaning": "Statistik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.117",
+    "kanji": "構造",
+    "component": "",
+    "hiragana": "こうぞう",
+    "enMeaning": "Structure",
+    "idMeaning": "Struktur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.118",
+    "kanji": "項目",
+    "component": "",
+    "hiragana": "こうもく",
+    "enMeaning": "Item / heading / category",
+    "idMeaning": "Butir / poin / kategori",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.119",
+    "kanji": "小遣い",
+    "component": "",
+    "hiragana": "こづかい",
+    "enMeaning": "Pocket money",
+    "idMeaning": "Uang saku",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.120",
+    "kanji": "苦情",
+    "component": "",
+    "hiragana": "くじょう",
+    "enMeaning": "Complaint / grievance",
+    "idMeaning": "Keluhan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.121",
+    "kanji": "利害",
+    "component": "",
+    "hiragana": "りがい",
+    "enMeaning": "Benefits and harms / interests",
+    "idMeaning": "Keuntungan dan kerugian / kepentingan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.122",
+    "kanji": "展開",
+    "component": "",
+    "hiragana": "てんかい",
+    "enMeaning": "Development / expansion",
+    "idMeaning": "Perkembangan / pengembangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.123",
+    "kanji": "判事",
+    "component": "",
+    "hiragana": "はんじ",
+    "enMeaning": "Judge",
+    "idMeaning": "Hakim",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.124",
+    "kanji": "学科",
+    "component": "",
+    "hiragana": "がっか",
+    "enMeaning": "Department / academic course",
+    "idMeaning": "Jurusan / mata pelajaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.125",
+    "kanji": "標識",
+    "component": "",
+    "hiragana": "ひょうしき",
+    "enMeaning": "Sign / mark / traffic sign",
+    "idMeaning": "Tanda / rambu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.126",
+    "kanji": "反映",
+    "component": "",
+    "hiragana": "はんえい",
+    "enMeaning": "Reflection / influence",
+    "idMeaning": "Pencerminan / pengaruh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.127",
+    "kanji": "対策",
+    "component": "",
+    "hiragana": "たいさく",
+    "enMeaning": "Countermeasure / step",
+    "idMeaning": "Langkah penanganan / solusi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.128",
+    "kanji": "弱点",
+    "component": "",
+    "hiragana": "じゃくてん",
+    "enMeaning": "Weak point",
+    "idMeaning": "Kelemahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.129",
+    "kanji": "前後",
+    "component": "",
+    "hiragana": "ぜんご",
+    "enMeaning": "Before and after / around",
+    "idMeaning": "Sebelum dan sesudah / sekitar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.130",
+    "kanji": "崩れる",
+    "component": "",
+    "hiragana": "くずれる",
+    "enMeaning": "Collapse / crumble / break down",
+    "idMeaning": "Runtuh / hancur",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.131",
+    "kanji": "教養",
+    "component": "",
+    "hiragana": "きょうよう",
+    "enMeaning": "Culture / education / refinement",
+    "idMeaning": "Wawasan / kebudayaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.132",
+    "kanji": "見本",
+    "component": "",
+    "hiragana": "みほん",
+    "enMeaning": "Sample / model",
+    "idMeaning": "Contoh / sampel",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.133",
+    "kanji": "重役",
+    "component": "",
+    "hiragana": "じゅうやく",
+    "enMeaning": "Executive / director",
+    "idMeaning": "Eksekutif / pejabat tinggi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.134",
+    "kanji": "娯楽",
+    "component": "",
+    "hiragana": "ごらく",
+    "enMeaning": "Amusement / entertainment",
+    "idMeaning": "Hiburan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.135",
+    "kanji": "知人",
+    "component": "",
+    "hiragana": "ちじん",
+    "enMeaning": "Acquaintance",
+    "idMeaning": "Kenalan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.136",
+    "kanji": "活躍",
+    "component": "",
+    "hiragana": "かつやく",
+    "enMeaning": "Active participation / success",
+    "idMeaning": "Berkiprah / aktif berprestasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.137",
+    "kanji": "焦点",
+    "component": "",
+    "hiragana": "しょうてん",
+    "enMeaning": "Focus / focal point",
+    "idMeaning": "Titik fokus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.138",
+    "kanji": "塊",
+    "component": "",
+    "hiragana": "かたまり",
+    "enMeaning": "Mass / lump / block",
+    "idMeaning": "Gumpalan / kelompok",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.139",
+    "kanji": "修繕",
+    "component": "",
+    "hiragana": "しゅうぜん",
+    "enMeaning": "Repair / mending",
+    "idMeaning": "Perbaikan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.140",
+    "kanji": "箇所",
+    "component": "",
+    "hiragana": "かしょ",
+    "enMeaning": "Place / point / section",
+    "idMeaning": "Bagian / lokasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.141",
+    "kanji": "寄せる",
+    "component": "",
+    "hiragana": "よせる",
+    "enMeaning": "Bring near / gather / approach",
+    "idMeaning": "Mendekatkan / mengumpulkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.142",
+    "kanji": "先頭",
+    "component": "",
+    "hiragana": "せんとう",
+    "enMeaning": "Front / lead / head",
+    "idMeaning": "Depan / paling depan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.143",
+    "kanji": "早口",
+    "component": "",
+    "hiragana": "はやくち",
+    "enMeaning": "Fast-talking / rapid speech",
+    "idMeaning": "Bicara cepat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.144",
+    "kanji": "相違",
+    "component": "",
+    "hiragana": "そうい",
+    "enMeaning": "Difference / discrepancy",
+    "idMeaning": "Perbedaan / ketidaksesuaian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.145",
+    "kanji": "呼びかける",
+    "component": "",
+    "hiragana": "よびかける",
+    "enMeaning": "Call out / appeal to",
+    "idMeaning": "Memanggil / menyerukan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.146",
+    "kanji": "温まる",
+    "component": "",
+    "hiragana": "あたたまる",
+    "enMeaning": "Become warm",
+    "idMeaning": "Menjadi hangat",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.147",
+    "kanji": "口実",
+    "component": "",
+    "hiragana": "こうじつ",
+    "enMeaning": "Excuse / pretext",
+    "idMeaning": "Dalih / alasan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.148",
+    "kanji": "果たして",
+    "component": "",
+    "hiragana": "はたして",
+    "enMeaning": "Really? / after all / as expected",
+    "idMeaning": "Benarkah / ternyata",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.7.149",
+    "kanji": "器具",
+    "component": "",
+    "hiragana": "きぐ",
+    "enMeaning": "Instrument / apparatus",
+    "idMeaning": "Peralatan / alat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.150",
+    "kanji": "回答",
+    "component": "",
+    "hiragana": "かいとう",
+    "enMeaning": "Answer / reply",
+    "idMeaning": "Jawaban / balasan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.151",
+    "kanji": "応対",
+    "component": "",
+    "hiragana": "おうたい",
+    "enMeaning": "Reception / dealing with people",
+    "idMeaning": "Melayani / menanggapi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.152",
+    "kanji": "行事",
+    "component": "",
+    "hiragana": "ぎょうじ",
+    "enMeaning": "Event / function",
+    "idMeaning": "Acara / kegiatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.153",
+    "kanji": "恨み",
+    "component": "",
+    "hiragana": "うらみ",
+    "enMeaning": "Rancor / resentment",
+    "idMeaning": "Dendam / kebencian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.154",
+    "kanji": "発射",
+    "component": "",
+    "hiragana": "はっしゃ",
+    "enMeaning": "Launch / fire",
+    "idMeaning": "Peluncuran / penembakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.155",
+    "kanji": "重ねる",
+    "component": "",
+    "hiragana": "かさねる",
+    "enMeaning": "Pile up / repeat / layer",
+    "idMeaning": "Menumpuk / mengulangi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.156",
+    "kanji": "生る",
+    "component": "",
+    "hiragana": "なる",
+    "enMeaning": "Bear fruit / ripen",
+    "idMeaning": "Berbuah / menjadi matang",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.157",
+    "kanji": "不通",
+    "component": "",
+    "hiragana": "ふつう",
+    "enMeaning": "Out of service / interruption",
+    "idMeaning": "Terputus / tidak tersambung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.158",
+    "kanji": "活力",
+    "component": "",
+    "hiragana": "かつりょく",
+    "enMeaning": "Vitality / energy",
+    "idMeaning": "Daya hidup / semangat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.159",
+    "kanji": "出迎える",
+    "component": "",
+    "hiragana": "でむかえる",
+    "enMeaning": "Welcome / go to meet",
+    "idMeaning": "Menyambut / menjemput",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.160",
+    "kanji": "素質",
+    "component": "",
+    "hiragana": "そしつ",
+    "enMeaning": "Quality / aptitude / talent",
+    "idMeaning": "Bakat / potensi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.161",
+    "kanji": "過半数",
+    "component": "",
+    "hiragana": "かはんすう",
+    "enMeaning": "Majority",
+    "idMeaning": "Mayoritas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.162",
+    "kanji": "英文",
+    "component": "",
+    "hiragana": "えいぶん",
+    "enMeaning": "English text / sentence",
+    "idMeaning": "Kalimat / teks bahasa Inggris",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.163",
+    "kanji": "物語る",
+    "component": "",
+    "hiragana": "ものがたる",
+    "enMeaning": "Tell / imply / indicate",
+    "idMeaning": "Menceritakan / menunjukkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.164",
+    "kanji": "削る",
+    "component": "",
+    "hiragana": "けずる",
+    "enMeaning": "Shave / scrape / reduce",
+    "idMeaning": "Mengikis / mengurangi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.165",
+    "kanji": "実物",
+    "component": "",
+    "hiragana": "じつぶつ",
+    "enMeaning": "Actual object / real thing",
+    "idMeaning": "Benda asli / wujud nyata",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.166",
+    "kanji": "真っ暗",
+    "component": "",
+    "hiragana": "まっくら",
+    "enMeaning": "Pitch dark",
+    "idMeaning": "Sangat gelap",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.167",
+    "kanji": "日時",
+    "component": "",
+    "hiragana": "にちじ",
+    "enMeaning": "Date and time",
+    "idMeaning": "Tanggal dan waktu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.168",
+    "kanji": "売れ行き",
+    "component": "",
+    "hiragana": "うれゆき",
+    "enMeaning": "Sales / demand",
+    "idMeaning": "Penjualan / laku tidaknya barang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.169",
+    "kanji": "受け取り",
+    "component": "",
+    "hiragana": "うけとり",
+    "enMeaning": "Receipt / taking delivery",
+    "idMeaning": "Penerimaan / tanda terima",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.170",
+    "kanji": "休養",
+    "component": "",
+    "hiragana": "きゅうよう",
+    "enMeaning": "Rest / recuperation",
+    "idMeaning": "Istirahat / pemulihan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.171",
+    "kanji": "対立",
+    "component": "",
+    "hiragana": "たいりつ",
+    "enMeaning": "Opposition / conflict",
+    "idMeaning": "Pertentangan / konflik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.172",
+    "kanji": "親類",
+    "component": "",
+    "hiragana": "しんるい",
+    "enMeaning": "Relative / relations",
+    "idMeaning": "Kerabat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.173",
+    "kanji": "過剰",
+    "component": "",
+    "hiragana": "かじょう",
+    "enMeaning": "Excess / too much",
+    "idMeaning": "Berlebihan / kelebihan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.174",
+    "kanji": "性能",
+    "component": "",
+    "hiragana": "せいのう",
+    "enMeaning": "Performance / capability",
+    "idMeaning": "Kinerja / kemampuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.175",
+    "kanji": "謙虚",
+    "component": "",
+    "hiragana": "けんきょ",
+    "enMeaning": "Humble / modest",
+    "idMeaning": "Rendah hati",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.176",
+    "kanji": "公表",
+    "component": "",
+    "hiragana": "こうひょう",
+    "enMeaning": "Official announcement / publication",
+    "idMeaning": "Pengumuman resmi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.177",
+    "kanji": "近々",
+    "component": "",
+    "hiragana": "ちかぢか",
+    "enMeaning": "Soon / in the near future",
+    "idMeaning": "Dalam waktu dekat",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.7.178",
+    "kanji": "膨大",
+    "component": "",
+    "hiragana": "ぼうだい",
+    "enMeaning": "Enormous / vast",
+    "idMeaning": "Sangat besar / amat banyak",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.179",
+    "kanji": "開会",
+    "component": "",
+    "hiragana": "かいかい",
+    "enMeaning": "Opening of a meeting",
+    "idMeaning": "Pembukaan acara / rapat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.180",
+    "kanji": "隔てる",
+    "component": "",
+    "hiragana": "へだてる",
+    "enMeaning": "Separate / divide",
+    "idMeaning": "Memisahkan / membatasi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.181",
+    "kanji": "夕日",
+    "component": "",
+    "hiragana": "ゆうひ",
+    "enMeaning": "Evening sun / sunset",
+    "idMeaning": "Matahari senja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.182",
+    "kanji": "混合",
+    "component": "",
+    "hiragana": "こんごう",
+    "enMeaning": "Mixing / mixture",
+    "idMeaning": "Pencampuran / campuran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.183",
+    "kanji": "理科",
+    "component": "",
+    "hiragana": "りか",
+    "enMeaning": "Science (school subject)",
+    "idMeaning": "Ilmu pengetahuan alam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.184",
+    "kanji": "真っ先",
+    "component": "",
+    "hiragana": "まっさき",
+    "enMeaning": "At first / first of all",
+    "idMeaning": "Paling pertama / segera",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.7.185",
+    "kanji": "就任",
+    "component": "",
+    "hiragana": "しゅうにん",
+    "enMeaning": "Assumption of office",
+    "idMeaning": "Mulai menjabat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.186",
+    "kanji": "功績",
+    "component": "",
+    "hiragana": "こうせき",
+    "enMeaning": "Achievement / meritorious deed",
+    "idMeaning": "Prestasi / jasa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.187",
+    "kanji": "心身",
+    "component": "",
+    "hiragana": "しんしん",
+    "enMeaning": "Mind and body",
+    "idMeaning": "Jasmani dan rohani",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.188",
+    "kanji": "公衆",
+    "component": "",
+    "hiragana": "こうしゅう",
+    "enMeaning": "Public / the people",
+    "idMeaning": "Khalayak umum / publik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.189",
+    "kanji": "書籍",
+    "component": "",
+    "hiragana": "しょせき",
+    "enMeaning": "Books / publications",
+    "idMeaning": "Buku-buku / terbitan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.190",
+    "kanji": "基盤",
+    "component": "",
+    "hiragana": "きばん",
+    "enMeaning": "Foundation / basis",
+    "idMeaning": "Landasan / dasar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.191",
+    "kanji": "直前",
+    "component": "",
+    "hiragana": "ちょくぜん",
+    "enMeaning": "Right before / immediately before",
+    "idMeaning": "Tepat sebelum",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.192",
+    "kanji": "敷地",
+    "component": "",
+    "hiragana": "しきち",
+    "enMeaning": "Site / lot / premises",
+    "idMeaning": "Lahan / area bangunan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.193",
+    "kanji": "素人",
+    "component": "",
+    "hiragana": "しろうと",
+    "enMeaning": "Amateur / layman",
+    "idMeaning": "Orang awam / amatir",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.194",
+    "kanji": "膨らます",
+    "component": "",
+    "hiragana": "ふくらます",
+    "enMeaning": "Inflate / swell / expand",
+    "idMeaning": "Mengembangkan / meniup agar mengembang",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.195",
+    "kanji": "碁",
+    "component": "",
+    "hiragana": "ご",
+    "enMeaning": "Go (board game)",
+    "idMeaning": "Permainan go",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.196",
+    "kanji": "夜間",
+    "component": "",
+    "hiragana": "やかん",
+    "enMeaning": "Nighttime",
+    "idMeaning": "Waktu malam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.197",
+    "kanji": "重量",
+    "component": "",
+    "hiragana": "じゅうりょう",
+    "enMeaning": "Weight",
+    "idMeaning": "Berat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.198",
+    "kanji": "強引",
+    "component": "",
+    "hiragana": "ごういん",
+    "enMeaning": "Forcible / pushy / unreasonable",
+    "idMeaning": "Memaksa / nekat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.199",
+    "kanji": "民間",
+    "component": "",
+    "hiragana": "みんかん",
+    "enMeaning": "Private sector / civilian",
+    "idMeaning": "Swasta / sipil",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.200",
+    "kanji": "臨時",
+    "component": "",
+    "hiragana": "りんじ",
+    "enMeaning": "Temporary / special",
+    "idMeaning": "Sementara / darurat",
+    "type": "Kata Sifat な"
+  }
+]

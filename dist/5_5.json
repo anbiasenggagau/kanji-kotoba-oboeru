@@ -766,47 +766,47 @@
   },
   {
     "id": "N5.5.86",
-    "kanji": "北",
+    "kanji": "質問",
     "component": "",
-    "hiragana": "きた",
-    "enMeaning": "North",
-    "idMeaning": "Utara",
+    "hiragana": "しつもん",
+    "enMeaning": "Question",
+    "idMeaning": "Pertanyaan",
     "type": "Kata Benda"
   },
   {
     "id": "N5.5.87",
-    "kanji": "木",
+    "kanji": "何時も",
     "component": "",
-    "hiragana": "き",
-    "enMeaning": "Tree / wood",
-    "idMeaning": "Pohon / kayu",
-    "type": "Kata Benda"
+    "hiragana": "いつも",
+    "enMeaning": "Always",
+    "idMeaning": "Selalu",
+    "type": "Frasa / Klausa"
   },
   {
     "id": "N5.5.88",
-    "kanji": "本",
+    "kanji": "半分",
     "component": "",
-    "hiragana": "ほん",
-    "enMeaning": "Book",
-    "idMeaning": "Buku / asal / utama",
+    "hiragana": "はんぶん",
+    "enMeaning": "Half",
+    "idMeaning": "Setengah",
     "type": "Kata Benda"
   },
   {
     "id": "N5.5.89",
-    "kanji": "毎",
+    "kanji": "丁度",
     "component": "",
-    "hiragana": "まい",
-    "enMeaning": "Every",
-    "idMeaning": "Setiap",
+    "hiragana": "ちょうど",
+    "enMeaning": "Exactly / just right",
+    "idMeaning": "Pas / tepat sekali",
     "type": "Frasa / Klausa"
   },
   {
     "id": "N5.5.90",
-    "kanji": "母",
+    "kanji": "側",
     "component": "",
-    "hiragana": "はは",
-    "enMeaning": "Mother",
-    "idMeaning": "Ibu",
+    "hiragana": "そば",
+    "enMeaning": "Beside / side / near",
+    "idMeaning": "Sisi / dekat / samping",
     "type": "Kata Benda"
   }
 ]

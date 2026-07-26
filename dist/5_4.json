@@ -763,5 +763,50 @@
     "enMeaning": "Airplane",
     "idMeaning": "Pesawat terbang",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.86",
+    "kanji": "煙草",
+    "component": "",
+    "hiragana": "たばこ",
+    "enMeaning": "Tobacco / cigarette",
+    "idMeaning": "Rokok / tembakau",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.87",
+    "kanji": "鍵",
+    "component": "",
+    "hiragana": "かぎ",
+    "enMeaning": "Key",
+    "idMeaning": "Kunci",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.88",
+    "kanji": "私",
+    "component": "",
+    "hiragana": "わたし",
+    "enMeaning": "I / me",
+    "idMeaning": "Saya / aku",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.89",
+    "kanji": "出来る",
+    "component": "",
+    "hiragana": "できる",
+    "enMeaning": "Can do / be able to / be made",
+    "idMeaning": "Bisa / mampu / dapat dibuat",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N5.4.90",
+    "kanji": "貴方",
+    "component": "",
+    "hiragana": "あなた",
+    "enMeaning": "You",
+    "idMeaning": "Kamu / Anda",
+    "type": "Kata Benda"
   }
 ]

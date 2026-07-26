@@ -226,7 +226,7 @@
   },
   {
     "id": "N5.2.26",
-    "kanji": "町 / 街",
+    "kanji": "町/街",
     "component": "",
     "hiragana": "まち",
     "enMeaning": "Town",
@@ -763,5 +763,50 @@
     "enMeaning": "Festival",
     "idMeaning": "Festival",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.86",
+    "kanji": "仕事",
+    "component": "",
+    "hiragana": "しごと",
+    "enMeaning": "Work / job",
+    "idMeaning": "Pekerjaan / kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.87",
+    "kanji": "料理",
+    "component": "",
+    "hiragana": "りょうり",
+    "enMeaning": "Cooking / dish / cuisine",
+    "idMeaning": "Masakan / memasak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.88",
+    "kanji": "外国人",
+    "component": "",
+    "hiragana": "がいこくじん",
+    "enMeaning": "Foreigner",
+    "idMeaning": "Orang asing",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.89",
+    "kanji": "歌",
+    "component": "",
+    "hiragana": "うた",
+    "enMeaning": "Song",
+    "idMeaning": "Lagu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.90",
+    "kanji": "本当",
+    "component": "",
+    "hiragana": "ほんとう",
+    "enMeaning": "Truth / real / true",
+    "idMeaning": "Benar / sungguh / kenyataan",
+    "type": "Kata Sifat な"
   }
 ]

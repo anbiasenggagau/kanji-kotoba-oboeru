@@ -244,7 +244,7 @@
   },
   {
     "id": "N4.4.28",
-    "kanji": "柔らかい/軟らかい",
+    "kanji": "柔らかい",
     "component": "",
     "hiragana": "やわらかい",
     "enMeaning": "Soft",
@@ -852,6 +852,51 @@
     "hiragana": "きぬ",
     "enMeaning": "Silk",
     "idMeaning": "Sutra",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.96",
+    "kanji": "再来週",
+    "component": "",
+    "hiragana": "さらいしゅう",
+    "enMeaning": "Week after next",
+    "idMeaning": "2 minggu lagi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.97",
+    "kanji": "下宿",
+    "component": "",
+    "hiragana": "げしゅく",
+    "enMeaning": "Boarding house",
+    "idMeaning": "Kos-kosan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.98",
+    "kanji": "割れる",
+    "component": "",
+    "hiragana": "われる",
+    "enMeaning": "Break / split",
+    "idMeaning": "Pecah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.4.99",
+    "kanji": "鳴る",
+    "component": "",
+    "hiragana": "なる",
+    "enMeaning": "Ringing (clock/phone)",
+    "idMeaning": "Berbunyi (jam/HP)",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.4.100",
+    "kanji": "消しゴム",
+    "component": "",
+    "hiragana": "けしゴム",
+    "enMeaning": "Eraser",
+    "idMeaning": "Penghapus",
     "type": "Kata Benda"
   }
 ]

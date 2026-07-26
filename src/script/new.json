@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": "22",
+    "kanji": "担ぐ",
+    "component": "",
+    "hiragana": "かつぐ",
+    "enMeaning": "Carry on the shoulder / hoodwink",
+    "idMeaning": "Memikul / menjahili",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "23",
+    "kanji": "平凡",
+    "component": "",
+    "hiragana": "へいぼん",
+    "enMeaning": "Ordinary / commonplace",
+    "idMeaning": "Biasa saja / umum",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "24",
+    "kanji": "更ける",
+    "component": "",
+    "hiragana": "ふける",
+    "enMeaning": "Grow late / deepen (night, autumn)",
+    "idMeaning": "Larut / semakin malam",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "25",
+    "kanji": "尖る",
+    "component": "",
+    "hiragana": "とがる",
+    "enMeaning": "Be pointed / be sharp",
+    "idMeaning": "Meruncing / tajam",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "26",
+    "kanji": "目上",
+    "component": "",
+    "hiragana": "めうえ",
+    "enMeaning": "Senior / superior",
+    "idMeaning": "Atasan / orang yang lebih tua/tinggi kedudukannya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "27",
+    "kanji": "ため息",
+    "component": "",
+    "hiragana": "ためいき",
+    "enMeaning": "Sigh",
+    "idMeaning": "Mendesah / napas panjang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "28",
+    "kanji": "真似る",
+    "component": "",
+    "hiragana": "まねる",
+    "enMeaning": "Imitate / mimic",
+    "idMeaning": "Meniru / mencontoh",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "29",
+    "kanji": "引力",
+    "component": "",
+    "hiragana": "いんりょく",
+    "enMeaning": "Gravity / attraction",
+    "idMeaning": "Gaya tarik / gravitasi",
+    "type": "Kata Benda"
+  }
+]
