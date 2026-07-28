@@ -127,12 +127,12 @@
   },
   {
     "id": "N2.1.15",
-    "kanji": "～に関する",
+    "kanji": "担ぐ",
     "component": "",
-    "hiragana": "～にかんする",
-    "enMeaning": "Concerning / regarding",
-    "idMeaning": "Mengenai / tentang",
-    "type": "Frasa / Klausa"
+    "hiragana": "かつぐ",
+    "enMeaning": "Carry on the shoulder / hoodwink",
+    "idMeaning": "Memikul / menjahili",
+    "type": "KK Transitif"
   },
   {
     "id": "N2.1.16",
@@ -208,12 +208,12 @@
   },
   {
     "id": "N2.1.24",
-    "kanji": "非～",
+    "kanji": "更ける",
     "component": "",
-    "hiragana": "ひ～",
-    "enMeaning": "Non- / un-",
-    "idMeaning": "Non- / tidak",
-    "type": "Frasa / Klausa"
+    "hiragana": "ふける",
+    "enMeaning": "Grow late / deepen (night, autumn)",
+    "idMeaning": "Larut / semakin malam",
+    "type": "KK Intransitif"
   },
   {
     "id": "N2.1.25",
@@ -235,7 +235,7 @@
   },
   {
     "id": "N2.1.27",
-    "kanji": "御～／御～",
+    "kanji": "御～",
     "component": "",
     "hiragana": "お～／ご～",
     "enMeaning": "Honorific prefix",
@@ -262,12 +262,12 @@
   },
   {
     "id": "N2.1.30",
-    "kanji": "内",
+    "kanji": "尖る",
     "component": "",
-    "hiragana": "うち",
-    "enMeaning": "Inside / within",
-    "idMeaning": "Di dalam",
-    "type": "Kata Benda"
+    "hiragana": "とがる",
+    "enMeaning": "Be pointed / be sharp",
+    "idMeaning": "Meruncing / tajam",
+    "type": "KK Intransitif"
   },
   {
     "id": "N2.1.31",
@@ -766,12 +766,12 @@
   },
   {
     "id": "N2.1.86",
-    "kanji": "～側",
+    "kanji": "平凡",
     "component": "",
-    "hiragana": "～がわ",
-    "enMeaning": "Side",
-    "idMeaning": "Sisi",
-    "type": "Frasa / Klausa"
+    "hiragana": "へいぼん",
+    "enMeaning": "Ordinary / commonplace",
+    "idMeaning": "Biasa saja / umum",
+    "type": "Kata Sifat な"
   },
   {
     "id": "N2.1.87",

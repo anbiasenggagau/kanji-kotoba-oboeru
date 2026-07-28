@@ -1,41 +1,5 @@
 [
   {
-    "id": "22",
-    "kanji": "担ぐ",
-    "component": "",
-    "hiragana": "かつぐ",
-    "enMeaning": "Carry on the shoulder / hoodwink",
-    "idMeaning": "Memikul / menjahili",
-    "type": "KK Transitif"
-  },
-  {
-    "id": "23",
-    "kanji": "平凡",
-    "component": "",
-    "hiragana": "へいぼん",
-    "enMeaning": "Ordinary / commonplace",
-    "idMeaning": "Biasa saja / umum",
-    "type": "Kata Sifat な"
-  },
-  {
-    "id": "24",
-    "kanji": "更ける",
-    "component": "",
-    "hiragana": "ふける",
-    "enMeaning": "Grow late / deepen (night, autumn)",
-    "idMeaning": "Larut / semakin malam",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "25",
-    "kanji": "尖る",
-    "component": "",
-    "hiragana": "とがる",
-    "enMeaning": "Be pointed / be sharp",
-    "idMeaning": "Meruncing / tajam",
-    "type": "KK Intransitif"
-  },
-  {
     "id": "26",
     "kanji": "目上",
     "component": "",
