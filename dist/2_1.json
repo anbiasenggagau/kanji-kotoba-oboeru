@@ -1336,8 +1336,8 @@
     "kanji": "水玉",
     "component": "",
     "hiragana": "みずたま",
-    "enMeaning": "Polka dots",
-    "idMeaning": "Motif polkadot",
+    "enMeaning": "Polka dots / drop of water",
+    "idMeaning": "Motif polkadot / tetesan air",
     "type": "Kata Benda"
   },
   {
@@ -1459,20 +1459,20 @@
   },
   {
     "id": "N2.1.163",
-    "kanji": "未満",
+    "kanji": "見くびる",
     "component": "",
-    "hiragana": "みまん",
-    "enMeaning": "Less than",
-    "idMeaning": "Kurang dari",
-    "type": "Kata Benda"
+    "hiragana": "みくびる",
+    "enMeaning": "Underestimate / look down on",
+    "idMeaning": "Meremehkan",
+    "type": "KK Transitif"
   },
   {
     "id": "N2.1.164",
-    "kanji": "乗り換え",
+    "kanji": "引力",
     "component": "",
-    "hiragana": "のりかえ",
-    "enMeaning": "Transfer (trains)",
-    "idMeaning": "Pindah kendaraan",
+    "hiragana": "いんりょく",
+    "enMeaning": "Gravity / attraction",
+    "idMeaning": "Gaya tarik / gravitasi",
     "type": "Kata Benda"
   },
   {
@@ -1603,12 +1603,12 @@
   },
   {
     "id": "N2.1.179",
-    "kanji": "倍",
+    "kanji": "真似る",
     "component": "",
-    "hiragana": "ばい",
-    "enMeaning": "Times / multiple",
-    "idMeaning": "Kali lipat",
-    "type": "Kata Benda"
+    "hiragana": "まねる",
+    "enMeaning": "Imitate / mimic",
+    "idMeaning": "Meniru / mencontoh",
+    "type": "KK Transitif"
   },
   {
     "id": "N2.1.180",

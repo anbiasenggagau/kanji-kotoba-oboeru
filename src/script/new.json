@@ -1,20 +1,110 @@
 [
   {
-    "id": "28",
-    "kanji": "真似る",
+    "id": "N2.8.2",
+    "kanji": "幼馴染",
     "component": "",
-    "hiragana": "まねる",
-    "enMeaning": "Imitate / mimic",
-    "idMeaning": "Meniru / mencontoh",
-    "type": "KK Transitif"
+    "hiragana": "おさななじみ",
+    "enMeaning": "Childhood friend",
+    "idMeaning": "Teman masa kecil",
+    "type": "Kata Benda"
   },
   {
-    "id": "29",
-    "kanji": "引力",
+    "id": "N2.8.3",
+    "kanji": "開発",
     "component": "",
-    "hiragana": "いんりょく",
-    "enMeaning": "Gravity / attraction",
-    "idMeaning": "Gaya tarik / gravitasi",
+    "hiragana": "かいはつ",
+    "enMeaning": "Development",
+    "idMeaning": "Pengembangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.4",
+    "kanji": "実装",
+    "component": "",
+    "hiragana": "じっそう",
+    "enMeaning": "Implementation",
+    "idMeaning": "Implementasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.5",
+    "kanji": "着手",
+    "component": "",
+    "hiragana": "ちゃくしゅ",
+    "enMeaning": "Start / commence",
+    "idMeaning": "Mulai mengerjakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.6",
+    "kanji": "仕様",
+    "component": "",
+    "hiragana": "しよう",
+    "enMeaning": "Specification",
+    "idMeaning": "Spesifikasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.7",
+    "kanji": "見積もり",
+    "component": "",
+    "hiragana": "みつもり",
+    "enMeaning": "Estimate / quotation",
+    "idMeaning": "Estimasi / penawaran harga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.8",
+    "kanji": "開発環境",
+    "component": "",
+    "hiragana": "かいはつかんきょう",
+    "enMeaning": "Development environment",
+    "idMeaning": "Lingkungan pengembangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.9",
+    "kanji": "本番環境",
+    "component": "",
+    "hiragana": "ほんばんかんきょう",
+    "enMeaning": "Production environment",
+    "idMeaning": "Lingkungan produksi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.10",
+    "kanji": "不具合",
+    "component": "",
+    "hiragana": "ふぐあい",
+    "enMeaning": "Bug / defect / malfunction",
+    "idMeaning": "Bug / cacat / gangguan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.11",
+    "kanji": "対応",
+    "component": "",
+    "hiragana": "たいおう",
+    "enMeaning": "Handling / response / support",
+    "idMeaning": "Menangani / respons / dukungan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.12",
+    "kanji": "時間外",
+    "component": "",
+    "hiragana": "じかんがい",
+    "enMeaning": "Outside working hours / overtime",
+    "idMeaning": "Di luar jam kerja / lembur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.13",
+    "kanji": "朝会",
+    "component": "",
+    "hiragana": "あさかい",
+    "enMeaning": "Morning meeting",
+    "idMeaning": "Rapat pagi",
     "type": "Kata Benda"
   }
 ]
