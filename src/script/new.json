@@ -1,23 +1,5 @@
 [
   {
-    "id": "26",
-    "kanji": "目上",
-    "component": "",
-    "hiragana": "めうえ",
-    "enMeaning": "Senior / superior",
-    "idMeaning": "Atasan / orang yang lebih tua/tinggi kedudukannya",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "27",
-    "kanji": "ため息",
-    "component": "",
-    "hiragana": "ためいき",
-    "enMeaning": "Sigh",
-    "idMeaning": "Mendesah / napas panjang",
-    "type": "Kata Benda"
-  },
-  {
     "id": "28",
     "kanji": "真似る",
     "component": "",

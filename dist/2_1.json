@@ -280,12 +280,12 @@
   },
   {
     "id": "N2.1.32",
-    "kanji": "～内",
+    "kanji": "目上",
     "component": "",
-    "hiragana": "～ない",
-    "enMeaning": "Within",
-    "idMeaning": "Dalam",
-    "type": "Frasa / Klausa"
+    "hiragana": "めうえ",
+    "enMeaning": "Senior / superior",
+    "idMeaning": "Atasan / tinggi kedudukannya",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.1.33",
@@ -1414,12 +1414,12 @@
   },
   {
     "id": "N2.1.158",
-    "kanji": "未～",
+    "kanji": "ため息",
     "component": "",
-    "hiragana": "み～",
-    "enMeaning": "Not yet / un-",
-    "idMeaning": "Belum / belum ter-",
-    "type": "Frasa / Klausa"
+    "hiragana": "ためいき",
+    "enMeaning": "Sigh",
+    "idMeaning": "Napas panjang",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.1.159",
