@@ -667,12 +667,12 @@
   },
   {
     "id": "N2.1.75",
-    "kanji": "～両目",
+    "kanji": "幼馴染",
     "component": "",
-    "hiragana": "～りょうめ",
-    "enMeaning": "Both eyes",
-    "idMeaning": "Kedua mata",
-    "type": "Frasa / Klausa"
+    "hiragana": "おさななじみ",
+    "enMeaning": "Childhood friend",
+    "idMeaning": "Teman masa kecil",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.1.76",
@@ -847,12 +847,12 @@
   },
   {
     "id": "N2.1.95",
-    "kanji": "実際に",
+    "kanji": "開発",
     "component": "",
-    "hiragana": "じっさいに",
-    "enMeaning": "Actually / in reality",
-    "idMeaning": "Sebenarnya",
-    "type": "Frasa / Klausa"
+    "hiragana": "かいはつ",
+    "enMeaning": "Development",
+    "idMeaning": "Pengembangan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.1.96",

@@ -1,23 +1,5 @@
 [
   {
-    "id": "N2.8.2",
-    "kanji": "幼馴染",
-    "component": "",
-    "hiragana": "おさななじみ",
-    "enMeaning": "Childhood friend",
-    "idMeaning": "Teman masa kecil",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.3",
-    "kanji": "開発",
-    "component": "",
-    "hiragana": "かいはつ",
-    "enMeaning": "Development",
-    "idMeaning": "Pengembangan",
-    "type": "Kata Benda"
-  },
-  {
     "id": "N2.8.4",
     "kanji": "実装",
     "component": "",
