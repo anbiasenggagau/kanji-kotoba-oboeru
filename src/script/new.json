@@ -72,12 +72,129 @@
     "type": "Kata Benda"
   },
   {
-    "id": "N2.8.13",
-    "kanji": "朝会",
+    "id": "N2.8.1",
+    "kanji": "同期",
     "component": "",
-    "hiragana": "あさかい",
-    "enMeaning": "Morning meeting",
-    "idMeaning": "Rapat pagi",
+    "hiragana": "どうき",
+    "enMeaning": "Same period / synchronization",
+    "idMeaning": "Seangkatan / sinkronisasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.2",
+    "kanji": "甲斐がある",
+    "component": "",
+    "hiragana": "かいがある",
+    "enMeaning": "Be worth doing",
+    "idMeaning": "Ada hasilnya / layak dilakukan",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.8.3",
+    "kanji": "適正",
+    "component": "",
+    "hiragana": "てきせい",
+    "enMeaning": "Suitable / appropriate",
+    "idMeaning": "Kesesuaian / kecocokan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.4",
+    "kanji": "利用規約",
+    "component": "",
+    "hiragana": "りようきやく",
+    "enMeaning": "Terms of service",
+    "idMeaning": "Syarat dan ketentuan penggunaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.5",
+    "kanji": "取り組む",
+    "component": "",
+    "hiragana": "とりくむ",
+    "enMeaning": "Work on / tackle",
+    "idMeaning": "Menangani / mengerjakan dengan serius",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.8.6",
+    "kanji": "偏差",
+    "component": "",
+    "hiragana": "へんさ",
+    "enMeaning": "Deviation",
+    "idMeaning": "Penyimpangan / deviasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.8",
+    "kanji": "悪化",
+    "component": "",
+    "hiragana": "あっか",
+    "enMeaning": "Deterioration / worsening",
+    "idMeaning": "Memburuk / kemunduran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.10",
+    "kanji": "腹が立つ",
+    "component": "腹",
+    "hiragana": "はらがたつ",
+    "enMeaning": "Get angry",
+    "idMeaning": "Menjadi marah / kesal",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.8.11",
+    "kanji": "見た目",
+    "component": "見た",
+    "hiragana": "みため",
+    "enMeaning": "Appearance / look",
+    "idMeaning": "Penampilan / tampilan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.12",
+    "kanji": "入門",
+    "component": "",
+    "hiragana": "にゅうもん",
+    "enMeaning": "Introduction / beginner's guide",
+    "idMeaning": "Pengantar / dasar untuk pemula",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.13",
+    "kanji": "駆動",
+    "component": "",
+    "hiragana": "くどう",
+    "enMeaning": "Drive / operation (of a machine)",
+    "idMeaning": "Penggerak / pengoperasian mesin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.14",
+    "kanji": "開催",
+    "component": "",
+    "hiragana": "かいさい",
+    "enMeaning": "Holding (an event)",
+    "idMeaning": "Penyelenggaraan acara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.15",
+    "kanji": "視聴",
+    "component": "",
+    "hiragana": "しちょう",
+    "enMeaning": "Viewing and listening",
+    "idMeaning": "Menonton dan mendengarkan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.16",
+    "kanji": "段差",
+    "component": "",
+    "hiragana": "だんさ",
+    "enMeaning": "Step / level difference",
+    "idMeaning": "Perbedaan ketinggian / undakan",
     "type": "Kata Benda"
   }
 ]

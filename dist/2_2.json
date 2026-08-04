@@ -1459,12 +1459,12 @@
   },
   {
     "id": "N2.2.163",
-    "kanji": "各～",
+    "kanji": "同意",
     "component": "",
-    "hiragana": "かく～",
-    "enMeaning": "Each / every",
-    "idMeaning": "Setiap",
-    "type": "Frasa / Klausa"
+    "hiragana": "どうい",
+    "enMeaning": "Agreement / consent",
+    "idMeaning": "Persetujuan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.2.164",
@@ -1621,12 +1621,12 @@
   },
   {
     "id": "N2.2.181",
-    "kanji": "昨～",
+    "kanji": "朝会",
     "component": "",
-    "hiragana": "さく～",
-    "enMeaning": "Last (year/month etc.)",
-    "idMeaning": "Yang lalu",
-    "type": "Frasa / Klausa"
+    "hiragana": "あさかい",
+    "enMeaning": "Morning meeting",
+    "idMeaning": "Rapat pagi",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.2.182",
@@ -1684,11 +1684,11 @@
   },
   {
     "id": "N2.2.188",
-    "kanji": "売り切れ",
+    "kanji": "治安",
     "component": "",
-    "hiragana": "うりきれ",
-    "enMeaning": "Sold out",
-    "idMeaning": "Habis terjual",
+    "hiragana": "ちあん",
+    "enMeaning": "Public safety / public order",
+    "idMeaning": "Keamanan dan ketertiban umum",
     "type": "Kata Benda"
   },
   {
