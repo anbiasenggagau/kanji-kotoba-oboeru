@@ -553,8 +553,8 @@
     "kanji": "～殿",
     "component": "",
     "hiragana": "～どの",
-    "enMeaning": "Mr./Ms. (formal suffix)",
-    "idMeaning": "Tuan/Nyonya (formal)",
+    "enMeaning": "Mr./Ms. (keigo)",
+    "idMeaning": "Tuan/Nyonya (keigo)",
     "type": "Frasa / Klausa"
   },
   {
@@ -622,11 +622,11 @@
   },
   {
     "id": "N2.2.70",
-    "kanji": "その他",
+    "kanji": "段差",
     "component": "",
-    "hiragana": "そのた",
-    "enMeaning": "Others",
-    "idMeaning": "Lainnya",
+    "hiragana": "だんさ",
+    "enMeaning": "Step / level difference",
+    "idMeaning": "Perbedaan ketinggian / undakan",
     "type": "Kata Benda"
   },
   {
@@ -715,8 +715,8 @@
     "kanji": "頂く",
     "component": "",
     "hiragana": "いただく",
-    "enMeaning": "Receive (humble)",
-    "idMeaning": "Menerima (rendah hati)",
+    "enMeaning": "Receive (kenjougo)",
+    "idMeaning": "Menerima (kenjougo)",
     "type": "KK Transitif"
   },
   {
@@ -901,12 +901,12 @@
   },
   {
     "id": "N2.2.101",
-    "kanji": "全～",
+    "kanji": "視聴",
     "component": "",
-    "hiragana": "ぜん～",
-    "enMeaning": "Entire / all",
-    "idMeaning": "Seluruh",
-    "type": "Frasa / Klausa"
+    "hiragana": "しちょう",
+    "enMeaning": "Viewing and listening",
+    "idMeaning": "Menonton dan mendengarkan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.2.102",
@@ -948,7 +948,7 @@
     "id": "N2.2.106",
     "kanji": "レジ袋",
     "component": "",
-    "hiragana": "レジぶくろ",
+    "hiragana": "れじぶくろ",
     "enMeaning": "Plastic shopping bag",
     "idMeaning": "Kantong plastik belanja",
     "type": "Kata Benda"
@@ -1000,12 +1000,12 @@
   },
   {
     "id": "N2.2.112",
-    "kanji": "燃やせる",
+    "kanji": "開催",
     "component": "",
-    "hiragana": "もやせる",
-    "enMeaning": "Burnable",
-    "idMeaning": "Dapat dibakar",
-    "type": "Kata Sifat な"
+    "hiragana": "かいさい",
+    "enMeaning": "Holding (an event)",
+    "idMeaning": "Penyelenggaraan acara",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.2.113",
@@ -1162,9 +1162,9 @@
   },
   {
     "id": "N2.2.130",
-    "kanji": "雑な",
+    "kanji": "雑",
     "component": "",
-    "hiragana": "ざつな",
+    "hiragana": "ざつ",
     "enMeaning": "Rough / careless",
     "idMeaning": "Kasar / ceroboh",
     "type": "Kata Sifat な"

@@ -169,32 +169,5 @@
     "enMeaning": "Drive / operation (of a machine)",
     "idMeaning": "Penggerak / pengoperasian mesin",
     "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.14",
-    "kanji": "開催",
-    "component": "",
-    "hiragana": "かいさい",
-    "enMeaning": "Holding (an event)",
-    "idMeaning": "Penyelenggaraan acara",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.15",
-    "kanji": "視聴",
-    "component": "",
-    "hiragana": "しちょう",
-    "enMeaning": "Viewing and listening",
-    "idMeaning": "Menonton dan mendengarkan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.16",
-    "kanji": "段差",
-    "component": "",
-    "hiragana": "だんさ",
-    "enMeaning": "Step / level difference",
-    "idMeaning": "Perbedaan ketinggian / undakan",
-    "type": "Kata Benda"
   }
 ]
