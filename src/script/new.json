@@ -1,68 +1,5 @@
 [
   {
-    "id": "N2.8.5",
-    "kanji": "着手",
-    "component": "",
-    "hiragana": "ちゃくしゅ",
-    "enMeaning": "Start / commence",
-    "idMeaning": "Mulai mengerjakan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.6",
-    "kanji": "仕様",
-    "component": "",
-    "hiragana": "しよう",
-    "enMeaning": "Specification",
-    "idMeaning": "Spesifikasi",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.7",
-    "kanji": "見積もり",
-    "component": "",
-    "hiragana": "みつもり",
-    "enMeaning": "Estimate / quotation",
-    "idMeaning": "Estimasi / penawaran harga",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.8",
-    "kanji": "開発環境",
-    "component": "",
-    "hiragana": "かいはつかんきょう",
-    "enMeaning": "Development environment",
-    "idMeaning": "Lingkungan pengembangan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.9",
-    "kanji": "本番環境",
-    "component": "",
-    "hiragana": "ほんばんかんきょう",
-    "enMeaning": "Production environment",
-    "idMeaning": "Lingkungan produksi",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.10",
-    "kanji": "不具合",
-    "component": "",
-    "hiragana": "ふぐあい",
-    "enMeaning": "Bug / defect / malfunction",
-    "idMeaning": "Bug / cacat / gangguan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.11",
-    "kanji": "対応",
-    "component": "",
-    "hiragana": "たいおう",
-    "enMeaning": "Handling / response / support",
-    "idMeaning": "Menangani / respons / dukungan",
-    "type": "Kata Benda"
-  },
-  {
     "id": "N2.8.12",
     "kanji": "時間外",
     "component": "",
@@ -79,15 +16,6 @@
     "enMeaning": "Same period / synchronization",
     "idMeaning": "Seangkatan / sinkronisasi",
     "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.2",
-    "kanji": "甲斐がある",
-    "component": "",
-    "hiragana": "かいがある",
-    "enMeaning": "Be worth doing",
-    "idMeaning": "Ada hasilnya / layak dilakukan",
-    "type": "Frasa / Klausa"
   },
   {
     "id": "N2.8.3",
@@ -137,7 +65,7 @@
   {
     "id": "N2.8.10",
     "kanji": "腹が立つ",
-    "component": "腹",
+    "component": "",
     "hiragana": "はらがたつ",
     "enMeaning": "Get angry",
     "idMeaning": "Menjadi marah / kesal",
@@ -146,7 +74,7 @@
   {
     "id": "N2.8.11",
     "kanji": "見た目",
-    "component": "見た",
+    "component": "",
     "hiragana": "みため",
     "enMeaning": "Appearance / look",
     "idMeaning": "Penampilan / tampilan",
@@ -159,15 +87,6 @@
     "hiragana": "にゅうもん",
     "enMeaning": "Introduction / beginner's guide",
     "idMeaning": "Pengantar / dasar untuk pemula",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.13",
-    "kanji": "駆動",
-    "component": "",
-    "hiragana": "くどう",
-    "enMeaning": "Drive / operation (of a machine)",
-    "idMeaning": "Penggerak / pengoperasian mesin",
     "type": "Kata Benda"
   }
 ]

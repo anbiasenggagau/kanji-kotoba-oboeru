@@ -100,11 +100,11 @@
   },
   {
     "id": "N2.3.12",
-    "kanji": "申し込み",
+    "kanji": "着手",
     "component": "",
-    "hiragana": "もうしこみ",
-    "enMeaning": "Application",
-    "idMeaning": "Pendaftaran",
+    "hiragana": "ちゃくしゅ",
+    "enMeaning": "Start / commence",
+    "idMeaning": "Mulai mengerjakan",
     "type": "Kata Benda"
   },
   {
@@ -217,12 +217,12 @@
   },
   {
     "id": "N2.3.25",
-    "kanji": "喜んで",
+    "kanji": "対応",
     "component": "",
-    "hiragana": "よろこんで",
-    "enMeaning": "Gladly",
-    "idMeaning": "Dengan senang hati",
-    "type": "Frasa / Klausa"
+    "hiragana": "たいおう",
+    "enMeaning": "Handling / response / support",
+    "idMeaning": "Menangani / respons / dukungan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.3.26",
@@ -289,12 +289,12 @@
   },
   {
     "id": "N2.3.33",
-    "kanji": "張る",
+    "kanji": "駆動",
     "component": "",
-    "hiragana": "はる",
-    "enMeaning": "Stretch / stick",
-    "idMeaning": "Meregangkan / menempel",
-    "type": "KK Transitif"
+    "hiragana": "くどう",
+    "enMeaning": "Drive / operation (of a machine)",
+    "idMeaning": "Penggerak / pengoperasian mesin",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.3.34",
@@ -343,11 +343,11 @@
   },
   {
     "id": "N2.3.39",
-    "kanji": "お互いに",
+    "kanji": "甲斐がある",
     "component": "",
-    "hiragana": "おたがいに",
-    "enMeaning": "Each other",
-    "idMeaning": "Saling",
+    "hiragana": "かいがある",
+    "enMeaning": "Be worth doing",
+    "idMeaning": "Ada hasilnya / layak dilakukan",
     "type": "Frasa / Klausa"
   },
   {

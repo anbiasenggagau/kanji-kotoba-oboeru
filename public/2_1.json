@@ -1798,5 +1798,50 @@
     "enMeaning": "Endure / withstand",
     "idMeaning": "Menahan / bertahan terhadap",
     "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.1.201",
+    "kanji": "仕様",
+    "component": "",
+    "hiragana": "しよう",
+    "enMeaning": "Specification",
+    "idMeaning": "Spesifikasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.202",
+    "kanji": "見積もり",
+    "component": "",
+    "hiragana": "みつもり",
+    "enMeaning": "Estimate / quotation",
+    "idMeaning": "Estimasi / penawaran harga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.203",
+    "kanji": "開発環境",
+    "component": "",
+    "hiragana": "かいはつかんきょう",
+    "enMeaning": "Development environment",
+    "idMeaning": "Lingkungan pengembangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.204",
+    "kanji": "本番環境",
+    "component": "",
+    "hiragana": "ほんばんかんきょう",
+    "enMeaning": "Production environment",
+    "idMeaning": "Lingkungan produksi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.205",
+    "kanji": "不具合",
+    "component": "",
+    "hiragana": "ふぐあい",
+    "enMeaning": "Bug / defect / malfunction",
+    "idMeaning": "Bug / cacat / gangguan",
+    "type": "Kata Benda"
   }
 ]
