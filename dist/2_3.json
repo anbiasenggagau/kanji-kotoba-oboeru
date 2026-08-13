@@ -580,8 +580,8 @@
     "kanji": "拝借",
     "component": "",
     "hiragana": "はいしゃく",
-    "enMeaning": "Borrow (humble)",
-    "idMeaning": "Meminjam (rendah hati)",
+    "enMeaning": "Borrow (kenjougo)",
+    "idMeaning": "Meminjam (kenjougo)",
     "type": "Kata Benda"
   },
   {
@@ -784,12 +784,12 @@
   },
   {
     "id": "N2.3.88",
-    "kanji": "～対～",
+    "kanji": "時間外",
     "component": "",
-    "hiragana": "〜たい〜",
-    "enMeaning": "~ versus ~",
-    "idMeaning": "~ melawan ~",
-    "type": "Frasa / Klausa"
+    "hiragana": "じかんがい",
+    "enMeaning": "Outside working hours / overtime",
+    "idMeaning": "Di luar jam kerja / lembur",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.3.89",

@@ -1,29 +1,11 @@
 [
   {
-    "id": "N2.8.12",
-    "kanji": "時間外",
-    "component": "",
-    "hiragana": "じかんがい",
-    "enMeaning": "Outside working hours / overtime",
-    "idMeaning": "Di luar jam kerja / lembur",
-    "type": "Kata Benda"
-  },
-  {
     "id": "N2.8.1",
     "kanji": "同期",
     "component": "",
     "hiragana": "どうき",
     "enMeaning": "Same period / synchronization",
     "idMeaning": "Seangkatan / sinkronisasi",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.3",
-    "kanji": "適正",
-    "component": "",
-    "hiragana": "てきせい",
-    "enMeaning": "Suitable / appropriate",
-    "idMeaning": "Kesesuaian / kecocokan",
     "type": "Kata Benda"
   },
   {
