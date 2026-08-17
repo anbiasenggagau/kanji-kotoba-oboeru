@@ -1798,5 +1798,50 @@
     "enMeaning": "Temporary / special",
     "idMeaning": "Sementara / darurat",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.201",
+    "kanji": "業界",
+    "component": "",
+    "hiragana": "ぎょうかい",
+    "enMeaning": "Industry / business sector",
+    "idMeaning": "Industri / sektor usaha",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.202",
+    "kanji": "職種",
+    "component": "",
+    "hiragana": "しょくしゅ",
+    "enMeaning": "Type of occupation / job category",
+    "idMeaning": "Jenis pekerjaan / kategori pekerjaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.203",
+    "kanji": "日系",
+    "component": "",
+    "hiragana": "にっけい",
+    "enMeaning": "Japanese-affiliated / Japanese descent",
+    "idMeaning": "Berasal dari Jepang / terkait Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.204",
+    "kanji": "大手",
+    "component": "",
+    "hiragana": "おおて",
+    "enMeaning": "Major company / leading firm",
+    "idMeaning": "Perusahaan besar / perusahaan terkemuka",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.205",
+    "kanji": "正社員",
+    "component": "",
+    "hiragana": "せいしゃいん",
+    "enMeaning": "Permanent employee",
+    "idMeaning": "Karyawan tetap",
+    "type": "Kata Benda"
   }
 ]

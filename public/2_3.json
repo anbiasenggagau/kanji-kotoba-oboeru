@@ -1274,7 +1274,7 @@
     "component": "",
     "hiragana": "おそれいります",
     "enMeaning": "I'm very sorry / thank you very much",
-    "idMeaning": "Mohon maaf / terima kasih banyak (ungkapan sopan)",
+    "idMeaning": "Mohon maaf / terima kasih banyak",
     "type": "Frasa / Klausa"
   },
   {
@@ -1797,6 +1797,51 @@
     "hiragana": "まくら",
     "enMeaning": "Pillow",
     "idMeaning": "Bantal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.201",
+    "kanji": "腹が立つ",
+    "component": "",
+    "hiragana": "はらがたつ",
+    "enMeaning": "Get angry / be annoyed",
+    "idMeaning": "Marah / kesal",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.3.202",
+    "kanji": "見た目",
+    "component": "",
+    "hiragana": "みため",
+    "enMeaning": "Appearance / looks",
+    "idMeaning": "Penampilan / tampilan luar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.203",
+    "kanji": "入門",
+    "component": "",
+    "hiragana": "にゅうもん",
+    "enMeaning": "Introduction / beginner's guide",
+    "idMeaning": "Pengantar / tingkat pemula",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.204",
+    "kanji": "報酬",
+    "component": "",
+    "hiragana": "ほうしゅう",
+    "enMeaning": "Reward / remuneration / compensation",
+    "idMeaning": "Imbalan / kompensasi / bayaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.205",
+    "kanji": "競合他社",
+    "component": "",
+    "hiragana": "きょうごうたしゃ",
+    "enMeaning": "Competitor / competing company",
+    "idMeaning": "Perusahaan pesaing",
     "type": "Kata Benda"
   }
 ]

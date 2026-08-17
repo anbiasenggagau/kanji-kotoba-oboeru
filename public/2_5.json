@@ -1798,5 +1798,50 @@
     "enMeaning": "Horizontal / level",
     "idMeaning": "Horisontal / mendatar",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.201",
+    "kanji": "昨今",
+    "component": "",
+    "hiragana": "さっこん",
+    "enMeaning": "Nowadays / recently",
+    "idMeaning": "Belakangan ini / akhir-akhir ini",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.202",
+    "kanji": "進化",
+    "component": "",
+    "hiragana": "しんか",
+    "enMeaning": "Evolution / advancement",
+    "idMeaning": "Evolusi / perkembangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.203",
+    "kanji": "急速",
+    "component": "",
+    "hiragana": "きゅうそく",
+    "enMeaning": "Rapid / rapidness",
+    "idMeaning": "Cepat / pesat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.5.204",
+    "kanji": "この先",
+    "component": "",
+    "hiragana": "このさき",
+    "enMeaning": "From now on / ahead / in the future",
+    "idMeaning": "Mulai sekarang / ke depan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.205",
+    "kanji": "同社",
+    "component": "",
+    "hiragana": "どうしゃ",
+    "enMeaning": "The same company / said company",
+    "idMeaning": "Perusahaan tersebut / perusahaan yang sama",
+    "type": "Kata Benda"
   }
 ]

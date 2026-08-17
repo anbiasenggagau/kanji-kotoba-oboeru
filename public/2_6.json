@@ -1798,5 +1798,50 @@
     "enMeaning": "Transparent / clear",
     "idMeaning": "Transparan / bening",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.6.201",
+    "kanji": "～向け",
+    "component": "",
+    "hiragana": "むけ",
+    "enMeaning": "Intended for / aimed at",
+    "idMeaning": "Ditujukan untuk / diperuntukkan bagi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.202",
+    "kanji": "上司",
+    "component": "",
+    "hiragana": "じょうし",
+    "enMeaning": "Boss / supervisor / superior",
+    "idMeaning": "Atasan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.203",
+    "kanji": "有給休暇",
+    "component": "",
+    "hiragana": "ゆうきゅうきゅうか",
+    "enMeaning": "Paid leave / paid vacation",
+    "idMeaning": "Cuti berbayar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.204",
+    "kanji": "領域",
+    "component": "",
+    "hiragana": "りょういき",
+    "enMeaning": "Area / field / domain",
+    "idMeaning": "Bidang / wilayah / ranah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.205",
+    "kanji": "費やす",
+    "component": "",
+    "hiragana": "ついやす",
+    "enMeaning": "Spend / devote",
+    "idMeaning": "Menghabiskan / mencurahkan",
+    "type": "KK Transitif"
   }
 ]

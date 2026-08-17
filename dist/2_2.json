@@ -1798,5 +1798,50 @@
     "enMeaning": "Main street / avenue",
     "idMeaning": "Jalan utama / boulevard",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.201",
+    "kanji": "同期",
+    "component": "",
+    "hiragana": "どうき",
+    "enMeaning": "Same period / synchronization",
+    "idMeaning": "Seangkatan / sinkronisasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.202",
+    "kanji": "利用規約",
+    "component": "",
+    "hiragana": "りようきやく",
+    "enMeaning": "Terms of service",
+    "idMeaning": "Syarat dan ketentuan penggunaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.203",
+    "kanji": "取り組む",
+    "component": "",
+    "hiragana": "とりくむ",
+    "enMeaning": "Work on / tackle",
+    "idMeaning": "Menangani / mengerjakan",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.2.204",
+    "kanji": "偏差",
+    "component": "",
+    "hiragana": "へんさ",
+    "enMeaning": "Deviation",
+    "idMeaning": "Penyimpangan / deviasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.205",
+    "kanji": "悪化",
+    "component": "",
+    "hiragana": "あっか",
+    "enMeaning": "Deterioration / worsening",
+    "idMeaning": "Memburuk / kemunduran",
+    "type": "Kata Benda"
   }
 ]

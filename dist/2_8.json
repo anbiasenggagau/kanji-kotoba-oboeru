@@ -1798,5 +1798,50 @@
     "enMeaning": "Derailment / digression",
     "idMeaning": "Keluar jalur / menyimpang pembicaraan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.201",
+    "kanji": "業務",
+    "component": "",
+    "hiragana": "ぎょうむ",
+    "enMeaning": "Business / work / duties",
+    "idMeaning": "Pekerjaan / tugas / operasional",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.202",
+    "kanji": "委託",
+    "component": "",
+    "hiragana": "いたく",
+    "enMeaning": "Entrustment / outsourcing / commission",
+    "idMeaning": "Pelimpahan / outsourcing / pendelegasian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.203",
+    "kanji": "業務委託",
+    "component": "",
+    "hiragana": "ぎょうむいたく",
+    "enMeaning": "Outsourcing / contract work",
+    "idMeaning": "Outsourcing pekerjaan / pekerjaan kontrak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.204",
+    "kanji": "案件",
+    "component": "",
+    "hiragana": "あんけん",
+    "enMeaning": "Project / case / business matter",
+    "idMeaning": "Proyek / pekerjaan / perkara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.205",
+    "kanji": "自体",
+    "component": "",
+    "hiragana": "じたい",
+    "enMeaning": "Itself / in itself",
+    "idMeaning": "Itu sendiri / pada dirinya sendiri",
+    "type": "Kata Benda"
   }
 ]

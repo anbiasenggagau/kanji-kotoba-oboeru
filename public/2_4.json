@@ -1798,5 +1798,50 @@
     "enMeaning": "Friction",
     "idMeaning": "Gesekan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.201",
+    "kanji": "差別化",
+    "component": "",
+    "hiragana": "さべつか",
+    "enMeaning": "Differentiation",
+    "idMeaning": "Diferensiasi / pembedaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.202",
+    "kanji": "業務領域",
+    "component": "",
+    "hiragana": "ぎょうむりょういき",
+    "enMeaning": "Business domain / area of operations",
+    "idMeaning": "Bidang pekerjaan / wilayah operasional",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.203",
+    "kanji": "機嫌",
+    "component": "",
+    "hiragana": "きげん",
+    "enMeaning": "Mood / temper",
+    "idMeaning": "Suasana hati / perasaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.204",
+    "kanji": "気合",
+    "component": "",
+    "hiragana": "きあい",
+    "enMeaning": "Fighting spirit / enthusiasm",
+    "idMeaning": "Semangat / tekad",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.205",
+    "kanji": "部門",
+    "component": "",
+    "hiragana": "ぶもん",
+    "enMeaning": "Department / division / section",
+    "idMeaning": "Departemen / divisi / bagian",
+    "type": "Kata Benda"
   }
 ]
