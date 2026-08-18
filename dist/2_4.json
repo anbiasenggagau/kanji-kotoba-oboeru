@@ -100,11 +100,11 @@
   },
   {
     "id": "N2.4.12",
-    "kanji": "歯磨き",
+    "kanji": "決断",
     "component": "",
-    "hiragana": "はみがき",
-    "enMeaning": "Brushing teeth",
-    "idMeaning": "Menyikat gigi",
+    "hiragana": "けつだん",
+    "enMeaning": "Decision / determination",
+    "idMeaning": "Keputusan / tekad",
     "type": "Kata Benda"
   },
   {
@@ -410,7 +410,7 @@
     "component": "",
     "hiragana": "〜はい",
     "enMeaning": "Counter for cups",
-    "idMeaning": "Kata bantu hitung gelas",
+    "idMeaning": "~ gelas",
     "type": "Frasa / Klausa"
   },
   {
@@ -631,11 +631,11 @@
   },
   {
     "id": "N2.4.71",
-    "kanji": "司会者",
+    "kanji": "混入",
     "component": "",
-    "hiragana": "しかいしゃ",
-    "enMeaning": "Host / MC",
-    "idMeaning": "Pembawa acara",
+    "hiragana": "こんにゅう",
+    "enMeaning": "Contamination / mixing in",
+    "idMeaning": "Tercampur",
     "type": "Kata Benda"
   },
   {
@@ -1738,11 +1738,11 @@
   },
   {
     "id": "N2.4.194",
-    "kanji": "先祖",
+    "kanji": "巡り",
     "component": "",
-    "hiragana": "せんぞ",
-    "enMeaning": "Ancestor",
-    "idMeaning": "Nenek moyang / leluhur",
+    "hiragana": "めぐり",
+    "enMeaning": "Circulation / touring",
+    "idMeaning": "Perputaran / berkeliling",
     "type": "Kata Benda"
   },
   {
@@ -1842,6 +1842,51 @@
     "hiragana": "ぶもん",
     "enMeaning": "Department / division / section",
     "idMeaning": "Departemen / divisi / bagian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.206",
+    "kanji": "概要欄",
+    "component": "",
+    "hiragana": "がいようらん",
+    "enMeaning": "Description section / description box",
+    "idMeaning": "Kolom deskripsi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.207",
+    "kanji": "事項",
+    "component": "",
+    "hiragana": "じこう",
+    "enMeaning": "Matter / item / point",
+    "idMeaning": "Hal / butir / poin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.208",
+    "kanji": "経歴",
+    "component": "",
+    "hiragana": "けいれき",
+    "enMeaning": "Career history / background",
+    "idMeaning": "Riwayat karier / latar belakang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.209",
+    "kanji": "動機",
+    "component": "",
+    "hiragana": "どうき",
+    "enMeaning": "Motive / motivation",
+    "idMeaning": "Motif / alasan / motivasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.210",
+    "kanji": "志望動機",
+    "component": "",
+    "hiragana": "しぼうどうき",
+    "enMeaning": "Reason for applying / motivation for applying",
+    "idMeaning": "Alasan melamar / motivasi melamar",
     "type": "Kata Benda"
   }
 ]

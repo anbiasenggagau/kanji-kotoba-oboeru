@@ -1843,5 +1843,50 @@
     "enMeaning": "Permanent employee",
     "idMeaning": "Karyawan tetap",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.206",
+    "kanji": "落ち込む",
+    "component": "",
+    "hiragana": "おちこむ",
+    "enMeaning": "Feel depressed / become discouraged",
+    "idMeaning": "Merasa terpuruk / patah semangat",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.207",
+    "kanji": "打ち合わせる",
+    "component": "",
+    "hiragana": "うちあわせる",
+    "enMeaning": "Discuss / arrange / have a meeting",
+    "idMeaning": "Membahas / melakukan pertemuan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.7.208",
+    "kanji": "空席",
+    "component": "",
+    "hiragana": "くうせき",
+    "enMeaning": "Empty seat / vacancy",
+    "idMeaning": "Kursi kosong / tempat kosong",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.209",
+    "kanji": "欠勤",
+    "component": "",
+    "hiragana": "けっきん",
+    "enMeaning": "Absence from work",
+    "idMeaning": "Tidak masuk kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.210",
+    "kanji": "意気込む",
+    "component": "",
+    "hiragana": "いきごむ",
+    "enMeaning": "Be enthusiastic / be determined",
+    "idMeaning": "Bersemangat / bertekad",
+    "type": "KK Intransitif"
   }
 ]

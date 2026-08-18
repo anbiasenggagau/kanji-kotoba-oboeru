@@ -1843,5 +1843,50 @@
     "enMeaning": "Itself / in itself",
     "idMeaning": "Itu sendiri / pada dirinya sendiri",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.206",
+    "kanji": "簡潔",
+    "component": "",
+    "hiragana": "かんけつ",
+    "enMeaning": "Concise / brief",
+    "idMeaning": "Singkat dan jelas / ringkas",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.8.207",
+    "kanji": "返答",
+    "component": "",
+    "hiragana": "へんとう",
+    "enMeaning": "Reply / response / answer",
+    "idMeaning": "Jawaban / tanggapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.208",
+    "kanji": "協調",
+    "component": "",
+    "hiragana": "きょうちょう",
+    "enMeaning": "Cooperation / coordination",
+    "idMeaning": "Kerja sama / koordinasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.209",
+    "kanji": "好印象",
+    "component": "",
+    "hiragana": "こういんしょう",
+    "enMeaning": "Good impression",
+    "idMeaning": "Kesan yang baik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.210",
+    "kanji": "認定",
+    "component": "",
+    "hiragana": "にんてい",
+    "enMeaning": "Certification / recognition",
+    "idMeaning": "Sertifikasi / pengakuan",
+    "type": "Kata Benda"
   }
 ]

@@ -1,101 +1,29 @@
 [
   {
-    "id": "N2.8.45",
-    "kanji": "決断",
+    "id": "N2.8.18",
+    "kanji": "最悪",
     "component": "",
-    "hiragana": "けつだん",
-    "enMeaning": "Decision / determination",
-    "idMeaning": "Keputusan / tekad",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.46",
-    "kanji": "概要欄",
-    "component": "",
-    "hiragana": "がいようらん",
-    "enMeaning": "Description section / description box",
-    "idMeaning": "Kolom deskripsi",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.47",
-    "kanji": "事項",
-    "component": "",
-    "hiragana": "じこう",
-    "enMeaning": "Matter / item / point",
-    "idMeaning": "Hal / butir / poin",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.48",
-    "kanji": "経歴",
-    "component": "",
-    "hiragana": "けいれき",
-    "enMeaning": "Career history / background",
-    "idMeaning": "Riwayat karier / latar belakang",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.50",
-    "kanji": "動機",
-    "component": "",
-    "hiragana": "どうき",
-    "enMeaning": "Motive / motivation",
-    "idMeaning": "Motif / alasan / motivasi",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.51",
-    "kanji": "志望動機",
-    "component": "",
-    "hiragana": "しぼうどうき",
-    "enMeaning": "Reason for applying / motivation for applying",
-    "idMeaning": "Alasan melamar / motivasi melamar",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.52",
-    "kanji": "主体的",
-    "component": "",
-    "hiragana": "しゅたいてき",
-    "enMeaning": "Proactive / independent / self-directed",
-    "idMeaning": "Proaktif / mandiri / atas inisiatif sendiri",
+    "hiragana": "さいあく",
+    "enMeaning": "Worst / terrible",
+    "idMeaning": "Terburuk / sangat buruk",
     "type": "Kata Sifat な"
   },
   {
-    "id": "N2.8.53",
-    "kanji": "短所",
+    "id": "N2.8.20",
+    "kanji": "溜まるし",
     "component": "",
-    "hiragana": "たんしょ",
-    "enMeaning": "Weakness / shortcoming",
-    "idMeaning": "Kelemahan / kekurangan",
-    "type": "Kata Benda"
+    "hiragana": "たまるし",
+    "enMeaning": "It piles up",
+    "idMeaning": "Menumpuk juga / terakumulasi",
+    "type": "Frasa / Klausa"
   },
   {
-    "id": "N2.8.54",
-    "kanji": "他責",
+    "id": "N2.8.22",
+    "kanji": "勧誘",
     "component": "",
-    "hiragana": "たせき",
-    "enMeaning": "Blaming others / blaming external factors",
-    "idMeaning": "Menyalahkan orang lain / faktor eksternal",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.55",
-    "kanji": "母国語",
-    "component": "",
-    "hiragana": "ぼこくご",
-    "enMeaning": "Native language / mother tongue",
-    "idMeaning": "Bahasa ibu / bahasa asli",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.56",
-    "kanji": "第一言語",
-    "component": "",
-    "hiragana": "だいいちげんご",
-    "enMeaning": "First language",
-    "idMeaning": "Bahasa pertama",
+    "hiragana": "かんゆう",
+    "enMeaning": "Invitation / recruitment",
+    "idMeaning": "Ajakan / perekrutan",
     "type": "Kata Benda"
   }
 ]

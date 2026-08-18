@@ -1843,5 +1843,50 @@
     "enMeaning": "Spend / devote",
     "idMeaning": "Menghabiskan / mencurahkan",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N2.6.206",
+    "kanji": "野良",
+    "component": "",
+    "hiragana": "のら",
+    "enMeaning": "Stray / wild",
+    "idMeaning": "Liar / tidak dipelihara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.207",
+    "kanji": "襲う",
+    "component": "",
+    "hiragana": "おそう",
+    "enMeaning": "Attack / assault",
+    "idMeaning": "Menyerang",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.6.208",
+    "kanji": "同僚",
+    "component": "",
+    "hiragana": "どうりょう",
+    "enMeaning": "Colleague / coworker",
+    "idMeaning": "Rekan kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.209",
+    "kanji": "共感",
+    "component": "",
+    "hiragana": "きょうかん",
+    "enMeaning": "Empathy / sympathy",
+    "idMeaning": "Empati / rasa simpati",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.210",
+    "kanji": "語尾",
+    "component": "",
+    "hiragana": "ごび",
+    "enMeaning": "Word ending / sentence ending",
+    "idMeaning": "Akhiran kata / akhiran kalimat",
+    "type": "Kata Benda"
   }
 ]
