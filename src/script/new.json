@@ -1,14 +1,5 @@
 [
   {
-    "id": "N2.8.18",
-    "kanji": "最悪",
-    "component": "",
-    "hiragana": "さいあく",
-    "enMeaning": "Worst / terrible",
-    "idMeaning": "Terburuk / sangat buruk",
-    "type": "Kata Sifat な"
-  },
-  {
     "id": "N2.8.20",
     "kanji": "溜まるし",
     "component": "",
@@ -25,5 +16,15 @@
     "enMeaning": "Invitation / recruitment",
     "idMeaning": "Ajakan / perekrutan",
     "type": "Kata Benda"
+  },
+  "====================N3====================",
+  {
+    "id": "N2.8.18",
+    "kanji": "最悪",
+    "component": "",
+    "hiragana": "さいあく",
+    "enMeaning": "Worst / terrible",
+    "idMeaning": "Terburuk / sangat buruk",
+    "type": "Kata Sifat な"
   }
 ]
