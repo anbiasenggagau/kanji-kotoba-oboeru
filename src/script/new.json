@@ -1,30 +1,120 @@
 [
   {
-    "id": "N2.8.20",
-    "kanji": "溜まるし",
+    "id": "N2.8.3",
+    "kanji": "熊",
     "component": "",
-    "hiragana": "たまるし",
-    "enMeaning": "It piles up",
-    "idMeaning": "Menumpuk juga / terakumulasi",
-    "type": "Frasa / Klausa"
+    "hiragana": "くま",
+    "enMeaning": "Bear",
+    "idMeaning": "Beruang",
+    "type": "Kata Benda"
   },
   {
-    "id": "N2.8.22",
-    "kanji": "勧誘",
+    "id": "N2.8.4",
+    "kanji": "飼い主",
     "component": "",
-    "hiragana": "かんゆう",
-    "enMeaning": "Invitation / recruitment",
-    "idMeaning": "Ajakan / perekrutan",
+    "hiragana": "かいぬし",
+    "enMeaning": "Pet owner",
+    "idMeaning": "Pemilik hewan peliharaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.6",
+    "kanji": "合間",
+    "component": "",
+    "hiragana": "あいま",
+    "enMeaning": "Interval / spare time between",
+    "idMeaning": "Waktu senggang / sela-sela",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.7",
+    "kanji": "外務省",
+    "component": "",
+    "hiragana": "がいむしょう",
+    "enMeaning": "Ministry of Foreign Affairs",
+    "idMeaning": "Kementerian Luar Negeri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.8",
+    "kanji": "財務省",
+    "component": "",
+    "hiragana": "財務省",
+    "enMeaning": "Ministry of Finance",
+    "idMeaning": "Kementerian Keuangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.10",
+    "kanji": "文部科学省",
+    "component": "",
+    "hiragana": "もんぶかがくしょう",
+    "enMeaning": "Ministry Education, Science & Technology",
+    "idMeaning": "Kementerian Pendidikan, Sains & Teknologi",
     "type": "Kata Benda"
   },
   "====================N3====================",
   {
-    "id": "N2.8.18",
-    "kanji": "最悪",
+    "id": "N3.8.1",
+    "kanji": "ありがたい事に",
     "component": "",
-    "hiragana": "さいあく",
-    "enMeaning": "Worst / terrible",
-    "idMeaning": "Terburuk / sangat buruk",
+    "hiragana": "ありがたいことに",
+    "enMeaning": "Thankfully / fortunately",
+    "idMeaning": "Syukurlah / untungnya",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.8.2",
+    "kanji": "参考",
+    "component": "",
+    "hiragana": "さんこう",
+    "enMeaning": "Reference / consultation",
+    "idMeaning": "Referensi / acuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.4",
+    "kanji": "達する",
+    "component": "",
+    "hiragana": "たっする",
+    "enMeaning": "Reach / attain / amount to",
+    "idMeaning": "Mencapai / mencapai jumlah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.8.6",
+    "kanji": "慎重",
+    "component": "",
+    "hiragana": "しんちょう",
+    "enMeaning": "Careful / cautious / prudent",
+    "idMeaning": "Hati-hati / waspada / cermat",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.8.7",
+    "kanji": "更に",
+    "component": "",
+    "hiragana": "さらに",
+    "enMeaning": "Furthermore / even more / additionally",
+    "idMeaning": "Lebih lanjut / semakin / selain itu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.8",
+    "kanji": "違反",
+    "component": "",
+    "hiragana": "いはん",
+    "enMeaning": "Violation / infringement",
+    "idMeaning": "Pelanggaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.9",
+    "kanji": "従兄弟",
+    "component": "",
+    "hiragana": "いとこ",
+    "enMeaning": "Cousin",
+    "idMeaning": "Sepupu",
+    "type": "Kata Benda"
   }
 ]

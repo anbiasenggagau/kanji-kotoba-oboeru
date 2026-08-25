@@ -253,9 +253,9 @@
   },
   {
     "id": "N2.2.29",
-    "kanji": "日本式",
+    "kanji": "日本式/和式",
     "component": "",
-    "hiragana": "にほんしき",
+    "hiragana": "にほんしき/わしき",
     "enMeaning": "Japanese style",
     "idMeaning": "Gaya Jepang",
     "type": "Kata Benda"

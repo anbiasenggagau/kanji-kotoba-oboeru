@@ -1198,11 +1198,11 @@
   },
   {
     "id": "N2.4.134",
-    "kanji": "～省",
+    "kanji": "首になる",
     "component": "",
-    "hiragana": "〜しょう",
-    "enMeaning": "~ Ministry",
-    "idMeaning": "Kementerian ~",
+    "hiragana": "くびになる",
+    "enMeaning": "Get fired / lose one's job",
+    "idMeaning": "Dipecat / kehilangan pekerjaan",
     "type": "Frasa / Klausa"
   },
   {
@@ -1576,12 +1576,12 @@
   },
   {
     "id": "N2.4.176",
-    "kanji": "～坂",
+    "kanji": "合否",
     "component": "",
-    "hiragana": "〜ざか",
-    "enMeaning": "~ slope / hill",
-    "idMeaning": "Bukit / tanjakan ~",
-    "type": "Frasa / Klausa"
+    "hiragana": "ごうひ",
+    "enMeaning": "Pass or fail",
+    "idMeaning": "Lulus atau gagal",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.4.177",
@@ -1594,11 +1594,11 @@
   },
   {
     "id": "N2.4.178",
-    "kanji": "湾",
+    "kanji": "軽車両",
     "component": "",
-    "hiragana": "わん",
-    "enMeaning": "Bay / gulf",
-    "idMeaning": "Teluk",
+    "hiragana": "けいしゃりょう",
+    "enMeaning": "Light vehicle / bicycle",
+    "idMeaning": "Kendaraan ringan / sepeda",
     "type": "Kata Benda"
   },
   {
@@ -1666,12 +1666,12 @@
   },
   {
     "id": "N2.4.186",
-    "kanji": "～湖",
+    "kanji": "市場",
     "component": "",
-    "hiragana": "〜こ",
-    "enMeaning": "~ lake",
-    "idMeaning": "Danau ~",
-    "type": "Frasa / Klausa"
+    "hiragana": "しじょう",
+    "enMeaning": "Market",
+    "idMeaning": "Pasar",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.4.187",

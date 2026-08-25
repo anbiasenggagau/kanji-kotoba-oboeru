@@ -145,12 +145,12 @@
   },
   {
     "id": "N2.5.17",
-    "kanji": "～塔",
+    "kanji": "勧誘",
     "component": "",
-    "hiragana": "〜とう",
-    "enMeaning": "~ tower",
-    "idMeaning": "Menara ~",
-    "type": "Frasa / Klausa"
+    "hiragana": "かんゆう",
+    "enMeaning": "Invitation / solicitation",
+    "idMeaning": "Ajakan / permohonan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.5.18",
@@ -460,7 +460,7 @@
   },
   {
     "id": "N2.5.52",
-    "kanji": "粒",
+    "kanji": "粒/～粒",
     "component": "",
     "hiragana": "つぶ",
     "enMeaning": "Grain / particle",
@@ -469,12 +469,12 @@
   },
   {
     "id": "N2.5.53",
-    "kanji": "～粒",
+    "kanji": "流れ",
     "component": "",
-    "hiragana": "〜つぶ",
-    "enMeaning": "~ grains / pills",
-    "idMeaning": "~ butir",
-    "type": "Frasa / Klausa"
+    "hiragana": "ながれ",
+    "enMeaning": "Flow / current / sequence",
+    "idMeaning": "Aliran / arus / urutan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.5.54",

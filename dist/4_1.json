@@ -784,9 +784,9 @@
   },
   {
     "id": "N4.1.88",
-    "kanji": "湖",
+    "kanji": "湖/～湖",
     "component": "",
-    "hiragana": "みずうみ",
+    "hiragana": "みずうみ/～こ",
     "enMeaning": "Lake",
     "idMeaning": "Danau",
     "type": "Kata Benda"
@@ -874,9 +874,9 @@
   },
   {
     "id": "N4.1.98",
-    "kanji": "坂",
+    "kanji": "坂/～坂",
     "component": "",
-    "hiragana": "さか",
+    "hiragana": "さか/～ざか",
     "enMeaning": "Slope / hill",
     "idMeaning": "Tanjakan",
     "type": "Kata Benda"
