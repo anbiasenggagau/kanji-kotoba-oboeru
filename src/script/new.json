@@ -1,5 +1,14 @@
 [
   {
+    "id": "N2.8.1",
+    "kanji": "日々",
+    "component": "",
+    "hiragana": "ひび",
+    "enMeaning": "Every day / day by day",
+    "idMeaning": "Setiap hari / hari demi hari",
+    "type": "Kata Benda"
+  },
+  {
     "id": "N2.8.3",
     "kanji": "熊",
     "component": "",
@@ -115,6 +124,16 @@
     "hiragana": "いとこ",
     "enMeaning": "Cousin",
     "idMeaning": "Sepupu",
+    "type": "Kata Benda"
+  },
+  "====================N5====================",
+  {
+    "id": "N2.5.192",
+    "kanji": "川/河",
+    "component": "",
+    "hiragana": "かわ",
+    "enMeaning": "River",
+    "idMeaning": "Sungai",
     "type": "Kata Benda"
   }
 ]

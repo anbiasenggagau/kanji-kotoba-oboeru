@@ -1526,7 +1526,7 @@
     "component": "",
     "hiragana": "のうど",
     "enMeaning": "Concentration",
-    "idMeaning": "Konsentrasi",
+    "idMeaning": "Konsentrasi (kimia)",
     "type": "Kata Benda"
   },
   {
@@ -1720,11 +1720,11 @@
   },
   {
     "id": "N2.5.192",
-    "kanji": "川/河",
+    "kanji": "妨害",
     "component": "",
-    "hiragana": "かわ",
-    "enMeaning": "River",
-    "idMeaning": "Sungai",
+    "hiragana": "ぼうがい",
+    "enMeaning": "Interference / obstruction",
+    "idMeaning": "Gangguan / hambatan",
     "type": "Kata Benda"
   },
   {
@@ -1841,7 +1841,7 @@
     "component": "",
     "hiragana": "どうしゃ",
     "enMeaning": "The same company / said company",
-    "idMeaning": "Perusahaan tersebut / perusahaan yang sama",
+    "idMeaning": "Perusahaan yang sama",
     "type": "Kata Benda"
   },
   {
