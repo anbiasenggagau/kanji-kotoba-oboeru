@@ -397,11 +397,11 @@
   },
   {
     "id": "N2.7.45",
-    "kanji": "人文科学",
+    "kanji": "緯度",
     "component": "",
-    "hiragana": "じんぶんかがく",
-    "enMeaning": "Humanities",
-    "idMeaning": "Ilmu humaniora",
+    "hiragana": "いど",
+    "enMeaning": "Latitude",
+    "idMeaning": "Garis lintang",
     "type": "Kata Benda"
   },
   {
@@ -1742,7 +1742,7 @@
     "component": "",
     "hiragana": "ふくらます",
     "enMeaning": "Inflate / swell / expand",
-    "idMeaning": "Mengembangkan / meniup agar mengembang",
+    "idMeaning": "Mengembangkan",
     "type": "KK Transitif"
   },
   {

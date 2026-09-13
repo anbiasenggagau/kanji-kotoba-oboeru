@@ -172,21 +172,21 @@
   },
   {
     "id": "N2.6.20",
-    "kanji": "海底",
+    "kanji": "海底/海の底",
     "component": "",
-    "hiragana": "かいてい",
+    "hiragana": "かいてい/うみのそこ",
     "enMeaning": "Seabed",
     "idMeaning": "Dasar laut",
     "type": "Kata Benda"
   },
   {
     "id": "N2.6.21",
-    "kanji": "海の底",
+    "kanji": "奇数",
     "component": "",
-    "hiragana": "うみのそこ",
-    "enMeaning": "Bottom of the sea",
-    "idMeaning": "Dasar laut",
-    "type": "Frasa / Klausa"
+    "hiragana": "きすう",
+    "enMeaning": "Odd number",
+    "idMeaning": "Bilangan ganjil",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.6.22",
@@ -775,21 +775,21 @@
   },
   {
     "id": "N2.6.87",
-    "kanji": "軍",
+    "kanji": "率",
+    "component": "",
+    "hiragana": "りつ",
+    "enMeaning": "Rate / ratio / percentage",
+    "idMeaning": "Tingkat / rasio / persentase",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.88",
+    "kanji": "軍/～軍",
     "component": "",
     "hiragana": "ぐん",
     "enMeaning": "Army / military",
     "idMeaning": "Militer / tentara",
     "type": "Kata Benda"
-  },
-  {
-    "id": "N2.6.88",
-    "kanji": "～軍",
-    "component": "",
-    "hiragana": "～ぐん",
-    "enMeaning": "~army",
-    "idMeaning": "~pasukan",
-    "type": "Frasa / Klausa"
   },
   {
     "id": "N2.6.89",
@@ -1486,12 +1486,12 @@
   },
   {
     "id": "N2.6.166",
-    "kanji": "昇る",
+    "kanji": "試み",
     "component": "",
-    "hiragana": "のぼる",
-    "enMeaning": "Rise / go up",
-    "idMeaning": "Naik",
-    "type": "KK Intransitif"
+    "hiragana": "こころみ",
+    "enMeaning": "Attempt / try",
+    "idMeaning": "Percobaan / upaya",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.6.167",
@@ -1819,11 +1819,11 @@
   },
   {
     "id": "N2.6.203",
-    "kanji": "有給休暇",
+    "kanji": "部下",
     "component": "",
-    "hiragana": "ゆうきゅうきゅうか",
-    "enMeaning": "Paid leave / paid vacation",
-    "idMeaning": "Cuti berbayar",
+    "hiragana": "ぶか",
+    "enMeaning": "Subordinate / junior employee",
+    "idMeaning": "Bawahan",
     "type": "Kata Benda"
   },
   {

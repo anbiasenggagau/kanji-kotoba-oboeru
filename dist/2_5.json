@@ -388,12 +388,12 @@
   },
   {
     "id": "N2.5.44",
-    "kanji": "～皿",
+    "kanji": "日々",
     "component": "",
-    "hiragana": "〜さら",
-    "enMeaning": "~ plate",
-    "idMeaning": "Piring ~",
-    "type": "Frasa / Klausa"
+    "hiragana": "ひび",
+    "enMeaning": "Every day / day by day",
+    "idMeaning": "Setiap hari / hari demi hari",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.5.45",
@@ -1009,12 +1009,12 @@
   },
   {
     "id": "N2.5.113",
-    "kanji": "踊り",
+    "kanji": "生む/産む",
     "component": "",
-    "hiragana": "おどり",
-    "enMeaning": "Dance",
-    "idMeaning": "Tarian",
-    "type": "Kata Benda"
+    "hiragana": "うむ",
+    "enMeaning": "Give birth to / produce / create",
+    "idMeaning": "Melahirkan / menghasilkan / menciptakan",
+    "type": "KK Transitif"
   },
   {
     "id": "N2.5.114",
@@ -1040,17 +1040,17 @@
     "component": "",
     "hiragana": "ざっしゅ",
     "enMeaning": "Hybrid / mixed breed",
-    "idMeaning": "Campuran",
+    "idMeaning": "Campuran (biologi)",
     "type": "Kata Benda"
   },
   {
     "id": "N2.5.117",
-    "kanji": "匹",
+    "kanji": "熊",
     "component": "",
-    "hiragana": "ひき",
-    "enMeaning": "Counter for small animals",
-    "idMeaning": "Kata bantu bilangan untuk hewan kecil",
-    "type": "Frasa / Klausa"
+    "hiragana": "くま",
+    "enMeaning": "Bear",
+    "idMeaning": "Beruang",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.5.118",
@@ -1108,12 +1108,12 @@
   },
   {
     "id": "N2.5.124",
-    "kanji": "～酒",
+    "kanji": "切断",
     "component": "",
-    "hiragana": "〜しゅ",
-    "enMeaning": "~alcohol / ~liquor",
-    "idMeaning": "Akhiran untuk jenis minuman beralkohol",
-    "type": "Frasa / Klausa"
+    "hiragana": "せつだん",
+    "enMeaning": "Severing / disconnection",
+    "idMeaning": "Pemutusan / pemotongan",
+    "type": "Kata Benda"
   },
   {
     "id": "N2.5.125",

@@ -1,20 +1,56 @@
 [
   {
-    "id": "N2.8.1",
-    "kanji": "日々",
+    "id": "6",
+    "kanji": "浮気",
     "component": "",
-    "hiragana": "ひび",
-    "enMeaning": "Every day / day by day",
-    "idMeaning": "Setiap hari / hari demi hari",
+    "hiragana": "うわき",
+    "enMeaning": "Cheating / infidelity / unfaithfulness",
+    "idMeaning": "Selingkuh / perselingkuhan",
     "type": "Kata Benda"
   },
   {
-    "id": "N2.8.3",
-    "kanji": "熊",
+    "id": "7",
+    "kanji": "登校",
     "component": "",
-    "hiragana": "くま",
-    "enMeaning": "Bear",
-    "idMeaning": "Beruang",
+    "hiragana": "とうこう",
+    "enMeaning": "Going to school",
+    "idMeaning": "Pergi ke sekolah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "8",
+    "kanji": "人文科学",
+    "component": "",
+    "hiragana": "じんぶんかがく",
+    "enMeaning": "Humanities",
+    "idMeaning": "Ilmu humaniora",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "9",
+    "kanji": "いい加減",
+    "component": "",
+    "hiragana": "いいかげん",
+    "enMeaning": "Careless / irresponsible / half-hearted",
+    "idMeaning": "Sembarangan / tidak bertanggung jawab / asal-asalan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "10",
+    "kanji": "縛られる",
+    "component": "",
+    "hiragana": "しばられる",
+    "enMeaning": "Be bound / be restricted",
+    "idMeaning": "Terikat / dibatasi",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "11",
+    "kanji": "有給休暇",
+    "component": "",
+    "hiragana": "ゆうきゅうきゅうか",
+    "enMeaning": "Paid leave / paid vacation",
+    "idMeaning": "Cuti berbayar",
     "type": "Kata Benda"
   },
   {
@@ -124,6 +160,16 @@
     "hiragana": "いとこ",
     "enMeaning": "Cousin",
     "idMeaning": "Sepupu",
+    "type": "Kata Benda"
+  },
+  "====================N4====================",
+  {
+    "id": "N2.5.113",
+    "kanji": "踊り",
+    "component": "",
+    "hiragana": "おどり",
+    "enMeaning": "Dance",
+    "idMeaning": "Tarian",
     "type": "Kata Benda"
   },
   "====================N5====================",
