@@ -26,6 +26,8 @@ const selectedVolumes = ref<Record<string, number[]>>({
     N2: [],
 })
 
+const flaggedActive = ref(false)
+
 // Helper to check if all levels have all volumes selected
 function isAllLevelsSelected() {
     if (Object.keys(volumes).every(level =>
@@ -84,8 +86,8 @@ function selectAllVolumesLevel() {
 function startKanjiTest() {
     const selectedKanjiVolumes = Object.entries(selectedVolumes.value)
         .flatMap(([level, vols]) => vols.map(vol => `/${level[1]}_${vol}.json`))
-    kanjiData.setData(selectedKanjiVolumes, maxKanji.value)
-    if (selectedKanjiVolumes.length != 0)
+    kanjiData.setData(selectedKanjiVolumes, maxKanji.value, flaggedActive.value)
+    if (selectedKanjiVolumes.length != 0 || flaggedActive.value)
         routerOpt.push({ name: "test" })
     else
         alertRef.value?.show()
@@ -107,6 +109,11 @@ function blurFocus(event: Event) {
         <div class="flex justify-center space-x-3 lg:space-x-6">
             <Button v-for="level in Object.keys(selectedVolumes)" :key="level" class="text-xs md:text-lg" :label="level"
                 :variant="selectedLevel === level ? 'link' : 'outlined'" @click="chooseLevel(level)" />
+        </div>
+
+        <div class="flex justify-center">
+            <Button key="flagged" label="Flagged" :variant="flaggedActive ? 'link' : 'outlined'"
+                @click="flaggedActive = !flaggedActive"></Button>
         </div>
 
         <!-- Volumes (multi-select) -->

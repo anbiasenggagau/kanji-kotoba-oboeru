@@ -26,15 +26,18 @@ export const resultStore = defineStore("resultStore", {
 export const kanjiTestStore = defineStore("kanjiTestStore", {
     state: () => ({
         data: [] as string[],
+        flagged: false,
         max: 0 as number
     }),
     actions: {
-        setData(data: string[], max: number = 0) {
+        setData(data: string[], max: number = 0, flagged = false) {
             this.data = data
+            this.flagged = flagged
             this.max = max
         },
         clearData() {
             this.data = []
+            this.flagged = false
             this.max = 0
         }
     }

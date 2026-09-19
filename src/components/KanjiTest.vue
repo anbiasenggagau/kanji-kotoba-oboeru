@@ -106,14 +106,30 @@ function shuffle(array: KanjiType[]) {
 }
 
 async function initData() {
-    if (kanjiFile.data.length == 0) {
+    if (kanjiFile.data.length == 0 && !kanjiFile.flagged) {
         routerOpt.replace({ name: "home" })
     }
-    const results = await Promise.all(
+    let results = await Promise.all(
         kanjiFile.data.map(file => fetch(file).then(r => r.json()))
-    )
-    if (results.length == 0)
+    ) as KanjiType[]
+
+    if (results.length == 0 && !kanjiFile.flagged)
         routerOpt.replace({ name: "home" })
+
+    results = (results[0] as unknown as KanjiType[])
+    if (kanjiFile.flagged) {
+        const unique = new Set()
+        const flaggedKanji = await flagData.getKanji()
+        results.push(...flaggedKanji)
+
+        results = results.filter(item => {
+            if (unique.has(item.id)) {
+                return false;
+            }
+            unique.add(item.id);
+            return true;
+        })
+    }
 
     let remainingKanji: (KanjiType & { progress: number, lastProgress: Date, flagged: boolean })[] = []
     let finalResults: KanjiType[] = []
@@ -121,6 +137,7 @@ async function initData() {
         let inserted = 0
         finalResults = shuffle(results.flat())
             .map((val, index, arr) => {
+
                 // skip remaining kanji if slot kanji is fullfilled
                 if (inserted >= kanjiFile.max) {
                     return
@@ -157,6 +174,7 @@ async function initData() {
             })
             .filter(val => val != undefined)
 
+        // If maximum amount still not fulfilled
         // Insert most prioritize kanji
         if (kanjiFile.max > inserted) {
             // DEBUG
@@ -184,8 +202,14 @@ async function initData() {
             // console.info("Sorted data")
             // console.info(remainingKanji)
 
-            for (let i = 0; i < kanjiFile.max - inserted; i++) {
-                finalResults.push(remainingKanji[i] as KanjiType)
+            if (remainingKanji.length > kanjiFile.max) {
+                for (let i = 0; i < kanjiFile.max - inserted; i++) {
+                    finalResults.push(remainingKanji[i] as KanjiType)
+                }
+            } else {
+                for (let i = 0; i < remainingKanji.length; i++) {
+                    finalResults.push(remainingKanji[i] as KanjiType)
+                }
             }
         }
     } else {
