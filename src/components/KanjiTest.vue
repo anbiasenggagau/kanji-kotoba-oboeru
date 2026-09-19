@@ -116,7 +116,7 @@ async function initData() {
     if (results.length == 0 && !kanjiFile.flagged)
         routerOpt.replace({ name: "home" })
 
-    results = (results[0] as unknown as KanjiType[])
+    results = (results.flat() as unknown as KanjiType[])
     if (kanjiFile.flagged) {
         const unique = new Set()
         const flaggedKanji = await flagData.getKanji()
@@ -135,7 +135,7 @@ async function initData() {
     let finalResults: KanjiType[] = []
     if (kanjiFile.max > 0) {
         let inserted = 0
-        finalResults = shuffle(results.flat())
+        finalResults = shuffle(results)
             .map((val, index, arr) => {
 
                 // skip remaining kanji if slot kanji is fullfilled

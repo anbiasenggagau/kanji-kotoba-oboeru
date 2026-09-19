@@ -327,6 +327,10 @@ export const flagStore = defineStore('flagStore', () => {
         })
     }
 
+    function flagIsEmpty() {
+        return Object.keys(flag.value).length <= 0
+    }
+
     function pushData(data: KanjiType) {
         flag.value[data.kanji] = data
         setLocalStorage("flagStore", flag.value)
@@ -398,7 +402,7 @@ export const flagStore = defineStore('flagStore', () => {
         return result
     }
 
-    return { flag, getKanji, pushData, removeData, clearData, checkKanjiExist }
+    return { flag, flagIsEmpty, getKanji, pushData, removeData, clearData, checkKanjiExist }
 })
 
 function setLocalStorage(memoryId: string, data: any) {

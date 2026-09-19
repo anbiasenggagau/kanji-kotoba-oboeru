@@ -2,7 +2,7 @@
 import { ref } from "vue";
 import { useRouter } from "vue-router";
 import { volumes } from "../const";
-import { kanjiTestStore } from "../store";
+import { flagStore, kanjiTestStore } from "../store";
 import Button from '../volt/Button.vue';
 import Card from '../volt/Card.vue';
 import Checkbox from "../volt/Checkbox.vue";
@@ -11,6 +11,7 @@ import SecondaryButton from '../volt/SecondaryButton.vue';
 import Alert from "./Alert.vue";
 
 const kanjiData = kanjiTestStore()
+const flagData = flagStore()
 const routerOpt = useRouter()
 kanjiData.clearData()
 
@@ -101,7 +102,7 @@ function blurFocus(event: Event) {
 <template>
     <Alert ref="alertRef" message="Minimal pilih satu volume"></Alert>
     <div class="flex flex-col justify-center items-center min-h-[100dvh] space-y-2.5 lg:space-y-4">
-        <img src="/logo.png" class="mb-0 lg:mb-12" alt="logo" />
+        <img src="/logo.png" class="h-30 md:h-40 lg:h-45 w-auto lg:h-16 mb-0 lg:mb-12" alt="logo" />
         <SecondaryButton @click="selectAllVolumesLevel" class="text-xs md:text-lg"
             :label="selectedAll ? 'Tidak Pilih Semua' : 'Pilih Semua'" variant="link" />
 
@@ -111,9 +112,10 @@ function blurFocus(event: Event) {
                 :variant="selectedLevel === level ? 'link' : 'outlined'" @click="chooseLevel(level)" />
         </div>
 
+        <!-- Extras -->
         <div class="flex justify-center">
-            <Button key="flagged" label="Flagged" :variant="flaggedActive ? 'link' : 'outlined'"
-                @click="flaggedActive = !flaggedActive"></Button>
+            <Button class="text-xs md:text-lg" key="flagged" label="Flagged" :disabled="flagData.flagIsEmpty()"
+                :variant="flaggedActive ? 'link' : 'outlined'" @click="flaggedActive = !flaggedActive"></Button>
         </div>
 
         <!-- Volumes (multi-select) -->
