@@ -4,7 +4,7 @@
     "kanji": "浮気",
     "component": "",
     "hiragana": "うわき",
-    "enMeaning": "Cheating / infidelity / unfaithfulness",
+    "enMeaning": "Cheating / infidelity",
     "idMeaning": "Selingkuh / perselingkuhan",
     "type": "Kata Benda"
   },
@@ -32,26 +32,8 @@
     "component": "",
     "hiragana": "いいかげん",
     "enMeaning": "Careless / irresponsible / half-hearted",
-    "idMeaning": "Sembarangan / tidak bertanggung jawab / asal-asalan",
+    "idMeaning": "Sembarangan / asal-asalan",
     "type": "Kata Sifat な"
-  },
-  {
-    "id": "10",
-    "kanji": "縛られる",
-    "component": "",
-    "hiragana": "しばられる",
-    "enMeaning": "Be bound / be restricted",
-    "idMeaning": "Terikat / dibatasi",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "11",
-    "kanji": "有給休暇",
-    "component": "",
-    "hiragana": "ゆうきゅうきゅうか",
-    "enMeaning": "Paid leave / paid vacation",
-    "idMeaning": "Cuti berbayar",
-    "type": "Kata Benda"
   },
   {
     "id": "N2.8.4",
@@ -60,15 +42,6 @@
     "hiragana": "かいぬし",
     "enMeaning": "Pet owner",
     "idMeaning": "Pemilik hewan peliharaan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.6",
-    "kanji": "合間",
-    "component": "",
-    "hiragana": "あいま",
-    "enMeaning": "Interval / spare time between",
-    "idMeaning": "Waktu senggang / sela-sela",
     "type": "Kata Benda"
   },
   {

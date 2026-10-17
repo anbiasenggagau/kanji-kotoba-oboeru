@@ -370,6 +370,29 @@ export const flagStore = defineStore('flagStore', () => {
     if (!used.value)
         initialize()
 
+    function importData(data: KanjiType[]) {
+        let newData = false
+        for (const val of data) {
+            const fields = Object.keys(val)
+            if (
+                (fields.includes("id") && typeof val["id"] == "string") &&
+                (fields.includes("kanji") && typeof val["kanji"] == "string") &&
+                (fields.includes("hiragana") && typeof val["hiragana"] == "string") &&
+                (fields.includes("idMeaning") && typeof val["idMeaning"] == "string") &&
+                (fields.includes("enMeaning") && typeof val["enMeaning"] == "string") &&
+                (fields.includes("type") && typeof val["type"] == "string")
+            ) {
+                flag.value[val.kanji] = val
+                newData = true
+            }
+        }
+
+        if (newData) {
+            setLocalStorage("flagStore", flag.value)
+            getKanji();
+        }
+    }
+
     async function getKanji() {
         await kanjiData.initialize()
         const result: KanjiType[] = []
@@ -399,10 +422,11 @@ export const flagStore = defineStore('flagStore', () => {
 
             result.push(flag.value[data]!)
         }
+        setLocalStorage("flagStore", flag.value)
         return result
     }
 
-    return { flag, flagIsEmpty, getKanji, pushData, removeData, clearData, checkKanjiExist }
+    return { flag, flagIsEmpty, getKanji, importData, pushData, removeData, clearData, checkKanjiExist }
 })
 
 function setLocalStorage(memoryId: string, data: any) {

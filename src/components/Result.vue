@@ -40,7 +40,7 @@ let sumColorGroupOrdered = ref<Record<string, number>[]>([])
 let groupedProgress = ref<KanjiProgress[][]>([])
 
 watch(
-    () => progressData.progress,
+    [() => progressData.progress, flagData.flag],
     () => {
         const sumColor: Record<string, number> = {}
         const sumColorGroup: Record<string, number>[] = []
@@ -229,7 +229,8 @@ function importProgress() {
         try {
             const text = await file.text()
             const jsonData = JSON.parse(text)
-            progressData.importData(jsonData)
+            progressData.importData(jsonData.progress)
+            flagData.importData(jsonData.flag)
         } catch (err: any) {
             toast.add({ severity: 'error', summary: "Error", detail: err.message, life: 3000 })
         }
@@ -237,8 +238,12 @@ function importProgress() {
     fileInput.click()
 }
 
-function exportProgress() {
-    const data = JSON.stringify(progressData.progress)
+async function exportProgress() {
+    const exportData = {
+        progress: progressData.progress,
+        flag: await flagData.getKanji(),
+    }
+    const data = JSON.stringify(exportData)
     const blob = new Blob([data], { type: 'application/json' })
     const url = URL.createObjectURL(blob)
 
