@@ -418,6 +418,8 @@ export const flagStore = defineStore('flagStore', () => {
                 ) {
                     flag.value[data] = findKanji
                 }
+            } else {
+                delete flag.value[data]
             }
 
             result.push(flag.value[data]!)
