@@ -685,9 +685,9 @@
   },
   {
     "id": "N3.4.77",
-    "kanji": "配送料",
+    "kanji": "送料/配送料",
     "component": "",
-    "hiragana": "はいそうりょう",
+    "hiragana": "そうりょう / はいそうりょう",
     "enMeaning": "Shipping fee",
     "idMeaning": "Ongkos kirim",
     "type": "Kata Benda"
