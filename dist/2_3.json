@@ -1843,5 +1843,140 @@
     "enMeaning": "Competitor / competing company",
     "idMeaning": "Perusahaan pesaing",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.206",
+    "kanji": "新入生",
+    "component": "",
+    "hiragana": "しんにゅうせい",
+    "enMeaning": "New student / first-year student",
+    "idMeaning": "Siswa baru / mahasiswa baru",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.207",
+    "kanji": "山林",
+    "component": "",
+    "hiragana": "さんりん",
+    "enMeaning": "Mountain forest / woodland",
+    "idMeaning": "Hutan pegunungan / kawasan hutan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.208",
+    "kanji": "恵む",
+    "component": "",
+    "hiragana": "めぐむ",
+    "enMeaning": "To give alms / to bestow",
+    "idMeaning": "Memberi sedekah / menganugerahkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.3.209",
+    "kanji": "一人っ子",
+    "component": "",
+    "hiragana": "ひとりっこ",
+    "enMeaning": "Only child",
+    "idMeaning": "Anak tunggal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.210",
+    "kanji": "小売",
+    "component": "",
+    "hiragana": "こうり",
+    "enMeaning": "Retail / retail sales",
+    "idMeaning": "Penjualan eceran / ritel",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.211",
+    "kanji": "中間",
+    "component": "",
+    "hiragana": "ちゅうかん",
+    "enMeaning": "Middle / intermediate / midway",
+    "idMeaning": "Tengah / pertengahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.212",
+    "kanji": "工学",
+    "component": "",
+    "hiragana": "こうがく",
+    "enMeaning": "Engineering",
+    "idMeaning": "Ilmu teknik / rekayasa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.213",
+    "kanji": "地元",
+    "component": "",
+    "hiragana": "じもと",
+    "enMeaning": "Local area / hometown",
+    "idMeaning": "Daerah setempat / kampung halaman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.214",
+    "kanji": "小切手",
+    "component": "",
+    "hiragana": "こぎって",
+    "enMeaning": "Check / cheque",
+    "idMeaning": "Cek",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.215",
+    "kanji": "移民/移住",
+    "component": "",
+    "hiragana": "いみん/いじゅう",
+    "enMeaning": "Immigration / migration / relocation",
+    "idMeaning": "Imigrasi / migrasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.216",
+    "kanji": "妊娠",
+    "component": "",
+    "hiragana": "にんしん",
+    "enMeaning": "Pregnancy / conception",
+    "idMeaning": "Kehamilan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.217",
+    "kanji": "誠実",
+    "component": "",
+    "hiragana": "せいじつ",
+    "enMeaning": "Sincerity / honesty / faithful",
+    "idMeaning": "Ketulusan / kejujuran / setia",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.3.218",
+    "kanji": "忠誠",
+    "component": "",
+    "hiragana": "ちゅうせい",
+    "enMeaning": "Loyalty / allegiance",
+    "idMeaning": "Kesetiaan / loyalitas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.219",
+    "kanji": "世代",
+    "component": "",
+    "hiragana": "せだい",
+    "enMeaning": "Generation",
+    "idMeaning": "Generasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.220",
+    "kanji": "認識",
+    "component": "",
+    "hiragana": "にんしき",
+    "enMeaning": "Recognition / awareness / understanding",
+    "idMeaning": "Pengenalan / kesadaran / pemahaman",
+    "type": "Kata Benda"
   }
 ]

@@ -898,5 +898,185 @@
     "enMeaning": "Occasionally / once in a while",
     "idMeaning": "Kadang-kadang",
     "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N4.2.101",
+    "kanji": "天文学",
+    "component": "",
+    "hiragana": "てんもんがく",
+    "enMeaning": "Astronomy",
+    "idMeaning": "Astronomi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.102",
+    "kanji": "外側",
+    "component": "",
+    "hiragana": "そとがわ",
+    "enMeaning": "Outside / exterior",
+    "idMeaning": "Bagian luar / sisi luar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.103",
+    "kanji": "北口",
+    "component": "",
+    "hiragana": "きたぐち",
+    "enMeaning": "North exit",
+    "idMeaning": "Pintu keluar utara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.104",
+    "kanji": "中古車",
+    "component": "",
+    "hiragana": "ちゅうこしゃ",
+    "enMeaning": "Used car",
+    "idMeaning": "Mobil bekas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.105",
+    "kanji": "古代",
+    "component": "",
+    "hiragana": "こだい",
+    "enMeaning": "Ancient times / antiquity",
+    "idMeaning": "Zaman kuno",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.106",
+    "kanji": "名古屋",
+    "component": "",
+    "hiragana": "なごや",
+    "enMeaning": "Nagoya",
+    "idMeaning": "Nagoya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.107",
+    "kanji": "白人",
+    "component": "",
+    "hiragana": "はくじん",
+    "enMeaning": "White person",
+    "idMeaning": "Orang kulit putih",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.108",
+    "kanji": "同級生",
+    "component": "",
+    "hiragana": "どうきゅうせい",
+    "enMeaning": "Classmate",
+    "idMeaning": "Teman sekelas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.109",
+    "kanji": "年金",
+    "component": "",
+    "hiragana": "ねんきん",
+    "enMeaning": "Pension",
+    "idMeaning": "Uang pensiun",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.110",
+    "kanji": "西部",
+    "component": "",
+    "hiragana": "せいぶ",
+    "enMeaning": "Western region / western part",
+    "idMeaning": "Wilayah barat / bagian barat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.111",
+    "kanji": "行方",
+    "component": "",
+    "hiragana": "ゆくえ",
+    "enMeaning": "Whereabouts / destination",
+    "idMeaning": "Keberadaan / tujuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.112",
+    "kanji": "社名",
+    "component": "",
+    "hiragana": "しゃめい",
+    "enMeaning": "Company name",
+    "idMeaning": "Nama perusahaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.113",
+    "kanji": "男優",
+    "component": "",
+    "hiragana": "だんゆう",
+    "enMeaning": "Male actor",
+    "idMeaning": "Aktor laki-laki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.114",
+    "kanji": "体力",
+    "component": "",
+    "hiragana": "たいりょく",
+    "enMeaning": "Physical strength / stamina",
+    "idMeaning": "Kekuatan fisik / stamina",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.115",
+    "kanji": "運動不足",
+    "component": "",
+    "hiragana": "うんどうぶそく",
+    "enMeaning": "Lack of exercise",
+    "idMeaning": "Kurang olahraga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.116",
+    "kanji": "寝不足",
+    "component": "",
+    "hiragana": "ねぶそく",
+    "enMeaning": "Lack of sleep",
+    "idMeaning": "Kurang tidur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.117",
+    "kanji": "外来語",
+    "component": "",
+    "hiragana": "がいらいご",
+    "enMeaning": "Loanword / foreign-derived word",
+    "idMeaning": "Kata serapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.118",
+    "kanji": "帰国",
+    "component": "",
+    "hiragana": "きこく",
+    "enMeaning": "Returning to one's country",
+    "idMeaning": "Pulang ke negara sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.119",
+    "kanji": "来店",
+    "component": "",
+    "hiragana": "らいてん",
+    "enMeaning": "Visiting a store",
+    "idMeaning": "Mengunjungi toko",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.2.120",
+    "kanji": "雨宿り",
+    "component": "",
+    "hiragana": "あまやどり",
+    "enMeaning": "Taking shelter from the rain",
+    "idMeaning": "Berteduh dari hujan",
+    "type": "Kata Benda"
   }
 ]

@@ -1888,5 +1888,95 @@
     "enMeaning": "Certification / recognition",
     "idMeaning": "Sertifikasi / pengakuan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.211",
+    "kanji": "旅先",
+    "component": "",
+    "hiragana": "たびさき",
+    "enMeaning": "Travel destination / place one is visiting",
+    "idMeaning": "Tempat tujuan perjalanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.212",
+    "kanji": "手数料",
+    "component": "",
+    "hiragana": "てすうりょう",
+    "enMeaning": "Service fee / handling fee / commission",
+    "idMeaning": "Biaya layanan / biaya administrasi / komisi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.213",
+    "kanji": "悪夢",
+    "component": "",
+    "hiragana": "あくむ",
+    "enMeaning": "Nightmare",
+    "idMeaning": "Mimpi buruk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.214",
+    "kanji": "生産性",
+    "component": "",
+    "hiragana": "せいさんせい",
+    "enMeaning": "Productivity",
+    "idMeaning": "Produktivitas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.215",
+    "kanji": "国産",
+    "component": "",
+    "hiragana": "こくさん",
+    "enMeaning": "Domestic production / domestically produced",
+    "idMeaning": "Produksi dalam negeri / buatan dalam negeri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.216",
+    "kanji": "進路",
+    "component": "",
+    "hiragana": "しんろ",
+    "enMeaning": "Future course / career path / route",
+    "idMeaning": "Arah masa depan / jalur karier / rute",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.217",
+    "kanji": "気分転換",
+    "component": "",
+    "hiragana": "きぶんてんかん",
+    "enMeaning": "Change of mood / a change of pace",
+    "idMeaning": "Penyegaran pikiran / perubahan suasana hati",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.218",
+    "kanji": "転勤",
+    "component": "",
+    "hiragana": "てんきん",
+    "enMeaning": "Job transfer / relocation for work",
+    "idMeaning": "Mutasi kerja / pindah tugas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.219",
+    "kanji": "運命",
+    "component": "",
+    "hiragana": "うんめい",
+    "enMeaning": "Fate / destiny",
+    "idMeaning": "Takdir / nasib",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.8.220",
+    "kanji": "寒気",
+    "component": "",
+    "hiragana": "かんき/さむけ",
+    "enMeaning": "Cold weather / chill / feeling cold",
+    "idMeaning": "Udara dingin / menggigil kedinginan",
+    "type": "Kata Benda"
   }
 ]

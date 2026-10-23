@@ -1888,5 +1888,95 @@
     "enMeaning": "Be enthusiastic / be determined",
     "idMeaning": "Bersemangat / bertekad",
     "type": "KK Intransitif"
+  },
+  {
+    "id": "N2.7.211",
+    "kanji": "海底",
+    "component": "",
+    "hiragana": "かいてい",
+    "enMeaning": "Seabed / ocean floor",
+    "idMeaning": "Dasar laut",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.212",
+    "kanji": "海水",
+    "component": "",
+    "hiragana": "かいすい",
+    "enMeaning": "Seawater",
+    "idMeaning": "Air laut",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.213",
+    "kanji": "家計",
+    "component": "",
+    "hiragana": "かけい",
+    "enMeaning": "Household finances / family budget",
+    "idMeaning": "Keuangan rumah tangga / anggaran keluarga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.214",
+    "kanji": "討論/討議",
+    "component": "",
+    "hiragana": "とうろん/とうぎ",
+    "enMeaning": "Debate / discussion / deliberation",
+    "idMeaning": "Debat / diskusi / musyawarah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.215",
+    "kanji": "診断",
+    "component": "",
+    "hiragana": "しんだん",
+    "enMeaning": "Diagnosis / assessment",
+    "idMeaning": "Diagnosis / penilaian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.216",
+    "kanji": "貴重品",
+    "component": "",
+    "hiragana": "きちょうひん",
+    "enMeaning": "Valuables / precious belongings",
+    "idMeaning": "Barang berharga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.217",
+    "kanji": "洋風",
+    "component": "",
+    "hiragana": "ようふう",
+    "enMeaning": "Western-style / Western-inspired",
+    "idMeaning": "Bergaya Barat / bergaya Eropa",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.218",
+    "kanji": "和風",
+    "component": "",
+    "hiragana": "わふう",
+    "enMeaning": "Japanese-style / Japanese-inspired",
+    "idMeaning": "Bergaya Jepang",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.7.219",
+    "kanji": "起原/起源",
+    "component": "",
+    "hiragana": "きげん",
+    "enMeaning": "Origin / beginning / source",
+    "idMeaning": "Asal-usul / permulaan / sumber",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.7.220",
+    "kanji": "特売",
+    "component": "",
+    "hiragana": "とくばい",
+    "enMeaning": "Special sale / promotional sale",
+    "idMeaning": "Penjualan khusus / obral",
+    "type": "Kata Benda"
   }
 ]

@@ -1348,5 +1348,185 @@
     "enMeaning": "Affection",
     "idMeaning": "Kasih sayang",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.151",
+    "kanji": "物質",
+    "component": "",
+    "hiragana": "ぶっしつ",
+    "enMeaning": "Substance / matter / material",
+    "idMeaning": "Zat / materi / bahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.152",
+    "kanji": "人物",
+    "component": "",
+    "hiragana": "じんぶつ",
+    "enMeaning": "Person / character / figure",
+    "idMeaning": "Orang / tokoh / sosok",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.153",
+    "kanji": "徹底",
+    "component": "",
+    "hiragana": "てってい",
+    "enMeaning": "Thoroughness / thorough implementation",
+    "idMeaning": "Ketuntasan / pelaksanaan secara menyeluruh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.154",
+    "kanji": "徹夜",
+    "component": "",
+    "hiragana": "てつや",
+    "enMeaning": "Staying up all night",
+    "idMeaning": "Begadang semalaman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.155",
+    "kanji": "海軍",
+    "component": "",
+    "hiragana": "かいぐん",
+    "enMeaning": "Navy",
+    "idMeaning": "Angkatan laut",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.156",
+    "kanji": "会計",
+    "component": "",
+    "hiragana": "かいけい",
+    "enMeaning": "Accounting / bill / checkout",
+    "idMeaning": "Akuntansi / tagihan / pembayaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.157",
+    "kanji": "思い出",
+    "component": "",
+    "hiragana": "おもいで",
+    "enMeaning": "Memory / recollection",
+    "idMeaning": "Kenangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.158",
+    "kanji": "思想",
+    "component": "",
+    "hiragana": "しそう",
+    "enMeaning": "Thought / ideology / philosophy",
+    "idMeaning": "Pemikiran / ideologi / filsafat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.159",
+    "kanji": "片思い",
+    "component": "",
+    "hiragana": "かたおもい",
+    "enMeaning": "Unrequited love / one-sided love",
+    "idMeaning": "Cinta bertepuk sebelah tangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.160",
+    "kanji": "維持",
+    "component": "",
+    "hiragana": "いじ",
+    "enMeaning": "Maintenance / preservation / keeping",
+    "idMeaning": "Pemeliharaan / mempertahankan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.161",
+    "kanji": "重視",
+    "component": "",
+    "hiragana": "じゅうし",
+    "enMeaning": "Emphasis / placing importance on",
+    "idMeaning": "Penekanan / mengutamakan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.162",
+    "kanji": "貴重",
+    "component": "",
+    "hiragana": "きちょう",
+    "enMeaning": "Valuable / precious",
+    "idMeaning": "Berharga / bernilai tinggi",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.6.163",
+    "kanji": "重大",
+    "component": "",
+    "hiragana": "じゅうだい",
+    "enMeaning": "Serious / important / significant",
+    "idMeaning": "Serius / penting / signifikan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.6.164",
+    "kanji": "描く/画く",
+    "component": "",
+    "hiragana": "えがく／かく",
+    "enMeaning": "To draw / depict / portray",
+    "idMeaning": "Menggambar / melukiskan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.6.165",
+    "kanji": "品質",
+    "component": "",
+    "hiragana": "ひんしつ",
+    "enMeaning": "Quality",
+    "idMeaning": "Kualitas / mutu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.166",
+    "kanji": "食品",
+    "component": "",
+    "hiragana": "しょくひん",
+    "enMeaning": "Food products / foodstuffs",
+    "idMeaning": "Produk makanan / bahan pangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.167",
+    "kanji": "部品",
+    "component": "",
+    "hiragana": "ぶひん",
+    "enMeaning": "Parts / components",
+    "idMeaning": "Komponen / suku cadang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.168",
+    "kanji": "借家",
+    "component": "",
+    "hiragana": "しゃくや",
+    "enMeaning": "Rented house",
+    "idMeaning": "Rumah kontrakan / rumah sewaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.169",
+    "kanji": "特技",
+    "component": "",
+    "hiragana": "とくぎ",
+    "enMeaning": "Special skill / forte",
+    "idMeaning": "Keahlian khusus / keterampilan unggulan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.6.170",
+    "kanji": "悪魔",
+    "component": "",
+    "hiragana": "あくま",
+    "enMeaning": "Devil / demon",
+    "idMeaning": "Iblis / setan",
+    "type": "Kata Benda"
   }
 ]

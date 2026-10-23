@@ -1888,5 +1888,95 @@
     "enMeaning": "Word ending / sentence ending",
     "idMeaning": "Akhiran kata / akhiran kalimat",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.211",
+    "kanji": "英雄",
+    "component": "",
+    "hiragana": "えいゆう",
+    "enMeaning": "Hero / heroic figure",
+    "idMeaning": "Pahlawan / sosok heroik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.212",
+    "kanji": "英文学",
+    "component": "",
+    "hiragana": "えいぶんがく",
+    "enMeaning": "English literature",
+    "idMeaning": "Sastra Inggris",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.213",
+    "kanji": "使命",
+    "component": "",
+    "hiragana": "しめい",
+    "enMeaning": "Mission / duty / calling",
+    "idMeaning": "Misi / tugas / panggilan hidup",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.214",
+    "kanji": "給油",
+    "component": "",
+    "hiragana": "きゅうゆ",
+    "enMeaning": "Refueling / supplying fuel",
+    "idMeaning": "Pengisian bahan bakar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.215",
+    "kanji": "給油所",
+    "component": "",
+    "hiragana": "きゅうゆじょ",
+    "enMeaning": "Gas station / fueling station",
+    "idMeaning": "Stasiun pengisian bahan bakar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.216",
+    "kanji": "刺青",
+    "component": "",
+    "hiragana": "いれずみ",
+    "enMeaning": "Tattoo",
+    "idMeaning": "Tato",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.217",
+    "kanji": "制服",
+    "component": "",
+    "hiragana": "せいふく",
+    "enMeaning": "Uniform",
+    "idMeaning": "Seragam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.218",
+    "kanji": "不明",
+    "component": "",
+    "hiragana": "ふめい",
+    "enMeaning": "Unknown / unclear / unidentified",
+    "idMeaning": "Tidak diketahui / belum teridentifikasi",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.6.219",
+    "kanji": "夜行",
+    "component": "",
+    "hiragana": "やこう",
+    "enMeaning": "Traveling at night / night service",
+    "idMeaning": "Perjalanan malam / layanan malam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.220",
+    "kanji": "本音",
+    "component": "",
+    "hiragana": "ほんね",
+    "enMeaning": "True feelings / real intention",
+    "idMeaning": "Perasaan sebenarnya / maksud sebenarnya",
+    "type": "Kata Benda"
   }
 ]

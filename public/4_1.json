@@ -898,5 +898,185 @@
     "enMeaning": "High school",
     "idMeaning": "Sekolah menengah atas",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.101",
+    "kanji": "踊り",
+    "component": "",
+    "hiragana": "おどり",
+    "enMeaning": "Dance",
+    "idMeaning": "Tarian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.102",
+    "kanji": "彼氏",
+    "component": "",
+    "hiragana": "かれし",
+    "enMeaning": "Boyfriend",
+    "idMeaning": "Pacar laki-laki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.103",
+    "kanji": "一期一会",
+    "component": "",
+    "hiragana": "いちごいちえ",
+    "enMeaning": "Once-in-a-lifetime encounter",
+    "idMeaning": "Pertemuan sekali seumur hidup",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.104",
+    "kanji": "千葉",
+    "component": "",
+    "hiragana": "ちば",
+    "enMeaning": "Chiba",
+    "idMeaning": "Chiba",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.105",
+    "kanji": "土地",
+    "component": "",
+    "hiragana": "とち",
+    "enMeaning": "Land / plot of land",
+    "idMeaning": "Tanah / lahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.106",
+    "kanji": "山小屋",
+    "component": "",
+    "hiragana": "やまごや",
+    "enMeaning": "Mountain hut",
+    "idMeaning": "Pondok gunung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.107",
+    "kanji": "男子",
+    "component": "",
+    "hiragana": "だんし",
+    "enMeaning": "Male / boy",
+    "idMeaning": "Laki-laki / anak laki-laki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.108",
+    "kanji": "子猫",
+    "component": "",
+    "hiragana": "こねこ",
+    "enMeaning": "Kitten",
+    "idMeaning": "Anak kucing",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.109",
+    "kanji": "子犬",
+    "component": "",
+    "hiragana": "こいぬ",
+    "enMeaning": "Puppy",
+    "idMeaning": "Anak anjing",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.110",
+    "kanji": "悪口",
+    "component": "",
+    "hiragana": "わるぐち",
+    "enMeaning": "Insult / bad-mouthing",
+    "idMeaning": "Hinaan / perkataan buruk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.111",
+    "kanji": "大洋",
+    "component": "",
+    "hiragana": "たいよう",
+    "enMeaning": "Ocean",
+    "idMeaning": "Samudra",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.112",
+    "kanji": "大豆",
+    "component": "",
+    "hiragana": "だいず",
+    "enMeaning": "Soybean",
+    "idMeaning": "Kedelai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.113",
+    "kanji": "小豆",
+    "component": "",
+    "hiragana": "あずき",
+    "enMeaning": "Azuki bean / red bean",
+    "idMeaning": "Kacang azuki / kacang merah Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.114",
+    "kanji": "小物",
+    "component": "",
+    "hiragana": "こもの",
+    "enMeaning": "Small items / accessories",
+    "idMeaning": "Barang kecil / aksesori",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.115",
+    "kanji": "中華",
+    "component": "",
+    "hiragana": "ちゅうか",
+    "enMeaning": "Chinese cuisine / Chinese style",
+    "idMeaning": "Masakan Tionghoa / gaya Tiongkok",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.116",
+    "kanji": "月見",
+    "component": "",
+    "hiragana": "つきみ",
+    "enMeaning": "Moon viewing",
+    "idMeaning": "Tradisi menikmati pemandangan bulan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.117",
+    "kanji": "月食",
+    "component": "",
+    "hiragana": "げっしょく",
+    "enMeaning": "Lunar eclipse",
+    "idMeaning": "Gerhana bulan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.118",
+    "kanji": "木星",
+    "component": "",
+    "hiragana": "もくせい",
+    "enMeaning": "Jupiter",
+    "idMeaning": "Jupiter",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.1.119",
+    "kanji": "不十分",
+    "component": "",
+    "hiragana": "ふじゅうぶん",
+    "enMeaning": "Insufficient / inadequate",
+    "idMeaning": "Tidak cukup / tidak memadai",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N4.1.120",
+    "kanji": "腹八分",
+    "component": "",
+    "hiragana": "はらはちぶ",
+    "enMeaning": "Eating until 80% full / moderation in eating",
+    "idMeaning": "Makan hingga 80% kenyang / makan secukupnya",
+    "type": "Kata Benda"
   }
 ]

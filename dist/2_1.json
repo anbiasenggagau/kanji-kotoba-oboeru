@@ -1843,5 +1843,140 @@
     "enMeaning": "Bug / defect / malfunction",
     "idMeaning": "Bug / cacat / gangguan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.206",
+    "kanji": "浮気",
+    "component": "",
+    "hiragana": "うわき",
+    "enMeaning": "Cheating / infidelity",
+    "idMeaning": "Selingkuh / perselingkuhan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.207",
+    "kanji": "人文科学",
+    "component": "",
+    "hiragana": "じんぶんかがく",
+    "enMeaning": "Humanities",
+    "idMeaning": "Ilmu humaniora",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.208",
+    "kanji": "飼い主",
+    "component": "",
+    "hiragana": "かいぬし",
+    "enMeaning": "Pet owner",
+    "idMeaning": "Pemilik hewan peliharaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.209",
+    "kanji": "外務省",
+    "component": "",
+    "hiragana": "がいむしょう",
+    "enMeaning": "Ministry of Foreign Affairs",
+    "idMeaning": "Kementerian Luar Negeri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.210",
+    "kanji": "財務省",
+    "component": "",
+    "hiragana": "財務省",
+    "enMeaning": "Ministry of Finance",
+    "idMeaning": "Kementerian Keuangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.211",
+    "kanji": "満月",
+    "component": "",
+    "hiragana": "まんげつ",
+    "enMeaning": "Full moon",
+    "idMeaning": "Bulan purnama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.212",
+    "kanji": "火傷",
+    "component": "",
+    "hiragana": "やけど",
+    "enMeaning": "Burn / burn injury / scald",
+    "idMeaning": "Luka bakar / melepuh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.213",
+    "kanji": "天国",
+    "component": "",
+    "hiragana": "てんごく",
+    "enMeaning": "Heaven / paradise",
+    "idMeaning": "Surga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.214",
+    "kanji": "天使",
+    "component": "",
+    "hiragana": "てんし",
+    "enMeaning": "Angel",
+    "idMeaning": "Malaikat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.215",
+    "kanji": "天皇",
+    "component": "",
+    "hiragana": "てんのう",
+    "enMeaning": "Japanese emperor",
+    "idMeaning": "Kaisar Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.216",
+    "kanji": "南北",
+    "component": "",
+    "hiragana": "なんぼく",
+    "enMeaning": "North and south",
+    "idMeaning": "Utara dan selatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.217",
+    "kanji": "玄人",
+    "component": "",
+    "hiragana": "くろうと",
+    "enMeaning": "Professional / expert",
+    "idMeaning": "Profesional / ahli",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.218",
+    "kanji": "年生",
+    "component": "",
+    "hiragana": "ねんせい",
+    "enMeaning": "School-year student",
+    "idMeaning": "Siswa tingkat tertentu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.219",
+    "kanji": "本気",
+    "component": "",
+    "hiragana": "ほんき",
+    "enMeaning": "Seriousness / being serious",
+    "idMeaning": "Keseriusan / niat sungguh-sungguh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.220",
+    "kanji": "多様",
+    "component": "",
+    "hiragana": "たよう",
+    "enMeaning": "Diverse / varied / a variety of",
+    "idMeaning": "Beragam / bervariasi",
+    "type": "Kata Sifat な"
   }
 ]

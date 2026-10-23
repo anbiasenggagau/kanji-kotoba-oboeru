@@ -1888,5 +1888,95 @@
     "enMeaning": "Reason for applying / motivation for applying",
     "idMeaning": "Alasan melamar / motivasi melamar",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.211",
+    "kanji": "国際連合",
+    "component": "",
+    "hiragana": "こくさいれんごう",
+    "enMeaning": "United Nations",
+    "idMeaning": "Perserikatan Bangsa-Bangsa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.212",
+    "kanji": "残酷",
+    "component": "",
+    "hiragana": "ざんこく",
+    "enMeaning": "Cruel / brutal / merciless",
+    "idMeaning": "Kejam / tidak berperikemanusiaan",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.4.213",
+    "kanji": "本文",
+    "component": "",
+    "hiragana": "ほんぶん",
+    "enMeaning": "Main text / body of a document",
+    "idMeaning": "Teks utama / isi dokumen",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.214",
+    "kanji": "宣言",
+    "component": "",
+    "hiragana": "せんげん",
+    "enMeaning": "Declaration / proclamation",
+    "idMeaning": "Deklarasi / pernyataan resmi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.215",
+    "kanji": "嫉妬",
+    "component": "",
+    "hiragana": "しっと",
+    "enMeaning": "Jealousy / envy",
+    "idMeaning": "Kecemburuan / iri hati",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.216",
+    "kanji": "円満",
+    "component": "",
+    "hiragana": "えんまん",
+    "enMeaning": "Harmonious / peaceful / amicable",
+    "idMeaning": "Harmonis / damai / rukun",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.4.217",
+    "kanji": "着席",
+    "component": "",
+    "hiragana": "ちゃくせき",
+    "enMeaning": "Taking a seat / sitting down",
+    "idMeaning": "Duduk / mengambil tempat duduk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.218",
+    "kanji": "築く",
+    "component": "",
+    "hiragana": "きずく",
+    "enMeaning": "To build / to construct / to establish",
+    "idMeaning": "Membangun / mendirikan / membina",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.4.219",
+    "kanji": "浜/浜辺",
+    "component": "",
+    "hiragana": "はま/はまべ",
+    "enMeaning": "Beach / shore / seashore",
+    "idMeaning": "Pantai / tepian laut",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.220",
+    "kanji": "仕組み",
+    "component": "",
+    "hiragana": "しくみ",
+    "enMeaning": "Mechanism / structure / system",
+    "idMeaning": "Mekanisme / struktur / sistem",
+    "type": "Kata Benda"
   }
 ]

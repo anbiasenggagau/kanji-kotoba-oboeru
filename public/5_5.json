@@ -808,5 +808,95 @@
     "enMeaning": "Beside / side / near",
     "idMeaning": "Sisi / dekat / samping",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.91",
+    "kanji": "～歩",
+    "component": "",
+    "hiragana": "～ほ",
+    "enMeaning": "Counter for the number of steps",
+    "idMeaning": "~ langkah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.92",
+    "kanji": "長持ち",
+    "component": "",
+    "hiragana": "ながもち",
+    "enMeaning": "Durability / lasting a long time",
+    "idMeaning": "Daya tahan / tahan lama / awet",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.93",
+    "kanji": "病室",
+    "component": "",
+    "hiragana": "びょうしつ",
+    "enMeaning": "Hospital room / patient room",
+    "idMeaning": "Kamar pasien",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.94",
+    "kanji": "足首",
+    "component": "",
+    "hiragana": "あしくび",
+    "enMeaning": "Ankle",
+    "idMeaning": "Pergelangan kaki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.95",
+    "kanji": "交通費",
+    "component": "",
+    "hiragana": "こうつうひ",
+    "enMeaning": "Transportation expenses / travel costs",
+    "idMeaning": "Biaya transportasi / ongkos perjalanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.96",
+    "kanji": "白鳥",
+    "component": "",
+    "hiragana": "はくちょう",
+    "enMeaning": "Swan",
+    "idMeaning": "Angsa putih",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.97",
+    "kanji": "朝日",
+    "component": "",
+    "hiragana": "あさひ",
+    "enMeaning": "Morning sun / morning sunlight",
+    "idMeaning": "Matahari pagi / sinar matahari pagi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.98",
+    "kanji": "兄貴",
+    "component": "",
+    "hiragana": "あにき",
+    "enMeaning": "Older brother / bro (informal)",
+    "idMeaning": "Kakak laki-laki / abang (informal)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.99",
+    "kanji": "高校生",
+    "component": "",
+    "hiragana": "こうこうせい",
+    "enMeaning": "High school student",
+    "idMeaning": "Siswa SMA",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.5.100",
+    "kanji": "大学生",
+    "component": "",
+    "hiragana": "だいがくせい",
+    "enMeaning": "University student",
+    "idMeaning": "Mahasiswa",
+    "type": "Kata Benda"
   }
 ]

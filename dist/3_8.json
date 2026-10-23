@@ -1348,5 +1348,185 @@
     "enMeaning": "Farmer / farming household",
     "idMeaning": "Petani / keluarga petani",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.151",
+    "kanji": "取引先",
+    "component": "",
+    "hiragana": "とりひきさき",
+    "enMeaning": "Business partner / client",
+    "idMeaning": "Mitra bisnis / relasi bisnis",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.152",
+    "kanji": "担当者",
+    "component": "",
+    "hiragana": "たんとうしゃ",
+    "enMeaning": "Person in charge / representative",
+    "idMeaning": "Penanggung jawab / staf terkait",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.153",
+    "kanji": "就職活動",
+    "component": "",
+    "hiragana": "しゅうしょくかつどう",
+    "enMeaning": "Job hunting",
+    "idMeaning": "Kegiatan mencari kerja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.154",
+    "kanji": "残業代",
+    "component": "",
+    "hiragana": "ざんぎょうだい",
+    "enMeaning": "Overtime pay",
+    "idMeaning": "Uang lembur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.155",
+    "kanji": "鑑賞",
+    "component": "",
+    "hiragana": "かんしょう",
+    "enMeaning": "Appreciation / viewing (art, music)",
+    "idMeaning": "Apresiasi / menikmati karya seni",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.156",
+    "kanji": "演奏会",
+    "component": "",
+    "hiragana": "えんそうかい",
+    "enMeaning": "Concert / musical recital",
+    "idMeaning": "Konser musik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.157",
+    "kanji": "雑談",
+    "component": "",
+    "hiragana": "ざつだん",
+    "enMeaning": "Casual talk / chatting",
+    "idMeaning": "Obrolan santai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.158",
+    "kanji": "討論",
+    "component": "",
+    "hiragana": "とうろん",
+    "enMeaning": "Discussion / debate",
+    "idMeaning": "Diskusi / debat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.159",
+    "kanji": "交渉",
+    "component": "",
+    "hiragana": "こうしょう",
+    "enMeaning": "Negotiation",
+    "idMeaning": "Negosiasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.160",
+    "kanji": "同情",
+    "component": "",
+    "hiragana": "どうじょう",
+    "enMeaning": "Sympathy / compassion",
+    "idMeaning": "Rasa simpati / belas kasihan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.161",
+    "kanji": "忍耐",
+    "component": "",
+    "hiragana": "にんたい",
+    "enMeaning": "Patience / endurance",
+    "idMeaning": "Kesabaran / ketabahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.162",
+    "kanji": "利点",
+    "component": "",
+    "hiragana": "りてん",
+    "enMeaning": "Advantage / merit",
+    "idMeaning": "Keuntungan / kelebihan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.163",
+    "kanji": "盲点",
+    "component": "",
+    "hiragana": "もうてん",
+    "enMeaning": "Blind spot",
+    "idMeaning": "Titik buta / kelemahan tak terduga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.164",
+    "kanji": "豪雨",
+    "component": "",
+    "hiragana": "ごうう",
+    "enMeaning": "Heavy rainfall / torrential downpour",
+    "idMeaning": "Hujan lebat / hujan deras",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.165",
+    "kanji": "通学路",
+    "component": "",
+    "hiragana": "つうがくろ",
+    "enMeaning": "School route / path to school",
+    "idMeaning": "Rute berangkat ke sekolah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.166",
+    "kanji": "遅延",
+    "component": "",
+    "hiragana": "ちえん",
+    "enMeaning": "Delay (train, schedule)",
+    "idMeaning": "Keterlambatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.167",
+    "kanji": "運行",
+    "component": "",
+    "hiragana": "うんこう",
+    "enMeaning": "Operation / service (train, bus)",
+    "idMeaning": "Operasional perjalanan (kereta/bus)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.168",
+    "kanji": "割引券",
+    "component": "",
+    "hiragana": "わりびきけん",
+    "enMeaning": "Discount coupon / voucher",
+    "idMeaning": "Kupon diskon",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.169",
+    "kanji": "商品券",
+    "component": "",
+    "hiragana": "しょうひんけん",
+    "enMeaning": "Gift certificate / voucher",
+    "idMeaning": "Voucher belanja",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.8.170",
+    "kanji": "通信販売",
+    "component": "",
+    "hiragana": "つうしんはんばい",
+    "enMeaning": "Mail order / online shopping",
+    "idMeaning": "Belanja jarak jauh / penjualan via pos",
+    "type": "Kata Benda"
   }
 ]

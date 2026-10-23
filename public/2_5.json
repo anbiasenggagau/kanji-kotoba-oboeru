@@ -1756,11 +1756,11 @@
   },
   {
     "id": "N2.5.196",
-    "kanji": "率",
+    "kanji": "低気圧",
     "component": "",
-    "hiragana": "りつ",
-    "enMeaning": "Rate / ratio",
-    "idMeaning": "Tingkat / rasio",
+    "hiragana": "ていきあつ",
+    "enMeaning": "Low atmospheric pressure",
+    "idMeaning": "Tekanan udara rendah",
     "type": "Kata Benda"
   },
   {
@@ -1888,5 +1888,95 @@
     "enMeaning": "First language",
     "idMeaning": "Bahasa pertama",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.211",
+    "kanji": "田んぼ",
+    "component": "",
+    "hiragana": "たんぼ",
+    "enMeaning": "Rice paddy / rice field",
+    "idMeaning": "Sawah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.212",
+    "kanji": "冬眠",
+    "component": "",
+    "hiragana": "とうみん",
+    "enMeaning": "Hibernation",
+    "idMeaning": "Hibernasi / tidur musim dingin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.213",
+    "kanji": "移住民",
+    "component": "",
+    "hiragana": "いじゅうみん",
+    "enMeaning": "Migrants / people who have relocated",
+    "idMeaning": "Kaum migran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.214",
+    "kanji": "用品",
+    "component": "",
+    "hiragana": "ようひん",
+    "enMeaning": "Supplies / articles / equipment",
+    "idMeaning": "Perlengkapan / barang kebutuhan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.215",
+    "kanji": "思考",
+    "component": "",
+    "hiragana": "しこう",
+    "enMeaning": "Thought / thinking / reasoning",
+    "idMeaning": "Pemikiran / proses berpikir / penalaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.216",
+    "kanji": "自立",
+    "component": "",
+    "hiragana": "じりつ",
+    "enMeaning": "Independence / standing on one's own",
+    "idMeaning": "Kemandirian / berdiri sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.217",
+    "kanji": "有料",
+    "component": "",
+    "hiragana": "ゆうりょう",
+    "enMeaning": "Paid / requiring payment",
+    "idMeaning": "Berbayar / memerlukan pembayaran",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.5.218",
+    "kanji": "住居",
+    "component": "",
+    "hiragana": "じゅうきょ",
+    "enMeaning": "Residence / dwelling",
+    "idMeaning": "Tempat tinggal / hunian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.219",
+    "kanji": "体験",
+    "component": "",
+    "hiragana": "たいけん",
+    "enMeaning": "Experience / firsthand experience",
+    "idMeaning": "Pengalaman / pengalaman langsung",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.220",
+    "kanji": "別々",
+    "component": "",
+    "hiragana": "べつべつ",
+    "enMeaning": "Separate / individually / one by one",
+    "idMeaning": "Terpisah / masing-masing / sendiri-sendiri",
+    "type": "Kata Sifat な"
   }
 ]

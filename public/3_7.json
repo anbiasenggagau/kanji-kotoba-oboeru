@@ -1348,5 +1348,185 @@
     "enMeaning": "Fear",
     "idMeaning": "Takut",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N3.7.151",
+    "kanji": "悪習",
+    "component": "",
+    "hiragana": "あくしゅう",
+    "enMeaning": "Bad habit / harmful custom",
+    "idMeaning": "Kebiasaan buruk / adat yang merugikan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.152",
+    "kanji": "遺産",
+    "component": "",
+    "hiragana": "いさん",
+    "enMeaning": "Inheritance / heritage / legacy",
+    "idMeaning": "Warisan / peninggalan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.153",
+    "kanji": "最終",
+    "component": "",
+    "hiragana": "さいしゅう",
+    "enMeaning": "Final / last",
+    "idMeaning": "Terakhir / final",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.154",
+    "kanji": "先進国",
+    "component": "",
+    "hiragana": "せんしんこく",
+    "enMeaning": "Developed country",
+    "idMeaning": "Negara maju",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.155",
+    "kanji": "焼き鳥",
+    "component": "",
+    "hiragana": "やきとり",
+    "enMeaning": "Yakitori / grilled chicken skewers",
+    "idMeaning": "Yakitori / sate ayam Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.156",
+    "kanji": "一堂",
+    "component": "",
+    "hiragana": "いちどう",
+    "enMeaning": "One place / all gathered together",
+    "idMeaning": "Satu tempat / berkumpul bersama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.157",
+    "kanji": "開設",
+    "component": "",
+    "hiragana": "かいせつ",
+    "enMeaning": "Establishment / opening / setting up",
+    "idMeaning": "Pendirian / pembukaan / pembentukan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.158",
+    "kanji": "最短",
+    "component": "",
+    "hiragana": "さいたん",
+    "enMeaning": "Shortest / shortest possible time",
+    "idMeaning": "Paling pendek / waktu tersingkat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.159",
+    "kanji": "最長",
+    "component": "",
+    "hiragana": "さいちょう",
+    "enMeaning": "Longest / maximum length or duration",
+    "idMeaning": "Paling panjang / durasi terlama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.160",
+    "kanji": "暗記",
+    "component": "",
+    "hiragana": "あんき",
+    "enMeaning": "Memorization / learning by heart",
+    "idMeaning": "Hafalan / menghafal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.161",
+    "kanji": "歌詞",
+    "component": "",
+    "hiragana": "かし",
+    "enMeaning": "Song lyrics",
+    "idMeaning": "Lirik lagu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.162",
+    "kanji": "顔合わせ",
+    "component": "",
+    "hiragana": "かおあわせ",
+    "enMeaning": "First meeting / introduction meeting",
+    "idMeaning": "Pertemuan pertama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.163",
+    "kanji": "防災",
+    "component": "",
+    "hiragana": "ぼうさい",
+    "enMeaning": "Disaster prevention",
+    "idMeaning": "Pencegahan bencana",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.164",
+    "kanji": "避難所",
+    "component": "",
+    "hiragana": "ひなんじょ",
+    "enMeaning": "Evacuation shelter",
+    "idMeaning": "Tempat pengungsian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.165",
+    "kanji": "避難訓練",
+    "component": "",
+    "hiragana": "ひなんくんれん",
+    "enMeaning": "Evacuation drill",
+    "idMeaning": "Latihan evakuasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.166",
+    "kanji": "健康診断",
+    "component": "",
+    "hiragana": "けんこうしんだん",
+    "enMeaning": "Health checkup / medical examination",
+    "idMeaning": "Pemeriksaan kesehatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.167",
+    "kanji": "処方箋",
+    "component": "",
+    "hiragana": "しょほうせん",
+    "enMeaning": "Prescription",
+    "idMeaning": "Resep obat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.168",
+    "kanji": "診察券",
+    "component": "",
+    "hiragana": "しんさつけん",
+    "enMeaning": "Patient registration card / clinic card",
+    "idMeaning": "Kartu berobat pasien",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.169",
+    "kanji": "昇進",
+    "component": "",
+    "hiragana": "しょうしん",
+    "enMeaning": "Promotion / rise in rank",
+    "idMeaning": "Kenaikan jabatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.7.170",
+    "kanji": "顧客",
+    "component": "",
+    "hiragana": "こきゃく",
+    "enMeaning": "Client / customer",
+    "idMeaning": "Pelanggan / klien",
+    "type": "Kata Benda"
   }
 ]

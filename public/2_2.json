@@ -1843,5 +1843,140 @@
     "enMeaning": "Deterioration / worsening",
     "idMeaning": "Memburuk / kemunduran",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.206",
+    "kanji": "文部科学省",
+    "component": "",
+    "hiragana": "もんぶかがくしょう",
+    "enMeaning": "Ministry Education, Science & Technology",
+    "idMeaning": "Kementerian Pendidikan, Sains & Teknologi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.207",
+    "kanji": "手を出す",
+    "component": "",
+    "hiragana": "てをだす",
+    "enMeaning": "To get involved / to lay hands on",
+    "idMeaning": "Ikut campur / menyentuh atau memukul",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N2.2.208",
+    "kanji": "いい加減",
+    "component": "",
+    "hiragana": "いいかげん",
+    "enMeaning": "Irresponsible / careless",
+    "idMeaning": "Tidak bertanggung jawab / ceroboh",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.2.209",
+    "kanji": "問い合わせる",
+    "component": "",
+    "hiragana": "といあわせる",
+    "enMeaning": "To inquire / to make an inquiry",
+    "idMeaning": "Menanyakan / mengajukan pertanyaan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.2.210",
+    "kanji": "詳細",
+    "component": "",
+    "hiragana": "しょうさい",
+    "enMeaning": "Details / detailed",
+    "idMeaning": "Rincian / terperinci",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.2.211",
+    "kanji": "一様",
+    "component": "",
+    "hiragana": "いちよう",
+    "enMeaning": "Uniform / consistent / alike",
+    "idMeaning": "Seragam / sama / merata",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.2.212",
+    "kanji": "花粉症",
+    "component": "",
+    "hiragana": "かふんしょう",
+    "enMeaning": "Hay fever / pollen allergy",
+    "idMeaning": "Alergi serbuk sari",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.213",
+    "kanji": "花びら",
+    "component": "",
+    "hiragana": "はなびら",
+    "enMeaning": "Flower petal",
+    "idMeaning": "Kelopak bunga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.214",
+    "kanji": "見方",
+    "component": "",
+    "hiragana": "みかた",
+    "enMeaning": "Viewpoint / interpretation",
+    "idMeaning": "Sudut pandang / penafsiran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.215",
+    "kanji": "書店",
+    "component": "",
+    "hiragana": "しょてん",
+    "enMeaning": "Bookstore / bookshop",
+    "idMeaning": "Toko buku",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.216",
+    "kanji": "秘書",
+    "component": "",
+    "hiragana": "ひしょ",
+    "enMeaning": "Secretary",
+    "idMeaning": "Sekretaris",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.217",
+    "kanji": "証明書",
+    "component": "",
+    "hiragana": "しょうめいしょ",
+    "enMeaning": "Certificate / proof document",
+    "idMeaning": "Sertifikat / dokumen bukti",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.218",
+    "kanji": "転校",
+    "component": "",
+    "hiragana": "てんこう",
+    "enMeaning": "Changing schools",
+    "idMeaning": "Pindah sekolah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.219",
+    "kanji": "転校生",
+    "component": "",
+    "hiragana": "てんこうせい",
+    "enMeaning": "Transfer student",
+    "idMeaning": "Siswa pindahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.220",
+    "kanji": "校舎",
+    "component": "",
+    "hiragana": "こうしゃ",
+    "enMeaning": "School building",
+    "idMeaning": "Gedung sekolah",
+    "type": "Kata Benda"
   }
 ]

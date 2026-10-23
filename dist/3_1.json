@@ -1348,5 +1348,185 @@
     "enMeaning": "Momentum / vigor",
     "idMeaning": "Semangat / momentum",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.151",
+    "kanji": "ありがたい事に",
+    "component": "",
+    "hiragana": "ありがたいことに",
+    "enMeaning": "Thankfully / fortunately",
+    "idMeaning": "Syukurlah / untungnya",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.1.152",
+    "kanji": "達する",
+    "component": "",
+    "hiragana": "たっする",
+    "enMeaning": "Reach / attain / amount to",
+    "idMeaning": "Mencapai / mencapai jumlah",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.1.153",
+    "kanji": "慎重",
+    "component": "",
+    "hiragana": "しんちょう",
+    "enMeaning": "Careful / cautious / prudent",
+    "idMeaning": "Hati-hati / waspada / cermat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.154",
+    "kanji": "更に",
+    "component": "",
+    "hiragana": "さらに",
+    "enMeaning": "Furthermore / even more / additionally",
+    "idMeaning": "Lebih lanjut / semakin / selain itu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.155",
+    "kanji": "違反",
+    "component": "",
+    "hiragana": "いはん",
+    "enMeaning": "Violation / infringement",
+    "idMeaning": "Pelanggaran",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.156",
+    "kanji": "従兄弟",
+    "component": "",
+    "hiragana": "いとこ",
+    "enMeaning": "Cousin",
+    "idMeaning": "Sepupu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.157",
+    "kanji": "教員",
+    "component": "",
+    "hiragana": "きょういん",
+    "enMeaning": "Teacher / teaching staff",
+    "idMeaning": "Guru / tenaga pengajar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.158",
+    "kanji": "部活",
+    "component": "",
+    "hiragana": "ぶかつ",
+    "enMeaning": "School club activities",
+    "idMeaning": "Kegiatan klub sekolah / ekstrakurikuler",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.159",
+    "kanji": "在住",
+    "component": "",
+    "hiragana": "ざいじゅう",
+    "enMeaning": "Residing / living in a place",
+    "idMeaning": "Bertempat tinggal / menetap",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.160",
+    "kanji": "一言",
+    "component": "",
+    "hiragana": "ひとこと",
+    "enMeaning": "One word / brief remark",
+    "idMeaning": "Sepatah kata / komentar singkat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.161",
+    "kanji": "本人",
+    "component": "",
+    "hiragana": "ほんにん",
+    "enMeaning": "The person himself or herself",
+    "idMeaning": "Orang yang bersangkutan / orang itu sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.162",
+    "kanji": "女神",
+    "component": "",
+    "hiragana": "めがみ",
+    "enMeaning": "Goddess",
+    "idMeaning": "Dewi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.163",
+    "kanji": "電子",
+    "component": "",
+    "hiragana": "でんし",
+    "enMeaning": "Electron / electronic",
+    "idMeaning": "Elektron / elektronik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.164",
+    "kanji": "口座",
+    "component": "",
+    "hiragana": "こうざ",
+    "enMeaning": "Account / bank account",
+    "idMeaning": "Rekening / rekening bank",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.165",
+    "kanji": "小麦",
+    "component": "",
+    "hiragana": "こむぎ",
+    "enMeaning": "Wheat",
+    "idMeaning": "Gandum",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.166",
+    "kanji": "世の中",
+    "component": "",
+    "hiragana": "よのなか",
+    "enMeaning": "The world / society",
+    "idMeaning": "Dunia / masyarakat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.167",
+    "kanji": "分野",
+    "component": "",
+    "hiragana": "ぶんや",
+    "enMeaning": "Field / area / discipline",
+    "idMeaning": "Bidang / ranah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.168",
+    "kanji": "外出",
+    "component": "",
+    "hiragana": "がいしゅつ",
+    "enMeaning": "Going out",
+    "idMeaning": "Pergi keluar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.169",
+    "kanji": "注目",
+    "component": "",
+    "hiragana": "ちゅうもく",
+    "enMeaning": "Attention / notice",
+    "idMeaning": "Perhatian / sorotan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.170",
+    "kanji": "駄目",
+    "component": "",
+    "hiragana": "だめ",
+    "enMeaning": "No good / useless / not allowed",
+    "idMeaning": "Tidak baik / sia-sia / tidak boleh",
+    "type": "Kata Sifat な"
   }
 ]

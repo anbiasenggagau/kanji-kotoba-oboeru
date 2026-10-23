@@ -5,8 +5,10 @@ const replacement = require("./new.json")
 
 const publicDir = path.join(__dirname, '../../public');
 const kanjiLevel = "2"
-const kanjiVolume = ["4", "5", "6", "7", "8"]
-const kanjiAmount = 5
+const kanjiVolume = ["1", "2", "3",
+    "4", "5", "6", "7", "8"
+]
+const kanjiAmount = 10
 
 main2()
 

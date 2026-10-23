@@ -808,5 +808,95 @@
     "enMeaning": "Truth / real / true",
     "idMeaning": "Benar / sungguh / kenyataan",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N5.2.91",
+    "kanji": "中学生",
+    "component": "",
+    "hiragana": "ちゅうがくせい",
+    "enMeaning": "Junior high school student",
+    "idMeaning": "Siswa sekolah menengah pertama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.92",
+    "kanji": "三百",
+    "component": "",
+    "hiragana": "さんびゃく",
+    "enMeaning": "Three hundred",
+    "idMeaning": "Tiga ratus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.93",
+    "kanji": "六百",
+    "component": "",
+    "hiragana": "ろっぴゃく",
+    "enMeaning": "Six hundred",
+    "idMeaning": "Enam ratus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.94",
+    "kanji": "八百",
+    "component": "",
+    "hiragana": "はっぴゃく",
+    "enMeaning": "Eight hundred",
+    "idMeaning": "Delapan ratus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.95",
+    "kanji": "中国",
+    "component": "",
+    "hiragana": "ちゅうごく",
+    "enMeaning": "China",
+    "idMeaning": "Tiongkok",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.96",
+    "kanji": "中国語",
+    "component": "",
+    "hiragana": "ちゅうごくご",
+    "enMeaning": "Chinese language / Mandarin Chinese",
+    "idMeaning": "Bahasa Mandarin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.97",
+    "kanji": "韓国",
+    "component": "",
+    "hiragana": "かんこく",
+    "enMeaning": "South Korea",
+    "idMeaning": "Korea Selatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.98",
+    "kanji": "韓国語",
+    "component": "",
+    "hiragana": "かんこくご",
+    "enMeaning": "Korean language",
+    "idMeaning": "Bahasa Korea",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.99",
+    "kanji": "一日中",
+    "component": "",
+    "hiragana": "いちにちじゅう",
+    "enMeaning": "All day / throughout the day",
+    "idMeaning": "Sepanjang hari / seharian penuh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.2.100",
+    "kanji": "外国語",
+    "component": "",
+    "hiragana": "がいこくご",
+    "enMeaning": "Foreign language",
+    "idMeaning": "Bahasa asing",
+    "type": "Kata Benda"
   }
 ]

@@ -898,5 +898,185 @@
     "enMeaning": "To make a mistake",
     "idMeaning": "Berbuat salah",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N4.5.101",
+    "kanji": "売り物",
+    "component": "",
+    "hiragana": "うりもの",
+    "enMeaning": "Item for sale / merchandise",
+    "idMeaning": "Barang yang dijual / dagangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.102",
+    "kanji": "売り手",
+    "component": "",
+    "hiragana": "うりて",
+    "enMeaning": "Seller / vendor",
+    "idMeaning": "Penjual",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.103",
+    "kanji": "送別会",
+    "component": "",
+    "hiragana": "そうべつかい",
+    "enMeaning": "Farewell party",
+    "idMeaning": "Pesta perpisahan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.104",
+    "kanji": "画用紙",
+    "component": "",
+    "hiragana": "がようし",
+    "enMeaning": "Drawing paper",
+    "idMeaning": "Kertas gambar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.105",
+    "kanji": "義姉",
+    "component": "",
+    "hiragana": "ぎし",
+    "enMeaning": "Sister-in-law / older sister by marriage",
+    "idMeaning": "Kakak perempuan ipar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.106",
+    "kanji": "義兄",
+    "component": "",
+    "hiragana": "ぎけい",
+    "enMeaning": "Brother-in-law / older brother by marriage",
+    "idMeaning": "Kakak laki-laki ipar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.107",
+    "kanji": "使用料",
+    "component": "",
+    "hiragana": "しようりょう",
+    "enMeaning": "Usage fee / rental fee",
+    "idMeaning": "Biaya penggunaan / biaya sewa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.108",
+    "kanji": "義妹",
+    "component": "",
+    "hiragana": "ぎまい",
+    "enMeaning": "Sister-in-law / younger sister by marriage",
+    "idMeaning": "Adik perempuan ipar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.109",
+    "kanji": "義弟",
+    "component": "",
+    "hiragana": "ぎてい",
+    "enMeaning": "Brother-in-law / younger brother by marriage",
+    "idMeaning": "Adik laki-laki ipar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.110",
+    "kanji": "専門学校",
+    "component": "",
+    "hiragana": "せんもんがっこう",
+    "enMeaning": "Vocational school / specialized college",
+    "idMeaning": "Sekolah kejuruan / sekolah tinggi khusus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.111",
+    "kanji": "放映",
+    "component": "",
+    "hiragana": "ほうえい",
+    "enMeaning": "Television broadcasting / airing",
+    "idMeaning": "Penayangan / penyiaran televisi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.112",
+    "kanji": "海面",
+    "component": "",
+    "hiragana": "かいめん",
+    "enMeaning": "Sea surface / sea level",
+    "idMeaning": "Permukaan laut / permukaan air laut",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.113",
+    "kanji": "首位",
+    "component": "",
+    "hiragana": "しゅい",
+    "enMeaning": "First place / top position",
+    "idMeaning": "Posisi pertama / peringkat teratas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.114",
+    "kanji": "秋口",
+    "component": "",
+    "hiragana": "あきぐち",
+    "enMeaning": "Beginning of autumn",
+    "idMeaning": "Awal musim gugur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.115",
+    "kanji": "晩秋",
+    "component": "",
+    "hiragana": "ばんしゅう",
+    "enMeaning": "Late autumn",
+    "idMeaning": "Akhir musim gugur",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.116",
+    "kanji": "発言",
+    "component": "",
+    "hiragana": "はつげん",
+    "enMeaning": "Statement / remark",
+    "idMeaning": "Pernyataan / ucapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.117",
+    "kanji": "発注",
+    "component": "",
+    "hiragana": "はっちゅう",
+    "enMeaning": "Placing an order",
+    "idMeaning": "Melakukan pemesanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.118",
+    "kanji": "受注",
+    "component": "",
+    "hiragana": "じゅちゅう",
+    "enMeaning": "Receiving an order",
+    "idMeaning": "Menerima pesanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.119",
+    "kanji": "風速",
+    "component": "",
+    "hiragana": "ふうそく",
+    "enMeaning": "Wind speed",
+    "idMeaning": "Kecepatan angin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.5.120",
+    "kanji": "冷夏",
+    "component": "",
+    "hiragana": "れいか",
+    "enMeaning": "Cool summer",
+    "idMeaning": "Musim panas yang dingin",
+    "type": "Kata Benda"
   }
 ]

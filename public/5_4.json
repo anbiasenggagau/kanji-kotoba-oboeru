@@ -808,5 +808,95 @@
     "enMeaning": "You",
     "idMeaning": "Kamu / Anda",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.91",
+    "kanji": "読者",
+    "component": "",
+    "hiragana": "どくしゃ",
+    "enMeaning": "Reader",
+    "idMeaning": "Pembaca",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.92",
+    "kanji": "駅長",
+    "component": "",
+    "hiragana": "えきちょう",
+    "enMeaning": "Stationmaster / railway station manager",
+    "idMeaning": "Kepala stasiun",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.93",
+    "kanji": "毎回",
+    "component": "",
+    "hiragana": "まいかい",
+    "enMeaning": "Every time / each occasion",
+    "idMeaning": "Setiap kali",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.94",
+    "kanji": "早朝",
+    "component": "",
+    "hiragana": "そうちょう",
+    "enMeaning": "Early morning",
+    "idMeaning": "Pagi-pagi sekali",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.95",
+    "kanji": "早春",
+    "component": "",
+    "hiragana": "そうしゅん",
+    "enMeaning": "Early spring",
+    "idMeaning": "Awal musim semi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.96",
+    "kanji": "村人",
+    "component": "",
+    "hiragana": "むらびと",
+    "enMeaning": "Villager",
+    "idMeaning": "Penduduk desa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.97",
+    "kanji": "村長",
+    "component": "",
+    "hiragana": "そんちょう",
+    "enMeaning": "Village head",
+    "idMeaning": "Kepala desa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.98",
+    "kanji": "町長",
+    "component": "",
+    "hiragana": "ちょうちょう",
+    "enMeaning": "Town mayor",
+    "idMeaning": "Kepala pemerintahan kota kecil",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.99",
+    "kanji": "服用",
+    "component": "",
+    "hiragana": "ふくよう",
+    "enMeaning": "Taking medicine / medication",
+    "idMeaning": "Konsumsi obat / meminum obat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.4.100",
+    "kanji": "持ち物",
+    "component": "",
+    "hiragana": "もちもの",
+    "enMeaning": "Belongings / things to bring",
+    "idMeaning": "Barang milik / barang bawaan",
+    "type": "Kata Benda"
   }
 ]

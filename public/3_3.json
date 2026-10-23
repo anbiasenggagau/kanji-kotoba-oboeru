@@ -1348,5 +1348,185 @@
     "enMeaning": "Equal",
     "idMeaning": "Sama",
     "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.3.151",
+    "kanji": "人工",
+    "component": "",
+    "hiragana": "じんこう",
+    "enMeaning": "Artificial / man-made",
+    "idMeaning": "Buatan manusia / artifisial",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.152",
+    "kanji": "七夕",
+    "component": "",
+    "hiragana": "たなばた",
+    "enMeaning": "Tanabata / Star Festival",
+    "idMeaning": "Tanabata / Festival Bintang Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.153",
+    "kanji": "牛丼",
+    "component": "",
+    "hiragana": "ぎゅうどん",
+    "enMeaning": "Beef rice bowl",
+    "idMeaning": "Nasi dengan irisan daging sapi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.154",
+    "kanji": "心理",
+    "component": "",
+    "hiragana": "しんり",
+    "enMeaning": "Psychology / mental state",
+    "idMeaning": "Psikologi / keadaan batin",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.155",
+    "kanji": "心理学",
+    "component": "",
+    "hiragana": "しんりがく",
+    "enMeaning": "Psychology",
+    "idMeaning": "Ilmu psikologi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.156",
+    "kanji": "皇太子",
+    "component": "",
+    "hiragana": "こうたいし",
+    "enMeaning": "Crown prince",
+    "idMeaning": "Putra mahkota",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.157",
+    "kanji": "不～",
+    "component": "",
+    "hiragana": "ふ～",
+    "enMeaning": "Prefix meaning non-, un-, or not",
+    "idMeaning": "Awalan yang bermakna tidak-, non-, atau bukan-",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.3.158",
+    "kanji": "不足",
+    "component": "",
+    "hiragana": "ふそく",
+    "enMeaning": "Shortage / insufficiency / lack",
+    "idMeaning": "Kekurangan / ketidakcukupan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.159",
+    "kanji": "地方",
+    "component": "",
+    "hiragana": "ちほう",
+    "enMeaning": "Region / local area / countryside",
+    "idMeaning": "Wilayah / daerah / pedesaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.160",
+    "kanji": "避妊",
+    "component": "",
+    "hiragana": "ひにん",
+    "enMeaning": "Contraception / birth control",
+    "idMeaning": "Kontrasepsi / pencegahan kehamilan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.161",
+    "kanji": "精一杯",
+    "component": "",
+    "hiragana": "せいいっぱい",
+    "enMeaning": "To the best of one's ability",
+    "idMeaning": "Dengan segenap tenaga / semaksimal mungkin",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.3.162",
+    "kanji": "造形",
+    "component": "",
+    "hiragana": "ぞうけい",
+    "enMeaning": "Form creation / shaping / modeling",
+    "idMeaning": "Pembentukan bentuk / pemodelan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.163",
+    "kanji": "臭い",
+    "component": "",
+    "hiragana": "くさい",
+    "enMeaning": "Smelly / stinky",
+    "idMeaning": "Berbau tidak sedap / bau busuk",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N3.3.164",
+    "kanji": "非表示",
+    "component": "",
+    "hiragana": "ひひょうじ",
+    "enMeaning": "Hidden / not displayed",
+    "idMeaning": "Tidak ditampilkan / tersembunyi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.165",
+    "kanji": "最低",
+    "component": "",
+    "hiragana": "さいてい",
+    "enMeaning": "Lowest / worst / minimum",
+    "idMeaning": "Terendah / terburuk / minimum",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.3.166",
+    "kanji": "乗車",
+    "component": "",
+    "hiragana": "じょうしゃ",
+    "enMeaning": "Boarding a vehicle",
+    "idMeaning": "Naik kendaraan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.167",
+    "kanji": "降車",
+    "component": "",
+    "hiragana": "こうしゃ",
+    "enMeaning": "Getting off a vehicle",
+    "idMeaning": "Turun dari kendaraan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.168",
+    "kanji": "就寝",
+    "component": "",
+    "hiragana": "しゅうしん",
+    "enMeaning": "Going to bed / retiring for the night",
+    "idMeaning": "Pergi tidur / beristirahat malam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.169",
+    "kanji": "主義",
+    "component": "",
+    "hiragana": "しゅぎ",
+    "enMeaning": "Principle / doctrine / -ism",
+    "idMeaning": "Prinsip / doktrin / paham",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.170",
+    "kanji": "正解",
+    "component": "",
+    "hiragana": "せいかい",
+    "enMeaning": "Correct answer / right solution",
+    "idMeaning": "Jawaban benar / solusi yang tepat",
+    "type": "Kata Benda"
   }
 ]

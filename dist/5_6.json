@@ -808,5 +808,95 @@
     "enMeaning": "After a long time",
     "idMeaning": "Setelah lama",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N5.6.91",
+    "kanji": "日本人",
+    "component": "",
+    "hiragana": "にほんじん",
+    "enMeaning": "Japanese person",
+    "idMeaning": "Orang Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.92",
+    "kanji": "男の人",
+    "component": "",
+    "hiragana": "おとこのひと",
+    "enMeaning": "Man / adult male",
+    "idMeaning": "Pria / laki-laki dewasa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.93",
+    "kanji": "女の人",
+    "component": "",
+    "hiragana": "おんなのひと",
+    "enMeaning": "Woman / adult female",
+    "idMeaning": "Wanita / perempuan dewasa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.94",
+    "kanji": "小川",
+    "component": "",
+    "hiragana": "おがわ",
+    "enMeaning": "Stream / brook",
+    "idMeaning": "Sungai kecil / anak sungai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.95",
+    "kanji": "右手",
+    "component": "",
+    "hiragana": "みぎて",
+    "enMeaning": "Right hand",
+    "idMeaning": "Tangan kanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.96",
+    "kanji": "左手",
+    "component": "",
+    "hiragana": "ひだりて",
+    "enMeaning": "Left hand",
+    "idMeaning": "Tangan kiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.97",
+    "kanji": "青空",
+    "component": "",
+    "hiragana": "あおぞら",
+    "enMeaning": "Blue sky",
+    "idMeaning": "Langit biru",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.98",
+    "kanji": "手足",
+    "component": "",
+    "hiragana": "てあし",
+    "enMeaning": "Hands and feet / limbs",
+    "idMeaning": "Tangan dan kaki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.99",
+    "kanji": "足音",
+    "component": "",
+    "hiragana": "あしおと",
+    "enMeaning": "Footstep sound",
+    "idMeaning": "Suara langkah kaki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.6.100",
+    "kanji": "山道",
+    "component": "",
+    "hiragana": "やまみち",
+    "enMeaning": "Mountain path / mountain road",
+    "idMeaning": "Jalan pegunungan",
+    "type": "Kata Benda"
   }
 ]

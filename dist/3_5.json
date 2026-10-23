@@ -1348,5 +1348,185 @@
     "enMeaning": "Everything",
     "idMeaning": "Semuanya",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.151",
+    "kanji": "共同",
+    "component": "",
+    "hiragana": "きょうどう",
+    "enMeaning": "Joint / shared / cooperation",
+    "idMeaning": "Bersama / gabungan / kerja sama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.152",
+    "kanji": "有用",
+    "component": "",
+    "hiragana": "ゆうよう",
+    "enMeaning": "Useful / beneficial",
+    "idMeaning": "Berguna / bermanfaat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.153",
+    "kanji": "有毒",
+    "component": "",
+    "hiragana": "ゆうどく",
+    "enMeaning": "Poisonous / toxic",
+    "idMeaning": "Beracun / toksik",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.154",
+    "kanji": "作曲",
+    "component": "",
+    "hiragana": "さっきょく",
+    "enMeaning": "Music composition / composing music",
+    "idMeaning": "Komposisi musik / menggubah lagu",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.155",
+    "kanji": "住民",
+    "component": "",
+    "hiragana": "じゅうみん",
+    "enMeaning": "Resident / inhabitant",
+    "idMeaning": "Penduduk / warga",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.156",
+    "kanji": "声優",
+    "component": "",
+    "hiragana": "せいゆう",
+    "enMeaning": "Voice actor / voice actress",
+    "idMeaning": "Pengisi suara",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.157",
+    "kanji": "真っ赤",
+    "component": "",
+    "hiragana": "まっか",
+    "enMeaning": "Bright red / deep red",
+    "idMeaning": "Merah menyala / merah pekat",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.5.158",
+    "kanji": "全体",
+    "component": "",
+    "hiragana": "ぜんたい",
+    "enMeaning": "The whole / entirety",
+    "idMeaning": "Keseluruhan / seluruh bagian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.159",
+    "kanji": "町外れ",
+    "component": "",
+    "hiragana": "まちはずれ",
+    "enMeaning": "Outskirts of a town",
+    "idMeaning": "Pinggiran kota kecil",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.160",
+    "kanji": "弟子",
+    "component": "",
+    "hiragana": "でし",
+    "enMeaning": "Apprentice / disciple",
+    "idMeaning": "Murid / peserta didik",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.161",
+    "kanji": "最低限",
+    "component": "",
+    "hiragana": "さいていげん",
+    "enMeaning": "Minimum / bare minimum",
+    "idMeaning": "Batas minimum / sekurang-kurangnya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.162",
+    "kanji": "完売",
+    "component": "",
+    "hiragana": "かんばい",
+    "enMeaning": "Complete sellout / all sold out",
+    "idMeaning": "Habis terjual / terjual seluruhnya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.163",
+    "kanji": "識別",
+    "component": "",
+    "hiragana": "しきべつ",
+    "enMeaning": "Identification / distinguishing",
+    "idMeaning": "Identifikasi / pembedaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.164",
+    "kanji": "区別",
+    "component": "",
+    "hiragana": "くべつ",
+    "enMeaning": "Distinction / difference / classification",
+    "idMeaning": "Pembedaan / perbedaan / klasifikasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.165",
+    "kanji": "分ける",
+    "component": "",
+    "hiragana": "わける",
+    "enMeaning": "To divide / separate / sort",
+    "idMeaning": "Membagi / memisahkan / memilah",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.5.166",
+    "kanji": "別冊",
+    "component": "",
+    "hiragana": "べっさつ",
+    "enMeaning": "Separate volume / supplement",
+    "idMeaning": "Jilid terpisah / suplemen",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.167",
+    "kanji": "英訳",
+    "component": "",
+    "hiragana": "えいやく",
+    "enMeaning": "English translation",
+    "idMeaning": "Terjemahan bahasa Inggris",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.168",
+    "kanji": "画家",
+    "component": "",
+    "hiragana": "がか",
+    "enMeaning": "Painter / artist",
+    "idMeaning": "Pelukis / seniman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.169",
+    "kanji": "出来事",
+    "component": "",
+    "hiragana": "できごと",
+    "enMeaning": "Event / incident / occurrence",
+    "idMeaning": "Peristiwa / kejadian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.5.170",
+    "kanji": "発信",
+    "component": "",
+    "hiragana": "はっしん",
+    "enMeaning": "Sending out / transmitting / posting",
+    "idMeaning": "Pengiriman / transmisi / penyebaran informasi",
+    "type": "Kata Benda"
   }
 ]

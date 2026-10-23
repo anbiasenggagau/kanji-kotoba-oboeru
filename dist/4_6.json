@@ -898,5 +898,185 @@
     "enMeaning": "Baby",
     "idMeaning": "Bayi",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.101",
+    "kanji": "家庭教師",
+    "component": "",
+    "hiragana": "かていきょうし",
+    "enMeaning": "Private tutor",
+    "idMeaning": "Guru les privat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.102",
+    "kanji": "弱者",
+    "component": "",
+    "hiragana": "じゃくしゃ",
+    "enMeaning": "Weak person / vulnerable person",
+    "idMeaning": "Orang lemah / orang yang rentan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.103",
+    "kanji": "特集",
+    "component": "",
+    "hiragana": "とくしゅう",
+    "enMeaning": "Special feature / special edition",
+    "idMeaning": "Liputan khusus / edisi khusus",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.104",
+    "kanji": "授業料",
+    "component": "",
+    "hiragana": "じゅぎょうりょう",
+    "enMeaning": "Tuition fee",
+    "idMeaning": "Biaya pendidikan / uang sekolah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.105",
+    "kanji": "悪人",
+    "component": "",
+    "hiragana": "あくにん",
+    "enMeaning": "Bad person / villain",
+    "idMeaning": "Orang jahat / penjahat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.106",
+    "kanji": "黒衣",
+    "component": "",
+    "hiragana": "こくい",
+    "enMeaning": "Black clothes",
+    "idMeaning": "Pakaian hitam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.107",
+    "kanji": "上野",
+    "component": "",
+    "hiragana": "うえの",
+    "enMeaning": "Ueno",
+    "idMeaning": "Ueno",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.108",
+    "kanji": "軽傷",
+    "component": "",
+    "hiragana": "けいしょう",
+    "enMeaning": "Minor injury",
+    "idMeaning": "Luka ringan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.109",
+    "kanji": "試験場",
+    "component": "",
+    "hiragana": "しけんじょう",
+    "enMeaning": "Examination site / testing center",
+    "idMeaning": "Tempat ujian / pusat pengujian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.110",
+    "kanji": "貸金",
+    "component": "",
+    "hiragana": "かしきん",
+    "enMeaning": "Money lent / loan",
+    "idMeaning": "Uang yang dipinjamkan / pinjaman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.111",
+    "kanji": "赤飯",
+    "component": "",
+    "hiragana": "せきはん",
+    "enMeaning": "Red bean rice",
+    "idMeaning": "Nasi ketan merah dengan kacang azuki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.112",
+    "kanji": "試着",
+    "component": "",
+    "hiragana": "しちゃく",
+    "enMeaning": "Trying on clothes",
+    "idMeaning": "Mencoba pakaian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.113",
+    "kanji": "試食",
+    "component": "",
+    "hiragana": "ししょく",
+    "enMeaning": "Food tasting / sampling food",
+    "idMeaning": "Mencicipi makanan / mencicipi sampel makanan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.114",
+    "kanji": "目薬",
+    "component": "",
+    "hiragana": "めぐすり",
+    "enMeaning": "Eye drops",
+    "idMeaning": "Obat tetes mata",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.115",
+    "kanji": "飲み薬",
+    "component": "",
+    "hiragana": "のみぐすり",
+    "enMeaning": "Oral medicine / medicine taken by mouth",
+    "idMeaning": "Obat minum",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.116",
+    "kanji": "洋室",
+    "component": "",
+    "hiragana": "ようしつ",
+    "enMeaning": "Western-style room",
+    "idMeaning": "Kamar gaya Barat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.117",
+    "kanji": "制服",
+    "component": "",
+    "hiragana": "せいふく",
+    "enMeaning": "Uniform / school uniform",
+    "idMeaning": "Seragam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.118",
+    "kanji": "私服",
+    "component": "",
+    "hiragana": "しふく",
+    "enMeaning": "Casual clothes / plain clothes",
+    "idMeaning": "Pakaian bebas / pakaian biasa",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.119",
+    "kanji": "夏服",
+    "component": "",
+    "hiragana": "なつふく",
+    "enMeaning": "Summer clothes",
+    "idMeaning": "Pakaian musim panas",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.6.120",
+    "kanji": "冬服",
+    "component": "",
+    "hiragana": "ふゆふく",
+    "enMeaning": "Winter clothes",
+    "idMeaning": "Pakaian musim dingin",
+    "type": "Kata Benda"
   }
 ]

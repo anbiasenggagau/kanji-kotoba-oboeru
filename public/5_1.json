@@ -808,5 +808,95 @@
     "enMeaning": "Change",
     "idMeaning": "Mengubah",
     "type": "KK Transitif"
+  },
+  {
+    "id": "N5.1.91",
+    "kanji": "川/河",
+    "component": "",
+    "hiragana": "かわ",
+    "enMeaning": "River",
+    "idMeaning": "Sungai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.92",
+    "kanji": "一人",
+    "component": "",
+    "hiragana": "ひとり",
+    "enMeaning": "One person / alone",
+    "idMeaning": "Satu orang / sendirian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.93",
+    "kanji": "二人",
+    "component": "",
+    "hiragana": "ふたり",
+    "enMeaning": "Two people",
+    "idMeaning": "Dua orang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.94",
+    "kanji": "病人",
+    "component": "",
+    "hiragana": "びょうにん",
+    "enMeaning": "Sick person / patient",
+    "idMeaning": "Orang sakit / pasien",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.95",
+    "kanji": "入試",
+    "component": "",
+    "hiragana": "にゅうし",
+    "enMeaning": "Entrance examination",
+    "idMeaning": "Ujian masuk",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.96",
+    "kanji": "万年筆",
+    "component": "",
+    "hiragana": "まんねんひつ",
+    "enMeaning": "Fountain pen",
+    "idMeaning": "Pena tinta",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.97",
+    "kanji": "川魚",
+    "component": "",
+    "hiragana": "かわうお / かわざかな",
+    "enMeaning": "River fish / freshwater fish",
+    "idMeaning": "Ikan sungai / ikan air tawar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.98",
+    "kanji": "大雨",
+    "component": "",
+    "hiragana": "おおあめ",
+    "enMeaning": "Heavy rain",
+    "idMeaning": "Hujan lebat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.1.99",
+    "kanji": "大事",
+    "component": "",
+    "hiragana": "だいじ",
+    "enMeaning": "Important / precious",
+    "idMeaning": "Penting / berharga",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N5.1.100",
+    "kanji": "小学生",
+    "component": "",
+    "hiragana": "しょうがくせい",
+    "enMeaning": "Elementary school student",
+    "idMeaning": "Murid sekolah dasar",
+    "type": "Kata Benda"
   }
 ]

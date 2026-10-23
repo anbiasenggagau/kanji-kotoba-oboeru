@@ -898,5 +898,185 @@
     "enMeaning": "Get cold",
     "idMeaning": "Menjadi dingin",
     "type": "KK Intransitif"
+  },
+  {
+    "id": "N4.7.101",
+    "kanji": "案内所",
+    "component": "",
+    "hiragana": "あんないじょ",
+    "enMeaning": "Information desk / inquiry office",
+    "idMeaning": "Pusat informasi / loket informasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.102",
+    "kanji": "洗面所",
+    "component": "",
+    "hiragana": "せんめんじょ",
+    "enMeaning": "Washroom / washstand area",
+    "idMeaning": "Tempat cuci muka / wastafel",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.103",
+    "kanji": "下校",
+    "component": "",
+    "hiragana": "げこう",
+    "enMeaning": "Going home from school / leaving school",
+    "idMeaning": "Pulang sekolah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.104",
+    "kanji": "夜空",
+    "component": "",
+    "hiragana": "よぞら",
+    "enMeaning": "Night sky",
+    "idMeaning": "Langit malam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.105",
+    "kanji": "星空",
+    "component": "",
+    "hiragana": "ほしぞら",
+    "enMeaning": "Starry sky",
+    "idMeaning": "Langit berbintang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.106",
+    "kanji": "強風",
+    "component": "",
+    "hiragana": "きょうふう",
+    "enMeaning": "Strong wind / gale",
+    "idMeaning": "Angin kencang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.107",
+    "kanji": "雨水",
+    "component": "",
+    "hiragana": "あまみず",
+    "enMeaning": "Rainwater",
+    "idMeaning": "Air hujan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.108",
+    "kanji": "手料理",
+    "component": "",
+    "hiragana": "てりょうり",
+    "enMeaning": "Home cooking / home-cooked meal",
+    "idMeaning": "Masakan buatan sendiri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.109",
+    "kanji": "満席",
+    "component": "",
+    "hiragana": "まんせき",
+    "enMeaning": "Full house / all seats occupied",
+    "idMeaning": "Tempat duduk penuh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.110",
+    "kanji": "始発",
+    "component": "",
+    "hiragana": "しはつ",
+    "enMeaning": "First train / first bus",
+    "idMeaning": "Kereta / bus pemberangkatan pertama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.111",
+    "kanji": "安全運転",
+    "component": "",
+    "hiragana": "あんぜんうんてん",
+    "enMeaning": "Safe driving",
+    "idMeaning": "Mengemudi dengan aman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.112",
+    "kanji": "外食",
+    "component": "",
+    "hiragana": "がいしょく",
+    "enMeaning": "Eating out / dining out",
+    "idMeaning": "Makan di luar",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.113",
+    "kanji": "夜食",
+    "component": "",
+    "hiragana": "やしょく",
+    "enMeaning": "Late-night meal / night snack",
+    "idMeaning": "Makan tengah malam",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.114",
+    "kanji": "軽食",
+    "component": "",
+    "hiragana": "けいしょく",
+    "enMeaning": "Light meal / snack",
+    "idMeaning": "Makanan ringan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.115",
+    "kanji": "歩行者",
+    "component": "",
+    "hiragana": "ほこうしゃ",
+    "enMeaning": "Pedestrian",
+    "idMeaning": "Pejalan kaki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.116",
+    "kanji": "目的地",
+    "component": "",
+    "hiragana": "もくてきち",
+    "enMeaning": "Destination",
+    "idMeaning": "Tempat tujuan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.117",
+    "kanji": "案内図",
+    "component": "",
+    "hiragana": "あんないず",
+    "enMeaning": "Guide map / information map",
+    "idMeaning": "Peta petunjuk / denah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.118",
+    "kanji": "開館",
+    "component": "",
+    "hiragana": "かいかん",
+    "enMeaning": "Opening of a hall / opening of a building",
+    "idMeaning": "Buka gedung (museum/perpustakaan)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.119",
+    "kanji": "閉館",
+    "component": "",
+    "hiragana": "へいかん",
+    "enMeaning": "Closing of a hall / closing of a building",
+    "idMeaning": "Tutup gedung (museum/perpustakaan)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.7.120",
+    "kanji": "通院",
+    "component": "",
+    "hiragana": "つういん",
+    "enMeaning": "Attending hospital / outpatient visits",
+    "idMeaning": "Berobat jalan ke rumah sakit",
+    "type": "Kata Benda"
   }
 ]

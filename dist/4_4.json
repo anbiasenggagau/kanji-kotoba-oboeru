@@ -898,5 +898,185 @@
     "enMeaning": "Eraser",
     "idMeaning": "Penghapus",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.101",
+    "kanji": "再考",
+    "component": "",
+    "hiragana": "さいこう",
+    "enMeaning": "Reconsideration / reconsidering",
+    "idMeaning": "Pertimbangan ulang / mempertimbangkan kembali",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.102",
+    "kanji": "お好み焼き",
+    "component": "",
+    "hiragana": "おこのみやき",
+    "enMeaning": "Okonomiyaki / Japanese savory pancake",
+    "idMeaning": "Okonomiyaki / panekuk gurih Jepang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.103",
+    "kanji": "好物",
+    "component": "",
+    "hiragana": "こうぶつ",
+    "enMeaning": "Favorite food / favorite thing",
+    "idMeaning": "Makanan kesukaan / hal yang paling disukai",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.104",
+    "kanji": "好み",
+    "component": "",
+    "hiragana": "このみ",
+    "enMeaning": "Preference / taste",
+    "idMeaning": "Preferensi / selera",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.105",
+    "kanji": "死者",
+    "component": "",
+    "hiragana": "ししゃ",
+    "enMeaning": "Deceased person / dead person",
+    "idMeaning": "Orang yang meninggal / jenazah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.106",
+    "kanji": "死神",
+    "component": "",
+    "hiragana": "しにがみ",
+    "enMeaning": "Grim Reaper / death god",
+    "idMeaning": "Dewa kematian",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.107",
+    "kanji": "早寝",
+    "component": "",
+    "hiragana": "はやね",
+    "enMeaning": "Going to bed early",
+    "idMeaning": "Tidur lebih awal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.108",
+    "kanji": "早起き",
+    "component": "",
+    "hiragana": "はやおき",
+    "enMeaning": "Getting up early",
+    "idMeaning": "Bangun pagi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.109",
+    "kanji": "地価",
+    "component": "",
+    "hiragana": "ちか",
+    "enMeaning": "Land price / land value",
+    "idMeaning": "Harga tanah / nilai tanah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.110",
+    "kanji": "同日",
+    "component": "",
+    "hiragana": "どうじつ",
+    "enMeaning": "The same day",
+    "idMeaning": "Hari yang sama",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.111",
+    "kanji": "有人",
+    "component": "",
+    "hiragana": "ゆうじん",
+    "enMeaning": "Manned / staffed / occupied by people",
+    "idMeaning": "Berawak / dijaga oleh manusia",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.112",
+    "kanji": "近代的",
+    "component": "",
+    "hiragana": "きんだいてき",
+    "enMeaning": "Modern / modernized",
+    "idMeaning": "Modern",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N4.4.113",
+    "kanji": "音声",
+    "component": "",
+    "hiragana": "おんせい",
+    "enMeaning": "Voice / audio / speech sound",
+    "idMeaning": "Suara / audio",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.114",
+    "kanji": "鳴き声",
+    "component": "",
+    "hiragana": "なきごえ",
+    "enMeaning": "Animal call / animal cry",
+    "idMeaning": "Suara hewan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.115",
+    "kanji": "泣き声",
+    "component": "",
+    "hiragana": "なきごえ",
+    "enMeaning": "Crying voice / sound of crying",
+    "idMeaning": "Suara tangisan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.116",
+    "kanji": "小声",
+    "component": "",
+    "hiragana": "こごえ",
+    "enMeaning": "Quiet voice / low voice",
+    "idMeaning": "Suara pelan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.117",
+    "kanji": "走者",
+    "component": "",
+    "hiragana": "そうしゃ",
+    "enMeaning": "Runner",
+    "idMeaning": "Pelari",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.118",
+    "kanji": "競走",
+    "component": "",
+    "hiragana": "きょうそう",
+    "enMeaning": "Race / racing",
+    "idMeaning": "Perlombaan / balapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.119",
+    "kanji": "体温",
+    "component": "",
+    "hiragana": "たいおん",
+    "enMeaning": "Body temperature",
+    "idMeaning": "Suhu tubuh",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N4.4.120",
+    "kanji": "町民",
+    "component": "",
+    "hiragana": "ちょうみん",
+    "enMeaning": "Town resident",
+    "idMeaning": "Penduduk kota kecil",
+    "type": "Kata Benda"
   }
 ]

@@ -808,5 +808,95 @@
     "enMeaning": "Few / little",
     "idMeaning": "Sedikit",
     "type": "Kata Sifat い"
+  },
+  {
+    "id": "N5.3.91",
+    "kanji": "北海道",
+    "component": "",
+    "hiragana": "ほっかいどう",
+    "enMeaning": "Hokkaido",
+    "idMeaning": "Hokkaido",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.92",
+    "kanji": "年間",
+    "component": "",
+    "hiragana": "ねんかん",
+    "enMeaning": "Period of one year / per year",
+    "idMeaning": "Jangka waktu satu tahun / per tahun",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.93",
+    "kanji": "お先に",
+    "component": "",
+    "hiragana": "おさきに",
+    "enMeaning": "Excuse me, I'll go ahead / before you",
+    "idMeaning": "Permisi, saya duluan / mendahului",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N5.3.94",
+    "kanji": "やる気",
+    "component": "",
+    "hiragana": "やるき",
+    "enMeaning": "Motivation / willingness / enthusiasm",
+    "idMeaning": "Motivasi / kemauan / semangat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.95",
+    "kanji": "何名",
+    "component": "",
+    "hiragana": "なんめい",
+    "enMeaning": "How many people? / number of people",
+    "idMeaning": "Berapa orang? / jumlah orang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.96",
+    "kanji": "大体",
+    "component": "",
+    "hiragana": "だいたい",
+    "enMeaning": "Approximately / generally / roughly",
+    "idMeaning": "Kira-kira / secara umum",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.97",
+    "kanji": "足元",
+    "component": "",
+    "hiragana": "あしもと",
+    "enMeaning": "At one's feet / footing",
+    "idMeaning": "Bagian kaki / pijakan / sekitar kaki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.98",
+    "kanji": "両足",
+    "component": "",
+    "hiragana": "りょうあし",
+    "enMeaning": "Both feet / both legs",
+    "idMeaning": "Kedua kaki",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.99",
+    "kanji": "店長",
+    "component": "",
+    "hiragana": "てんちょう",
+    "enMeaning": "Store manager",
+    "idMeaning": "Kepala toko / manajer toko",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N5.3.100",
+    "kanji": "茶道",
+    "component": "",
+    "hiragana": "さどう",
+    "enMeaning": "Japanese tea ceremony",
+    "idMeaning": "Upacara minum teh Jepang",
+    "type": "Kata Benda"
   }
 ]

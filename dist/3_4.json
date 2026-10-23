@@ -1348,5 +1348,185 @@
     "enMeaning": "Pain / suffering",
     "idMeaning": "Penderitaan",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.151",
+    "kanji": "世間",
+    "component": "",
+    "hiragana": "せけん",
+    "enMeaning": "Society / the public / the world",
+    "idMeaning": "Masyarakat / publik / dunia",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.152",
+    "kanji": "滑り台",
+    "component": "",
+    "hiragana": "すべりだい",
+    "enMeaning": "Slide",
+    "idMeaning": "Perosotan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.153",
+    "kanji": "代理",
+    "component": "",
+    "hiragana": "だいり",
+    "enMeaning": "Substitute / acting on behalf of someone",
+    "idMeaning": "Pengganti / mewakili seseorang",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.154",
+    "kanji": "水田",
+    "component": "",
+    "hiragana": "すいでん",
+    "enMeaning": "Rice paddy / paddy field",
+    "idMeaning": "Sawah",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.155",
+    "kanji": "適用",
+    "component": "",
+    "hiragana": "てきよう",
+    "enMeaning": "Application / applying a rule",
+    "idMeaning": "Penerapan / memberlakukan aturan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.156",
+    "kanji": "参考",
+    "component": "",
+    "hiragana": "さんこう",
+    "enMeaning": "Reference / consultation",
+    "idMeaning": "Referensi / bahan pertimbangan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.157",
+    "kanji": "考古学",
+    "component": "",
+    "hiragana": "こうこがく",
+    "enMeaning": "Archaeology",
+    "idMeaning": "Arkeologi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.158",
+    "kanji": "考古学者",
+    "component": "",
+    "hiragana": "こうこがくしゃ",
+    "enMeaning": "Archaeologist",
+    "idMeaning": "Arkeolog",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.159",
+    "kanji": "貢献",
+    "component": "",
+    "hiragana": "こうけん",
+    "enMeaning": "Contribution / contributing",
+    "idMeaning": "Kontribusi / sumbangsih",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.160",
+    "kanji": "日光",
+    "component": "",
+    "hiragana": "にっこう",
+    "enMeaning": "Sunlight / sunshine",
+    "idMeaning": "Cahaya matahari / sinar matahari",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.161",
+    "kanji": "月光",
+    "component": "",
+    "hiragana": "げっこう",
+    "enMeaning": "Moonlight",
+    "idMeaning": "Cahaya bulan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.162",
+    "kanji": "観光客",
+    "component": "",
+    "hiragana": "かんこうきゃく",
+    "enMeaning": "Tourist / sightseer",
+    "idMeaning": "Wisatawan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.163",
+    "kanji": "格好",
+    "component": "",
+    "hiragana": "かっこう",
+    "enMeaning": "Appearance / outfit / style",
+    "idMeaning": "Penampilan / pakaian / gaya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.164",
+    "kanji": "知り合い",
+    "component": "",
+    "hiragana": "しりあい",
+    "enMeaning": "Acquaintance / someone one knows",
+    "idMeaning": "Kenalan / orang yang dikenal",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.165",
+    "kanji": "合計",
+    "component": "",
+    "hiragana": "ごうけい",
+    "enMeaning": "Total / sum",
+    "idMeaning": "Jumlah keseluruhan / total",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.166",
+    "kanji": "自己紹介",
+    "component": "",
+    "hiragana": "じこしょうかい",
+    "enMeaning": "Self-introduction",
+    "idMeaning": "Perkenalan diri",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.167",
+    "kanji": "早退する",
+    "component": "",
+    "hiragana": "そうたいする",
+    "enMeaning": "To leave early",
+    "idMeaning": "Pulang lebih awal",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.4.168",
+    "kanji": "現地",
+    "component": "",
+    "hiragana": "げんち",
+    "enMeaning": "The actual place / local area / site",
+    "idMeaning": "Lokasi sebenarnya / tempat setempat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.169",
+    "kanji": "地獄",
+    "component": "",
+    "hiragana": "じごく",
+    "enMeaning": "Hell",
+    "idMeaning": "Neraka",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.4.170",
+    "kanji": "同時",
+    "component": "",
+    "hiragana": "どうじ",
+    "enMeaning": "The same time / simultaneously",
+    "idMeaning": "Waktu yang sama / secara bersamaan",
+    "type": "Kata Benda"
   }
 ]

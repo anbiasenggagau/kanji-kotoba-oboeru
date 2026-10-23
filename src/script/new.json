@@ -1,149 +1,38 @@
 [
   {
-    "id": "6",
-    "kanji": "浮気",
+    "id": "N2.8.102",
+    "kanji": "短気",
     "component": "",
-    "hiragana": "うわき",
-    "enMeaning": "Cheating / infidelity",
-    "idMeaning": "Selingkuh / perselingkuhan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "8",
-    "kanji": "人文科学",
-    "component": "",
-    "hiragana": "じんぶんかがく",
-    "enMeaning": "Humanities",
-    "idMeaning": "Ilmu humaniora",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "9",
-    "kanji": "いい加減",
-    "component": "",
-    "hiragana": "いいかげん",
-    "enMeaning": "Careless / irresponsible / half-hearted",
-    "idMeaning": "Sembarangan / asal-asalan",
+    "hiragana": "たんき",
+    "enMeaning": "Short-tempered / impatient",
+    "idMeaning": "Pemarah / tidak sabaran",
     "type": "Kata Sifat な"
   },
   {
-    "id": "N2.8.4",
-    "kanji": "飼い主",
+    "id": "N2.8.103",
+    "kanji": "楽観",
     "component": "",
-    "hiragana": "かいぬし",
-    "enMeaning": "Pet owner",
-    "idMeaning": "Pemilik hewan peliharaan",
+    "hiragana": "らっかん",
+    "enMeaning": "Optimism / taking an optimistic view",
+    "idMeaning": "Optimisme / pandangan optimistis",
     "type": "Kata Benda"
   },
   {
-    "id": "N2.8.7",
-    "kanji": "外務省",
+    "id": "N2.8.104",
+    "kanji": "説得",
     "component": "",
-    "hiragana": "がいむしょう",
-    "enMeaning": "Ministry of Foreign Affairs",
-    "idMeaning": "Kementerian Luar Negeri",
+    "hiragana": "せっとく",
+    "enMeaning": "Persuasion / convincing someone",
+    "idMeaning": "Bujukan / meyakinkan seseorang",
     "type": "Kata Benda"
   },
   {
-    "id": "N2.8.8",
-    "kanji": "財務省",
+    "id": "N2.8.105",
+    "kanji": "製薬",
     "component": "",
-    "hiragana": "財務省",
-    "enMeaning": "Ministry of Finance",
-    "idMeaning": "Kementerian Keuangan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.10",
-    "kanji": "文部科学省",
-    "component": "",
-    "hiragana": "もんぶかがくしょう",
-    "enMeaning": "Ministry Education, Science & Technology",
-    "idMeaning": "Kementerian Pendidikan, Sains & Teknologi",
-    "type": "Kata Benda"
-  },
-  "====================N3====================",
-  {
-    "id": "N3.8.1",
-    "kanji": "ありがたい事に",
-    "component": "",
-    "hiragana": "ありがたいことに",
-    "enMeaning": "Thankfully / fortunately",
-    "idMeaning": "Syukurlah / untungnya",
-    "type": "Frasa / Klausa"
-  },
-  {
-    "id": "N3.8.2",
-    "kanji": "参考",
-    "component": "",
-    "hiragana": "さんこう",
-    "enMeaning": "Reference / consultation",
-    "idMeaning": "Referensi / acuan",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.8.4",
-    "kanji": "達する",
-    "component": "",
-    "hiragana": "たっする",
-    "enMeaning": "Reach / attain / amount to",
-    "idMeaning": "Mencapai / mencapai jumlah",
-    "type": "KK Intransitif"
-  },
-  {
-    "id": "N3.8.6",
-    "kanji": "慎重",
-    "component": "",
-    "hiragana": "しんちょう",
-    "enMeaning": "Careful / cautious / prudent",
-    "idMeaning": "Hati-hati / waspada / cermat",
-    "type": "Kata Sifat な"
-  },
-  {
-    "id": "N3.8.7",
-    "kanji": "更に",
-    "component": "",
-    "hiragana": "さらに",
-    "enMeaning": "Furthermore / even more / additionally",
-    "idMeaning": "Lebih lanjut / semakin / selain itu",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.8.8",
-    "kanji": "違反",
-    "component": "",
-    "hiragana": "いはん",
-    "enMeaning": "Violation / infringement",
-    "idMeaning": "Pelanggaran",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N3.8.9",
-    "kanji": "従兄弟",
-    "component": "",
-    "hiragana": "いとこ",
-    "enMeaning": "Cousin",
-    "idMeaning": "Sepupu",
-    "type": "Kata Benda"
-  },
-  "====================N4====================",
-  {
-    "id": "N2.5.113",
-    "kanji": "踊り",
-    "component": "",
-    "hiragana": "おどり",
-    "enMeaning": "Dance",
-    "idMeaning": "Tarian",
-    "type": "Kata Benda"
-  },
-  "====================N5====================",
-  {
-    "id": "N2.5.192",
-    "kanji": "川/河",
-    "component": "",
-    "hiragana": "かわ",
-    "enMeaning": "River",
-    "idMeaning": "Sungai",
+    "hiragana": "せいやく",
+    "enMeaning": "Pharmaceutical manufacturing",
+    "idMeaning": "Produksi obat-obatan",
     "type": "Kata Benda"
   }
 ]
