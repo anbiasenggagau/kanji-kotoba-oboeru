@@ -1,29 +1,11 @@
 [
   {
-    "id": "N2.8.102",
-    "kanji": "短気",
-    "component": "",
-    "hiragana": "たんき",
-    "enMeaning": "Short-tempered / impatient",
-    "idMeaning": "Pemarah / tidak sabaran",
-    "type": "Kata Sifat な"
-  },
-  {
     "id": "N2.8.103",
     "kanji": "楽観",
     "component": "",
     "hiragana": "らっかん",
     "enMeaning": "Optimism / taking an optimistic view",
     "idMeaning": "Optimisme / pandangan optimistis",
-    "type": "Kata Benda"
-  },
-  {
-    "id": "N2.8.104",
-    "kanji": "説得",
-    "component": "",
-    "hiragana": "せっとく",
-    "enMeaning": "Persuasion / convincing someone",
-    "idMeaning": "Bujukan / meyakinkan seseorang",
     "type": "Kata Benda"
   },
   {

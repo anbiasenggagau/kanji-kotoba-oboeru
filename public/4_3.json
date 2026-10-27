@@ -985,7 +985,7 @@
     "kanji": "見返り",
     "component": "",
     "hiragana": "みかえり",
-    "enMeaning": "Return / reward / something in exchange",
+    "enMeaning": "Return / reward",
     "idMeaning": "Imbalan / balasan",
     "type": "Kata Benda"
   },
@@ -994,8 +994,8 @@
     "kanji": "人事",
     "component": "",
     "hiragana": "じんじ",
-    "enMeaning": "Personnel affairs / human resources",
-    "idMeaning": "Urusan kepegawaian / sumber daya manusia",
+    "enMeaning": "Personnel affairs / HR",
+    "idMeaning": "Urusan kepegawaian",
     "type": "Kata Benda"
   },
   {
@@ -1057,8 +1057,8 @@
     "kanji": "利用者",
     "component": "",
     "hiragana": "りようしゃ",
-    "enMeaning": "User / person who uses a service",
-    "idMeaning": "Pengguna / orang yang menggunakan layanan",
+    "enMeaning": "User",
+    "idMeaning": "Pengguna",
     "type": "Kata Benda"
   },
   {
