@@ -1978,5 +1978,50 @@
     "enMeaning": "Diverse / varied / a variety of",
     "idMeaning": "Beragam / bervariasi",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.1.221",
+    "kanji": "楽観",
+    "component": "",
+    "hiragana": "らっかん",
+    "enMeaning": "Optimism",
+    "idMeaning": "Optimisme",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.222",
+    "kanji": "製薬",
+    "component": "",
+    "hiragana": "せいやく",
+    "enMeaning": "Pharmaceutical manufacturing",
+    "idMeaning": "Produksi obat-obatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.223",
+    "kanji": "統合する",
+    "component": "",
+    "hiragana": "とうごうする",
+    "enMeaning": "Integrate / consolidate / unify",
+    "idMeaning": "Mengintegrasikan / menyatukan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.1.224",
+    "kanji": "実践",
+    "component": "",
+    "hiragana": "じっせん",
+    "enMeaning": "Practice / implementation",
+    "idMeaning": "Praktik / penerapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.1.225",
+    "kanji": "起動",
+    "component": "",
+    "hiragana": "きどう",
+    "enMeaning": "Startup / launching",
+    "idMeaning": "Permulaan / menjalankan",
+    "type": "Kata Benda"
   }
 ]

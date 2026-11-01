@@ -508,7 +508,7 @@
     "kanji": "呼び出す",
     "component": "",
     "hiragana": "よびだす",
-    "enMeaning": "Call out / summon",
+    "enMeaning": "Call out / invoke",
     "idMeaning": "Memanggil",
     "type": "KK Transitif"
   },
@@ -1978,5 +1978,50 @@
     "enMeaning": "Mechanism / structure / system",
     "idMeaning": "Mekanisme / struktur / sistem",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.221",
+    "kanji": "監視",
+    "component": "",
+    "hiragana": "かんし",
+    "enMeaning": "Monitoring / surveillance",
+    "idMeaning": "Pengawasan / pemantauan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.222",
+    "kanji": "推定",
+    "component": "",
+    "hiragana": "すいてい",
+    "enMeaning": "Estimation / assumption",
+    "idMeaning": "Perkiraan / dugaan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.223",
+    "kanji": "弊社",
+    "component": "",
+    "hiragana": "へいしゃ",
+    "enMeaning": "Our company (kenjougo)",
+    "idMeaning": "Perusahaan kami (kenjougo)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.224",
+    "kanji": "御社",
+    "component": "",
+    "hiragana": "おんしゃ",
+    "enMeaning": "Your company (keigo)",
+    "idMeaning": "Perusahaan Anda (keigo)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.4.225",
+    "kanji": "吊るす",
+    "component": "",
+    "hiragana": "つるす",
+    "enMeaning": "Hang / suspend",
+    "idMeaning": "Menggantungkan",
+    "type": "KK Transitif"
   }
 ]

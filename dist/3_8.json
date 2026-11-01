@@ -1489,8 +1489,8 @@
     "kanji": "遅延",
     "component": "",
     "hiragana": "ちえん",
-    "enMeaning": "Delay (train, schedule)",
-    "idMeaning": "Keterlambatan",
+    "enMeaning": "Delay / latency",
+    "idMeaning": "Keterlambatan / penundaan",
     "type": "Kata Benda"
   },
   {

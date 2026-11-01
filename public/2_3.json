@@ -400,7 +400,7 @@
     "kanji": "追加",
     "component": "",
     "hiragana": "ついか",
-    "enMeaning": "Addition",
+    "enMeaning": "Addition / append",
     "idMeaning": "Penambahan",
     "type": "Kata Benda"
   },
@@ -1977,6 +1977,51 @@
     "hiragana": "にんしき",
     "enMeaning": "Recognition / awareness / understanding",
     "idMeaning": "Pengenalan / kesadaran / pemahaman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.221",
+    "kanji": "決め付ける",
+    "component": "",
+    "hiragana": "きめつける",
+    "enMeaning": "Jump to conclusions / assume",
+    "idMeaning": "Berprasangka / langsung menyimpulkan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.3.222",
+    "kanji": "投稿",
+    "component": "",
+    "hiragana": "とうこう",
+    "enMeaning": "Post / submission",
+    "idMeaning": "Unggahan / kiriman",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.223",
+    "kanji": "活かす/生かす",
+    "component": "",
+    "hiragana": "いかす",
+    "enMeaning": "Make use of / utilize",
+    "idMeaning": "Memanfaatkan / mendayagunakan",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.3.224",
+    "kanji": "真実",
+    "component": "",
+    "hiragana": "しんじつ",
+    "enMeaning": "Truth / reality",
+    "idMeaning": "Kebenaran / kenyataan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.3.225",
+    "kanji": "試用期間",
+    "component": "",
+    "hiragana": "しようきかん",
+    "enMeaning": "Trial period / probationary period",
+    "idMeaning": "Masa percobaan",
     "type": "Kata Benda"
   }
 ]

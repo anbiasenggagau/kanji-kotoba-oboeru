@@ -1978,5 +1978,50 @@
     "enMeaning": "School building",
     "idMeaning": "Gedung sekolah",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.221",
+    "kanji": "失効",
+    "component": "",
+    "hiragana": "しっこう",
+    "enMeaning": "Expiration / becoming invalid",
+    "idMeaning": "Kedaluwarsa / tidak berlaku lagi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.222",
+    "kanji": "回避策",
+    "component": "",
+    "hiragana": "かいひさく",
+    "enMeaning": "Workaround / avoidance measure",
+    "idMeaning": "Solusi alternatif / cara menghindari",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.2.223",
+    "kanji": "設定する",
+    "component": "",
+    "hiragana": "せっていする",
+    "enMeaning": "Set / configure / establish",
+    "idMeaning": "Mengatur / mengonfigurasi",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N2.2.224",
+    "kanji": "愚か",
+    "component": "",
+    "hiragana": "おろか",
+    "enMeaning": "Foolish / stupid",
+    "idMeaning": "Bodoh / dungu",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.2.225",
+    "kanji": "愚か者",
+    "component": "",
+    "hiragana": "おろかもの",
+    "enMeaning": "Fool / idiot",
+    "idMeaning": "Orang bodoh",
+    "type": "Kata Benda"
   }
 ]
