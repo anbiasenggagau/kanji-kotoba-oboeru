@@ -1528,5 +1528,50 @@
     "enMeaning": "No good / useless / not allowed",
     "idMeaning": "Tidak baik / sia-sia / tidak boleh",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.171",
+    "kanji": "好意",
+    "component": "",
+    "hiragana": "こうい",
+    "enMeaning": "Goodwill / affection",
+    "idMeaning": "Niat baik / rasa suka",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.172",
+    "kanji": "推薦",
+    "component": "",
+    "hiragana": "すいせん",
+    "enMeaning": "Recommendation",
+    "idMeaning": "Rekomendasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.173",
+    "kanji": "関数",
+    "component": "",
+    "hiragana": "かんすう",
+    "enMeaning": "Function (mathematics / programming)",
+    "idMeaning": "Fungsi (matematika / pemrograman)",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.1.174",
+    "kanji": "新た",
+    "component": "",
+    "hiragana": "あらた",
+    "enMeaning": "New / fresh",
+    "idMeaning": "Baru / segar",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.1.175",
+    "kanji": "稼ぐ",
+    "component": "",
+    "hiragana": "かせぐ",
+    "enMeaning": "Earn / make money",
+    "idMeaning": "Menghasilkan uang",
+    "type": "KK Transitif"
   }
 ]

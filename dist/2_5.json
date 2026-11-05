@@ -1978,5 +1978,50 @@
     "enMeaning": "Separate / individually / one by one",
     "idMeaning": "Terpisah / masing-masing / sendiri-sendiri",
     "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.5.221",
+    "kanji": "人見知り",
+    "component": "",
+    "hiragana": "ひとみしり",
+    "enMeaning": "Shyness around strangers",
+    "idMeaning": "Pemalu terhadap orang asing",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.222",
+    "kanji": "予選",
+    "component": "",
+    "hiragana": "よせん",
+    "enMeaning": "Preliminary round / qualifier",
+    "idMeaning": "Babak penyisihan / kualifikasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.5.223",
+    "kanji": "勿体ない",
+    "component": "",
+    "hiragana": "もったいない",
+    "enMeaning": "Wasteful / too good to waste",
+    "idMeaning": "Sayang sekali / mubazir",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N2.5.224",
+    "kanji": "相応しい",
+    "component": "",
+    "hiragana": "ふさわしい",
+    "enMeaning": "Suitable / Appropriate",
+    "idMeaning": "Pantas / Sesuai",
+    "type": "Kata Sifat い"
+  },
+  {
+    "id": "N2.5.225",
+    "kanji": "礼拝",
+    "component": "",
+    "hiragana": "れいはい",
+    "enMeaning": "Worship / Religious service",
+    "idMeaning": "Ibadah / Sembahyang",
+    "type": "Kata Benda"
   }
 ]

@@ -1976,7 +1976,52 @@
     "component": "",
     "hiragana": "ほんね",
     "enMeaning": "True feelings / real intention",
-    "idMeaning": "Perasaan sebenarnya / maksud sebenarnya",
+    "idMeaning": "Perasaan sebenarnya",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.221",
+    "kanji": "複合",
+    "component": "",
+    "hiragana": "ふくごう",
+    "enMeaning": "Combination / compound",
+    "idMeaning": "Gabungan / kombinasi",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.222",
+    "kanji": "尊厳",
+    "component": "",
+    "hiragana": "そんげん",
+    "enMeaning": "Dignity",
+    "idMeaning": "Martabat / kehormatan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.223",
+    "kanji": "負けず嫌い",
+    "component": "",
+    "hiragana": "まけずぎらい",
+    "enMeaning": "Competitive / hates losing",
+    "idMeaning": "Tidak mau kalah / berjiwa kompetitif",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N2.6.224",
+    "kanji": "賛否両論",
+    "component": "",
+    "hiragana": "さんぴりょうろん",
+    "enMeaning": "Mixed opinions / pro and cons",
+    "idMeaning": "Pro dan kontra",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N2.6.225",
+    "kanji": "同性愛者",
+    "component": "",
+    "hiragana": "どうせいあいしゃ",
+    "enMeaning": "Homosexual person",
+    "idMeaning": "Orang homoseksual",
     "type": "Kata Benda"
   }
 ]

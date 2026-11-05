@@ -1318,8 +1318,8 @@
     "kanji": "通信",
     "component": "",
     "hiragana": "つうしん",
-    "enMeaning": "Communication",
-    "idMeaning": "Komunikasi",
+    "enMeaning": "Communication / transmission",
+    "idMeaning": "Komunikasi / transmisi",
     "type": "Kata Benda"
   },
   {
@@ -1528,5 +1528,50 @@
     "enMeaning": "Horsepower / power",
     "idMeaning": "Tenaga kuda / daya",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.171",
+    "kanji": "実施",
+    "component": "",
+    "hiragana": "じっし",
+    "enMeaning": "Implementation / execution",
+    "idMeaning": "Pelaksanaan / penerapan",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.172",
+    "kanji": "擽る",
+    "component": "",
+    "hiragana": "くすぐる",
+    "enMeaning": "Tickle",
+    "idMeaning": "Menggelitik",
+    "type": "KK Transitif"
+  },
+  {
+    "id": "N3.2.173",
+    "kanji": "態と",
+    "component": "",
+    "hiragana": "わざと",
+    "enMeaning": "Intentionally / on purpose",
+    "idMeaning": "Dengan sengaja",
+    "type": "Frasa / Klausa"
+  },
+  {
+    "id": "N3.2.174",
+    "kanji": "税抜",
+    "component": "",
+    "hiragana": "ぜいぬき",
+    "enMeaning": "Tax excluded / excluding tax",
+    "idMeaning": "Belum termasuk pajak",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.2.175",
+    "kanji": "潜む",
+    "component": "",
+    "hiragana": "ひそむ",
+    "enMeaning": "Lurk / Hide / be concealed",
+    "idMeaning": "Mengintai / bersembunyi",
+    "type": "KK Intransitif"
   }
 ]

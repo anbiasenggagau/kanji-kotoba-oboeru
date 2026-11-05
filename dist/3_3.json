@@ -1528,5 +1528,50 @@
     "enMeaning": "Correct answer / right solution",
     "idMeaning": "Jawaban benar / solusi yang tepat",
     "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.171",
+    "kanji": "手話",
+    "component": "",
+    "hiragana": "しゅわ",
+    "enMeaning": "Sign language",
+    "idMeaning": "Bahasa isyarat",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.172",
+    "kanji": "内向的",
+    "component": "",
+    "hiragana": "ないこうてき",
+    "enMeaning": "Introverted / reserved",
+    "idMeaning": "Tertutup / introvert",
+    "type": "Kata Sifat な"
+  },
+  {
+    "id": "N3.3.173",
+    "kanji": "喋る",
+    "component": "",
+    "hiragana": "しゃべる",
+    "enMeaning": "Talk / chat",
+    "idMeaning": "Berbicara / mengobrol",
+    "type": "KK Intransitif"
+  },
+  {
+    "id": "N3.3.174",
+    "kanji": "お喋り",
+    "component": "",
+    "hiragana": "おしゃべり",
+    "enMeaning": "Chatter / talkative person",
+    "idMeaning": "Orang yang cerewet",
+    "type": "Kata Benda"
+  },
+  {
+    "id": "N3.3.175",
+    "kanji": "私有地",
+    "component": "",
+    "hiragana": "しゆうち",
+    "enMeaning": "Private property",
+    "idMeaning": "Tanah milik pribadi / properti pribadi",
+    "type": "Kata Benda"
   }
 ]
